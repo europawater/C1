@@ -1,0 +1,856 @@
+fileFormatVersion: 2
+guid: 17444b6defd15fc4eae67ed5cff87465
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7257837324325231601
+    second: sp_boss_whale_skill_001_0
+  - first:
+      213: -2123282120545149882
+    second: sp_boss_whale_skill_001_1
+  - first:
+      213: 8407882218789372333
+    second: sp_boss_whale_skill_001_2
+  - first:
+      213: 2304038562462555140
+    second: sp_boss_whale_skill_001_3
+  - first:
+      213: -3243929373879729289
+    second: sp_boss_whale_skill_001_4
+  - first:
+      213: 906235406869378839
+    second: sp_boss_whale_skill_001_5
+  - first:
+      213: -3648515111918131132
+    second: sp_boss_whale_skill_001_6
+  - first:
+      213: 594354678775138129
+    second: sp_boss_whale_skill_001_7
+  - first:
+      213: -4846927884416364196
+    second: sp_boss_whale_skill_001_8
+  - first:
+      213: 5039135228454247067
+    second: sp_boss_whale_skill_001_9
+  - first:
+      213: -2198133655318932080
+    second: sp_boss_whale_skill_001_10
+  - first:
+      213: 5267898517478248297
+    second: sp_boss_whale_skill_001_11
+  - first:
+      213: -5449504277436455778
+    second: sp_boss_whale_skill_001_12
+  - first:
+      213: 8011629440363835660
+    second: sp_boss_whale_skill_001_13
+  - first:
+      213: 2254673549448148695
+    second: sp_boss_whale_skill_001_14
+  - first:
+      213: 9070291747522804316
+    second: sp_boss_whale_skill_001_15
+  - first:
+      213: 3566453231414503595
+    second: sp_boss_whale_skill_001_16
+  - first:
+      213: 9197803182017158770
+    second: sp_boss_whale_skill_001_17
+  - first:
+      213: 4577990749731420371
+    second: sp_boss_whale_skill_001_18
+  - first:
+      213: 7325975236253070104
+    second: sp_boss_whale_skill_001_19
+  - first:
+      213: 4234402589165196457
+    second: sp_boss_whale_skill_001_20
+  - first:
+      213: 8296714558443535190
+    second: sp_boss_whale_skill_001_21
+  - first:
+      213: -8686508367633618596
+    second: sp_boss_whale_skill_001_22
+  - first:
+      213: -2243575287593918114
+    second: sp_boss_whale_skill_001_23
+  - first:
+      213: -3564601573853136381
+    second: sp_boss_whale_skill_001_24
+  - first:
+      213: 2494056258815767454
+    second: sp_boss_whale_skill_001_25
+  - first:
+      213: 2803448980875175
+    second: sp_boss_whale_skill_001_26
+  - first:
+      213: -447382360949114523
+    second: sp_boss_whale_skill_001_27
+  - first:
+      213: -8392947974284757360
+    second: sp_boss_whale_skill_001_28
+  - first:
+      213: -5854994883650131385
+    second: sp_boss_whale_skill_001_29
+  - first:
+      213: 1336740702254532943
+    second: sp_boss_whale_skill_001_30
+  - first:
+      213: 7758929556563770720
+    second: sp_boss_whale_skill_001_31
+  - first:
+      213: -4227105843170774517
+    second: sp_boss_whale_skill_001_32
+  - first:
+      213: 783665785204764774
+    second: sp_boss_whale_skill_001_33
+  - first:
+      213: -7995826934636968170
+    second: sp_boss_whale_skill_001_34
+  - first:
+      213: 1929424079231049303
+    second: sp_boss_whale_skill_001_35
+  - first:
+      213: 337465918533987144
+    second: sp_boss_whale_skill_001_36
+  - first:
+      213: 9100023199871005291
+    second: sp_boss_whale_skill_001_37
+  - first:
+      213: 7764315811074270582
+    second: sp_boss_whale_skill_001_38
+  - first:
+      213: -8948783623865454662
+    second: sp_boss_whale_skill_001_39
+  - first:
+      213: -6276037479211863633
+    second: sp_boss_whale_skill_001_40
+  - first:
+      213: 1091255097040143642
+    second: sp_boss_whale_skill_001_41
+  - first:
+      213: 2118039381403457857
+    second: sp_boss_whale_skill_001_42
+  - first:
+      213: 4690009910134088119
+    second: sp_boss_whale_skill_001_43
+  - first:
+      213: -2097998195177747004
+    second: sp_boss_whale_skill_001_44
+  - first:
+      213: -6894046306613997716
+    second: sp_boss_whale_skill_001_45
+  - first:
+      213: -4940093446497770435
+    second: sp_boss_whale_skill_001_46
+  - first:
+      213: -6988524833037188391
+    second: sp_boss_whale_skill_001_47
+  - first:
+      213: 7052456067593182979
+    second: sp_boss_whale_skill_001_48
+  - first:
+      213: -2684548847408954159
+    second: sp_boss_whale_skill_001_49
+  - first:
+      213: -1775552034048664200
+    second: sp_boss_whale_skill_001_50
+  - first:
+      213: 1846505191391280421
+    second: sp_boss_whale_skill_001_51
+  - first:
+      213: -8232307283001529037
+    second: sp_boss_whale_skill_001_52
+  - first:
+      213: 5883763348774552126
+    second: sp_boss_whale_skill_001_53
+  - first:
+      213: 1634996607230119136
+    second: sp_boss_whale_skill_001_54
+  - first:
+      213: -3557806150931381287
+    second: sp_boss_whale_skill_001_55
+  - first:
+      213: 4499292572689980382
+    second: sp_boss_whale_skill_001_56
+  - first:
+      213: -3923537131279466998
+    second: sp_boss_whale_skill_001_57
+  - first:
+      213: -8137935777979115662
+    second: sp_boss_whale_skill_001_58
+  - first:
+      213: 9107462450615747521
+    second: sp_boss_whale_skill_001_59
+  - first:
+      213: 8808255671644376298
+    second: sp_boss_whale_skill_001_60
+  - first:
+      213: -2211425741440415076
+    second: sp_boss_whale_skill_001_61
+  - first:
+      213: 5273707869109203684
+    second: sp_boss_whale_skill_001_62
+  - first:
+      213: 2898770339779960122
+    second: sp_boss_whale_skill_001_63
+  - first:
+      213: 9156748151009755636
+    second: sp_boss_whale_skill_001_64
+  - first:
+      213: -2960758463787169486
+    second: sp_boss_whale_skill_001_65
+  - first:
+      213: -2212732704239401720
+    second: sp_boss_whale_skill_001_66
+  - first:
+      213: -5300616372154185843
+    second: sp_boss_whale_skill_001_67
+  - first:
+      213: 3143766937296815380
+    second: sp_boss_whale_skill_001_68
+  - first:
+      213: -732971491023418243
+    second: sp_boss_whale_skill_001_69
+  - first:
+      213: -2534254422426799506
+    second: sp_boss_whale_skill_001_70
+  - first:
+      213: -6621478069559146429
+    second: sp_boss_whale_skill_001_71
+  - first:
+      213: -7127650967372432700
+    second: sp_boss_whale_skill_001_72
+  - first:
+      213: -984045710467261879
+    second: sp_boss_whale_skill_001_73
+  - first:
+      213: 5970826197429750282
+    second: sp_boss_whale_skill_001_74
+  - first:
+      213: -7857183526337031330
+    second: sp_boss_whale_skill_001_75
+  - first:
+      213: 1842640550190620421
+    second: sp_boss_whale_skill_001_76
+  - first:
+      213: 7045305635748159336
+    second: sp_boss_whale_skill_001_77
+  - first:
+      213: 8110856648339017648
+    second: sp_boss_whale_skill_001_78
+  - first:
+      213: -8755663538845374991
+    second: sp_boss_whale_skill_001_79
+  - first:
+      213: 8342513027282112101
+    second: sp_boss_whale_skill_001_80
+  - first:
+      213: 9030501346995671481
+    second: sp_boss_whale_skill_001_81
+  - first:
+      213: 1665987579430590525
+    second: sp_boss_whale_skill_001_82
+  - first:
+      213: 6433278544600439619
+    second: sp_boss_whale_skill_001_83
+  - first:
+      213: -7141038276776516978
+    second: sp_boss_whale_skill_001_84
+  - first:
+      213: -8701517474089403774
+    second: sp_boss_whale_skill_001_85
+  - first:
+      213: -571954432253466716
+    second: sp_boss_whale_skill_001_86
+  - first:
+      213: 1381743961847348396
+    second: sp_boss_whale_skill_001_87
+  - first:
+      213: -160024694590495070
+    second: sp_boss_whale_skill_001_88
+  - first:
+      213: -6739659477940030137
+    second: sp_boss_whale_skill_001_89
+  - first:
+      213: -949981976795412761
+    second: sp_boss_whale_skill_001_90
+  - first:
+      213: 3898245328540189083
+    second: sp_boss_whale_skill_001_91
+  - first:
+      213: 379228874837678539
+    second: sp_boss_whale_skill_001_92
+  - first:
+      213: -4708972014877594436
+    second: sp_boss_whale_skill_001_93
+  - first:
+      213: 3133777628064968892
+    second: sp_boss_whale_skill_001_94
+  - first:
+      213: -5590670616645645465
+    second: sp_boss_whale_skill_001_95
+  - first:
+      213: -4544369319601211796
+    second: sp_boss_whale_skill_001_96
+  - first:
+      213: 3322078419679733007
+    second: sp_boss_whale_skill_001_97
+  - first:
+      213: -7100651970334166234
+    second: sp_boss_whale_skill_001_98
+  - first:
+      213: -6928096398021250612
+    second: sp_boss_whale_skill_001_99
+  - first:
+      213: 4453508643976378869
+    second: sp_boss_whale_skill_001_100
+  - first:
+      213: -5350111951264396525
+    second: sp_boss_whale_skill_001_101
+  - first:
+      213: 8935602501734653072
+    second: sp_boss_whale_skill_001_102
+  - first:
+      213: 489694646592667549
+    second: sp_boss_whale_skill_001_103
+  - first:
+      213: 3681284200202346810
+    second: sp_boss_whale_skill_001_104
+  - first:
+      213: 7541046209403745086
+    second: sp_boss_whale_skill_001_105
+  - first:
+      213: 4644934053724595562
+    second: sp_boss_whale_skill_001_106
+  - first:
+      213: -9111324242261095924
+    second: sp_boss_whale_skill_001_107
+  - first:
+      213: -3757535374397462464
+    second: sp_boss_whale_skill_001_108
+  - first:
+      213: -3031402810050182832
+    second: sp_boss_whale_skill_001_109
+  - first:
+      213: 6723934412961384691
+    second: sp_boss_whale_skill_001_110
+  - first:
+      213: -1280541103560359090
+    second: sp_boss_whale_skill_001_111
+  - first:
+      213: -4919743056382149008
+    second: sp_boss_whale_skill_001_112
+  - first:
+      213: -2903804135258744544
+    second: sp_boss_whale_skill_001_113
+  - first:
+      213: -4579561725007395711
+    second: sp_boss_whale_skill_001_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f41bbd2a75108b42bc19ce21b88c461
+      internalID: -1635436135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b3bfbb9f400ec468f1a989d7c8fb0e
+      internalID: -292424724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f1711a7f397be42aae950a4cd93962
+      internalID: 153459417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955ab085455e4f144b2eeec5254f57ea
+      internalID: -551868217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b456202242da415459ea933f5aeef9f3
+      internalID: -1163552105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0ae754362e5964da700ba5a4be9b88
+      internalID: 2075409607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d446012f75c95a4caba481785d3c765
+      internalID: 1768989136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a58d7cde4faea418072207bb06cb5c
+      internalID: -1113759517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ddbbdae6159c34b97dc7118012138e
+      internalID: 95683500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1f4a05e40a7fb40bbee5c3165e9af6
+      internalID: 1355804115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91916921f5278d4ea076a531b7b7b6b
+      internalID: 1791755856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2862572459c315540b931515840c40e3
+      internalID: -681456737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3992742f488fb6047b734680c09e630d
+      internalID: 1073149292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8204146e5f66d3c46905d31fed33fe7b
+      internalID: -129654051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779bff09b5d60d44eb4ef9ddf7f43431
+      internalID: 1169926697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_whale_skill_001_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed694d8328750e543aa4be3d5aa69db4
+      internalID: 1829260878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4eb90736a99942540ad0e5ba76e30f72
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_boss_whale_skill_001_0: -1635436135
+      sp_boss_whale_skill_001_1: -292424724
+      sp_boss_whale_skill_001_10: 1791755856
+      sp_boss_whale_skill_001_11: -681456737
+      sp_boss_whale_skill_001_12: 1073149292
+      sp_boss_whale_skill_001_13: -129654051
+      sp_boss_whale_skill_001_14: 1169926697
+      sp_boss_whale_skill_001_15: 1829260878
+      sp_boss_whale_skill_001_2: 153459417
+      sp_boss_whale_skill_001_3: -551868217
+      sp_boss_whale_skill_001_4: -1163552105
+      sp_boss_whale_skill_001_5: 2075409607
+      sp_boss_whale_skill_001_6: 1768989136
+      sp_boss_whale_skill_001_7: -1113759517
+      sp_boss_whale_skill_001_8: 95683500
+      sp_boss_whale_skill_001_9: 1355804115
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

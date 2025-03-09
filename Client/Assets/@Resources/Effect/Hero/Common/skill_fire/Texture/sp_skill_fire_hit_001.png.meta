@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 92c2e131fd8dfe9498eae632c3dafe06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7860935660024182430
+    second: Hero_Skill_Fire_Hit_01_0
+  - first:
+      213: 5367254797441567597
+    second: Hero_Skill_Fire_Hit_01_1
+  - first:
+      213: 7917340583470265098
+    second: Hero_Skill_Fire_Hit_01_2
+  - first:
+      213: -7462370110446400076
+    second: Hero_Skill_Fire_Hit_01_3
+  - first:
+      213: 3730016005929877737
+    second: Hero_Skill_Fire_Hit_01_4
+  - first:
+      213: -8846467461023885928
+    second: Hero_Skill_Fire_Hit_01_5
+  - first:
+      213: 1585740863355411309
+    second: Hero_Skill_Fire_Hit_01_6
+  - first:
+      213: 3942607292979496459
+    second: Hero_Skill_Fire_Hit_01_7
+  - first:
+      213: 8439646577966316134
+    second: Hero_Skill_Fire_Hit_01_8
+  - first:
+      213: -3073621692045934635
+    second: Hero_Skill_Fire_Hit_01_9
+  - first:
+      213: 4589248885311255398
+    second: Hero_Skill_Fire_Hit_01_10
+  - first:
+      213: 5033392274406828124
+    second: Hero_Skill_Fire_Hit_01_11
+  - first:
+      213: 6858329771190018138
+    second: Hero_Skill_Fire_Hit_01_12
+  - first:
+      213: -7864856408227519615
+    second: Hero_Skill_Fire_Hit_01_13
+  - first:
+      213: -5360481050655763549
+    second: Hero_Skill_Fire_Hit_01_14
+  - first:
+      213: 9087971713593006611
+    second: Hero_Skill_Fire_Hit_01_15
+  - first:
+      213: 2454727767536411146
+    second: Hero_Skill_Fire_Hit_01_16
+  - first:
+      213: 1796544351467686878
+    second: Hero_Skill_Fire_Hit_01_17
+  - first:
+      213: 3940549310471414191
+    second: Hero_Skill_Fire_Hit_01_18
+  - first:
+      213: -808614847481353472
+    second: Hero_Skill_Fire_Hit_01_19
+  - first:
+      213: -414482538253953628
+    second: Hero_Skill_Fire_Hit_01_20
+  - first:
+      213: -5176854986319603012
+    second: Hero_Skill_Fire_Hit_01_21
+  - first:
+      213: -1520650085919616656
+    second: Hero_Skill_Fire_Hit_01_22
+  - first:
+      213: -680213288291764655
+    second: Hero_Skill_Fire_Hit_01_23
+  - first:
+      213: -8177244335435024649
+    second: Hero_Skill_Fire_Hit_01_24
+  - first:
+      213: 69002046109385176
+    second: Hero_Skill_Fire_Hit_01_25
+  - first:
+      213: -5371855851539620080
+    second: Hero_Skill_Fire_Hit_01_26
+  - first:
+      213: -6064557810340399830
+    second: Hero_Skill_Fire_Hit_01_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_fire_hit_001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad90a5ced92c1e4ea7d6148aad87519
+      internalID: 1594263275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_hit_001_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b7782dda01b34e8f345372176eff4
+      internalID: 1389168247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_hit_001_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba292b7e1bd4a6e4f8ee6ca59da227bd
+      internalID: 702345132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_hit_001_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5decbf7bbd29b64a83028349cea7487
+      internalID: -404684828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_hit_001_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cfd6ccdd0436e4384bf921114fde7c
+      internalID: -222597305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_hit_001_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e690858b7671b429b5282896985286
+      internalID: 208131315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_hit_001_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84eecc26f6ecaf41b7c9a771cbee4a5
+      internalID: 1989333825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_hit_001_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0782167971e0ef146aab05564095f829
+      internalID: -17181123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_hit_001_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6382ff7e262da6341a89da5f2ab10674
+      internalID: 1986338571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_hit_001_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6686f8e61485d4b9934895c8214171
+      internalID: 168940377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_hit_001_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e0297d2efb69b4a82dfa4d6c04790e
+      internalID: 793890389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5ec5506c4a8fcc341ac6129fb11ba347
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_fire_hit_001_0: 1594263275
+      sp_skill_fire_hit_001_1: 1389168247
+      sp_skill_fire_hit_001_10: 793890389
+      sp_skill_fire_hit_001_2: 702345132
+      sp_skill_fire_hit_001_3: -404684828
+      sp_skill_fire_hit_001_4: -222597305
+      sp_skill_fire_hit_001_5: 208131315
+      sp_skill_fire_hit_001_6: 1989333825
+      sp_skill_fire_hit_001_7: -17181123
+      sp_skill_fire_hit_001_8: 1986338571
+      sp_skill_fire_hit_001_9: 168940377
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

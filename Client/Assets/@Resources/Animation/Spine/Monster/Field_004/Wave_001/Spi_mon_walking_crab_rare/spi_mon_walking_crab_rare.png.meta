@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 3c51da37884d6e748a9da876a128fa0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4984520153797218790
+    second: spi_mon_walking_crab_rare_0
+  - first:
+      213: -9034747990126021373
+    second: spi_mon_walking_crab_rare_1
+  - first:
+      213: 3099219544703317168
+    second: spi_mon_walking_crab_rare_2
+  - first:
+      213: -1991725191957934193
+    second: spi_mon_walking_crab_rare_3
+  - first:
+      213: 3685619513402576052
+    second: spi_mon_walking_crab_rare_4
+  - first:
+      213: -2085872089768809522
+    second: spi_mon_walking_crab_rare_5
+  - first:
+      213: -1676261810187489830
+    second: spi_mon_walking_crab_rare_6
+  - first:
+      213: 6718718687397416246
+    second: spi_mon_walking_crab_rare_7
+  - first:
+      213: 1398047522599510781
+    second: spi_mon_walking_crab_rare_8
+  - first:
+      213: -4800846532295824007
+    second: spi_mon_walking_crab_rare_9
+  - first:
+      213: 2995535298515411986
+    second: spi_mon_walking_crab_rare_10
+  - first:
+      213: -2820521817448787767
+    second: spi_mon_walking_crab_rare_11
+  - first:
+      213: -4880023694295219578
+    second: spi_mon_walking_crab_rare_12
+  - first:
+      213: 8200455546244191616
+    second: spi_mon_walking_crab_rare_13
+  - first:
+      213: 2182213201631806748
+    second: spi_mon_walking_crab_rare_14
+  - first:
+      213: 1183440022009502785
+    second: spi_mon_walking_crab_rare_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 230
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1dbd6bba29c2540800000000000000
+      internalID: 4984520153797218790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3053d5532902e9280800000000000000
+      internalID: -9034747990126021373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 176
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b43dfa61c3a20b20800000000000000
+      internalID: 3099219544703317168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 161
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f86239d78fb54e0800000000000000
+      internalID: -1991725191957934193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 146
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bccb919b63f52330800000000000000
+      internalID: 3685619513402576052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 146
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbad62c26e7d03e0800000000000000
+      internalID: -2085872089768809522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 110
+        width: 75
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adda83dc3c8bcb8e0800000000000000
+      internalID: -1676261810187489830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1
+        width: 87
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d0a148c0fad3d50800000000000000
+      internalID: 6718718687397416246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 56
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2a8ab80dcd66310800000000000000
+      internalID: 1398047522599510781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d675dc387ff5db0800000000000000
+      internalID: -4800846532295824007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214a724ab77429920800000000000000
+      internalID: 2995535298515411986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 56
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0d9bdc95e7bd8d0800000000000000
+      internalID: -2820521817448787767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6824b063e4ca64cb0800000000000000
+      internalID: -4880023694295219578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 33
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08554461fdeddc170800000000000000
+      internalID: 8200455546244191616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c158e635857c84e10800000000000000
+      internalID: 2182213201631806748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_walking_crab_rare_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c5bdc0e6c6c6010800000000000000
+      internalID: 1183440022009502785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_walking_crab_rare_0: 4984520153797218790
+      spi_mon_walking_crab_rare_1: -9034747990126021373
+      spi_mon_walking_crab_rare_10: 2995535298515411986
+      spi_mon_walking_crab_rare_11: -2820521817448787767
+      spi_mon_walking_crab_rare_12: -4880023694295219578
+      spi_mon_walking_crab_rare_13: 8200455546244191616
+      spi_mon_walking_crab_rare_14: 2182213201631806748
+      spi_mon_walking_crab_rare_15: 1183440022009502785
+      spi_mon_walking_crab_rare_2: 3099219544703317168
+      spi_mon_walking_crab_rare_3: -1991725191957934193
+      spi_mon_walking_crab_rare_4: 3685619513402576052
+      spi_mon_walking_crab_rare_5: -2085872089768809522
+      spi_mon_walking_crab_rare_6: -1676261810187489830
+      spi_mon_walking_crab_rare_7: 6718718687397416246
+      spi_mon_walking_crab_rare_8: 1398047522599510781
+      spi_mon_walking_crab_rare_9: -4800846532295824007
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

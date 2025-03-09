@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 3622f18915c7e144ba1415904da4f5df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2534251119278797974
+    second: sp_crazy_santa_skill_001_01_0
+  - first:
+      213: -3670426961709492880
+    second: sp_crazy_santa_skill_001_01_1
+  - first:
+      213: 4817047521932145025
+    second: sp_crazy_santa_skill_001_01_2
+  - first:
+      213: 1924551900588732051
+    second: sp_crazy_santa_skill_001_01_3
+  - first:
+      213: 5088342810590091059
+    second: sp_crazy_santa_skill_001_01_4
+  - first:
+      213: -8333668443668358269
+    second: sp_crazy_santa_skill_001_01_5
+  - first:
+      213: 4326849463777115524
+    second: sp_crazy_santa_skill_001_01_6
+  - first:
+      213: -2037895213572532614
+    second: sp_crazy_santa_skill_001_01_7
+  - first:
+      213: -3800790623974215231
+    second: sp_crazy_santa_skill_001_01_8
+  - first:
+      213: -2870730631657545912
+    second: sp_crazy_santa_skill_001_01_9
+  - first:
+      213: 2475408462352438904
+    second: sp_crazy_santa_skill_001_01_10
+  - first:
+      213: -5483590348173876488
+    second: sp_crazy_santa_skill_001_01_11
+  - first:
+      213: -446756973351318288
+    second: sp_crazy_santa_skill_001_01_12
+  - first:
+      213: -608223352563742743
+    second: sp_crazy_santa_skill_001_01_13
+  - first:
+      213: -6128603841408372758
+    second: sp_crazy_santa_skill_001_01_14
+  - first:
+      213: -7459944538408870301
+    second: sp_crazy_santa_skill_001_01_15
+  - first:
+      213: 735759612041579352
+    second: sp_crazy_santa_skill_001_01_16
+  - first:
+      213: -3867341504240952905
+    second: sp_crazy_santa_skill_001_01_17
+  - first:
+      213: 1009778053821993813
+    second: sp_crazy_santa_skill_001_01_18
+  - first:
+      213: 769710983748882223
+    second: sp_crazy_santa_skill_001_01_19
+  - first:
+      213: 7039169140111994284
+    second: sp_crazy_santa_skill_001_01_20
+  - first:
+      213: -5581129179565210543
+    second: sp_crazy_santa_skill_001_01_21
+  - first:
+      213: 3099102459229158039
+    second: sp_crazy_santa_skill_001_01_22
+  - first:
+      213: 4643933578181421447
+    second: sp_crazy_santa_skill_001_01_23
+  - first:
+      213: -4898495828269291167
+    second: sp_crazy_santa_skill_001_01_24
+  - first:
+      213: 178928988469520060
+    second: sp_crazy_santa_skill_001_01_25
+  - first:
+      213: -6871612947587868881
+    second: sp_crazy_santa_skill_001_01_26
+  - first:
+      213: 4464174459437574590
+    second: sp_crazy_santa_skill_001_01_27
+  - first:
+      213: 1059297101751700493
+    second: sp_crazy_santa_skill_001_01_28
+  - first:
+      213: -5061106679114430248
+    second: sp_crazy_santa_skill_001_01_29
+  - first:
+      213: -4987074165680769552
+    second: sp_crazy_santa_skill_001_01_30
+  - first:
+      213: -3115364447008216930
+    second: sp_crazy_santa_skill_001_01_31
+  - first:
+      213: -6424296078413052352
+    second: sp_crazy_santa_skill_001_01_32
+  - first:
+      213: 5118904428253438328
+    second: sp_crazy_santa_skill_001_01_33
+  - first:
+      213: 2570366069440191628
+    second: sp_crazy_santa_skill_001_01_34
+  - first:
+      213: -8808813000265578371
+    second: sp_crazy_santa_skill_001_01_35
+  - first:
+      213: -1818213390644747540
+    second: sp_crazy_santa_skill_001_01_36
+  - first:
+      213: 3571668429917526326
+    second: sp_crazy_santa_skill_001_01_37
+  - first:
+      213: 5133308486227207772
+    second: sp_crazy_santa_skill_001_01_38
+  - first:
+      213: 3769809525011186868
+    second: sp_crazy_santa_skill_001_01_39
+  - first:
+      213: -4031729813718420623
+    second: sp_crazy_santa_skill_001_01_40
+  - first:
+      213: 7529945476948005595
+    second: sp_crazy_santa_skill_001_01_41
+  - first:
+      213: -8642372639190508322
+    second: sp_crazy_santa_skill_001_01_42
+  - first:
+      213: -6277085455136317170
+    second: sp_crazy_santa_skill_001_01_43
+  - first:
+      213: -9056306256182139053
+    second: sp_crazy_santa_skill_001_01_44
+  - first:
+      213: 1849650371319062651
+    second: sp_crazy_santa_skill_001_01_45
+  - first:
+      213: -3995842775988819805
+    second: sp_crazy_santa_skill_001_01_46
+  - first:
+      213: -4608797708784882412
+    second: sp_crazy_santa_skill_001_01_47
+  - first:
+      213: -8176315802448073129
+    second: sp_crazy_santa_skill_001_01_48
+  - first:
+      213: 3421584450765296408
+    second: sp_crazy_santa_skill_001_01_49
+  - first:
+      213: -8868053707367225617
+    second: sp_crazy_santa_skill_001_01_50
+  - first:
+      213: -4842384865620597042
+    second: sp_crazy_santa_skill_001_01_51
+  - first:
+      213: 261027311118366359
+    second: sp_crazy_santa_skill_001_01_52
+  - first:
+      213: 1504344787116017485
+    second: sp_crazy_santa_skill_001_01_53
+  - first:
+      213: -2990300978408398948
+    second: sp_crazy_santa_skill_001_01_54
+  - first:
+      213: -1614031937975258630
+    second: sp_crazy_santa_skill_001_01_55
+  - first:
+      213: -4022742461095607899
+    second: sp_crazy_santa_skill_001_01_56
+  - first:
+      213: 2599326731588070314
+    second: sp_crazy_santa_skill_001_01_57
+  - first:
+      213: 6821208777374817559
+    second: sp_crazy_santa_skill_001_01_58
+  - first:
+      213: 8703214712724664407
+    second: sp_crazy_santa_skill_001_01_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57351fd4accf7f428217dbba894931a
+      internalID: 236085906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab0cbe9cd6b36e4bb6b9ab0bc744b4f
+      internalID: 238023094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f590bcd70371414cb78bd9ab2bb833a
+      internalID: -1543303951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae918ba3d97fac418aed83fe37db0e8
+      internalID: 35028024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb0b9bb952da554085c5208ef12e23a
+      internalID: -752555656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4324897439f6bf943a7ad12c766c2919
+      internalID: -1566481745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69018c0aae5ee94429728bcd7bf6aeba
+      internalID: -1489966519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6b142e553741a43bd1bce759f5b7d5
+      internalID: -42764525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554bd791a18d5db499dbbcac1acdfe34
+      internalID: 1496582655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb96a06de331c64a92dd849add74e19
+      internalID: -1084657617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c253b88965968de4e966106ff2062c6e
+      internalID: 1909122275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9353309ab8bdb44a965b07a7e81f4e8
+      internalID: 1278327117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad023e7c040cd8469e14623b55b004c
+      internalID: -1156565724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da67e7f1ea7a1a43a0d0c4c64ab3294
+      internalID: -1340244806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78838478e724d9489293ab3fbd2d023
+      internalID: -509485341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_crazy_santa_skill_001_01_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fad34845b77614295cedf32457bafe
+      internalID: 1288197447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 48696096d8e8dd4428fba7b73bb9d3c7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_crazy_santa_skill_001_01_0: 236085906
+      sp_crazy_santa_skill_001_01_1: 238023094
+      sp_crazy_santa_skill_001_01_10: 1909122275
+      sp_crazy_santa_skill_001_01_11: 1278327117
+      sp_crazy_santa_skill_001_01_12: -1156565724
+      sp_crazy_santa_skill_001_01_13: -1340244806
+      sp_crazy_santa_skill_001_01_14: -509485341
+      sp_crazy_santa_skill_001_01_15: 1288197447
+      sp_crazy_santa_skill_001_01_2: -1543303951
+      sp_crazy_santa_skill_001_01_3: 35028024
+      sp_crazy_santa_skill_001_01_4: -752555656
+      sp_crazy_santa_skill_001_01_5: -1566481745
+      sp_crazy_santa_skill_001_01_6: -1489966519
+      sp_crazy_santa_skill_001_01_7: -42764525
+      sp_crazy_santa_skill_001_01_8: 1496582655
+      sp_crazy_santa_skill_001_01_9: -1084657617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

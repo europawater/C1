@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: d34b88061a1dd564aa500a9dd96b27c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7378358398360661630
+    second: sp_skill_spear_003_0
+  - first:
+      213: 7297542155330651872
+    second: sp_skill_spear_003_1
+  - first:
+      213: 9210548031892557756
+    second: sp_skill_spear_003_2
+  - first:
+      213: 2210935368735237830
+    second: sp_skill_spear_003_3
+  - first:
+      213: 704301750252677179
+    second: sp_skill_spear_003_4
+  - first:
+      213: 7075141127747326443
+    second: sp_skill_spear_003_5
+  - first:
+      213: 7746865756046943427
+    second: sp_skill_spear_003_6
+  - first:
+      213: -4218896270481016014
+    second: sp_skill_spear_003_7
+  - first:
+      213: 1245625455898268115
+    second: sp_skill_spear_003_8
+  - first:
+      213: -6828601356849374139
+    second: sp_skill_spear_003_9
+  - first:
+      213: -2861161573917914833
+    second: sp_skill_spear_003_10
+  - first:
+      213: -5797331602085959699
+    second: sp_skill_spear_003_11
+  - first:
+      213: -4671993659452132068
+    second: sp_skill_spear_003_12
+  - first:
+      213: 7380118304339818604
+    second: sp_skill_spear_003_13
+  - first:
+      213: 259822865342383922
+    second: sp_skill_spear_003_14
+  - first:
+      213: 2995818364856150398
+    second: sp_skill_spear_003_15
+  - first:
+      213: 8338954420895318639
+    second: sp_skill_spear_003_16
+  - first:
+      213: 5556824594113004477
+    second: sp_skill_spear_003_17
+  - first:
+      213: 2994341627840980182
+    second: sp_skill_spear_003_18
+  - first:
+      213: 6621808558916354272
+    second: sp_skill_spear_003_19
+  - first:
+      213: -5777166597096471260
+    second: sp_skill_spear_003_20
+  - first:
+      213: 1778860720169742979
+    second: sp_skill_spear_003_21
+  - first:
+      213: 7535409323095146215
+    second: sp_skill_spear_003_22
+  - first:
+      213: -8366684345689544055
+    second: sp_skill_spear_003_23
+  - first:
+      213: 5015201593719709581
+    second: sp_skill_spear_003_24
+  - first:
+      213: 1419567154810546236
+    second: sp_skill_spear_003_25
+  - first:
+      213: 3687839392869311723
+    second: sp_skill_spear_003_26
+  - first:
+      213: -3693539583178075146
+    second: sp_skill_spear_003_27
+  - first:
+      213: 1829266338101457618
+    second: sp_skill_spear_003_28
+  - first:
+      213: 2259156305053497758
+    second: sp_skill_spear_003_29
+  - first:
+      213: 8089008556096744470
+    second: sp_skill_spear_003_30
+  - first:
+      213: 9062437369292357340
+    second: sp_skill_spear_003_31
+  - first:
+      213: 6556147949334107661
+    second: sp_skill_spear_003_32
+  - first:
+      213: -4234718804000548499
+    second: sp_skill_spear_003_33
+  - first:
+      213: 4485119866536558429
+    second: sp_skill_spear_003_34
+  - first:
+      213: 7880178166922451617
+    second: sp_skill_spear_003_35
+  - first:
+      213: 6499518728343814489
+    second: sp_skill_spear_003_36
+  - first:
+      213: -991608423654712127
+    second: sp_skill_spear_003_37
+  - first:
+      213: 1827026176570463722
+    second: sp_skill_spear_003_38
+  - first:
+      213: -3814836843222108439
+    second: sp_skill_spear_003_39
+  - first:
+      213: -146256370932921128
+    second: sp_skill_spear_003_40
+  - first:
+      213: 203394716016702376
+    second: sp_skill_spear_003_41
+  - first:
+      213: 2384389635737526597
+    second: sp_skill_spear_003_42
+  - first:
+      213: -6519917077645531424
+    second: sp_skill_spear_003_43
+  - first:
+      213: 2099068422467612782
+    second: sp_skill_spear_003_44
+  - first:
+      213: -6653348180419180921
+    second: sp_skill_spear_003_45
+  - first:
+      213: 774569665352386007
+    second: sp_skill_spear_003_46
+  - first:
+      213: 5649931893457033850
+    second: sp_skill_spear_003_47
+  - first:
+      213: -8488109715726547846
+    second: sp_skill_spear_003_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_spear_003_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7eaecffed1356660800000000000000
+      internalID: 7378358398360661630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_spear_003_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e60ced1de3164560800000000000000
+      internalID: 7297542155330651872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_spear_003_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf01aba2a072df70800000000000000
+      internalID: 9210548031892557756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_spear_003_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6afcaf002deae10800000000000000
+      internalID: 2210935368735237830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_spear_003_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b382f76d5be26c900800000000000000
+      internalID: 704301750252677179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_spear_003_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1d227be53ff2260800000000000000
+      internalID: 7075141127747326443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_spear_003_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4e0d74c55628b60800000000000000
+      internalID: 7746865756046943427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_spear_003_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b32c5d1387375c0800000000000000
+      internalID: -4218896270481016014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_spear_003_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d11006a0c9594110800000000000000
+      internalID: 1245625455898268115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_spear_003_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c1e34de3feb31a0800000000000000
+      internalID: -6828601356849374139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_spear_003_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2900a525bc1b48d0800000000000000
+      internalID: -2861161573917914833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_spear_003_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7258c9f9dbb8fa0800000000000000
+      internalID: -5797331602085959699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fff76310a5bca434dbc772ffe9f4962b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_spear_003_0: 7378358398360661630
+      sp_skill_spear_003_1: 7297542155330651872
+      sp_skill_spear_003_10: -2861161573917914833
+      sp_skill_spear_003_11: -5797331602085959699
+      sp_skill_spear_003_2: 9210548031892557756
+      sp_skill_spear_003_3: 2210935368735237830
+      sp_skill_spear_003_4: 704301750252677179
+      sp_skill_spear_003_5: 7075141127747326443
+      sp_skill_spear_003_6: 7746865756046943427
+      sp_skill_spear_003_7: -4218896270481016014
+      sp_skill_spear_003_8: 1245625455898268115
+      sp_skill_spear_003_9: -6828601356849374139
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

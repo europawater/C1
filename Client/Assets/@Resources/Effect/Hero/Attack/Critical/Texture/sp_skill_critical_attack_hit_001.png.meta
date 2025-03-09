@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: c2ae1078e84fd7942afb37f947dd568e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6445264498013859165
+    second: sp_skill_critical_attack_hit_0
+  - first:
+      213: -6687842780980156245
+    second: sp_skill_critical_attack_hit_1
+  - first:
+      213: 8862909516769053038
+    second: sp_skill_critical_attack_hit_2
+  - first:
+      213: -852712267213335994
+    second: sp_skill_critical_attack_hit_3
+  - first:
+      213: -9111061868039577521
+    second: sp_skill_critical_attack_hit_4
+  - first:
+      213: 8315388624516250026
+    second: sp_skill_critical_attack_hit_5
+  - first:
+      213: 9092223426236225594
+    second: sp_skill_critical_attack_hit_6
+  - first:
+      213: -8012081727029694816
+    second: sp_skill_critical_attack_hit_7
+  - first:
+      213: 4716296375819402316
+    second: sp_skill_critical_attack_hit_8
+  - first:
+      213: 8574011924394625018
+    second: sp_skill_critical_attack_hit_9
+  - first:
+      213: -1845615627246171111
+    second: sp_skill_critical_attack_hit_10
+  - first:
+      213: -2438427787313286744
+    second: sp_skill_critical_attack_hit_11
+  - first:
+      213: -6000422699516724326
+    second: sp_skill_critical_attack_hit_12
+  - first:
+      213: -6775935679689994669
+    second: sp_skill_critical_attack_hit_13
+  - first:
+      213: 1597547829749249401
+    second: sp_skill_critical_attack_hit_14
+  - first:
+      213: -836904812638309843
+    second: sp_skill_critical_attack_hit_15
+  - first:
+      213: 965396978941130221
+    second: sp_skill_critical_attack_hit_16
+  - first:
+      213: -5151823643063013952
+    second: sp_skill_critical_attack_hit_17
+  - first:
+      213: -2432300286886276484
+    second: sp_skill_critical_attack_hit_18
+  - first:
+      213: 9020314398702866794
+    second: sp_skill_critical_attack_hit_19
+  - first:
+      213: -5142659531835925988
+    second: sp_skill_critical_attack_hit_20
+  - first:
+      213: 6927814984707902884
+    second: sp_skill_critical_attack_hit_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_critical_attack_hit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 341
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28925e0db4cc7d44f9649a6938d40eb2
+      internalID: -1347363815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_critical_attack_hit_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 171
+        width: 341
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ad74f4b1e9617408141bac6c69d06f
+      internalID: -2082293988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_critical_attack_hit_2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 171
+        width: 341
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2e0d1b3e3885840807513d5352c3c0
+      internalID: 255226866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_critical_attack_hit_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 341
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347cee4e0b0886242907e3f2b926a1b9
+      internalID: 1715841342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_critical_attack_hit_4
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1
+        width: 341
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f071b30e9cbfb94c893130e470c9ec1
+      internalID: 1821619676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_critical_attack_hit_5
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1
+        width: 341
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9878126aadd948f4a8a2641efc434820
+      internalID: -2076265318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 982f1eb589691dd4f9f5735b32ef8426
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_critical_attack_hit_0: -1347363815
+      sp_skill_critical_attack_hit_1: -2082293988
+      sp_skill_critical_attack_hit_2: 255226866
+      sp_skill_critical_attack_hit_3: 1715841342
+      sp_skill_critical_attack_hit_4: 1821619676
+      sp_skill_critical_attack_hit_5: -2076265318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

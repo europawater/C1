@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 43a1006bbe1daf04ca36f7db0e18c76f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6775375502054166720
+    second: Boss_Snowqueen_Skill_B_Hit_0
+  - first:
+      213: -3757360804727879904
+    second: Boss_Snowqueen_Skill_B_Hit_1
+  - first:
+      213: 6671964351336157376
+    second: Boss_Snowqueen_Skill_B_Hit_2
+  - first:
+      213: -3630957879795058507
+    second: Boss_Snowqueen_Skill_B_Hit_3
+  - first:
+      213: -4633225809565569775
+    second: Boss_Snowqueen_Skill_B_Hit_4
+  - first:
+      213: 8265074499196346859
+    second: Boss_Snowqueen_Skill_B_Hit_5
+  - first:
+      213: -9216068098420341392
+    second: Boss_Snowqueen_Skill_B_Hit_6
+  - first:
+      213: 7942359981689128256
+    second: Boss_Snowqueen_Skill_B_Hit_7
+  - first:
+      213: -1248809339499975325
+    second: Boss_Snowqueen_Skill_B_Hit_8
+  - first:
+      213: -6781852198795700163
+    second: Boss_Snowqueen_Skill_B_Hit_9
+  - first:
+      213: -1114526013432549347
+    second: Boss_Snowqueen_Skill_B_Hit_10
+  - first:
+      213: -673040859403326861
+    second: Boss_Snowqueen_Skill_B_Hit_11
+  - first:
+      213: 6652302413907235579
+    second: Boss_Snowqueen_Skill_B_Hit_12
+  - first:
+      213: -781021277390087809
+    second: Boss_Snowqueen_Skill_B_Hit_13
+  - first:
+      213: -6255919624125175234
+    second: Boss_Snowqueen_Skill_B_Hit_14
+  - first:
+      213: 8912166594820195773
+    second: Boss_Snowqueen_Skill_B_Hit_15
+  - first:
+      213: 2696995186101689571
+    second: Boss_Snowqueen_Skill_B_Hit_16
+  - first:
+      213: 977402320897467218
+    second: Boss_Snowqueen_Skill_B_Hit_17
+  - first:
+      213: 7755848884461353747
+    second: Boss_Snowqueen_Skill_B_Hit_18
+  - first:
+      213: -9220871367354668740
+    second: Boss_Snowqueen_Skill_B_Hit_19
+  - first:
+      213: 4923497758405614884
+    second: Boss_Snowqueen_Skill_B_Hit_20
+  - first:
+      213: -2842612924156185133
+    second: Boss_Snowqueen_Skill_B_Hit_21
+  - first:
+      213: -9116449376901544300
+    second: Boss_Snowqueen_Skill_B_Hit_22
+  - first:
+      213: -6676323728635786887
+    second: Boss_Snowqueen_Skill_B_Hit_23
+  - first:
+      213: -754257141737402182
+    second: Boss_Snowqueen_Skill_B_Hit_24
+  - first:
+      213: 6714438234562405983
+    second: Boss_Snowqueen_Skill_B_Hit_25
+  - first:
+      213: -2635055178034634361
+    second: Boss_Snowqueen_Skill_B_Hit_26
+  - first:
+      213: 2432992811409277169
+    second: Boss_Snowqueen_Skill_B_Hit_27
+  - first:
+      213: 4390684778190655944
+    second: Boss_Snowqueen_Skill_B_Hit_28
+  - first:
+      213: -103806925896545573
+    second: Boss_Snowqueen_Skill_B_Hit_29
+  - first:
+      213: 9022029227005345190
+    second: Boss_Snowqueen_Skill_B_Hit_30
+  - first:
+      213: -3272766582880931289
+    second: Boss_Snowqueen_Skill_B_Hit_31
+  - first:
+      213: 7293888851843657480
+    second: Boss_Snowqueen_Skill_B_Hit_32
+  - first:
+      213: 7731595024421449497
+    second: Boss_Snowqueen_Skill_B_Hit_33
+  - first:
+      213: 5269692168483354905
+    second: Boss_Snowqueen_Skill_B_Hit_34
+  - first:
+      213: 478720207247459473
+    second: Boss_Snowqueen_Skill_B_Hit_35
+  - first:
+      213: 8329607565195043994
+    second: Boss_Snowqueen_Skill_B_Hit_36
+  - first:
+      213: -7513892890650249680
+    second: Boss_Snowqueen_Skill_B_Hit_37
+  - first:
+      213: -1237331500707538288
+    second: Boss_Snowqueen_Skill_B_Hit_38
+  - first:
+      213: 1707092366848300004
+    second: Boss_Snowqueen_Skill_B_Hit_39
+  - first:
+      213: 8970438086197604686
+    second: Boss_Snowqueen_Skill_B_Hit_40
+  - first:
+      213: 9181644809581786521
+    second: Boss_Snowqueen_Skill_B_Hit_41
+  - first:
+      213: 8765104712992125229
+    second: Boss_Snowqueen_Skill_B_Hit_42
+  - first:
+      213: 7085736786021463099
+    second: Boss_Snowqueen_Skill_B_Hit_43
+  - first:
+      213: -8502365638599599401
+    second: Boss_Snowqueen_Skill_B_Hit_44
+  - first:
+      213: -7027457281217590925
+    second: Boss_Snowqueen_Skill_B_Hit_45
+  - first:
+      213: 1335166408290354032
+    second: Boss_Snowqueen_Skill_B_Hit_46
+  - first:
+      213: -892568666799424115
+    second: Boss_Snowqueen_Skill_B_Hit_47
+  - first:
+      213: 8697016045844677333
+    second: Boss_Snowqueen_Skill_B_Hit_48
+  - first:
+      213: 3479376208897074296
+    second: Boss_Snowqueen_Skill_B_Hit_49
+  - first:
+      213: 1005972791481785072
+    second: Boss_Snowqueen_Skill_B_Hit_50
+  - first:
+      213: -5042376270030395520
+    second: Boss_Snowqueen_Skill_B_Hit_51
+  - first:
+      213: -2602440113943340258
+    second: Boss_Snowqueen_Skill_B_Hit_52
+  - first:
+      213: 3124448539621025405
+    second: Boss_Snowqueen_Skill_B_Hit_53
+  - first:
+      213: -3383911029150678607
+    second: Boss_Snowqueen_Skill_B_Hit_54
+  - first:
+      213: -1661446647623408166
+    second: Boss_Snowqueen_Skill_B_Hit_55
+  - first:
+      213: 1680072355650253914
+    second: Boss_Snowqueen_Skill_B_Hit_56
+  - first:
+      213: 5903794167612671479
+    second: Boss_Snowqueen_Skill_B_Hit_57
+  - first:
+      213: -2430401587202831857
+    second: Boss_Snowqueen_Skill_B_Hit_58
+  - first:
+      213: -5050605802669250763
+    second: Boss_Snowqueen_Skill_B_Hit_59
+  - first:
+      213: 5304842179166201392
+    second: Boss_Snowqueen_Skill_B_Hit_60
+  - first:
+      213: 2354021954841930952
+    second: Boss_Snowqueen_Skill_B_Hit_61
+  - first:
+      213: 1750142546578307076
+    second: Boss_Snowqueen_Skill_B_Hit_62
+  - first:
+      213: -4517331677516843629
+    second: Boss_Snowqueen_Skill_B_Hit_63
+  - first:
+      213: -6337639598180049179
+    second: Boss_Snowqueen_Skill_B_Hit_64
+  - first:
+      213: 3303851273205953972
+    second: Boss_Snowqueen_Skill_B_Hit_65
+  - first:
+      213: -6630899047775383496
+    second: Boss_Snowqueen_Skill_B_Hit_66
+  - first:
+      213: -5592127763520907142
+    second: Boss_Snowqueen_Skill_B_Hit_67
+  - first:
+      213: -8542511275181620934
+    second: Boss_Snowqueen_Skill_B_Hit_68
+  - first:
+      213: 5500118825037928378
+    second: Boss_Snowqueen_Skill_B_Hit_69
+  - first:
+      213: -5182024350960690789
+    second: Boss_Snowqueen_Skill_B_Hit_70
+  - first:
+      213: 34427819300785037
+    second: Boss_Snowqueen_Skill_B_Hit_71
+  - first:
+      213: 650271507418700771
+    second: Boss_Snowqueen_Skill_B_Hit_72
+  - first:
+      213: -5458154452313434174
+    second: Boss_Snowqueen_Skill_B_Hit_73
+  - first:
+      213: 4885615924126283256
+    second: Boss_Snowqueen_Skill_B_Hit_74
+  - first:
+      213: -7690958013295542996
+    second: Boss_Snowqueen_Skill_B_Hit_75
+  - first:
+      213: -7894309256345152848
+    second: Boss_Snowqueen_Skill_B_Hit_76
+  - first:
+      213: -1195258316673739086
+    second: Boss_Snowqueen_Skill_B_Hit_77
+  - first:
+      213: -2103412417857392036
+    second: Boss_Snowqueen_Skill_B_Hit_78
+  - first:
+      213: -3510999949308194553
+    second: Boss_Snowqueen_Skill_B_Hit_79
+  - first:
+      213: -2515734583398930778
+    second: Boss_Snowqueen_Skill_B_Hit_80
+  - first:
+      213: -680866797160000506
+    second: Boss_Snowqueen_Skill_B_Hit_81
+  - first:
+      213: -9136303450225492635
+    second: Boss_Snowqueen_Skill_B_Hit_82
+  - first:
+      213: -4670677603248712345
+    second: Boss_Snowqueen_Skill_B_Hit_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946def7d13ca08c43900b6a326cd0d55
+      internalID: 1332934553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7ae7e8f05563d449333600e67ec523
+      internalID: 1000431968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12007acf95bd0934797ad47aa6036032
+      internalID: 396488253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a43e450aa9ee94091116ec90087da3
+      internalID: 1926471562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b9f9c2305fabc4582f0a597d264445
+      internalID: 771524901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bf847919b789f40aa960dd581664d0
+      internalID: -1433422003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c2f0d3bdcc20842961e167275beec6
+      internalID: 243372123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab43e86de866b6d4ba9f93d19ad78e17
+      internalID: 1313765650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec314e1ead11d5145a0b5052ee8aa890
+      internalID: -86474965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0519a2ee42724bd499f45322cfd53523
+      internalID: -724378011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c4e10b62e00b647bee15cf3da9e72c
+      internalID: -363901877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c4a0ed7e6c87749abf26857dcc8176
+      internalID: 197420668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5bd9bb3c41562448e7c3e3793b3117
+      internalID: 170333616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a235faaf6119d46a873ff4d558f8bf
+      internalID: 242292287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e78c3031148fd4998beec44144b5d4
+      internalID: 2085222341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_Hit_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c4936dda5e1994b9d0276b67307f06
+      internalID: -1822484379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3d1ee0d0eb0db6f44853af5694da5bb9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boss_Snowqueen_Skill_B_Hit_0: 1332934553
+      Boss_Snowqueen_Skill_B_Hit_1: 1000431968
+      Boss_Snowqueen_Skill_B_Hit_10: -363901877
+      Boss_Snowqueen_Skill_B_Hit_11: 197420668
+      Boss_Snowqueen_Skill_B_Hit_12: 170333616
+      Boss_Snowqueen_Skill_B_Hit_13: 242292287
+      Boss_Snowqueen_Skill_B_Hit_14: 2085222341
+      Boss_Snowqueen_Skill_B_Hit_15: -1822484379
+      Boss_Snowqueen_Skill_B_Hit_2: 396488253
+      Boss_Snowqueen_Skill_B_Hit_3: 1926471562
+      Boss_Snowqueen_Skill_B_Hit_4: 771524901
+      Boss_Snowqueen_Skill_B_Hit_5: -1433422003
+      Boss_Snowqueen_Skill_B_Hit_6: 243372123
+      Boss_Snowqueen_Skill_B_Hit_7: 1313765650
+      Boss_Snowqueen_Skill_B_Hit_8: -86474965
+      Boss_Snowqueen_Skill_B_Hit_9: -724378011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

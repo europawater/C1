@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 9153ed429ceccc84e88ea80be2773253
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1405072513790498956
+    second: spi_mon_forest_plant_common_0
+  - first:
+      213: 2249696617504664318
+    second: spi_mon_forest_plant_common_1
+  - first:
+      213: 4503456755628389583
+    second: spi_mon_forest_plant_common_2
+  - first:
+      213: -3730785569963871944
+    second: spi_mon_forest_plant_common_3
+  - first:
+      213: 7384007451083409681
+    second: spi_mon_forest_plant_common_4
+  - first:
+      213: -43778521238909969
+    second: spi_mon_forest_plant_common_5
+  - first:
+      213: -1560207879178441311
+    second: spi_mon_forest_plant_common_6
+  - first:
+      213: 3471214923201614364
+    second: spi_mon_forest_plant_common_7
+  - first:
+      213: -2152146548315980882
+    second: spi_mon_forest_plant_common_8
+  - first:
+      213: -3329588339121112648
+    second: spi_mon_forest_plant_common_9
+  - first:
+      213: -5974462392606540325
+    second: spi_mon_forest_plant_common_10
+  - first:
+      213: -3266517167959411139
+    second: spi_mon_forest_plant_common_11
+  - first:
+      213: -4253646252813968391
+    second: spi_mon_forest_plant_common_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_forest_plant_common_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 267
+        width: 118
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88d524c102df7310800000000000000
+      internalID: 1405072513790498956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_forest_plant_common_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 324
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa63ca7727883f10800000000000000
+      internalID: 2249696617504664318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_forest_plant_common_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 274
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc430941f0e7f7e30800000000000000
+      internalID: 4503456755628389583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_forest_plant_common_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 243
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83176296a46993cc0800000000000000
+      internalID: -3730785569963871944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_forest_plant_common_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 213
+        width: 115
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1190aa497a3497660800000000000000
+      internalID: 7384007451083409681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_forest_plant_common_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 246
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb43c8baa7746ff0800000000000000
+      internalID: -43778521238909969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_forest_plant_common_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 137
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adadc14337095ae0800000000000000
+      internalID: -1560207879178441311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_forest_plant_common_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 188
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c129774d49b3c2030800000000000000
+      internalID: 3471214923201614364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_forest_plant_common_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 137
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabfa0bed1a0222e0800000000000000
+      internalID: -2152146548315980882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_forest_plant_common_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 120
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b93766eb0deac1d0800000000000000
+      internalID: -3329588339121112648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_forest_plant_common_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 171
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddb1c4ab12761da0800000000000000
+      internalID: -5974462392606540325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_forest_plant_common_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 65
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36701741fffaa2d0800000000000000
+      internalID: -3266517167959411139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_forest_plant_common_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 5
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb1ad4154308f4c0800000000000000
+      internalID: -4253646252813968391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_forest_plant_common_0: 1405072513790498956
+      spi_mon_forest_plant_common_1: 2249696617504664318
+      spi_mon_forest_plant_common_10: -5974462392606540325
+      spi_mon_forest_plant_common_11: -3266517167959411139
+      spi_mon_forest_plant_common_12: -4253646252813968391
+      spi_mon_forest_plant_common_2: 4503456755628389583
+      spi_mon_forest_plant_common_3: -3730785569963871944
+      spi_mon_forest_plant_common_4: 7384007451083409681
+      spi_mon_forest_plant_common_5: -43778521238909969
+      spi_mon_forest_plant_common_6: -1560207879178441311
+      spi_mon_forest_plant_common_7: 3471214923201614364
+      spi_mon_forest_plant_common_8: -2152146548315980882
+      spi_mon_forest_plant_common_9: -3329588339121112648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

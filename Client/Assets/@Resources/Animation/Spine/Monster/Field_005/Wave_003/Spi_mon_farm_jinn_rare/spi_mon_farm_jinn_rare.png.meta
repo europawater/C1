@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 5c1ef71320ec19a418a17d0a31c8b984
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6525458719309984638
+    second: spi_mon_farm_jinn_rare_0
+  - first:
+      213: 5025542937112751050
+    second: spi_mon_farm_jinn_rare_1
+  - first:
+      213: -4499877320571800136
+    second: spi_mon_farm_jinn_rare_2
+  - first:
+      213: -2329480611744458621
+    second: spi_mon_farm_jinn_rare_3
+  - first:
+      213: 8127144816607874729
+    second: spi_mon_farm_jinn_rare_4
+  - first:
+      213: -8555548685278126930
+    second: spi_mon_farm_jinn_rare_5
+  - first:
+      213: 1972525357468049634
+    second: spi_mon_farm_jinn_rare_6
+  - first:
+      213: -2843417679699296618
+    second: spi_mon_farm_jinn_rare_7
+  - first:
+      213: 628647977051835
+    second: spi_mon_farm_jinn_rare_8
+  - first:
+      213: 3664641240504308794
+    second: spi_mon_farm_jinn_rare_9
+  - first:
+      213: 6267924990799170144
+    second: spi_mon_farm_jinn_rare_10
+  - first:
+      213: -3062492766034371883
+    second: spi_mon_farm_jinn_rare_11
+  - first:
+      213: -5123584540749654888
+    second: spi_mon_farm_jinn_rare_12
+  - first:
+      213: -8413772255204406241
+    second: spi_mon_farm_jinn_rare_13
+  - first:
+      213: -5828042804337751055
+    second: spi_mon_farm_jinn_rare_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_farm_jinn_rare_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 165
+        width: 139
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7372f0c1261f8a50800000000000000
+      internalID: 6525458719309984638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_jinn_rare_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 231
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb2412cca05eb540800000000000000
+      internalID: 5025542937112751050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_jinn_rare_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 160
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b53b761b693d81c0800000000000000
+      internalID: -4499877320571800136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_jinn_rare_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 161
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388dfc9c9b50cafd0800000000000000
+      internalID: -2329480611744458621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_jinn_rare_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 115
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aec118b62b69c070800000000000000
+      internalID: 8127144816607874729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_jinn_rare_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 114
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacdf6bccc5944980800000000000000
+      internalID: -8555548685278126930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_jinn_rare_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 139
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0655a9c51df5b10800000000000000
+      internalID: 1972525357468049634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_jinn_rare_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 136
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e35757fa62a88d0800000000000000
+      internalID: -2843417679699296618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_jinn_rare_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 136
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb66c5380cb320000800000000000000
+      internalID: 628647977051835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_jinn_rare_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 114
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a349189cacb6bd230800000000000000
+      internalID: 3664641240504308794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_jinn_rare_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 73
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ac06bf1942cf650800000000000000
+      internalID: 6267924990799170144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_jinn_rare_11
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 4
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da51591e07df75d0800000000000000
+      internalID: -3062492766034371883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_jinn_rare_12
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 73
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8941fef810f55e8b0800000000000000
+      internalID: -5123584540749654888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_jinn_rare_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 73
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c018346b64c3b80800000000000000
+      internalID: -8413772255204406241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_jinn_rare_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 4
+        width: 129
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb4daf92f1ae1fa0800000000000000
+      internalID: -5828042804337751055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_farm_jinn_rare_0: 6525458719309984638
+      spi_mon_farm_jinn_rare_1: 5025542937112751050
+      spi_mon_farm_jinn_rare_10: 6267924990799170144
+      spi_mon_farm_jinn_rare_11: -3062492766034371883
+      spi_mon_farm_jinn_rare_12: -5123584540749654888
+      spi_mon_farm_jinn_rare_13: -8413772255204406241
+      spi_mon_farm_jinn_rare_14: -5828042804337751055
+      spi_mon_farm_jinn_rare_2: -4499877320571800136
+      spi_mon_farm_jinn_rare_3: -2329480611744458621
+      spi_mon_farm_jinn_rare_4: 8127144816607874729
+      spi_mon_farm_jinn_rare_5: -8555548685278126930
+      spi_mon_farm_jinn_rare_6: 1972525357468049634
+      spi_mon_farm_jinn_rare_7: -2843417679699296618
+      spi_mon_farm_jinn_rare_8: 628647977051835
+      spi_mon_farm_jinn_rare_9: 3664641240504308794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

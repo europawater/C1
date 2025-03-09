@@ -1,0 +1,904 @@
+fileFormatVersion: 2
+guid: 1a11b67355889ad4093c92ef25dd376b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2778781860862641793
+    second: Boss_Wildboar_Skill_B_Target_001_0
+  - first:
+      213: 5343570220724458323
+    second: Boss_Wildboar_Skill_B_Target_001_1
+  - first:
+      213: -1965059807324788488
+    second: Boss_Wildboar_Skill_B_Target_001_2
+  - first:
+      213: -1888883086108726339
+    second: Boss_Wildboar_Skill_B_Target_001_3
+  - first:
+      213: -5564646279873413493
+    second: Boss_Wildboar_Skill_B_Target_001_4
+  - first:
+      213: 5564760409365823308
+    second: Boss_Wildboar_Skill_B_Target_001_5
+  - first:
+      213: -7344371322779183337
+    second: Boss_Wildboar_Skill_B_Target_001_6
+  - first:
+      213: 8151513590232496039
+    second: Boss_Wildboar_Skill_B_Target_001_7
+  - first:
+      213: 8796124891319316553
+    second: Boss_Wildboar_Skill_B_Target_001_8
+  - first:
+      213: -2077851144749123954
+    second: Boss_Wildboar_Skill_B_Target_001_9
+  - first:
+      213: 6700642075361815345
+    second: Boss_Wildboar_Skill_B_Target_001_10
+  - first:
+      213: 3451019039760740534
+    second: Boss_Wildboar_Skill_B_Target_001_11
+  - first:
+      213: 146668220719837695
+    second: Boss_Wildboar_Skill_B_Target_001_12
+  - first:
+      213: 3180528412258132115
+    second: Boss_Wildboar_Skill_B_Target_001_13
+  - first:
+      213: -7999848151784320422
+    second: Boss_Wildboar_Skill_B_Target_001_14
+  - first:
+      213: 1163630272703755498
+    second: Boss_Wildboar_Skill_B_Target_001_15
+  - first:
+      213: 1185684692685171362
+    second: Boss_Wildboar_Skill_B_Target_001_16
+  - first:
+      213: 4291426795205371681
+    second: Boss_Wildboar_Skill_B_Target_001_17
+  - first:
+      213: 5945960866219753489
+    second: Boss_Wildboar_Skill_B_Target_001_18
+  - first:
+      213: 8590983354067270787
+    second: Boss_Wildboar_Skill_B_Target_001_19
+  - first:
+      213: -489489239349382533
+    second: Boss_Wildboar_Skill_B_Target_001_20
+  - first:
+      213: -1085958493954799328
+    second: Boss_Wildboar_Skill_B_Target_001_21
+  - first:
+      213: -8089699509084923369
+    second: Boss_Wildboar_Skill_B_Target_001_22
+  - first:
+      213: 7818429426293033455
+    second: Boss_Wildboar_Skill_B_Target_001_23
+  - first:
+      213: -5312622377813704833
+    second: Boss_Wildboar_Skill_B_Target_001_24
+  - first:
+      213: 386848447427728902
+    second: Boss_Wildboar_Skill_B_Target_001_25
+  - first:
+      213: -8339913747831099761
+    second: Boss_Wildboar_Skill_B_Target_001_26
+  - first:
+      213: 8088346082253527707
+    second: Boss_Wildboar_Skill_B_Target_001_27
+  - first:
+      213: -4009012392524364136
+    second: Boss_Wildboar_Skill_B_Target_001_28
+  - first:
+      213: 3957376391855080627
+    second: Boss_Wildboar_Skill_B_Target_001_29
+  - first:
+      213: 2590658690396969377
+    second: Boss_Wildboar_Skill_B_Target_001_30
+  - first:
+      213: -5312127092918311286
+    second: Boss_Wildboar_Skill_B_Target_001_31
+  - first:
+      213: 4472339039344151595
+    second: Boss_Wildboar_Skill_B_Target_001_32
+  - first:
+      213: -5000622379111154280
+    second: Boss_Wildboar_Skill_B_Target_001_33
+  - first:
+      213: 6474832169294601908
+    second: Boss_Wildboar_Skill_B_Target_001_34
+  - first:
+      213: 3924351806080451740
+    second: Boss_Wildboar_Skill_B_Target_001_35
+  - first:
+      213: -5905544018823365836
+    second: Boss_Wildboar_Skill_B_Target_001_36
+  - first:
+      213: 6689277409107542984
+    second: Boss_Wildboar_Skill_B_Target_001_37
+  - first:
+      213: -858853187418429360
+    second: Boss_Wildboar_Skill_B_Target_001_38
+  - first:
+      213: -5184588231117669158
+    second: Boss_Wildboar_Skill_B_Target_001_39
+  - first:
+      213: 4566214604178563342
+    second: Boss_Wildboar_Skill_B_Target_001_40
+  - first:
+      213: -6493962925480655387
+    second: Boss_Wildboar_Skill_B_Target_001_41
+  - first:
+      213: 5655823874388660027
+    second: Boss_Wildboar_Skill_B_Target_001_42
+  - first:
+      213: -6885914757857221559
+    second: Boss_Wildboar_Skill_B_Target_001_43
+  - first:
+      213: 4294572618148190047
+    second: Boss_Wildboar_Skill_B_Target_001_44
+  - first:
+      213: -3831937550151961298
+    second: Boss_Wildboar_Skill_B_Target_001_45
+  - first:
+      213: -4723768053143516579
+    second: Boss_Wildboar_Skill_B_Target_001_46
+  - first:
+      213: -8071309550731996074
+    second: Boss_Wildboar_Skill_B_Target_001_47
+  - first:
+      213: -2483453644893888968
+    second: Boss_Wildboar_Skill_B_Target_001_48
+  - first:
+      213: -4489560237282456512
+    second: Boss_Wildboar_Skill_B_Target_001_49
+  - first:
+      213: 508427149038714939
+    second: Boss_Wildboar_Skill_B_Target_001_50
+  - first:
+      213: 48659106131165392
+    second: Boss_Wildboar_Skill_B_Target_001_51
+  - first:
+      213: 7176489265082073914
+    second: Boss_Wildboar_Skill_B_Target_001_52
+  - first:
+      213: -78537502644832445
+    second: Boss_Wildboar_Skill_B_Target_001_53
+  - first:
+      213: -650264508281528978
+    second: Boss_Wildboar_Skill_B_Target_001_54
+  - first:
+      213: 2101340742423544875
+    second: Boss_Wildboar_Skill_B_Target_001_55
+  - first:
+      213: 4551533165967599732
+    second: Boss_Wildboar_Skill_B_Target_001_56
+  - first:
+      213: 6730494220476860672
+    second: Boss_Wildboar_Skill_B_Target_001_57
+  - first:
+      213: -4408153353389875454
+    second: Boss_Wildboar_Skill_B_Target_001_58
+  - first:
+      213: 3530459429929081142
+    second: Boss_Wildboar_Skill_B_Target_001_59
+  - first:
+      213: 6139223842387313564
+    second: Boss_Wildboar_Skill_B_Target_001_60
+  - first:
+      213: -6343040256811486903
+    second: Boss_Wildboar_Skill_B_Target_001_61
+  - first:
+      213: -8730576783192352173
+    second: Boss_Wildboar_Skill_B_Target_001_62
+  - first:
+      213: -1079017475612050059
+    second: Boss_Wildboar_Skill_B_Target_001_63
+  - first:
+      213: -2073535292612373981
+    second: Boss_Wildboar_Skill_B_Target_001_64
+  - first:
+      213: -4106624150296613039
+    second: Boss_Wildboar_Skill_B_Target_001_65
+  - first:
+      213: -6365367380715940513
+    second: Boss_Wildboar_Skill_B_Target_001_66
+  - first:
+      213: 247324253405099923
+    second: Boss_Wildboar_Skill_B_Target_001_67
+  - first:
+      213: 2723141841984593038
+    second: Boss_Wildboar_Skill_B_Target_001_68
+  - first:
+      213: -5347847890797325363
+    second: Boss_Wildboar_Skill_B_Target_001_69
+  - first:
+      213: 2575588857229851877
+    second: Boss_Wildboar_Skill_B_Target_001_70
+  - first:
+      213: -6253211237578357978
+    second: Boss_Wildboar_Skill_B_Target_001_71
+  - first:
+      213: 5769196101242632047
+    second: Boss_Wildboar_Skill_B_Target_001_72
+  - first:
+      213: 8397439384897049058
+    second: Boss_Wildboar_Skill_B_Target_001_73
+  - first:
+      213: -8376818118523100438
+    second: Boss_Wildboar_Skill_B_Target_001_74
+  - first:
+      213: 1191297014906829437
+    second: Boss_Wildboar_Skill_B_Target_001_75
+  - first:
+      213: -4456679503932738101
+    second: Boss_Wildboar_Skill_B_Target_001_76
+  - first:
+      213: -5826461456391827165
+    second: Boss_Wildboar_Skill_B_Target_001_77
+  - first:
+      213: -2475232690361262470
+    second: Boss_Wildboar_Skill_B_Target_001_78
+  - first:
+      213: 5910817755166342175
+    second: Boss_Wildboar_Skill_B_Target_001_79
+  - first:
+      213: 57757581149414839
+    second: Boss_Wildboar_Skill_B_Target_001_80
+  - first:
+      213: -5768792548494155562
+    second: Boss_Wildboar_Skill_B_Target_001_81
+  - first:
+      213: -6127889113116203966
+    second: Boss_Wildboar_Skill_B_Target_001_82
+  - first:
+      213: 687459420270384924
+    second: Boss_Wildboar_Skill_B_Target_001_83
+  - first:
+      213: 3186871753619167090
+    second: Boss_Wildboar_Skill_B_Target_001_84
+  - first:
+      213: 4621341892195071231
+    second: Boss_Wildboar_Skill_B_Target_001_85
+  - first:
+      213: -7058411002785078621
+    second: Boss_Wildboar_Skill_B_Target_001_86
+  - first:
+      213: 696576425421609918
+    second: Boss_Wildboar_Skill_B_Target_001_87
+  - first:
+      213: -6300776712701075568
+    second: Boss_Wildboar_Skill_B_Target_001_88
+  - first:
+      213: 8009783809194815226
+    second: Boss_Wildboar_Skill_B_Target_001_89
+  - first:
+      213: 732769632665993416
+    second: Boss_Wildboar_Skill_B_Target_001_90
+  - first:
+      213: 7751301021859439035
+    second: Boss_Wildboar_Skill_B_Target_001_91
+  - first:
+      213: -2512908360389662659
+    second: Boss_Wildboar_Skill_B_Target_001_92
+  - first:
+      213: 1668634895539311875
+    second: Boss_Wildboar_Skill_B_Target_001_93
+  - first:
+      213: -1265492250672377189
+    second: Boss_Wildboar_Skill_B_Target_001_94
+  - first:
+      213: -2786822713230667620
+    second: Boss_Wildboar_Skill_B_Target_001_95
+  - first:
+      213: -6356062879074835784
+    second: Boss_Wildboar_Skill_B_Target_001_96
+  - first:
+      213: -3321026498188164822
+    second: Boss_Wildboar_Skill_B_Target_001_97
+  - first:
+      213: 4023650016608519311
+    second: Boss_Wildboar_Skill_B_Target_001_98
+  - first:
+      213: -8580974268110525842
+    second: Boss_Wildboar_Skill_B_Target_001_99
+  - first:
+      213: -4559413503233085256
+    second: Boss_Wildboar_Skill_B_Target_001_100
+  - first:
+      213: 599063215612742525
+    second: Boss_Wildboar_Skill_B_Target_001_101
+  - first:
+      213: 2977792961181414160
+    second: Boss_Wildboar_Skill_B_Target_001_102
+  - first:
+      213: 691510367808418318
+    second: Boss_Wildboar_Skill_B_Target_001_103
+  - first:
+      213: -3397539681103570794
+    second: Boss_Wildboar_Skill_B_Target_001_104
+  - first:
+      213: -8960260608312838066
+    second: Boss_Wildboar_Skill_B_Target_001_105
+  - first:
+      213: -4422566880829012789
+    second: Boss_Wildboar_Skill_B_Target_001_106
+  - first:
+      213: -4087892768953224630
+    second: Boss_Wildboar_Skill_B_Target_001_107
+  - first:
+      213: -8048692654009086923
+    second: Boss_Wildboar_Skill_B_Target_001_108
+  - first:
+      213: 5039592828803718472
+    second: Boss_Wildboar_Skill_B_Target_001_109
+  - first:
+      213: 6181945418703780136
+    second: Boss_Wildboar_Skill_B_Target_001_110
+  - first:
+      213: 3853516881354572268
+    second: Boss_Wildboar_Skill_B_Target_001_111
+  - first:
+      213: -666243866299436811
+    second: Boss_Wildboar_Skill_B_Target_001_112
+  - first:
+      213: 5757517891924611041
+    second: Boss_Wildboar_Skill_B_Target_001_113
+  - first:
+      213: 6744436870220004677
+    second: Boss_Wildboar_Skill_B_Target_001_114
+  - first:
+      213: 1798316139368149324
+    second: Boss_Wildboar_Skill_B_Target_001_115
+  - first:
+      213: -1722877807176508290
+    second: Boss_Wildboar_Skill_B_Target_001_116
+  - first:
+      213: -5933906817683295517
+    second: Boss_Wildboar_Skill_B_Target_001_117
+  - first:
+      213: 6320405066677352270
+    second: Boss_Wildboar_Skill_B_Target_001_118
+  - first:
+      213: 7497312954590690127
+    second: Boss_Wildboar_Skill_B_Target_001_119
+  - first:
+      213: -4979114571611403175
+    second: Boss_Wildboar_Skill_B_Target_001_120
+  - first:
+      213: 8764927492263045897
+    second: Boss_Wildboar_Skill_B_Target_001_121
+  - first:
+      213: 7474227440596156273
+    second: Boss_Wildboar_Skill_B_Target_001_122
+  - first:
+      213: -6592027573455669376
+    second: Boss_Wildboar_Skill_B_Target_001_123
+  - first:
+      213: -4656056652446793356
+    second: Boss_Wildboar_Skill_B_Target_001_124
+  - first:
+      213: -6789657229496992340
+    second: Boss_Wildboar_Skill_B_Target_001_125
+  - first:
+      213: -8144730593541820958
+    second: Boss_Wildboar_Skill_B_Target_001_126
+  - first:
+      213: -5722951729876449949
+    second: Boss_Wildboar_Skill_B_Target_001_127
+  - first:
+      213: 2553515258969057836
+    second: Boss_Wildboar_Skill_B_Target_001_128
+  - first:
+      213: -5860876046532516470
+    second: Boss_Wildboar_Skill_B_Target_001_129
+  - first:
+      213: 7377533057261190719
+    second: Boss_Wildboar_Skill_B_Target_001_130
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5469ae88504ce438b7301ae0ef23cf
+      internalID: -1033024922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ed474f524fa5343bd2cb60c1e09a3a
+      internalID: -1017535004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f666e2194742e4c9b4e89bd700d6c3
+      internalID: 1596249587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a542dd3f934c6740b8d40e50cf382d9
+      internalID: -764863769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d074eb4216017b439d684de4671aa52
+      internalID: -1033648807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92bf4e7dd5ba5645b067ce577d84551
+      internalID: -1386280556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e605358e15d823245befa48c209c31e1
+      internalID: -523330220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8252d192d50ac2a49ab3569d568d4a64
+      internalID: -1692845187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3414f92320a42d84bad99953d454a674
+      internalID: 907829071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03e2a5f889bc93429d08996a495f1d1
+      internalID: -1168551270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd56d01ef4de204e98c2bbd10059a51
+      internalID: 1271906885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd78f6a2ed7cd14d9e72e600e9a7b67
+      internalID: 1267518116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5152b78fd617a284cb52a7262a5e5e79
+      internalID: -1755299566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d89543e145703448141142c9c0964c
+      internalID: 1585684452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997481c587bd2864b8f41b34745f4e12
+      internalID: 938727597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_001_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ddbf9e5cb64a843ac12c5bfd5f363a
+      internalID: -956469301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 64cdc7ad0ca75784fb053b48675fef69
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_boss_skill_attack_hit_001_0: -1033024922
+      sp_boss_skill_attack_hit_001_1: -1017535004
+      sp_boss_skill_attack_hit_001_10: 1271906885
+      sp_boss_skill_attack_hit_001_11: 1267518116
+      sp_boss_skill_attack_hit_001_12: -1755299566
+      sp_boss_skill_attack_hit_001_13: 1585684452
+      sp_boss_skill_attack_hit_001_14: 938727597
+      sp_boss_skill_attack_hit_001_15: -956469301
+      sp_boss_skill_attack_hit_001_2: 1596249587
+      sp_boss_skill_attack_hit_001_3: -764863769
+      sp_boss_skill_attack_hit_001_4: -1033648807
+      sp_boss_skill_attack_hit_001_5: -1386280556
+      sp_boss_skill_attack_hit_001_6: -523330220
+      sp_boss_skill_attack_hit_001_7: -1692845187
+      sp_boss_skill_attack_hit_001_8: 907829071
+      sp_boss_skill_attack_hit_001_9: -1168551270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 59cdc1a17bdc87a43bac04792af75ae0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3626588536199727449
+    second: spi_mon_boss_dragon_0
+  - first:
+      213: -2974618726688187202
+    second: spi_mon_boss_dragon_1
+  - first:
+      213: -4020445937968951920
+    second: spi_mon_boss_dragon_2
+  - first:
+      213: -1978579692946331660
+    second: spi_mon_boss_dragon_3
+  - first:
+      213: 3752389014824243348
+    second: spi_mon_boss_dragon_4
+  - first:
+      213: -2614314190386378871
+    second: spi_mon_boss_dragon_5
+  - first:
+      213: -6509343349124139121
+    second: spi_mon_boss_dragon_6
+  - first:
+      213: -6724938945215395466
+    second: spi_mon_boss_dragon_7
+  - first:
+      213: 3183969906422307022
+    second: spi_mon_boss_dragon_8
+  - first:
+      213: -8470289306026436645
+    second: spi_mon_boss_dragon_9
+  - first:
+      213: 3141040126144282877
+    second: spi_mon_boss_dragon_10
+  - first:
+      213: -6722412534024513341
+    second: spi_mon_boss_dragon_11
+  - first:
+      213: 5492594954300636973
+    second: spi_mon_boss_dragon_12
+  - first:
+      213: -5738160722242224110
+    second: spi_mon_boss_dragon_13
+  - first:
+      213: -8866073473954514597
+    second: spi_mon_boss_dragon_14
+  - first:
+      213: 6008461647857819313
+    second: spi_mon_boss_dragon_15
+  - first:
+      213: -5049528034678610651
+    second: spi_mon_boss_dragon_16
+  - first:
+      213: -3229444200892437818
+    second: spi_mon_boss_dragon_17
+  - first:
+      213: -6510281304194639776
+    second: spi_mon_boss_dragon_18
+  - first:
+      213: 1744573782958364007
+    second: spi_mon_boss_dragon_19
+  - first:
+      213: -2196536714143262719
+    second: spi_mon_boss_dragon_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 485
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95940b62f0b345230800000000000000
+      internalID: 3626588536199727449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 426
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc968d370808b6d0800000000000000
+      internalID: -2974618726688187202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 458
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dc2bc78b18438c0800000000000000
+      internalID: -4020445937968951920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 226
+        width: 133
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7e122904caa84e0800000000000000
+      internalID: -1978579692946331660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 352
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4905daf8de9231430800000000000000
+      internalID: 3752389014824243348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 267
+        width: 105
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987c1c6581718bbd0800000000000000
+      internalID: -2614314190386378871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_6
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 266
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87776246ba2aa5a0800000000000000
+      internalID: -6509343349124139121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_7
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 227
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6790f3ad8a73ca2a0800000000000000
+      internalID: -6724938945215395466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 135
+        width: 156
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8d5dfa2cbbf2c20800000000000000
+      internalID: 3183969906422307022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2
+        width: 168
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd71181f0cc737a80800000000000000
+      internalID: -8470289306026436645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_10
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 135
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df004105a57379b20800000000000000
+      internalID: 3141040126144282877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_11
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2
+        width: 197
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8d5dbca6135b2a0800000000000000
+      internalID: -6722412534024513341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1
+        width: 199
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f313a820e993c40800000000000000
+      internalID: 5492594954300636973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_13
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1
+        width: 193
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21047a6a935fd50b0800000000000000
+      internalID: -5738160722242224110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_14
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 2
+        width: 168
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b597d60662165f480800000000000000
+      internalID: -8866073473954514597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_15
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 120
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be9f17d808526350800000000000000
+      internalID: 6008461647857819313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_16
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1
+        width: 226
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525ea9981097ce9b0800000000000000
+      internalID: -5049528034678610651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_17
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2
+        width: 180
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca6cdf0c95be23d0800000000000000
+      internalID: -3229444200892437818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_18
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 2
+        width: 156
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0689c9395a5d6a5a0800000000000000
+      internalID: -6510281304194639776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_19
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 115
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76551b9cc98f53810800000000000000
+      internalID: 1744573782958364007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_dragon_20
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10813690f755481e0800000000000000
+      internalID: -2196536714143262719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_boss_dragon_0: 3626588536199727449
+      spi_mon_boss_dragon_1: -2974618726688187202
+      spi_mon_boss_dragon_10: 3141040126144282877
+      spi_mon_boss_dragon_11: -6722412534024513341
+      spi_mon_boss_dragon_12: 5492594954300636973
+      spi_mon_boss_dragon_13: -5738160722242224110
+      spi_mon_boss_dragon_14: -8866073473954514597
+      spi_mon_boss_dragon_15: 6008461647857819313
+      spi_mon_boss_dragon_16: -5049528034678610651
+      spi_mon_boss_dragon_17: -3229444200892437818
+      spi_mon_boss_dragon_18: -6510281304194639776
+      spi_mon_boss_dragon_19: 1744573782958364007
+      spi_mon_boss_dragon_2: -4020445937968951920
+      spi_mon_boss_dragon_20: -2196536714143262719
+      spi_mon_boss_dragon_3: -1978579692946331660
+      spi_mon_boss_dragon_4: 3752389014824243348
+      spi_mon_boss_dragon_5: -2614314190386378871
+      spi_mon_boss_dragon_6: -6509343349124139121
+      spi_mon_boss_dragon_7: -6724938945215395466
+      spi_mon_boss_dragon_8: 3183969906422307022
+      spi_mon_boss_dragon_9: -8470289306026436645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

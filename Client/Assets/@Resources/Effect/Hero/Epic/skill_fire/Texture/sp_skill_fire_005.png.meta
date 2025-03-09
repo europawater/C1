@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: 25373d0c494c03a4c8ebf18845c2be96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -880723569717629362
+    second: Boss_wizard_skill_b_hit_001_0
+  - first:
+      213: 4023522094950397513
+    second: Boss_wizard_skill_b_hit_001_1
+  - first:
+      213: 4917588072273477697
+    second: Boss_wizard_skill_b_hit_001_2
+  - first:
+      213: -5290031253471322257
+    second: Boss_wizard_skill_b_hit_001_3
+  - first:
+      213: -7802813940973268314
+    second: Boss_wizard_skill_b_hit_001_4
+  - first:
+      213: -3318359569797193192
+    second: Boss_wizard_skill_b_hit_001_5
+  - first:
+      213: 1412930580123239554
+    second: Boss_wizard_skill_b_hit_001_6
+  - first:
+      213: -7150476237999207167
+    second: Boss_wizard_skill_b_hit_001_7
+  - first:
+      213: -272414439845768760
+    second: Boss_wizard_skill_b_hit_001_8
+  - first:
+      213: 3065286896689392089
+    second: Boss_wizard_skill_b_hit_001_9
+  - first:
+      213: 5201325977144851378
+    second: Boss_wizard_skill_b_hit_001_10
+  - first:
+      213: -1396499388705469089
+    second: Boss_wizard_skill_b_hit_001_11
+  - first:
+      213: -7278604400300261918
+    second: Boss_wizard_skill_b_hit_001_12
+  - first:
+      213: 7961742116010204262
+    second: Boss_wizard_skill_b_hit_001_13
+  - first:
+      213: -7765306522275505697
+    second: Boss_wizard_skill_b_hit_001_14
+  - first:
+      213: -5175252738181020412
+    second: Boss_wizard_skill_b_hit_001_15
+  - first:
+      213: 4117848371414711663
+    second: Boss_wizard_skill_b_hit_001_16
+  - first:
+      213: 4493295341184752666
+    second: Boss_wizard_skill_b_hit_001_17
+  - first:
+      213: 6298751077244027182
+    second: Boss_wizard_skill_b_hit_001_18
+  - first:
+      213: -669866757358654998
+    second: Boss_wizard_skill_b_hit_001_19
+  - first:
+      213: 246848101933886357
+    second: Boss_wizard_skill_b_hit_001_20
+  - first:
+      213: 8466192132333320178
+    second: Boss_wizard_skill_b_hit_001_21
+  - first:
+      213: -3967099289127092024
+    second: Boss_wizard_skill_b_hit_001_22
+  - first:
+      213: 1214924717801507963
+    second: Boss_wizard_skill_b_hit_001_23
+  - first:
+      213: 9177118493863233490
+    second: Boss_wizard_skill_b_hit_001_24
+  - first:
+      213: 3856967260719064964
+    second: Boss_wizard_skill_b_hit_001_25
+  - first:
+      213: -6627568431371243286
+    second: Boss_wizard_skill_b_hit_001_26
+  - first:
+      213: 6495681377974798091
+    second: Boss_wizard_skill_b_hit_001_27
+  - first:
+      213: -1336677135116149393
+    second: Boss_wizard_skill_b_hit_001_28
+  - first:
+      213: -6145042469511030378
+    second: Boss_wizard_skill_b_hit_001_29
+  - first:
+      213: -9183646536952074803
+    second: Boss_wizard_skill_b_hit_001_30
+  - first:
+      213: -1332810886222964908
+    second: Boss_wizard_skill_b_hit_001_31
+  - first:
+      213: 6123550489985048877
+    second: Boss_wizard_skill_b_hit_001_32
+  - first:
+      213: -2093175082759309561
+    second: Boss_wizard_skill_b_hit_001_33
+  - first:
+      213: -1571353155216755688
+    second: Boss_wizard_skill_b_hit_001_34
+  - first:
+      213: -7646385029472974740
+    second: Boss_wizard_skill_b_hit_001_35
+  - first:
+      213: -3628096497806689168
+    second: Boss_wizard_skill_b_hit_001_36
+  - first:
+      213: 5515514198905657410
+    second: Boss_wizard_skill_b_hit_001_37
+  - first:
+      213: -4357272997685554990
+    second: Boss_wizard_skill_b_hit_001_38
+  - first:
+      213: 5036192125492856490
+    second: Boss_wizard_skill_b_hit_001_39
+  - first:
+      213: 5806046447542362566
+    second: Boss_wizard_skill_b_hit_001_40
+  - first:
+      213: 9184279281434468502
+    second: Boss_wizard_skill_b_hit_001_41
+  - first:
+      213: -3724633254920312380
+    second: Boss_wizard_skill_b_hit_001_42
+  - first:
+      213: -2140328969981772463
+    second: Boss_wizard_skill_b_hit_001_43
+  - first:
+      213: -1072940146570945558
+    second: Boss_wizard_skill_b_hit_001_44
+  - first:
+      213: 3259700742262125900
+    second: Boss_wizard_skill_b_hit_001_45
+  - first:
+      213: 2081386666468915591
+    second: Boss_wizard_skill_b_hit_001_46
+  - first:
+      213: -6546180901688245694
+    second: Boss_wizard_skill_b_hit_001_47
+  - first:
+      213: 5555486043033814033
+    second: Boss_wizard_skill_b_hit_001_48
+  - first:
+      213: 4406942532025109296
+    second: Boss_wizard_skill_b_hit_001_49
+  - first:
+      213: 6402634855123360705
+    second: Boss_wizard_skill_b_hit_001_50
+  - first:
+      213: -1726989147164950657
+    second: Boss_wizard_skill_b_hit_001_51
+  - first:
+      213: 6215507388208694398
+    second: Boss_wizard_skill_b_hit_001_52
+  - first:
+      213: -8672473765128031302
+    second: Boss_wizard_skill_b_hit_001_53
+  - first:
+      213: -8637297521808257887
+    second: Boss_wizard_skill_b_hit_001_54
+  - first:
+      213: -6634203682013548089
+    second: Boss_wizard_skill_b_hit_001_55
+  - first:
+      213: 844500713230776492
+    second: Boss_wizard_skill_b_hit_001_56
+  - first:
+      213: -8569621018578062538
+    second: Boss_wizard_skill_b_hit_001_57
+  - first:
+      213: -3297180666259772869
+    second: Boss_wizard_skill_b_hit_001_58
+  - first:
+      213: 5131371381080390325
+    second: Boss_wizard_skill_b_hit_001_59
+  - first:
+      213: -263818565489796595
+    second: Boss_wizard_skill_b_hit_001_60
+  - first:
+      213: -2219839464292405595
+    second: Boss_wizard_skill_b_hit_001_61
+  - first:
+      213: -6658998018329601994
+    second: Boss_wizard_skill_b_hit_001_62
+  - first:
+      213: -7609356877363141998
+    second: Boss_wizard_skill_b_hit_001_63
+  - first:
+      213: 3038239082849032461
+    second: Boss_wizard_skill_b_hit_001_64
+  - first:
+      213: -8842918711350458187
+    second: Boss_wizard_skill_b_hit_001_65
+  - first:
+      213: -2197412384737259844
+    second: Boss_wizard_skill_b_hit_001_66
+  - first:
+      213: -134524367208979685
+    second: Boss_wizard_skill_b_hit_001_67
+  - first:
+      213: -1789160324843285863
+    second: Boss_wizard_skill_b_hit_001_68
+  - first:
+      213: 8715187411782748613
+    second: Boss_wizard_skill_b_hit_001_69
+  - first:
+      213: -5918895776978745459
+    second: Boss_wizard_skill_b_hit_001_70
+  - first:
+      213: -8368436752900100444
+    second: Boss_wizard_skill_b_hit_001_71
+  - first:
+      213: -395606242110331034
+    second: Boss_wizard_skill_b_hit_001_72
+  - first:
+      213: 4637200157450090744
+    second: Boss_wizard_skill_b_hit_001_73
+  - first:
+      213: 599124014459267726
+    second: Boss_wizard_skill_b_hit_001_74
+  - first:
+      213: -6093540118578963045
+    second: Boss_wizard_skill_b_hit_001_75
+  - first:
+      213: -7458738287048217545
+    second: Boss_wizard_skill_b_hit_001_76
+  - first:
+      213: -3691092392956852864
+    second: Boss_wizard_skill_b_hit_001_77
+  - first:
+      213: 3561999850515338233
+    second: Boss_wizard_skill_b_hit_001_78
+  - first:
+      213: -3668061833095322911
+    second: Boss_wizard_skill_b_hit_001_79
+  - first:
+      213: -5348597314584253121
+    second: Boss_wizard_skill_b_hit_001_80
+  - first:
+      213: -402277671155535683
+    second: Boss_wizard_skill_b_hit_001_81
+  - first:
+      213: 7948190477521269274
+    second: Boss_wizard_skill_b_hit_001_82
+  - first:
+      213: 8239660016476384764
+    second: Boss_wizard_skill_b_hit_001_83
+  - first:
+      213: 291043349545168619
+    second: Boss_wizard_skill_b_hit_001_84
+  - first:
+      213: 5559203440545077115
+    second: Boss_wizard_skill_b_hit_001_85
+  - first:
+      213: 3623279387536913416
+    second: Boss_wizard_skill_b_hit_001_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60be941fab3fc734dbaa7ada240fcf4e
+      internalID: 1574168519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93be925c7948b36408c014e13a8052a7
+      internalID: -2097714207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c23b9af4bdde64883e3b672f80a7b3
+      internalID: -1451233271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07e3cd39566ca44994580dc223884cf
+      internalID: -795480368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969131211fbe6bb4ab03e98527fb73eb
+      internalID: -1581609244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f5fd8642c5c5348af14269e0a6b9f3
+      internalID: -1378688606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6dd3f4b30b87041b662aa9e79122b9
+      internalID: 604466347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e84a06205c2ac43a9d09599ed199ef
+      internalID: -1299826318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90a8fe18876b0c428a68e77f7ea57e2
+      internalID: -504767190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0311270f4c7ccaf4fa1d601706197b3a
+      internalID: 906843375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba02fe0d4dc35b428c16cd539b5117f
+      internalID: -154824547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4088036ffeded4b8f12ca1f06c1d4e
+      internalID: -1418688654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cb5568a147d7b4dbacf8effd410f02
+      internalID: -1907141243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00deb30c3accbd6448e6cdc03acfe138
+      internalID: -1355111868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877dfba5ec5313844b356152c74a51b4
+      internalID: 1607067678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_wizard_skill_b_hit_001_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40711be566bd40468bdf9dc5e3a0e67
+      internalID: 116223927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: afda320f90111824e82b4149ab12c21d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boss_wizard_skill_b_hit_001_0: 1574168519
+      Boss_wizard_skill_b_hit_001_1: -2097714207
+      Boss_wizard_skill_b_hit_001_10: -154824547
+      Boss_wizard_skill_b_hit_001_11: -1418688654
+      Boss_wizard_skill_b_hit_001_12: -1907141243
+      Boss_wizard_skill_b_hit_001_13: -1355111868
+      Boss_wizard_skill_b_hit_001_14: 1607067678
+      Boss_wizard_skill_b_hit_001_15: 116223927
+      Boss_wizard_skill_b_hit_001_2: -1451233271
+      Boss_wizard_skill_b_hit_001_3: -795480368
+      Boss_wizard_skill_b_hit_001_4: -1581609244
+      Boss_wizard_skill_b_hit_001_5: -1378688606
+      Boss_wizard_skill_b_hit_001_6: 604466347
+      Boss_wizard_skill_b_hit_001_7: -1299826318
+      Boss_wizard_skill_b_hit_001_8: -504767190
+      Boss_wizard_skill_b_hit_001_9: 906843375
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

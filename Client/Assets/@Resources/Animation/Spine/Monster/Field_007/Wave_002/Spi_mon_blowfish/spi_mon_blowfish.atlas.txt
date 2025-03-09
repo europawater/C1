@@ -1,0 +1,15 @@
+spi_mon_blowfish.png
+size:256,256
+filter:Linear,Linear
+pma:true
+body
+bounds:2,43,134,199
+offsets:1,1,136,201
+fin
+bounds:2,2,39,52
+offsets:1,1,41,54
+rotate:90
+shadow
+bounds:138,106,136,67
+offsets:20,12,175,91
+rotate:90

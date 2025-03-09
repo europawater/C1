@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 57a2b9797e9bf1d47b30c273f09492c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8972300176946883302
+    second: spi_mon_boss_priest_skeleton_0
+  - first:
+      213: -392444326647908257
+    second: spi_mon_boss_priest_skeleton_1
+  - first:
+      213: 8118489582617383759
+    second: spi_mon_boss_priest_skeleton_2
+  - first:
+      213: -2269656081754323593
+    second: spi_mon_boss_priest_skeleton_3
+  - first:
+      213: 5693221752811607471
+    second: spi_mon_boss_priest_skeleton_4
+  - first:
+      213: -4488275711195446028
+    second: spi_mon_boss_priest_skeleton_5
+  - first:
+      213: 494064681490629612
+    second: spi_mon_boss_priest_skeleton_6
+  - first:
+      213: 1205954045130297892
+    second: spi_mon_boss_priest_skeleton_7
+  - first:
+      213: -470078161544868545
+    second: spi_mon_boss_priest_skeleton_8
+  - first:
+      213: 4625793813483986710
+    second: spi_mon_boss_priest_skeleton_9
+  - first:
+      213: -2640308531625178669
+    second: spi_mon_boss_priest_skeleton_10
+  - first:
+      213: -8572512627994437676
+    second: spi_mon_boss_priest_skeleton_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_boss_priest_skeleton_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 382
+        width: 161
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eae7114973048c70800000000000000
+      internalID: 8972300176946883302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_priest_skeleton_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 116
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58b804d6f1cd8af0800000000000000
+      internalID: -392444326647908257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_priest_skeleton_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 371
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f435e94034baaa070800000000000000
+      internalID: 8118489582617383759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_priest_skeleton_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 371
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7758abc91df8080e0800000000000000
+      internalID: -2269656081754323593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_priest_skeleton_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 365
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5dcdb2503620f40800000000000000
+      internalID: 5693221752811607471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_priest_skeleton_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 362
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f48e24450176b1c0800000000000000
+      internalID: -4488275711195446028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_priest_skeleton_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 242
+        width: 161
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3c05cc5354bd600800000000000000
+      internalID: 494064681490629612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_priest_skeleton_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 284
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422df6b80d86cb010800000000000000
+      internalID: 1205954045130297892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_priest_skeleton_8
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 284
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d03741762f979f0800000000000000
+      internalID: -470078161544868545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_priest_skeleton_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 15
+        width: 181
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f99e007fe123040800000000000000
+      internalID: 4625793813483986710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_priest_skeleton_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 12
+        width: 204
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d94c03216dbb5bd0800000000000000
+      internalID: -2640308531625178669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_priest_skeleton_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 185
+        width: 186
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d757d71f21580980800000000000000
+      internalID: -8572512627994437676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_boss_priest_skeleton_0: 8972300176946883302
+      spi_mon_boss_priest_skeleton_1: -392444326647908257
+      spi_mon_boss_priest_skeleton_10: -2640308531625178669
+      spi_mon_boss_priest_skeleton_11: -8572512627994437676
+      spi_mon_boss_priest_skeleton_2: 8118489582617383759
+      spi_mon_boss_priest_skeleton_3: -2269656081754323593
+      spi_mon_boss_priest_skeleton_4: 5693221752811607471
+      spi_mon_boss_priest_skeleton_5: -4488275711195446028
+      spi_mon_boss_priest_skeleton_6: 494064681490629612
+      spi_mon_boss_priest_skeleton_7: 1205954045130297892
+      spi_mon_boss_priest_skeleton_8: -470078161544868545
+      spi_mon_boss_priest_skeleton_9: 4625793813483986710
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

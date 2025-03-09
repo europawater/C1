@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: 75df0f7198fdcdb40a81d606abf736f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4084396027136912680
+    second: sp_skill_lightning_hit_001_0
+  - first:
+      213: -8842316266758518710
+    second: sp_skill_lightning_hit_001_1
+  - first:
+      213: -8555225605377779101
+    second: sp_skill_lightning_hit_001_2
+  - first:
+      213: 597597347145212919
+    second: sp_skill_lightning_hit_001_3
+  - first:
+      213: 2936828407498496479
+    second: sp_skill_lightning_hit_001_4
+  - first:
+      213: 2906321913066693742
+    second: sp_skill_lightning_hit_001_5
+  - first:
+      213: -6448598170751199413
+    second: sp_skill_lightning_hit_001_6
+  - first:
+      213: -2439959920126733202
+    second: sp_skill_lightning_hit_001_7
+  - first:
+      213: 3484505368756322857
+    second: sp_skill_lightning_hit_001_8
+  - first:
+      213: 1603776906407656762
+    second: sp_skill_lightning_hit_001_9
+  - first:
+      213: 2708034862758610651
+    second: sp_skill_lightning_hit_001_10
+  - first:
+      213: 1671360768074982802
+    second: sp_skill_lightning_hit_001_11
+  - first:
+      213: 3388654444443583022
+    second: sp_skill_lightning_hit_001_12
+  - first:
+      213: -4854145336163349050
+    second: sp_skill_lightning_hit_001_13
+  - first:
+      213: -6677028386194114748
+    second: sp_skill_lightning_hit_001_14
+  - first:
+      213: 2554884048119998281
+    second: sp_skill_lightning_hit_001_15
+  - first:
+      213: -4512821434636581080
+    second: sp_skill_lightning_hit_001_16
+  - first:
+      213: 7023013796124307906
+    second: sp_skill_lightning_hit_001_17
+  - first:
+      213: 1122843453759749701
+    second: sp_skill_lightning_hit_001_18
+  - first:
+      213: -7998012765355691094
+    second: sp_skill_lightning_hit_001_19
+  - first:
+      213: 9043923978472735769
+    second: sp_skill_lightning_hit_001_20
+  - first:
+      213: -3436013288720405133
+    second: sp_skill_lightning_hit_001_21
+  - first:
+      213: 3461072683705963351
+    second: sp_skill_lightning_hit_001_22
+  - first:
+      213: -8665443661560919384
+    second: sp_skill_lightning_hit_001_23
+  - first:
+      213: -1920229809125198819
+    second: sp_skill_lightning_hit_001_24
+  - first:
+      213: 7596908433945038586
+    second: sp_skill_lightning_hit_001_25
+  - first:
+      213: -5792330338151799592
+    second: sp_skill_lightning_hit_001_26
+  - first:
+      213: 6597064482141267184
+    second: sp_skill_lightning_hit_001_27
+  - first:
+      213: 922536199000009437
+    second: sp_skill_lightning_hit_001_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_lightning_hit_001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddde999bfd5ecec4f9979624f79f21a5
+      internalID: -231039486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_hit_001_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a4d48b6b745454a8969426a6619e72
+      internalID: -2028704653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_hit_001_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a1c2c41d1fa2c43820a99a81b32cd7
+      internalID: -1268259606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_hit_001_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8368e8833d339947a235337eea3d873
+      internalID: 1606822848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_hit_001_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723d34b3a31dc4b40a1a69653ba23bdf
+      internalID: 1935308474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_hit_001_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df472e2e7f56f74a8536c391e65f82a
+      internalID: -1396267566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_hit_001_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00e8f06a29d7fd4e87dc66c5c3a3a69
+      internalID: 1468249397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_hit_001_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2646406f3db2cc0428a2c4ef281aa0c6
+      internalID: 1662948649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_hit_001_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff580b5c323c6184f86e000e5e7b6268
+      internalID: 1524649078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 15dc14d879ab0704d9e4199e34b6fbb8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_lightning_hit_001_0: -231039486
+      sp_skill_lightning_hit_001_1: -2028704653
+      sp_skill_lightning_hit_001_2: -1268259606
+      sp_skill_lightning_hit_001_3: 1606822848
+      sp_skill_lightning_hit_001_4: 1935308474
+      sp_skill_lightning_hit_001_5: -1396267566
+      sp_skill_lightning_hit_001_6: 1468249397
+      sp_skill_lightning_hit_001_7: 1662948649
+      sp_skill_lightning_hit_001_8: 1524649078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

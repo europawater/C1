@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: e09a15e558f23614bb146ff8a068260c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5715019200570889730
+    second: Boss_Zombie_skill_A_trail_0
+  - first:
+      213: 3277952188300448476
+    second: Boss_Zombie_skill_A_trail_1
+  - first:
+      213: -3865342354950546274
+    second: Boss_Zombie_skill_A_trail_2
+  - first:
+      213: -571561521738026415
+    second: Boss_Zombie_skill_A_trail_3
+  - first:
+      213: -8966340468239366617
+    second: Boss_Zombie_skill_A_trail_4
+  - first:
+      213: -361557877858565981
+    second: Boss_Zombie_skill_A_trail_5
+  - first:
+      213: -3822404808631919852
+    second: Boss_Zombie_skill_A_trail_6
+  - first:
+      213: 8963606990800515920
+    second: Boss_Zombie_skill_A_trail_7
+  - first:
+      213: -1633429607235042213
+    second: Boss_Zombie_skill_A_trail_8
+  - first:
+      213: -7143564445531877554
+    second: Boss_Zombie_skill_A_trail_9
+  - first:
+      213: 8063559892766119099
+    second: Boss_Zombie_skill_A_trail_10
+  - first:
+      213: -2002328101039270735
+    second: Boss_Zombie_skill_A_trail_11
+  - first:
+      213: 3713910939348743475
+    second: Boss_Zombie_skill_A_trail_12
+  - first:
+      213: -2444437604502254358
+    second: Boss_Zombie_skill_A_trail_13
+  - first:
+      213: 4644001506202972456
+    second: Boss_Zombie_skill_A_trail_14
+  - first:
+      213: 1913229899003751044
+    second: Boss_Zombie_skill_A_trail_15
+  - first:
+      213: -2010729208992148529
+    second: Boss_Zombie_skill_A_trail_16
+  - first:
+      213: 1302756622024928138
+    second: Boss_Zombie_skill_A_trail_17
+  - first:
+      213: -4115020165181208286
+    second: Boss_Zombie_skill_A_trail_18
+  - first:
+      213: -6046591538807008001
+    second: Boss_Zombie_skill_A_trail_19
+  - first:
+      213: 9085306958246330444
+    second: Boss_Zombie_skill_A_trail_20
+  - first:
+      213: -12021671260028279
+    second: Boss_Zombie_skill_A_trail_21
+  - first:
+      213: -8940389132094833654
+    second: Boss_Zombie_skill_A_trail_22
+  - first:
+      213: -4905873852368968413
+    second: Boss_Zombie_skill_A_trail_23
+  - first:
+      213: 3949347191736302180
+    second: Boss_Zombie_skill_A_trail_24
+  - first:
+      213: 8735695418757121826
+    second: Boss_Zombie_skill_A_trail_25
+  - first:
+      213: -5071504704403782345
+    second: Boss_Zombie_skill_A_trail_26
+  - first:
+      213: 1418486756382364851
+    second: Boss_Zombie_skill_A_trail_27
+  - first:
+      213: 2771310090936795908
+    second: Boss_Zombie_skill_A_trail_28
+  - first:
+      213: -4759457395703015308
+    second: Boss_Zombie_skill_A_trail_29
+  - first:
+      213: 283758914388664867
+    second: Boss_Zombie_skill_A_trail_30
+  - first:
+      213: -8065168064482104735
+    second: Boss_Zombie_skill_A_trail_31
+  - first:
+      213: -1354194303418018280
+    second: Boss_Zombie_skill_A_trail_32
+  - first:
+      213: 3556452303700949866
+    second: Boss_Zombie_skill_A_trail_33
+  - first:
+      213: 778939843976155647
+    second: Boss_Zombie_skill_A_trail_34
+  - first:
+      213: 3960639287466095586
+    second: Boss_Zombie_skill_A_trail_35
+  - first:
+      213: 1648837975688367825
+    second: Boss_Zombie_skill_A_trail_36
+  - first:
+      213: 6356119908627056205
+    second: Boss_Zombie_skill_A_trail_37
+  - first:
+      213: -4110865999366705687
+    second: Boss_Zombie_skill_A_trail_38
+  - first:
+      213: 7307551423714496066
+    second: Boss_Zombie_skill_A_trail_39
+  - first:
+      213: 1124829944375849810
+    second: Boss_Zombie_skill_A_trail_40
+  - first:
+      213: -2457731243763338438
+    second: Boss_Zombie_skill_A_trail_41
+  - first:
+      213: 5126685801900435644
+    second: Boss_Zombie_skill_A_trail_42
+  - first:
+      213: 5231429662117921727
+    second: Boss_Zombie_skill_A_trail_43
+  - first:
+      213: 5105762659771057458
+    second: Boss_Zombie_skill_A_trail_44
+  - first:
+      213: -1854310063410495777
+    second: Boss_Zombie_skill_A_trail_45
+  - first:
+      213: 6462706572478453530
+    second: Boss_Zombie_skill_A_trail_46
+  - first:
+      213: 260973847254146276
+    second: Boss_Zombie_skill_A_trail_47
+  - first:
+      213: 1898385633361222688
+    second: Boss_Zombie_skill_A_trail_48
+  - first:
+      213: 1907255612501627879
+    second: Boss_Zombie_skill_A_trail_49
+  - first:
+      213: -7369518268514777990
+    second: Boss_Zombie_skill_A_trail_50
+  - first:
+      213: -28427747325500097
+    second: Boss_Zombie_skill_A_trail_51
+  - first:
+      213: -5635126464616647940
+    second: Boss_Zombie_skill_A_trail_52
+  - first:
+      213: -1377948067754575486
+    second: Boss_Zombie_skill_A_trail_53
+  - first:
+      213: -4428810343571290374
+    second: Boss_Zombie_skill_A_trail_54
+  - first:
+      213: -5169490764630619411
+    second: Boss_Zombie_skill_A_trail_55
+  - first:
+      213: 4933625828409218042
+    second: Boss_Zombie_skill_A_trail_56
+  - first:
+      213: 4925578542909293514
+    second: Boss_Zombie_skill_A_trail_57
+  - first:
+      213: -3136415532380444534
+    second: Boss_Zombie_skill_A_trail_58
+  - first:
+      213: 7708098077613742800
+    second: Boss_Zombie_skill_A_trail_59
+  - first:
+      213: -6403612593175557980
+    second: Boss_Zombie_skill_A_trail_60
+  - first:
+      213: -6089968535429737333
+    second: Boss_Zombie_skill_A_trail_61
+  - first:
+      213: 8333982043209594398
+    second: Boss_Zombie_skill_A_trail_62
+  - first:
+      213: -4229315026015367017
+    second: Boss_Zombie_skill_A_trail_63
+  - first:
+      213: -748271122343255340
+    second: Boss_Zombie_skill_A_trail_64
+  - first:
+      213: 416019178548947542
+    second: Boss_Zombie_skill_A_trail_65
+  - first:
+      213: 638894463172087804
+    second: Boss_Zombie_skill_A_trail_66
+  - first:
+      213: 6854874574878322544
+    second: Boss_Zombie_skill_A_trail_67
+  - first:
+      213: 7390143114188438482
+    second: Boss_Zombie_skill_A_trail_68
+  - first:
+      213: 1787092606520379065
+    second: Boss_Zombie_skill_A_trail_69
+  - first:
+      213: 8490910613802813038
+    second: Boss_Zombie_skill_A_trail_70
+  - first:
+      213: 5116898072493454486
+    second: Boss_Zombie_skill_A_trail_71
+  - first:
+      213: -5927087093991072583
+    second: Boss_Zombie_skill_A_trail_72
+  - first:
+      213: 3883828297078802200
+    second: Boss_Zombie_skill_A_trail_73
+  - first:
+      213: 9127617053366098331
+    second: Boss_Zombie_skill_A_trail_74
+  - first:
+      213: 8446021234455269422
+    second: Boss_Zombie_skill_A_trail_75
+  - first:
+      213: 3405768802975470853
+    second: Boss_Zombie_skill_A_trail_76
+  - first:
+      213: -106091061478610336
+    second: Boss_Zombie_skill_A_trail_77
+  - first:
+      213: 2956179336911062787
+    second: Boss_Zombie_skill_A_trail_78
+  - first:
+      213: -8205415028963217068
+    second: Boss_Zombie_skill_A_trail_79
+  - first:
+      213: 2298895553835721675
+    second: Boss_Zombie_skill_A_trail_80
+  - first:
+      213: 3418149533484229471
+    second: Boss_Zombie_skill_A_trail_81
+  - first:
+      213: 5780771498577222007
+    second: Boss_Zombie_skill_A_trail_82
+  - first:
+      213: -878078316768891309
+    second: Boss_Zombie_skill_A_trail_83
+  - first:
+      213: -3107718434736332097
+    second: Boss_Zombie_skill_A_trail_84
+  - first:
+      213: -5633109958255715533
+    second: Boss_Zombie_skill_A_trail_85
+  - first:
+      213: 5364005373198505217
+    second: Boss_Zombie_skill_A_trail_86
+  - first:
+      213: 8892053039354711263
+    second: Boss_Zombie_skill_A_trail_87
+  - first:
+      213: 8516699487470124197
+    second: Boss_Zombie_skill_A_trail_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468dca44a85b8e847b06e67ff1aafa39
+      internalID: -1415081118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f58923ad5abf7428bc4cce9645df74
+      internalID: 1276958671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b54b37f507512498c929b484b69ce6
+      internalID: -195839773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72436d09e202d9945967c2b9ce47e04c
+      internalID: -2756968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fbde1b2d8dfa040a2644074b3ab4bc
+      internalID: -1191368482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd78c9cf8e02634880d4fa955060417
+      internalID: 1786780690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1faf5113bb54041b9fe23323a59911
+      internalID: 1004606982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63e117fe92bcf94cb149a086b3ab240
+      internalID: -1851242339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45acdb8872912a2449c22df9e0aed0d5
+      internalID: -1483118215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558cea2b48bf32f48a8178ac6bf353b7
+      internalID: 602240275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e344bf6a03bbafb458b29764cf8042e5
+      internalID: -1289056605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6437d76ed8fda41a05088e807c5b1f
+      internalID: 1741293028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a14d8681fe4a424188a0ba38dd57ce4
+      internalID: -911944175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4a80bbfafc5d94e9c4e2596c6a1164
+      internalID: -674206989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4cb1ef5014e4f43a40d73903f5ff5e
+      internalID: -1321988669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_zombie_skill_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01101c6940a96ee47aa1ee7586623ce3
+      internalID: 1364369647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f546cf7c36c737640a8c4177dca9c563
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_boss_zombie_skill_0: -1415081118
+      sp_boss_zombie_skill_1: 1276958671
+      sp_boss_zombie_skill_10: -1289056605
+      sp_boss_zombie_skill_11: 1741293028
+      sp_boss_zombie_skill_12: -911944175
+      sp_boss_zombie_skill_13: -674206989
+      sp_boss_zombie_skill_14: -1321988669
+      sp_boss_zombie_skill_15: 1364369647
+      sp_boss_zombie_skill_2: -195839773
+      sp_boss_zombie_skill_3: -2756968
+      sp_boss_zombie_skill_4: -1191368482
+      sp_boss_zombie_skill_5: 1786780690
+      sp_boss_zombie_skill_6: 1004606982
+      sp_boss_zombie_skill_7: -1851242339
+      sp_boss_zombie_skill_8: -1483118215
+      sp_boss_zombie_skill_9: 602240275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

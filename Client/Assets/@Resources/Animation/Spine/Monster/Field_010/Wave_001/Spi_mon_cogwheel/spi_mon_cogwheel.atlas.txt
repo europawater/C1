@@ -1,0 +1,12 @@
+spi_mon_cogwheel.png
+size:320,172
+filter:Linear,Linear
+pma:true
+body_b
+bounds:3,3,175,165
+body_f
+bounds:181,3,95,95
+offsets:1,1,97,97
+shadow
+bounds:181,101,136,67
+offsets:20,12,175,91

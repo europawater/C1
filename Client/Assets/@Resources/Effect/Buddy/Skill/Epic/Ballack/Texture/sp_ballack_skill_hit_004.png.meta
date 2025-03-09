@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: 28bce30c1e7d3eb40af370fd57c7e386
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3747374827054157784
+    second: sp_ballack_skill_hit_004_0
+  - first:
+      213: -6844483651053816645
+    second: sp_ballack_skill_hit_004_1
+  - first:
+      213: 4761919025084781650
+    second: sp_ballack_skill_hit_004_2
+  - first:
+      213: 1154946152850271066
+    second: sp_ballack_skill_hit_004_3
+  - first:
+      213: -7348070510451365140
+    second: sp_ballack_skill_hit_004_4
+  - first:
+      213: 9176454372185339898
+    second: sp_ballack_skill_hit_004_5
+  - first:
+      213: -8177470777865421734
+    second: sp_ballack_skill_hit_004_6
+  - first:
+      213: 2814795184500888022
+    second: sp_ballack_skill_hit_004_7
+  - first:
+      213: 1442931317801011346
+    second: sp_ballack_skill_hit_004_8
+  - first:
+      213: -3557642007363129296
+    second: sp_ballack_skill_hit_004_9
+  - first:
+      213: 4018029316481751215
+    second: sp_ballack_skill_hit_004_10
+  - first:
+      213: 7088722501766906995
+    second: sp_ballack_skill_hit_004_11
+  - first:
+      213: 5514373696324320680
+    second: sp_ballack_skill_hit_004_12
+  - first:
+      213: 2097413118414680817
+    second: sp_ballack_skill_hit_004_13
+  - first:
+      213: -1087753805506810232
+    second: sp_ballack_skill_hit_004_14
+  - first:
+      213: -4723051899050158229
+    second: sp_ballack_skill_hit_004_15
+  - first:
+      213: -8706798759117143206
+    second: sp_ballack_skill_hit_004_16
+  - first:
+      213: -1600445077871338994
+    second: sp_ballack_skill_hit_004_17
+  - first:
+      213: -321922195059847976
+    second: sp_ballack_skill_hit_004_18
+  - first:
+      213: 1204498439614429787
+    second: sp_ballack_skill_hit_004_19
+  - first:
+      213: -1574510964019670689
+    second: sp_ballack_skill_hit_004_20
+  - first:
+      213: -7731818823140436842
+    second: sp_ballack_skill_hit_004_21
+  - first:
+      213: 8990164086151588046
+    second: sp_ballack_skill_hit_004_22
+  - first:
+      213: 378337289743096211
+    second: sp_ballack_skill_hit_004_23
+  - first:
+      213: -18105703600367363
+    second: sp_ballack_skill_hit_004_24
+  - first:
+      213: 8963722814936192550
+    second: sp_ballack_skill_hit_004_25
+  - first:
+      213: 8937491199786553271
+    second: sp_ballack_skill_hit_004_26
+  - first:
+      213: 6489373913601017862
+    second: sp_ballack_skill_hit_004_27
+  - first:
+      213: -8913012923857250942
+    second: sp_ballack_skill_hit_004_28
+  - first:
+      213: -1044638867104137765
+    second: sp_ballack_skill_hit_004_29
+  - first:
+      213: -1464864902590818619
+    second: sp_ballack_skill_hit_004_30
+  - first:
+      213: -1894822894911885997
+    second: sp_ballack_skill_hit_004_31
+  - first:
+      213: -6915362923578819977
+    second: sp_ballack_skill_hit_004_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e5ffc625d4d52458a4f0ab4a5ecdcd
+      internalID: 1313721330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98d1dcc44ba7ab4ca6db942681b0237
+      internalID: 757882141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734c98b7bc557144db3d880a278eb977
+      internalID: 731423723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888eb1103eee58b458dfde71800d14d3
+      internalID: 917302794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5623663da2b42b04e9fb90b91e22b53e
+      internalID: -2014687300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f66d7f322e1334b88e17fcf1caa803
+      internalID: -151938671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c809b227f69110740a69d338ae5cb8e1
+      internalID: 53438177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955731651e370f44db3dfe0afd19a558
+      internalID: 751337546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a7cbf0257814a4097dfeb425ab5728
+      internalID: -632034860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360600ea54164b141a1d789eb3e4ab92
+      internalID: 1030168964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314358f2da36df3439bb8c955f700e81
+      internalID: 1487279352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1ab6e6182cfb84193abe8ff0b5c783
+      internalID: -938971877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3a835aba0380547a2aabf491c8bfce
+      internalID: -1024897326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b83daccbcba724899fa9cc40e9c2e9
+      internalID: 1955348854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6537d746ad8724c8f1c1f583b1caa0
+      internalID: -186919675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_ballack_skill_hit_004_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b28fac05e4e99a418247b6f305e2f29
+      internalID: -624425121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 42441d033635c5e4b8b85670e7349244
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_ballack_skill_hit_004_0: 1313721330
+      sp_ballack_skill_hit_004_1: 757882141
+      sp_ballack_skill_hit_004_10: 1487279352
+      sp_ballack_skill_hit_004_11: -938971877
+      sp_ballack_skill_hit_004_12: -1024897326
+      sp_ballack_skill_hit_004_13: 1955348854
+      sp_ballack_skill_hit_004_14: -186919675
+      sp_ballack_skill_hit_004_15: -624425121
+      sp_ballack_skill_hit_004_2: 731423723
+      sp_ballack_skill_hit_004_3: 917302794
+      sp_ballack_skill_hit_004_4: -2014687300
+      sp_ballack_skill_hit_004_5: -151938671
+      sp_ballack_skill_hit_004_6: 53438177
+      sp_ballack_skill_hit_004_7: 751337546
+      sp_ballack_skill_hit_004_8: -632034860
+      sp_ballack_skill_hit_004_9: 1030168964
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

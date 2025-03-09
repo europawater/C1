@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 3038211eb3fbb9848a2d37044512ee6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5074458558387572988
+    second: spi_mon_skeleton_rare_0
+  - first:
+      213: -9081162270505140926
+    second: spi_mon_skeleton_rare_1
+  - first:
+      213: -8391764195493412581
+    second: spi_mon_skeleton_rare_2
+  - first:
+      213: -2066210783407701356
+    second: spi_mon_skeleton_rare_3
+  - first:
+      213: 8171818016745239468
+    second: spi_mon_skeleton_rare_4
+  - first:
+      213: -1189563061949826457
+    second: spi_mon_skeleton_rare_5
+  - first:
+      213: 7694976628152105204
+    second: spi_mon_skeleton_rare_6
+  - first:
+      213: 8556356899079811102
+    second: spi_mon_skeleton_rare_7
+  - first:
+      213: -2216763648620636275
+    second: spi_mon_skeleton_rare_8
+  - first:
+      213: 6527695623767457172
+    second: spi_mon_skeleton_rare_9
+  - first:
+      213: -4257063068817481981
+    second: spi_mon_skeleton_rare_10
+  - first:
+      213: 80710753343232263
+    second: spi_mon_skeleton_rare_11
+  - first:
+      213: -4479697613312579635
+    second: spi_mon_skeleton_rare_12
+  - first:
+      213: 4709323526311971730
+    second: spi_mon_skeleton_rare_13
+  - first:
+      213: -4105337905787022439
+    second: spi_mon_skeleton_rare_14
+  - first:
+      213: -6584344980027663509
+    second: spi_mon_skeleton_rare_15
+  - first:
+      213: -1492318392226924639
+    second: spi_mon_skeleton_rare_16
+  - first:
+      213: -4219132555189299908
+    second: spi_mon_skeleton_rare_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 145
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f2ed7a3d6e399b0800000000000000
+      internalID: -5074458558387572988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 110
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d7cde670b39f180800000000000000
+      internalID: -9081162270505140926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 41
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1106c8fce67a8b80800000000000000
+      internalID: -8391764195493412581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 41
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49207ef5d385353e0800000000000000
+      internalID: -2066210783407701356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 91
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3bc39a031286170800000000000000
+      internalID: 8171818016745239468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 63
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76afd8e92b2dd7fe0800000000000000
+      internalID: -1189563061949826457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f870fb397c0aca60800000000000000
+      internalID: 7694976628152105204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_7
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 61
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e107d1524494eb670800000000000000
+      internalID: 8556356899079811102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87d7fcd4397c31e0800000000000000
+      internalID: -2216763648620636275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 188
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49df788a598079a50800000000000000
+      internalID: 6527695623767457172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f13bc91bfdbe4c0800000000000000
+      internalID: -4257063068817481981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_11
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709d396a00ebe1100800000000000000
+      internalID: 80710753343232263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_12
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7a65151cae4d1c0800000000000000
+      internalID: -4479697613312579635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_13
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b073ecbc0ea5140800000000000000
+      internalID: 4709323526311971730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_14
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9935e9afce8e607c0800000000000000
+      internalID: -4105337905787022439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_15
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b13d24025bf94a0800000000000000
+      internalID: -6584344980027663509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_16
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7388334583a4be0800000000000000
+      internalID: -1492318392226924639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_rare_17
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35d7a38b41a275c0800000000000000
+      internalID: -4219132555189299908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_skeleton_rare_0: -5074458558387572988
+      spi_mon_skeleton_rare_1: -9081162270505140926
+      spi_mon_skeleton_rare_10: -4257063068817481981
+      spi_mon_skeleton_rare_11: 80710753343232263
+      spi_mon_skeleton_rare_12: -4479697613312579635
+      spi_mon_skeleton_rare_13: 4709323526311971730
+      spi_mon_skeleton_rare_14: -4105337905787022439
+      spi_mon_skeleton_rare_15: -6584344980027663509
+      spi_mon_skeleton_rare_16: -1492318392226924639
+      spi_mon_skeleton_rare_17: -4219132555189299908
+      spi_mon_skeleton_rare_2: -8391764195493412581
+      spi_mon_skeleton_rare_3: -2066210783407701356
+      spi_mon_skeleton_rare_4: 8171818016745239468
+      spi_mon_skeleton_rare_5: -1189563061949826457
+      spi_mon_skeleton_rare_6: 7694976628152105204
+      spi_mon_skeleton_rare_7: 8556356899079811102
+      spi_mon_skeleton_rare_8: -2216763648620636275
+      spi_mon_skeleton_rare_9: 6527695623767457172
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

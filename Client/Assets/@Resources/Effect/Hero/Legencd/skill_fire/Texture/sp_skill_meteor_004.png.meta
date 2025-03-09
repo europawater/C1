@@ -1,0 +1,736 @@
+fileFormatVersion: 2
+guid: d8324c61933cd9d4e96c1392cf323d50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2735832366186771040
+    second: Rogue_Skill_A_Attacker_002_0
+  - first:
+      213: -8584155091572437383
+    second: Rogue_Skill_A_Attacker_002_1
+  - first:
+      213: 75565899422649619
+    second: Rogue_Skill_A_Attacker_002_2
+  - first:
+      213: 2349217483935497147
+    second: Rogue_Skill_A_Attacker_002_3
+  - first:
+      213: 3078468768987976165
+    second: Rogue_Skill_A_Attacker_002_4
+  - first:
+      213: -7800900242520767119
+    second: Rogue_Skill_A_Attacker_002_5
+  - first:
+      213: 1852301862923416210
+    second: Rogue_Skill_A_Attacker_002_6
+  - first:
+      213: -828563959230519807
+    second: Rogue_Skill_A_Attacker_002_7
+  - first:
+      213: 5236817740575759503
+    second: Rogue_Skill_A_Attacker_002_8
+  - first:
+      213: 8942018765419427858
+    second: Rogue_Skill_A_Attacker_002_9
+  - first:
+      213: -5921166561430477937
+    second: Rogue_Skill_A_Attacker_002_10
+  - first:
+      213: 1161978718336088312
+    second: Rogue_Skill_A_Attacker_002_11
+  - first:
+      213: 6633207773198085118
+    second: Rogue_Skill_A_Attacker_002_12
+  - first:
+      213: -1770939155165144340
+    second: Rogue_Skill_A_Attacker_002_13
+  - first:
+      213: 8235565053609906608
+    second: Rogue_Skill_A_Attacker_002_14
+  - first:
+      213: 2939736556010797811
+    second: Rogue_Skill_A_Attacker_002_15
+  - first:
+      213: -8454755758838144883
+    second: Rogue_Skill_A_Attacker_002_16
+  - first:
+      213: -1027933912518128601
+    second: Rogue_Skill_A_Attacker_002_17
+  - first:
+      213: -412873334961690432
+    second: Rogue_Skill_A_Attacker_002_18
+  - first:
+      213: -4628522337425085934
+    second: Rogue_Skill_A_Attacker_002_19
+  - first:
+      213: 464902834656678189
+    second: Rogue_Skill_A_Attacker_002_20
+  - first:
+      213: -8536156541301756756
+    second: Rogue_Skill_A_Attacker_002_21
+  - first:
+      213: -3835840636430692735
+    second: Rogue_Skill_A_Attacker_002_22
+  - first:
+      213: 5576873214455539749
+    second: Rogue_Skill_A_Attacker_002_23
+  - first:
+      213: -2213042247916247068
+    second: Rogue_Skill_A_Attacker_002_24
+  - first:
+      213: -8737672163038642538
+    second: Rogue_Skill_A_Attacker_002_25
+  - first:
+      213: -8378672371809713970
+    second: Rogue_Skill_A_Attacker_002_26
+  - first:
+      213: 4299484373489264290
+    second: Rogue_Skill_A_Attacker_002_27
+  - first:
+      213: -2165631544364475093
+    second: Rogue_Skill_A_Attacker_002_28
+  - first:
+      213: 5001759186787003788
+    second: Rogue_Skill_A_Attacker_002_29
+  - first:
+      213: 7788077404190570380
+    second: Rogue_Skill_A_Attacker_002_30
+  - first:
+      213: 8935419961770473735
+    second: Rogue_Skill_A_Attacker_002_31
+  - first:
+      213: 3525401268520970333
+    second: Rogue_Skill_A_Attacker_002_32
+  - first:
+      213: 2012662642183360494
+    second: Rogue_Skill_A_Attacker_002_33
+  - first:
+      213: 9135414294016555699
+    second: Rogue_Skill_A_Attacker_002_34
+  - first:
+      213: -1011247582235341755
+    second: Rogue_Skill_A_Attacker_002_35
+  - first:
+      213: 907887353994600579
+    second: Rogue_Skill_A_Attacker_002_36
+  - first:
+      213: -7178663268603040544
+    second: Rogue_Skill_A_Attacker_002_37
+  - first:
+      213: -3407237688925515810
+    second: Rogue_Skill_A_Attacker_002_38
+  - first:
+      213: -5883024487217894148
+    second: Rogue_Skill_A_Attacker_002_39
+  - first:
+      213: 2323696974191080066
+    second: Rogue_Skill_A_Attacker_002_40
+  - first:
+      213: -8028024056056296797
+    second: Rogue_Skill_A_Attacker_002_41
+  - first:
+      213: 7635677737139475003
+    second: Rogue_Skill_A_Attacker_002_42
+  - first:
+      213: 3253753974942891535
+    second: Rogue_Skill_A_Attacker_002_43
+  - first:
+      213: 8968464831191625414
+    second: Rogue_Skill_A_Attacker_002_44
+  - first:
+      213: 8722826569941928522
+    second: Rogue_Skill_A_Attacker_002_45
+  - first:
+      213: 8080357644841445136
+    second: Rogue_Skill_A_Attacker_002_46
+  - first:
+      213: 5098495682883609308
+    second: Rogue_Skill_A_Attacker_002_47
+  - first:
+      213: 389141089907088207
+    second: Rogue_Skill_A_Attacker_002_48
+  - first:
+      213: 1286752269050953918
+    second: Rogue_Skill_A_Attacker_002_49
+  - first:
+      213: 2423378167325233110
+    second: Rogue_Skill_A_Attacker_002_50
+  - first:
+      213: 5620788405634031065
+    second: Rogue_Skill_A_Attacker_002_51
+  - first:
+      213: -7454095873062991494
+    second: Rogue_Skill_A_Attacker_002_52
+  - first:
+      213: -8155311729201858817
+    second: Rogue_Skill_A_Attacker_002_53
+  - first:
+      213: -6905325678226099483
+    second: Rogue_Skill_A_Attacker_002_54
+  - first:
+      213: 801701843484216075
+    second: Rogue_Skill_A_Attacker_002_55
+  - first:
+      213: 1243930166433911995
+    second: Rogue_Skill_A_Attacker_002_56
+  - first:
+      213: 2038994397835723005
+    second: Rogue_Skill_A_Attacker_002_57
+  - first:
+      213: -772076853778788535
+    second: Rogue_Skill_A_Attacker_002_58
+  - first:
+      213: -2660876586264606361
+    second: Rogue_Skill_A_Attacker_002_59
+  - first:
+      213: 6096990846356411013
+    second: Rogue_Skill_A_Attacker_002_60
+  - first:
+      213: 3627088812956972594
+    second: Rogue_Skill_A_Attacker_002_61
+  - first:
+      213: -2085047620719478524
+    second: Rogue_Skill_A_Attacker_002_62
+  - first:
+      213: 5964875762632797099
+    second: Rogue_Skill_A_Attacker_002_63
+  - first:
+      213: -1405520018048781909
+    second: Rogue_Skill_A_Attacker_002_64
+  - first:
+      213: -1641507765793013214
+    second: Rogue_Skill_A_Attacker_002_65
+  - first:
+      213: 1651092029849091785
+    second: Rogue_Skill_A_Attacker_002_66
+  - first:
+      213: -1914838623363886521
+    second: Rogue_Skill_A_Attacker_002_67
+  - first:
+      213: -2697206037378693413
+    second: Rogue_Skill_A_Attacker_002_68
+  - first:
+      213: -5667931910131733999
+    second: Rogue_Skill_A_Attacker_002_69
+  - first:
+      213: 1941177774762791239
+    second: Rogue_Skill_A_Attacker_002_70
+  - first:
+      213: 1306779731297490130
+    second: Rogue_Skill_A_Attacker_002_71
+  - first:
+      213: 2142979857206965725
+    second: Rogue_Skill_A_Attacker_002_72
+  - first:
+      213: 6837803422475373444
+    second: Rogue_Skill_A_Attacker_002_73
+  - first:
+      213: -4260660514202924954
+    second: Rogue_Skill_A_Attacker_002_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c22ced36bb06849b3e255e696a3dd6
+      internalID: 1951834223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4704eed934e461347bdece41fbe9ba40
+      internalID: -604672669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0304e21c32264c049a591afe8159dfb4
+      internalID: -280268130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1deaa6a285d744bb6edb75e53da927
+      internalID: 2028938132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d11c829570b154ea9a2a815de4a0b5
+      internalID: -1962482774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3410deed499e5148a89099866e1e932
+      internalID: -307381703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3457959b6425bb747aa4944e4e6567a9
+      internalID: -1035806106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc804a372e241e449b7596e9fa30b41
+      internalID: -907200090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e34aab88f3b4b344959d3bbf1bd4e15
+      internalID: 1770349737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109a83b0d4449954eba123a16413fea9
+      internalID: -211171040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf74e9d04f118494495e2ebf3027c6b6
+      internalID: -2033627425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776d9eb7da2afb4469433c8a5187437c
+      internalID: 1942545421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cbf635ae8681d4ba97ee9c719a40a5
+      internalID: -32815864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b60fefb403fd34488815795738c33a1
+      internalID: -864997704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7effab58039821648b59748f5f2a794a
+      internalID: 1885117758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_meteor_004_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327bb91d5a0a16c4bb57e977a2872566
+      internalID: -844502681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fa5b35e698fcbc64a8fe970659a86073
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_meteor_004_0: 1951834223
+      sp_skill_meteor_004_1: -604672669
+      sp_skill_meteor_004_10: -2033627425
+      sp_skill_meteor_004_11: 1942545421
+      sp_skill_meteor_004_12: -32815864
+      sp_skill_meteor_004_13: -864997704
+      sp_skill_meteor_004_14: 1885117758
+      sp_skill_meteor_004_15: -844502681
+      sp_skill_meteor_004_2: -280268130
+      sp_skill_meteor_004_3: 2028938132
+      sp_skill_meteor_004_4: -1962482774
+      sp_skill_meteor_004_5: -307381703
+      sp_skill_meteor_004_6: -1035806106
+      sp_skill_meteor_004_7: -907200090
+      sp_skill_meteor_004_8: 1770349737
+      sp_skill_meteor_004_9: -211171040
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

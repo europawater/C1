@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 00c59e000dfd2f84bbd4871e2cf61cd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5135910691663237837
+    second: spi_mon_dirty_plant_0
+  - first:
+      213: -5709902778339051698
+    second: spi_mon_dirty_plant_1
+  - first:
+      213: -4864316121335357200
+    second: spi_mon_dirty_plant_2
+  - first:
+      213: -8784411874892246222
+    second: spi_mon_dirty_plant_3
+  - first:
+      213: -1263485713791457379
+    second: spi_mon_dirty_plant_4
+  - first:
+      213: 309140744696163134
+    second: spi_mon_dirty_plant_5
+  - first:
+      213: 8864157402797257167
+    second: spi_mon_dirty_plant_6
+  - first:
+      213: -1575825786256531921
+    second: spi_mon_dirty_plant_7
+  - first:
+      213: 3514034665185536292
+    second: spi_mon_dirty_plant_8
+  - first:
+      213: -1040454046431308290
+    second: spi_mon_dirty_plant_9
+  - first:
+      213: 5608083189152061010
+    second: spi_mon_dirty_plant_10
+  - first:
+      213: 4564585666317094778
+    second: spi_mon_dirty_plant_11
+  - first:
+      213: -5711931037216386664
+    second: spi_mon_dirty_plant_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_dirty_plant_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 161
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d2849ef6499b8b0800000000000000
+      internalID: -5135910691663237837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_dirty_plant_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 123
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47b51beca952c0b0800000000000000
+      internalID: -5709902778339051698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_dirty_plant_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 120
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0a998824a7e7cb0800000000000000
+      internalID: -4864316121335357200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_dirty_plant_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 72
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233135c01ff771680800000000000000
+      internalID: -8784411874892246222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_dirty_plant_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 115
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97eda20072377ee0800000000000000
+      internalID: -1263485713791457379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_dirty_plant_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 109
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3be6319ed94a4400800000000000000
+      internalID: 309140744696163134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_dirty_plant_6
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 102
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc131ea8130d30b70800000000000000
+      internalID: 8864157402797257167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_dirty_plant_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2
+        width: 110
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e5746ebca812ae0800000000000000
+      internalID: -1575825786256531921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_dirty_plant_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 72
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429eacae8eb54c030800000000000000
+      internalID: 3514034665185536292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_dirty_plant_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 62
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5185dae809f81f0800000000000000
+      internalID: -1040454046431308290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_dirty_plant_10
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 62
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2569f3892f9e3dd40800000000000000
+      internalID: 5608083189152061010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_dirty_plant_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f8ba3ba7aa85f30800000000000000
+      internalID: 4564585666317094778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_dirty_plant_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 8
+        width: 115
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89150391cf42bb0b0800000000000000
+      internalID: -5711931037216386664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_dirty_plant_0: -5135910691663237837
+      spi_mon_dirty_plant_1: -5709902778339051698
+      spi_mon_dirty_plant_10: 5608083189152061010
+      spi_mon_dirty_plant_11: 4564585666317094778
+      spi_mon_dirty_plant_12: -5711931037216386664
+      spi_mon_dirty_plant_2: -4864316121335357200
+      spi_mon_dirty_plant_3: -8784411874892246222
+      spi_mon_dirty_plant_4: -1263485713791457379
+      spi_mon_dirty_plant_5: 309140744696163134
+      spi_mon_dirty_plant_6: 8864157402797257167
+      spi_mon_dirty_plant_7: -1575825786256531921
+      spi_mon_dirty_plant_8: 3514034665185536292
+      spi_mon_dirty_plant_9: -1040454046431308290
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 5d0a6eb0fbf34e740b3e4f2b1d205676
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1577217821419267920
+    second: spi_mon_boss_zombie_0
+  - first:
+      213: -3645532865004039166
+    second: spi_mon_boss_zombie_1
+  - first:
+      213: 8365678587824015471
+    second: spi_mon_boss_zombie_2
+  - first:
+      213: -5667363373984695928
+    second: spi_mon_boss_zombie_3
+  - first:
+      213: 308923162091090837
+    second: spi_mon_boss_zombie_4
+  - first:
+      213: 7125070804901717423
+    second: spi_mon_boss_zombie_5
+  - first:
+      213: 4074644106758710598
+    second: spi_mon_boss_zombie_6
+  - first:
+      213: -1493677038425347388
+    second: spi_mon_boss_zombie_7
+  - first:
+      213: 9214941435076681693
+    second: spi_mon_boss_zombie_8
+  - first:
+      213: 1276998804350577
+    second: spi_mon_boss_zombie_9
+  - first:
+      213: 3551568074614373184
+    second: spi_mon_boss_zombie_10
+  - first:
+      213: -3627951454026499965
+    second: spi_mon_boss_zombie_11
+  - first:
+      213: -6534603583930562433
+    second: spi_mon_boss_zombie_12
+  - first:
+      213: 8333226411204372603
+    second: spi_mon_boss_zombie_13
+  - first:
+      213: 7736541614723894609
+    second: spi_mon_boss_zombie_14
+  - first:
+      213: -2984306795990272150
+    second: spi_mon_boss_zombie_15
+  - first:
+      213: -3203430576183171588
+    second: spi_mon_boss_zombie_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 953
+        width: 165
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0576c1b804763e510800000000000000
+      internalID: 1577217821419267920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 953
+        width: 150
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2041c649c27786dc0800000000000000
+      internalID: -3645532865004039166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 891
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6887543a5cd81470800000000000000
+      internalID: 8365678587824015471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 796
+        width: 116
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8893590d90b7951b0800000000000000
+      internalID: -5667363373984695928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 805
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593745baaf3894400800000000000000
+      internalID: 308923162091090837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 805
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa56ca5952651e260800000000000000
+      internalID: 7125070804901717423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 704
+        width: 193
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645ed790a3b0c8830800000000000000
+      internalID: 4074644106758710598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 651
+        width: 137
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caef7bb5a4654be0800000000000000
+      internalID: -1493677038425347388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 598
+        width: 193
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf16cf896c02ef70800000000000000
+      internalID: 9214941435076681693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 456
+        width: 118
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176ac147c69840000800000000000000
+      internalID: 1276998804350577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 420
+        width: 201
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bf10bc854b94130800000000000000
+      internalID: 3551568074614373184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 323
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3887360df5de6adc0800000000000000
+      internalID: -3627951454026499965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 237
+        width: 208
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7803d789ac6055a0800000000000000
+      internalID: -6534603583930562433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 229
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b786db8054195a370800000000000000
+      internalID: 8333226411204372603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 257
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d05afcb97bd5b60800000000000000
+      internalID: 7736541614723894609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 90
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a673734d7cc9596d0800000000000000
+      internalID: -2984306795990272150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_zombie_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf52afb0dd02b83d0800000000000000
+      internalID: -3203430576183171588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_boss_zombie_0: 1577217821419267920
+      spi_mon_boss_zombie_1: -3645532865004039166
+      spi_mon_boss_zombie_10: 3551568074614373184
+      spi_mon_boss_zombie_11: -3627951454026499965
+      spi_mon_boss_zombie_12: -6534603583930562433
+      spi_mon_boss_zombie_13: 8333226411204372603
+      spi_mon_boss_zombie_14: 7736541614723894609
+      spi_mon_boss_zombie_15: -2984306795990272150
+      spi_mon_boss_zombie_16: -3203430576183171588
+      spi_mon_boss_zombie_2: 8365678587824015471
+      spi_mon_boss_zombie_3: -5667363373984695928
+      spi_mon_boss_zombie_4: 308923162091090837
+      spi_mon_boss_zombie_5: 7125070804901717423
+      spi_mon_boss_zombie_6: 4074644106758710598
+      spi_mon_boss_zombie_7: -1493677038425347388
+      spi_mon_boss_zombie_8: 9214941435076681693
+      spi_mon_boss_zombie_9: 1276998804350577
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

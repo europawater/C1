@@ -1,0 +1,395 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefab_MonsterSkillEffect
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefab_MonsterSkillEffect
+  m_GUID: e6e33982194c38741a33cf85d40b6086
+  m_SerializeEntries:
+  - m_GUID: 03ff285757f9ae14994c1929ee9ba22e
+    m_Address: VFX_boss_whale_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0859515ab4c60434cb112b120afe1a40
+    m_Address: VFX_boss_dragon_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08ae363e4dbd5dc4bbd92ffdd331e3a5
+    m_Address: VFX_monster_shaman_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0af40d235aab2a9408b4dcf5638a8f72
+    m_Address: VFX_boss_pirest_skeleton_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0be8f399499b84942baa963f2e336e63
+    m_Address: VFX_boss_pirest_skeleton_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ec0d3412a8a54b49aafb055b05ab95b
+    m_Address: VFX_monster_ice_worm_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f682aa3213083f41a5b75ab2d856c38
+    m_Address: VFX_boss_cube_dungeon_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12cbde44411393b4cbcd78d1c34fa5b4
+    m_Address: VFX_monster_ghost_canon_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b2c7da33d99914429bececac7a59959
+    m_Address: VFX_cube_dungeon_common_attack_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 287423275a94f38498f2a8349107eedb
+    m_Address: VFX_cube_dungeon_thunder_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b30f53294c823b429396a9e9b17f9a1
+    m_Address: VFX_boss_whale_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c669148c0c2e6947a4494cfa2cd15a3
+    m_Address: VFX_boss_crazy_santa_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f93bd711c097964a853385bbd2be776
+    m_Address: VFX_monster_camel_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31c6d9ddcd67d62429efcde14bd56735
+    m_Address: VFX_boss_mermaid_king_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3427996a7972d534f869a90dd545ebfa
+    m_Address: VFX_monster_oasis_jinn_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35c5d6046478eef4c97baf027fbc06dd
+    m_Address: VFX_monster_diver_shooter_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41360220680746a4ebaf681ddb849154
+    m_Address: VFX_boss_shaman_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 464e80cf329576e489de28b592a9b90b
+    m_Address: VFX_monster_canon_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a433bfe076eb374f846793e5ceb870a
+    m_Address: VFX_boss_shaman_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c44591cd561ebc499fd12d6446e9cbf
+    m_Address: VFX_monster_mermaid_shooter_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d94de388abd85f488fbfdc6a8c43398
+    m_Address: VFX_boss_jungle_king_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 523e7ab4a46119a45a47f9784a2474dc
+    m_Address: VFX_monster_snowmonkey_common_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ec01a1dd7ec32f45b4b8fe61aae74d5
+    m_Address: VFX_boss_mermaid_king_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 665bf6c28dc74c144950d96fdf484d7b
+    m_Address: VFX_boss_shaman_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c87eaefe7b328747bc1e372a7ffc580
+    m_Address: VFX_monster_curse_wood_w_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e42ca25248af8b42b4ca90348ea3d76
+    m_Address: VFX_boss_jungle_king_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 710d1e055ae45d14db4da81e8c3a7c1e
+    m_Address: VFX_monster_bee_common_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 758252b41ff3ee24d8e3e6ea0abaab71
+    m_Address: VFX_boss_crazy_santa_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78fbed13eca5cef4089ff4005f0d5dc0
+    m_Address: VFX_boss_attack_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79de1106973d07946b1298ff80ed840d
+    m_Address: VFX_cube_dungeon_thunder_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d900d73063417a46957bf87920980d6
+    m_Address: VFX_boss_veld_guardian_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b3649133d962214fafd27916990ed5c
+    m_Address: VFX_monster_yeti_common_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d08760f7f0c9884eb774a62dc5c9d67
+    m_Address: VFX_boss_veld_guardian_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fdb245225f933e4c85e471e5a59a0cf
+    m_Address: VFX_boss_living_armor_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9182f561e027c9f4a8c9e967178757a8
+    m_Address: VFX_monster_farm_ghost_rare_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98ebfb84289edaa41a07937b8bce3c90
+    m_Address: VFX_monster_bee_house_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a66076391c948fa45b519a7838e338fb
+    m_Address: VFX_monster_skeleton_rare_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aca5f239539f09341bd2054c79a19f40
+    m_Address: VFX_boss_cube_dungeon_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c14da295ba163b84c9035866bd5ad336
+    m_Address: VFX_monster_common_attack_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c18d263b68b32c94b874c121372aa5a1
+    m_Address: VFX_boss_crazy_santa_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1a20cfe3931afc4ba31712e28b6d45b
+    m_Address: VFX_monster_spider_rare_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c214a7d022a9c774aa1297f029490f43
+    m_Address: VFX_cube_dungeon_warrior_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c386e45df59a5034db534767af676770
+    m_Address: VFX_boss_dragon_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7f673c23fb5d4c408a93ef5ea023aff
+    m_Address: VFX_monster_living_armor_rare_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9de392a47c454d46832dd0adcee56bb
+    m_Address: VFX_boss_veld_guardian_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d85ff6e71172afb488d36fc7c056cd79
+    m_Address: VFX_monster_farm_jinn_common_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0124a1192c235f4182c2ef6936ae393
+    m_Address: VFX_boss_zombie_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2b02172bb4000d4fac6e7d8dbf45ca3
+    m_Address: VFX_cube_dungeon_puncher_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3dfb540a831cad48b34970f1ebe2203
+    m_Address: VFX_boss_dragon_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e44b1872d3c63ff4c83846fbb1c88267
+    m_Address: VFX_boss_living_armor_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e966a0f3384b4274e88838239a2d769a
+    m_Address: VFX_boss_living_armor_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9c1975e4eac70f4ea8be4c5317f1de2
+    m_Address: VFX_boss_cube_dungeon_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb27abb8755b1bf47b8a545c4131712f
+    m_Address: VFX_monster_dragon_baby_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f09dcc1912147074ba4de0b7d3e4cff6
+    m_Address: VFX_monster_goose_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1fc90be9d451554d92b8875799fa324
+    m_Address: VFX_monster_shell_shooter_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f25ebee474b5de74ca42831c201f1999
+    m_Address: VFX_monster_walking_crab_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f34785efe9e620b4bb1aa95adf349869
+    m_Address: VFX_mosnter_slime_rare_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9917e2bc7fcb2b4e9ca589e5d7cd375
+    m_Address: VFX_cube_dungeon_fire_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa778ffac0686fc4894371be506dc7b1
+    m_Address: VFX_boss_zombie_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fafdfe67ebb785c43be3c5dfa54cdce8
+    m_Address: VFX_boss_pirest_skeleton_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd9981a22d590704baa385c0037b97a4
+    m_Address: VFX_cube_dungeon_fire_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: feb7a1145393ee94b9ef21892e02c44e
+    m_Address: VFX_monster_golem_shooter_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6a11478b9db5bf942b2ca4ad50c2056e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4e032817218a3544cb2d4b5a2c9485f0, type: 2}
+    - {fileID: 11400000, guid: 66d2b9f3b35b99a4fafcead3df57e1bf, type: 2}

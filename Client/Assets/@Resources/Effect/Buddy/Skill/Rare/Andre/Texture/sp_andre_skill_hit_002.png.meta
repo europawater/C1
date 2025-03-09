@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: 004e82f4898a7654c9b3611be15257f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7555906676855284065
+    second: Rogue_Skill_A_Target_001_0
+  - first:
+      213: -8461767530014426231
+    second: Rogue_Skill_A_Target_001_1
+  - first:
+      213: -6988470063047040190
+    second: Rogue_Skill_A_Target_001_2
+  - first:
+      213: 7123365523566433690
+    second: Rogue_Skill_A_Target_001_3
+  - first:
+      213: -8193826902259750633
+    second: Rogue_Skill_A_Target_001_4
+  - first:
+      213: -4069284783660794714
+    second: Rogue_Skill_A_Target_001_5
+  - first:
+      213: 3992377408190577992
+    second: Rogue_Skill_A_Target_001_6
+  - first:
+      213: -7335187513082248564
+    second: Rogue_Skill_A_Target_001_7
+  - first:
+      213: -5988716258646602100
+    second: Rogue_Skill_A_Target_001_8
+  - first:
+      213: -6091688454838302684
+    second: Rogue_Skill_A_Target_001_9
+  - first:
+      213: 9184479443869781585
+    second: Rogue_Skill_A_Target_001_10
+  - first:
+      213: 8228357344992349485
+    second: Rogue_Skill_A_Target_001_11
+  - first:
+      213: -3925880230637802627
+    second: Rogue_Skill_A_Target_001_12
+  - first:
+      213: -1254415827947662846
+    second: Rogue_Skill_A_Target_001_13
+  - first:
+      213: -7716222307054522356
+    second: Rogue_Skill_A_Target_001_14
+  - first:
+      213: 2997005714806772355
+    second: Rogue_Skill_A_Target_001_15
+  - first:
+      213: -8371066756233672681
+    second: Rogue_Skill_A_Target_001_16
+  - first:
+      213: 8779973322722533996
+    second: Rogue_Skill_A_Target_001_17
+  - first:
+      213: 2679678136595917721
+    second: Rogue_Skill_A_Target_001_18
+  - first:
+      213: 2757310939220710525
+    second: Rogue_Skill_A_Target_001_19
+  - first:
+      213: 2305234024715242884
+    second: Rogue_Skill_A_Target_001_20
+  - first:
+      213: 1119168515634305264
+    second: Rogue_Skill_A_Target_001_21
+  - first:
+      213: -6366045931836292447
+    second: Rogue_Skill_A_Target_001_22
+  - first:
+      213: 8814286419881387494
+    second: Rogue_Skill_A_Target_001_23
+  - first:
+      213: 609574604934056490
+    second: Rogue_Skill_A_Target_001_24
+  - first:
+      213: 7493923105179102103
+    second: Rogue_Skill_A_Target_001_25
+  - first:
+      213: -1545888509398200589
+    second: Rogue_Skill_A_Target_001_26
+  - first:
+      213: -7815145494115372351
+    second: Rogue_Skill_A_Target_001_27
+  - first:
+      213: -6335053152300335790
+    second: Rogue_Skill_A_Target_001_28
+  - first:
+      213: -674053599700643911
+    second: Rogue_Skill_A_Target_001_29
+  - first:
+      213: -554032254089207
+    second: Rogue_Skill_A_Target_001_30
+  - first:
+      213: 5601949088213216141
+    second: Rogue_Skill_A_Target_001_31
+  - first:
+      213: 1159632226964520426
+    second: Rogue_Skill_A_Target_001_32
+  - first:
+      213: 8496656093580081680
+    second: Rogue_Skill_A_Target_001_33
+  - first:
+      213: -343035748079542262
+    second: Rogue_Skill_A_Target_001_34
+  - first:
+      213: -1434254541181321351
+    second: Rogue_Skill_A_Target_001_35
+  - first:
+      213: 2096291752917649114
+    second: Rogue_Skill_A_Target_001_36
+  - first:
+      213: 8439464683674085812
+    second: Rogue_Skill_A_Target_001_37
+  - first:
+      213: 4618990792811770242
+    second: Rogue_Skill_A_Target_001_38
+  - first:
+      213: -87496846217738618
+    second: Rogue_Skill_A_Target_001_39
+  - first:
+      213: -327495655326483946
+    second: Rogue_Skill_A_Target_001_40
+  - first:
+      213: 7246970737266818291
+    second: Rogue_Skill_A_Target_001_41
+  - first:
+      213: 6913783328412001591
+    second: Rogue_Skill_A_Target_001_42
+  - first:
+      213: -6728946636860918699
+    second: Rogue_Skill_A_Target_001_43
+  - first:
+      213: -4715241013677713944
+    second: Rogue_Skill_A_Target_001_44
+  - first:
+      213: -2866065730946467567
+    second: Rogue_Skill_A_Target_001_45
+  - first:
+      213: -2920706101576147645
+    second: Rogue_Skill_A_Target_001_46
+  - first:
+      213: 6989090108628974136
+    second: Rogue_Skill_A_Target_001_47
+  - first:
+      213: 4783973382972884556
+    second: Rogue_Skill_A_Target_001_48
+  - first:
+      213: 5612919792981738404
+    second: Rogue_Skill_A_Target_001_49
+  - first:
+      213: -8725070230297734609
+    second: Rogue_Skill_A_Target_001_50
+  - first:
+      213: -4530378050420190426
+    second: Rogue_Skill_A_Target_001_51
+  - first:
+      213: 7729948733032719704
+    second: Rogue_Skill_A_Target_001_52
+  - first:
+      213: -5693702285335555799
+    second: Rogue_Skill_A_Target_001_53
+  - first:
+      213: 6684175372994471205
+    second: Rogue_Skill_A_Target_001_54
+  - first:
+      213: -533220326128495386
+    second: Rogue_Skill_A_Target_001_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rogue_Skill_A_Target_001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33cd9d474355014198e751a1150adb0
+      internalID: 1674241623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_A_Target_001_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0402bba8e1b7f41973e5477494c38c
+      internalID: 328434508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_A_Target_001_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7658b433481dce448f504db86747991
+      internalID: -2095130688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_A_Target_001_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5953cff7e7ddae048a97ee5b4ff5eee3
+      internalID: 1854030971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_A_Target_001_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ce9e532ff7b94c8b757a0466766aa
+      internalID: 856652752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_A_Target_001_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed86e41e47317b7449bc012a2610eaad
+      internalID: -155250460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_A_Target_001_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6016048fc6c74284eaa792b462fc7db6
+      internalID: -1002720222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_A_Target_001_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e817a317ce20f14487e7f0050a60d59
+      internalID: -1608940687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_A_Target_001_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3134f1f43fae54a84ad148c0db6949
+      internalID: -230973650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_A_Target_001_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcdfe1ff94edbd4e87e89252cd4cd2b
+      internalID: 1644159475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_A_Target_001_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b67f522953a653448670e84e1fccd79
+      internalID: -88349011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_A_Target_001_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dc2332f277b24499e741577d8f1885
+      internalID: -174494642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c2898e5846eca6443a58424faf7e9830
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rogue_Skill_A_Target_001_0: 1674241623
+      Rogue_Skill_A_Target_001_1: 328434508
+      Rogue_Skill_A_Target_001_10: -88349011
+      Rogue_Skill_A_Target_001_11: -174494642
+      Rogue_Skill_A_Target_001_2: -2095130688
+      Rogue_Skill_A_Target_001_3: 1854030971
+      Rogue_Skill_A_Target_001_4: 856652752
+      Rogue_Skill_A_Target_001_5: -155250460
+      Rogue_Skill_A_Target_001_6: -1002720222
+      Rogue_Skill_A_Target_001_7: -1608940687
+      Rogue_Skill_A_Target_001_8: -230973650
+      Rogue_Skill_A_Target_001_9: 1644159475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

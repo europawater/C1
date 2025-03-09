@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: 179837280f9e36d4b8dba0e2fe3e3733
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6010817746195848414
+    second: sp_boss_mermaid_king_skill_002_02_0
+  - first:
+      213: 7752078213258847002
+    second: sp_boss_mermaid_king_skill_002_02_1
+  - first:
+      213: -7793207584415513953
+    second: sp_boss_mermaid_king_skill_002_02_2
+  - first:
+      213: 1255748824569916261
+    second: sp_boss_mermaid_king_skill_002_02_3
+  - first:
+      213: 6510925109299604447
+    second: sp_boss_mermaid_king_skill_002_02_4
+  - first:
+      213: 6866872436314441814
+    second: sp_boss_mermaid_king_skill_002_02_5
+  - first:
+      213: 7785150983601210057
+    second: sp_boss_mermaid_king_skill_002_02_6
+  - first:
+      213: 4963995222601267421
+    second: sp_boss_mermaid_king_skill_002_02_7
+  - first:
+      213: -3381618071946247550
+    second: sp_boss_mermaid_king_skill_002_02_8
+  - first:
+      213: -2876325771327343915
+    second: sp_boss_mermaid_king_skill_002_02_9
+  - first:
+      213: -943015166486623958
+    second: sp_boss_mermaid_king_skill_002_02_10
+  - first:
+      213: 8069910885775183615
+    second: sp_boss_mermaid_king_skill_002_02_11
+  - first:
+      213: -1898284500620324029
+    second: sp_boss_mermaid_king_skill_002_02_12
+  - first:
+      213: -6626682243712616394
+    second: sp_boss_mermaid_king_skill_002_02_13
+  - first:
+      213: -7414694384249797517
+    second: sp_boss_mermaid_king_skill_002_02_14
+  - first:
+      213: -9041642646836441151
+    second: sp_boss_mermaid_king_skill_002_02_15
+  - first:
+      213: 5343390102111177788
+    second: sp_boss_mermaid_king_skill_002_02_16
+  - first:
+      213: -4038105972079679187
+    second: sp_boss_mermaid_king_skill_002_02_17
+  - first:
+      213: 464448670591649384
+    second: sp_boss_mermaid_king_skill_002_02_18
+  - first:
+      213: -142764973068247085
+    second: sp_boss_mermaid_king_skill_002_02_19
+  - first:
+      213: -4628076851513174263
+    second: sp_boss_mermaid_king_skill_002_02_20
+  - first:
+      213: -3601410056265012396
+    second: sp_boss_mermaid_king_skill_002_02_21
+  - first:
+      213: 517464033848593631
+    second: sp_boss_mermaid_king_skill_002_02_22
+  - first:
+      213: 4244501401068145477
+    second: sp_boss_mermaid_king_skill_002_02_23
+  - first:
+      213: 1765684982728344056
+    second: sp_boss_mermaid_king_skill_002_02_24
+  - first:
+      213: 6424887046338582891
+    second: sp_boss_mermaid_king_skill_002_02_25
+  - first:
+      213: 4350739896432985618
+    second: sp_boss_mermaid_king_skill_002_02_26
+  - first:
+      213: 7783429272367483335
+    second: sp_boss_mermaid_king_skill_002_02_27
+  - first:
+      213: 5837693783625109246
+    second: sp_boss_mermaid_king_skill_002_02_28
+  - first:
+      213: -1164331125003229233
+    second: sp_boss_mermaid_king_skill_002_02_29
+  - first:
+      213: 6813156343212312541
+    second: sp_boss_mermaid_king_skill_002_02_30
+  - first:
+      213: -2007442579820516661
+    second: sp_boss_mermaid_king_skill_002_02_31
+  - first:
+      213: -3815876485205227267
+    second: sp_boss_mermaid_king_skill_002_02_32
+  - first:
+      213: 454217664319754167
+    second: sp_boss_mermaid_king_skill_002_02_33
+  - first:
+      213: 1572211058152081966
+    second: sp_boss_mermaid_king_skill_002_02_34
+  - first:
+      213: -4654697682233106699
+    second: sp_boss_mermaid_king_skill_002_02_35
+  - first:
+      213: -4916199737159634797
+    second: sp_boss_mermaid_king_skill_002_02_36
+  - first:
+      213: 4355896137485379825
+    second: sp_boss_mermaid_king_skill_002_02_37
+  - first:
+      213: -249170289867765041
+    second: sp_boss_mermaid_king_skill_002_02_38
+  - first:
+      213: -9005778032430103900
+    second: sp_boss_mermaid_king_skill_002_02_39
+  - first:
+      213: -8773113815617475440
+    second: sp_boss_mermaid_king_skill_002_02_40
+  - first:
+      213: 4364458987108821085
+    second: sp_boss_mermaid_king_skill_002_02_41
+  - first:
+      213: 1936627184651245951
+    second: sp_boss_mermaid_king_skill_002_02_42
+  - first:
+      213: -5541643237154095540
+    second: sp_boss_mermaid_king_skill_002_02_43
+  - first:
+      213: 1191607179878550889
+    second: sp_boss_mermaid_king_skill_002_02_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecf3f900e0778a4ea895cdc3dd55204
+      internalID: -1709029443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2149d12142047534cb2e09de99dcd41a
+      internalID: 1777902811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e3ef7f806f4694bae331546f22de8c
+      internalID: -1730729431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c054479077cfc4d96452948f884e4c
+      internalID: -1213448648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938dc6b32c62dc947a2ddc1554ac0f82
+      internalID: -773459223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d664bd83405ace4a889ab96b0f5e2ad
+      internalID: 1079539391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0f7fc36aae049458d49ce4e8016007
+      internalID: 2018495131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf9c76dc97ca464bafb4aa05ac885b1
+      internalID: 1863474247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4085db838bde3e4f92ba3cccc4191d6
+      internalID: -698835617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de444eef123ab8a41ab7513a1aa44215
+      internalID: 1376106548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e7c3ab5d011724b9ec07df5313f9b7
+      internalID: -137618163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96db8b6880d01014295cd981fa2d39fb
+      internalID: -776205056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98032007a9eeaaa478477301d83f355c
+      internalID: 575136857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e3d43641b20af4683f52bdfa362b9e
+      internalID: 544521070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cf38534933329448350d1dd3bc3057
+      internalID: 1334614071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_002_02_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dc78e0db7e99a4881dcce1972a5240
+      internalID: -1414339326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5eeef15a1cfa3fe41a043d5094220188
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_boss_mermaid_king_skill_002_02_0: -1709029443
+      sp_boss_mermaid_king_skill_002_02_1: 1777902811
+      sp_boss_mermaid_king_skill_002_02_10: -137618163
+      sp_boss_mermaid_king_skill_002_02_11: -776205056
+      sp_boss_mermaid_king_skill_002_02_12: 575136857
+      sp_boss_mermaid_king_skill_002_02_13: 544521070
+      sp_boss_mermaid_king_skill_002_02_14: 1334614071
+      sp_boss_mermaid_king_skill_002_02_15: -1414339326
+      sp_boss_mermaid_king_skill_002_02_2: -1730729431
+      sp_boss_mermaid_king_skill_002_02_3: -1213448648
+      sp_boss_mermaid_king_skill_002_02_4: -773459223
+      sp_boss_mermaid_king_skill_002_02_5: 1079539391
+      sp_boss_mermaid_king_skill_002_02_6: 2018495131
+      sp_boss_mermaid_king_skill_002_02_7: 1863474247
+      sp_boss_mermaid_king_skill_002_02_8: -698835617
+      sp_boss_mermaid_king_skill_002_02_9: 1376106548
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Image_Slot
+  m_EditorClassIdentifier: 
+  m_GroupName: Image_Slot
+  m_GUID: 6b0b01c447d753341a6e08fdb0d04468
+  m_SerializeEntries:
+  - m_GUID: 1eed7f17fcbb1774da8041532d15bf9b
+    m_Address: sp_ui_ic_myth_slot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28ef79d0ca9b4c843ad528f429185ebe
+    m_Address: sp_ui_ic_epic_slot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36d154ed5e190dd41be61bc75e40994a
+    m_Address: sp_ui_ic_common_slot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51c5e488a16f85c4a9b25d4444f160c5
+    m_Address: sp_ui_ic_beyond_slot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 598ace2e37b01774f993e95473e6e492
+    m_Address: sp_ui_ic_twilight_slot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acca49cb517b38749984aecaeb287c98
+    m_Address: sp_ui_ic_rare_slot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df8da542d314127479934d7af820bc6c
+    m_Address: sp_ui_ic_legend_slot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7586563c957cd34f88b7b692641827d
+    m_Address: sp_ui_ic_unique_slot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6a11478b9db5bf942b2ca4ad50c2056e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b964af4b24bd2014aa93411dbf1288b1, type: 2}
+    - {fileID: 11400000, guid: c8f48a7bec4a5c04e8217b51233ed4e6, type: 2}

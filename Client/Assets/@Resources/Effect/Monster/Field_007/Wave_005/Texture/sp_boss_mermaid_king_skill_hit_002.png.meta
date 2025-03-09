@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: c64b86789788b264489ce25d09260ba2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1022493711958428751
+    second: Boss_snowmonkey_Skill_A_Hit_0
+  - first:
+      213: -6206290076229874369
+    second: Boss_snowmonkey_Skill_A_Hit_1
+  - first:
+      213: -5549451696488529850
+    second: Boss_snowmonkey_Skill_A_Hit_2
+  - first:
+      213: -5791548138538388336
+    second: Boss_snowmonkey_Skill_A_Hit_3
+  - first:
+      213: -738317768220284260
+    second: Boss_snowmonkey_Skill_A_Hit_4
+  - first:
+      213: -8771565144026371868
+    second: Boss_snowmonkey_Skill_A_Hit_5
+  - first:
+      213: -2018701322853127336
+    second: Boss_snowmonkey_Skill_A_Hit_6
+  - first:
+      213: 4190766743296648462
+    second: Boss_snowmonkey_Skill_A_Hit_7
+  - first:
+      213: -5010005311700196344
+    second: Boss_snowmonkey_Skill_A_Hit_8
+  - first:
+      213: -4088086109608036235
+    second: Boss_snowmonkey_Skill_A_Hit_9
+  - first:
+      213: -8380024455961302295
+    second: Boss_snowmonkey_Skill_A_Hit_10
+  - first:
+      213: -6510564121744174127
+    second: Boss_snowmonkey_Skill_A_Hit_11
+  - first:
+      213: 2676571248345454367
+    second: Boss_snowmonkey_Skill_A_Hit_12
+  - first:
+      213: 4240918332867362209
+    second: Boss_snowmonkey_Skill_A_Hit_13
+  - first:
+      213: -2902337808916141904
+    second: Boss_snowmonkey_Skill_A_Hit_14
+  - first:
+      213: 2534083191947360032
+    second: Boss_snowmonkey_Skill_A_Hit_15
+  - first:
+      213: -9181099688814036936
+    second: Boss_snowmonkey_Skill_A_Hit_16
+  - first:
+      213: -161032630200205183
+    second: Boss_snowmonkey_Skill_A_Hit_17
+  - first:
+      213: -1780067994297884364
+    second: Boss_snowmonkey_Skill_A_Hit_18
+  - first:
+      213: -8512886129711671933
+    second: Boss_snowmonkey_Skill_A_Hit_19
+  - first:
+      213: -7825795067360125033
+    second: Boss_snowmonkey_Skill_A_Hit_20
+  - first:
+      213: 1509351603526683670
+    second: Boss_snowmonkey_Skill_A_Hit_21
+  - first:
+      213: -4477627973990269935
+    second: Boss_snowmonkey_Skill_A_Hit_22
+  - first:
+      213: -4248586759911908231
+    second: Boss_snowmonkey_Skill_A_Hit_23
+  - first:
+      213: -4012500010150157627
+    second: Boss_snowmonkey_Skill_A_Hit_24
+  - first:
+      213: 7409336850761885964
+    second: Boss_snowmonkey_Skill_A_Hit_25
+  - first:
+      213: 1380737118155914557
+    second: Boss_snowmonkey_Skill_A_Hit_26
+  - first:
+      213: -987437065550668097
+    second: Boss_snowmonkey_Skill_A_Hit_27
+  - first:
+      213: -1188158189072780681
+    second: Boss_snowmonkey_Skill_A_Hit_28
+  - first:
+      213: -5126787722869153507
+    second: Boss_snowmonkey_Skill_A_Hit_29
+  - first:
+      213: -3677181224160074095
+    second: Boss_snowmonkey_Skill_A_Hit_30
+  - first:
+      213: -6866352142103265859
+    second: Boss_snowmonkey_Skill_A_Hit_31
+  - first:
+      213: 7230689066006641888
+    second: Boss_snowmonkey_Skill_A_Hit_32
+  - first:
+      213: 3128519620063849822
+    second: Boss_snowmonkey_Skill_A_Hit_33
+  - first:
+      213: -8412026841271948993
+    second: Boss_snowmonkey_Skill_A_Hit_34
+  - first:
+      213: -3951026066883408754
+    second: Boss_snowmonkey_Skill_A_Hit_35
+  - first:
+      213: -8466495588773439587
+    second: Boss_snowmonkey_Skill_A_Hit_36
+  - first:
+      213: 7339248762748319704
+    second: Boss_snowmonkey_Skill_A_Hit_37
+  - first:
+      213: -5520070243245637829
+    second: Boss_snowmonkey_Skill_A_Hit_38
+  - first:
+      213: 3834221151922007409
+    second: Boss_snowmonkey_Skill_A_Hit_39
+  - first:
+      213: -6190315346532098450
+    second: Boss_snowmonkey_Skill_A_Hit_40
+  - first:
+      213: -6033096448448218728
+    second: Boss_snowmonkey_Skill_A_Hit_41
+  - first:
+      213: 2440074079130626106
+    second: Boss_snowmonkey_Skill_A_Hit_42
+  - first:
+      213: 26325174054323983
+    second: Boss_snowmonkey_Skill_A_Hit_43
+  - first:
+      213: -6250562042046366987
+    second: Boss_snowmonkey_Skill_A_Hit_44
+  - first:
+      213: -8370060140689085397
+    second: Boss_snowmonkey_Skill_A_Hit_45
+  - first:
+      213: -9217402549219117816
+    second: Boss_snowmonkey_Skill_A_Hit_46
+  - first:
+      213: -5279825027559583718
+    second: Boss_snowmonkey_Skill_A_Hit_47
+  - first:
+      213: 5961167153777041262
+    second: Boss_snowmonkey_Skill_A_Hit_48
+  - first:
+      213: -680704736576717194
+    second: Boss_snowmonkey_Skill_A_Hit_49
+  - first:
+      213: 2283129266040727774
+    second: Boss_snowmonkey_Skill_A_Hit_50
+  - first:
+      213: 5699494426567860871
+    second: Boss_snowmonkey_Skill_A_Hit_51
+  - first:
+      213: 5078644723044052743
+    second: Boss_snowmonkey_Skill_A_Hit_52
+  - first:
+      213: 429754951188119954
+    second: Boss_snowmonkey_Skill_A_Hit_53
+  - first:
+      213: -453982116858282420
+    second: Boss_snowmonkey_Skill_A_Hit_54
+  - first:
+      213: 3185775450186087338
+    second: Boss_snowmonkey_Skill_A_Hit_55
+  - first:
+      213: 2467015161253668611
+    second: Boss_snowmonkey_Skill_A_Hit_56
+  - first:
+      213: -6678291996566001691
+    second: Boss_snowmonkey_Skill_A_Hit_57
+  - first:
+      213: 4175668330739943474
+    second: Boss_snowmonkey_Skill_A_Hit_58
+  - first:
+      213: 7395584817640376372
+    second: Boss_snowmonkey_Skill_A_Hit_59
+  - first:
+      213: -8526986170642374011
+    second: Boss_snowmonkey_Skill_A_Hit_60
+  - first:
+      213: 1556395820041799037
+    second: Boss_snowmonkey_Skill_A_Hit_61
+  - first:
+      213: -1512430358818895346
+    second: Boss_snowmonkey_Skill_A_Hit_62
+  - first:
+      213: 4718949351694867839
+    second: Boss_snowmonkey_Skill_A_Hit_63
+  - first:
+      213: -6195467489566567870
+    second: Boss_snowmonkey_Skill_A_Hit_64
+  - first:
+      213: -8792314616410943979
+    second: Boss_snowmonkey_Skill_A_Hit_65
+  - first:
+      213: 3697571286487393436
+    second: Boss_snowmonkey_Skill_A_Hit_66
+  - first:
+      213: -141430648211353617
+    second: Boss_snowmonkey_Skill_A_Hit_67
+  - first:
+      213: -8841693312407683510
+    second: Boss_snowmonkey_Skill_A_Hit_68
+  - first:
+      213: -1497986916889379438
+    second: Boss_snowmonkey_Skill_A_Hit_69
+  - first:
+      213: -947520460205893539
+    second: Boss_snowmonkey_Skill_A_Hit_70
+  - first:
+      213: -8288041843651074260
+    second: Boss_snowmonkey_Skill_A_Hit_71
+  - first:
+      213: -108261546099045644
+    second: Boss_snowmonkey_Skill_A_Hit_72
+  - first:
+      213: 2239548513929444289
+    second: Boss_snowmonkey_Skill_A_Hit_73
+  - first:
+      213: -7475676173061706446
+    second: Boss_snowmonkey_Skill_A_Hit_74
+  - first:
+      213: -1146517677173231100
+    second: Boss_snowmonkey_Skill_A_Hit_75
+  - first:
+      213: 1389147116167506590
+    second: Boss_snowmonkey_Skill_A_Hit_76
+  - first:
+      213: -3582377166260611158
+    second: Boss_snowmonkey_Skill_A_Hit_77
+  - first:
+      213: 2834623523961238599
+    second: Boss_snowmonkey_Skill_A_Hit_78
+  - first:
+      213: -5643494805452205843
+    second: Boss_snowmonkey_Skill_A_Hit_79
+  - first:
+      213: 7534823700958653450
+    second: Boss_snowmonkey_Skill_A_Hit_80
+  - first:
+      213: 5901714948496039572
+    second: Boss_snowmonkey_Skill_A_Hit_81
+  - first:
+      213: -256964086267598926
+    second: Boss_snowmonkey_Skill_A_Hit_82
+  - first:
+      213: -4751431263371903175
+    second: Boss_snowmonkey_Skill_A_Hit_83
+  - first:
+      213: -6760867586163085509
+    second: Boss_snowmonkey_Skill_A_Hit_84
+  - first:
+      213: 9219057785489737549
+    second: Boss_snowmonkey_Skill_A_Hit_85
+  - first:
+      213: -7740880842326012713
+    second: Boss_snowmonkey_Skill_A_Hit_86
+  - first:
+      213: 8767965035404355610
+    second: Boss_snowmonkey_Skill_A_Hit_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_hit_002_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bb07c28f0faab4ca250512988e64fc
+      internalID: -1588090141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_hit_002_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227ad8cc128f733489c346acf0f0b86a
+      internalID: -304160620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_hit_002_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe7971094aa4a543ab988ff5e0bebe8
+      internalID: -182665090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_hit_002_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fbf299220bc5a408c348eb1a162ae9
+      internalID: -2119356061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_hit_002_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2f6873e5b279041993bad19228a8b9
+      internalID: -1943136271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_hit_002_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2cec93aab636742bdf7bc5e6eda316
+      internalID: -1112323971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_mermaid_king_skill_hit_002_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d0514fe4edd064ca3ce0c2a1051474
+      internalID: -2035092941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 644ee018e267ca2429f6f893f5d7e643
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_boss_mermaid_king_skill_hit_002_0: -1588090141
+      sp_boss_mermaid_king_skill_hit_002_1: -304160620
+      sp_boss_mermaid_king_skill_hit_002_2: -182665090
+      sp_boss_mermaid_king_skill_hit_002_3: -2119356061
+      sp_boss_mermaid_king_skill_hit_002_4: -1943136271
+      sp_boss_mermaid_king_skill_hit_002_5: -1112323971
+      sp_boss_mermaid_king_skill_hit_002_6: -2035092941
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

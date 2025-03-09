@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 5852b49c116c14c449f1ad39f7df568f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2793964286514567347
+    second: spi_mon_skeleton_common_0
+  - first:
+      213: -776023198244629801
+    second: spi_mon_skeleton_common_1
+  - first:
+      213: -7379440629946968684
+    second: spi_mon_skeleton_common_2
+  - first:
+      213: -6742958084443840875
+    second: spi_mon_skeleton_common_3
+  - first:
+      213: 4405693727809430168
+    second: spi_mon_skeleton_common_4
+  - first:
+      213: -2894849516705190664
+    second: spi_mon_skeleton_common_5
+  - first:
+      213: -665614963228543440
+    second: spi_mon_skeleton_common_6
+  - first:
+      213: 3275505592446840971
+    second: spi_mon_skeleton_common_7
+  - first:
+      213: -4905160344473984112
+    second: spi_mon_skeleton_common_8
+  - first:
+      213: -2658144839132822994
+    second: spi_mon_skeleton_common_9
+  - first:
+      213: 4788185208675256156
+    second: spi_mon_skeleton_common_10
+  - first:
+      213: -8868024418547488086
+    second: spi_mon_skeleton_common_11
+  - first:
+      213: 3852054936840410128
+    second: spi_mon_skeleton_common_12
+  - first:
+      213: -7115240278052555645
+    second: spi_mon_skeleton_common_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_skeleton_common_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47eb23d848d939d0800000000000000
+      internalID: -2793964286514567347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_common_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 70
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d29a2343030b35f0800000000000000
+      internalID: -776023198244629801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_common_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 70
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4951de258d5f69990800000000000000
+      internalID: -7379440629946968684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_common_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 70
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e506119533c62a0800000000000000
+      internalID: -6742958084443840875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_common_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 68
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8926f336a1b242d30800000000000000
+      internalID: 4405693727809430168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_common_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 65
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc639eb3bd63d7d0800000000000000
+      internalID: -2894849516705190664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_common_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 101
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036f39fa7b243c6f0800000000000000
+      internalID: -665614963228543440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_common_7
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 54
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8079916bfee47d20800000000000000
+      internalID: 3275505592446840971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_common_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093ab45c7ae5debb0800000000000000
+      internalID: -4905160344473984112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_common_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2243fd2a5f5c1bd0800000000000000
+      internalID: -2658144839132822994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_common_10
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c574ed1141d037240800000000000000
+      internalID: 4788185208675256156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_common_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaacf0b6c27ee480800000000000000
+      internalID: -8868024418547488086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_common_12
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 34
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01499a55e8f357530800000000000000
+      internalID: 3852054936840410128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skeleton_common_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384302f4aa6914d90800000000000000
+      internalID: -7115240278052555645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_skeleton_common_0: -2793964286514567347
+      spi_mon_skeleton_common_1: -776023198244629801
+      spi_mon_skeleton_common_10: 4788185208675256156
+      spi_mon_skeleton_common_11: -8868024418547488086
+      spi_mon_skeleton_common_12: 3852054936840410128
+      spi_mon_skeleton_common_13: -7115240278052555645
+      spi_mon_skeleton_common_2: -7379440629946968684
+      spi_mon_skeleton_common_3: -6742958084443840875
+      spi_mon_skeleton_common_4: 4405693727809430168
+      spi_mon_skeleton_common_5: -2894849516705190664
+      spi_mon_skeleton_common_6: -665614963228543440
+      spi_mon_skeleton_common_7: 3275505592446840971
+      spi_mon_skeleton_common_8: -4905160344473984112
+      spi_mon_skeleton_common_9: -2658144839132822994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

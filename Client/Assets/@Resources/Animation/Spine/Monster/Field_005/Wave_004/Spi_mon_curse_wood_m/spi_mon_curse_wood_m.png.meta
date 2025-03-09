@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 31f5ce9cae0af0b42951fa131731fa3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5401138022143810064
+    second: spi_mon_curse_wood_m_0
+  - first:
+      213: 6483698796610344031
+    second: spi_mon_curse_wood_m_1
+  - first:
+      213: 3310732682171134217
+    second: spi_mon_curse_wood_m_2
+  - first:
+      213: 1469347959877782707
+    second: spi_mon_curse_wood_m_3
+  - first:
+      213: -3811516270933678941
+    second: spi_mon_curse_wood_m_4
+  - first:
+      213: 1765460292384541807
+    second: spi_mon_curse_wood_m_5
+  - first:
+      213: 8845790672649477466
+    second: spi_mon_curse_wood_m_6
+  - first:
+      213: -9119193829864306063
+    second: spi_mon_curse_wood_m_7
+  - first:
+      213: 3122752037451767657
+    second: spi_mon_curse_wood_m_8
+  - first:
+      213: -2022242155333931443
+    second: spi_mon_curse_wood_m_9
+  - first:
+      213: 2293418873586524414
+    second: spi_mon_curse_wood_m_10
+  - first:
+      213: -5566985877774622999
+    second: spi_mon_curse_wood_m_11
+  - first:
+      213: 8704253510352506647
+    second: spi_mon_curse_wood_m_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_curse_wood_m_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 138
+        width: 105
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01adcb82a62b4fa40800000000000000
+      internalID: 5401138022143810064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_curse_wood_m_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 207
+        width: 137
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54569214b9baf950800000000000000
+      internalID: 6483698796610344031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_curse_wood_m_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 138
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901361b55d512fd20800000000000000
+      internalID: 3310732682171134217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_curse_wood_m_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 158
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcc5ff3f2c246410800000000000000
+      internalID: 1469347959877782707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_curse_wood_m_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 158
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a460675526ca1bc0800000000000000
+      internalID: -3811516270933678941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_curse_wood_m_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 138
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c43a838cc208810800000000000000
+      internalID: 1765460292384541807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_curse_wood_m_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 128
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d5cb0ffbf82ca70800000000000000
+      internalID: 8845790672649477466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_curse_wood_m_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1
+        width: 148
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a010df68d127180800000000000000
+      internalID: -9119193829864306063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_curse_wood_m_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1
+        width: 140
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f90f9de6e365b20800000000000000
+      internalID: 3122752037451767657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_curse_wood_m_9
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1
+        width: 126
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e2089597d8fe3e0800000000000000
+      internalID: -2022242155333931443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_curse_wood_m_10
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1
+        width: 102
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef02d41805cd3df10800000000000000
+      internalID: 2293418873586524414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_curse_wood_m_11
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee90add6d71eb2b0800000000000000
+      internalID: -5566985877774622999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_curse_wood_m_12
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f02875378bbc870800000000000000
+      internalID: 8704253510352506647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_curse_wood_m_0: 5401138022143810064
+      spi_mon_curse_wood_m_1: 6483698796610344031
+      spi_mon_curse_wood_m_10: 2293418873586524414
+      spi_mon_curse_wood_m_11: -5566985877774622999
+      spi_mon_curse_wood_m_12: 8704253510352506647
+      spi_mon_curse_wood_m_2: 3310732682171134217
+      spi_mon_curse_wood_m_3: 1469347959877782707
+      spi_mon_curse_wood_m_4: -3811516270933678941
+      spi_mon_curse_wood_m_5: 1765460292384541807
+      spi_mon_curse_wood_m_6: 8845790672649477466
+      spi_mon_curse_wood_m_7: -9119193829864306063
+      spi_mon_curse_wood_m_8: 3122752037451767657
+      spi_mon_curse_wood_m_9: -2022242155333931443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

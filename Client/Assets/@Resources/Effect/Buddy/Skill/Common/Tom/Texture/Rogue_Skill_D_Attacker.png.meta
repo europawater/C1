@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: e3193d7bc8089b447b91efaca7644eb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6744750755140817417
+    second: Rogue_Skill_D_Attacker_0
+  - first:
+      213: 3646542661689538014
+    second: Rogue_Skill_D_Attacker_1
+  - first:
+      213: -3366504184306609758
+    second: Rogue_Skill_D_Attacker_2
+  - first:
+      213: 4359930529044025007
+    second: Rogue_Skill_D_Attacker_3
+  - first:
+      213: 1779711005802287133
+    second: Rogue_Skill_D_Attacker_4
+  - first:
+      213: -5768051889528824931
+    second: Rogue_Skill_D_Attacker_5
+  - first:
+      213: -1618986656009450217
+    second: Rogue_Skill_D_Attacker_6
+  - first:
+      213: 8868014657231083459
+    second: Rogue_Skill_D_Attacker_7
+  - first:
+      213: -6329343004260535673
+    second: Rogue_Skill_D_Attacker_8
+  - first:
+      213: 2742776720767898074
+    second: Rogue_Skill_D_Attacker_9
+  - first:
+      213: -1435921051345049676
+    second: Rogue_Skill_D_Attacker_10
+  - first:
+      213: -4360469768024185368
+    second: Rogue_Skill_D_Attacker_11
+  - first:
+      213: -6464455016061842488
+    second: Rogue_Skill_D_Attacker_12
+  - first:
+      213: 1714534772097931456
+    second: Rogue_Skill_D_Attacker_13
+  - first:
+      213: -409921749447952977
+    second: Rogue_Skill_D_Attacker_14
+  - first:
+      213: -6400727849512937786
+    second: Rogue_Skill_D_Attacker_15
+  - first:
+      213: -713553740869803183
+    second: Rogue_Skill_D_Attacker_16
+  - first:
+      213: -2282018368965162071
+    second: Rogue_Skill_D_Attacker_17
+  - first:
+      213: 2695565807216387614
+    second: Rogue_Skill_D_Attacker_18
+  - first:
+      213: -5681501910100561439
+    second: Rogue_Skill_D_Attacker_19
+  - first:
+      213: -4726254418683859198
+    second: Rogue_Skill_D_Attacker_20
+  - first:
+      213: 5827896570348880801
+    second: Rogue_Skill_D_Attacker_21
+  - first:
+      213: 7192780360516087116
+    second: Rogue_Skill_D_Attacker_22
+  - first:
+      213: -2118381524174399583
+    second: Rogue_Skill_D_Attacker_23
+  - first:
+      213: -8111933193608196776
+    second: Rogue_Skill_D_Attacker_24
+  - first:
+      213: 2441837678021720666
+    second: Rogue_Skill_D_Attacker_25
+  - first:
+      213: 3485070419463335021
+    second: Rogue_Skill_D_Attacker_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rogue_Skill_D_Attacker_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119c3bf109703c841995dc171f6e7a8c
+      internalID: 721494249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_D_Attacker_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2c6ead90b1e244e8f0b097fa4df9a3
+      internalID: -984239163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_D_Attacker_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2d3b9b40d54554687b6bea85987ca0
+      internalID: -1866219076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_D_Attacker_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346498053fc92054da8aaf3ab93a68f1
+      internalID: 1220546958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_D_Attacker_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29ee69da54ef7a47bc0a061ba752b66
+      internalID: -1961269500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Skill_D_Attacker_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b4da4d87c66d244a848095f43dbdae
+      internalID: -1120471112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9507f559d0e2ca24089dbf921d3a20a6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rogue_Skill_D_Attacker_0: 721494249
+      Rogue_Skill_D_Attacker_1: -984239163
+      Rogue_Skill_D_Attacker_2: -1866219076
+      Rogue_Skill_D_Attacker_3: 1220546958
+      Rogue_Skill_D_Attacker_4: -1961269500
+      Rogue_Skill_D_Attacker_5: -1120471112
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

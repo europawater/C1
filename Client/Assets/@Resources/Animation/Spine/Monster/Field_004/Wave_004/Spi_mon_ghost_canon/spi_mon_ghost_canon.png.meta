@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: d23cc4eb47eb3a245b1291bb4d843b3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8602231436434365635
+    second: spi_mon_ghost_canon_0
+  - first:
+      213: -5298312080851425700
+    second: spi_mon_ghost_canon_1
+  - first:
+      213: 5433473595444506064
+    second: spi_mon_ghost_canon_2
+  - first:
+      213: 3097211531662485505
+    second: spi_mon_ghost_canon_3
+  - first:
+      213: 5014452076775832166
+    second: spi_mon_ghost_canon_4
+  - first:
+      213: -4204174114210504936
+    second: spi_mon_ghost_canon_5
+  - first:
+      213: 7230451247212589430
+    second: spi_mon_ghost_canon_6
+  - first:
+      213: -488925889153424115
+    second: spi_mon_ghost_canon_7
+  - first:
+      213: -2769748197105598595
+    second: spi_mon_ghost_canon_8
+  - first:
+      213: -2403788481599106445
+    second: spi_mon_ghost_canon_9
+  - first:
+      213: 138792267879196952
+    second: spi_mon_ghost_canon_10
+  - first:
+      213: 1594490535141300431
+    second: spi_mon_ghost_canon_11
+  - first:
+      213: 2968673935260361728
+    second: spi_mon_ghost_canon_12
+  - first:
+      213: -5866869468170928075
+    second: spi_mon_ghost_canon_13
+  - first:
+      213: -7353895177620942335
+    second: spi_mon_ghost_canon_14
+  - first:
+      213: 2308025958368197499
+    second: spi_mon_ghost_canon_15
+  - first:
+      213: 4742583136358304508
+    second: spi_mon_ghost_canon_16
+  - first:
+      213: -8679594051617726818
+    second: spi_mon_ghost_canon_17
+  - first:
+      213: -7890489362422526507
+    second: spi_mon_ghost_canon_18
+  - first:
+      213: 8550617327291107919
+    second: spi_mon_ghost_canon_19
+  - first:
+      213: -8475892803598118359
+    second: spi_mon_ghost_canon_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 21
+        width: 132
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33a1abc51cbe9880800000000000000
+      internalID: -8602231436434365635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 22
+        width: 140
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56a0bfeb3d9876b0800000000000000
+      internalID: -5298312080851425700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 22
+        width: 155
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd2fe08273976b40800000000000000
+      internalID: 5433473595444506064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 22
+        width: 164
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1086cf27a718bfa20800000000000000
+      internalID: 3097211531662485505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_4
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 22
+        width: 149
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a717b9899e69540800000000000000
+      internalID: 5014452076775832166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_5
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 21
+        width: 129
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f1794fae5c7a5c0800000000000000
+      internalID: -4204174114210504936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_6
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 118
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671f2ebc919b75460800000000000000
+      internalID: 7230451247212589430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_7
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 131
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05a4878e7cf639f0800000000000000
+      internalID: -488925889153424115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_8
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 125
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ffd3280b0ef89d0800000000000000
+      internalID: -2769748197105598595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_9
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 3
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3721c1f9c1704aed0800000000000000
+      internalID: -2403788481599106445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_10
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 3
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819a28015d61de100800000000000000
+      internalID: 138792267879196952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_11
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 118
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8d1d891b4c02610800000000000000
+      internalID: 1594490535141300431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_12
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 102
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004a7252739d23920800000000000000
+      internalID: 2968673935260361728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_13
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 110
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530461e7d41b49ea0800000000000000
+      internalID: -5866869468170928075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_14
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 115
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102127e6c47b1f990800000000000000
+      internalID: -7353895177620942335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_15
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 9
+        width: 44
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bbae47161c70020800000000000000
+      internalID: 2308025958368197499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_16
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 43
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa05683c3a01d140800000000000000
+      internalID: 4742583136358304508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_17
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 47
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e5bbe4233eb8780800000000000000
+      internalID: -8679594051617726818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_18
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 9
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd8ec00bb95f7290800000000000000
+      internalID: -7890489362422526507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_19
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 9
+        width: 45
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a8c73f725e9a670800000000000000
+      internalID: 8550617327291107919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_ghost_canon_20
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 9
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9229e3ff6649f5a80800000000000000
+      internalID: -8475892803598118359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_ghost_canon_0: -8602231436434365635
+      spi_mon_ghost_canon_1: -5298312080851425700
+      spi_mon_ghost_canon_10: 138792267879196952
+      spi_mon_ghost_canon_11: 1594490535141300431
+      spi_mon_ghost_canon_12: 2968673935260361728
+      spi_mon_ghost_canon_13: -5866869468170928075
+      spi_mon_ghost_canon_14: -7353895177620942335
+      spi_mon_ghost_canon_15: 2308025958368197499
+      spi_mon_ghost_canon_16: 4742583136358304508
+      spi_mon_ghost_canon_17: -8679594051617726818
+      spi_mon_ghost_canon_18: -7890489362422526507
+      spi_mon_ghost_canon_19: 8550617327291107919
+      spi_mon_ghost_canon_2: 5433473595444506064
+      spi_mon_ghost_canon_20: -8475892803598118359
+      spi_mon_ghost_canon_3: 3097211531662485505
+      spi_mon_ghost_canon_4: 5014452076775832166
+      spi_mon_ghost_canon_5: -4204174114210504936
+      spi_mon_ghost_canon_6: 7230451247212589430
+      spi_mon_ghost_canon_7: -488925889153424115
+      spi_mon_ghost_canon_8: -2769748197105598595
+      spi_mon_ghost_canon_9: -2403788481599106445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

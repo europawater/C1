@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: bef9bbf7505f3f142a43acad5f369a8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -937514863280867175
+    second: sp_boss_cube_dungeon_skill_004_0
+  - first:
+      213: -9184715008148123416
+    second: sp_boss_cube_dungeon_skill_004_1
+  - first:
+      213: 1908440774810608110
+    second: sp_boss_cube_dungeon_skill_004_2
+  - first:
+      213: 3273042444318815531
+    second: sp_boss_cube_dungeon_skill_004_3
+  - first:
+      213: 2949048375585348665
+    second: sp_boss_cube_dungeon_skill_004_4
+  - first:
+      213: 5468855732523654616
+    second: sp_boss_cube_dungeon_skill_004_5
+  - first:
+      213: 1268699658067629683
+    second: sp_boss_cube_dungeon_skill_004_6
+  - first:
+      213: -4239712721079327410
+    second: sp_boss_cube_dungeon_skill_004_7
+  - first:
+      213: -1351936191136084561
+    second: sp_boss_cube_dungeon_skill_004_8
+  - first:
+      213: 6407524424660268501
+    second: sp_boss_cube_dungeon_skill_004_9
+  - first:
+      213: 6196849065855472322
+    second: sp_boss_cube_dungeon_skill_004_10
+  - first:
+      213: 444657836902614807
+    second: sp_boss_cube_dungeon_skill_004_11
+  - first:
+      213: 4941693936193557081
+    second: sp_boss_cube_dungeon_skill_004_12
+  - first:
+      213: 395801884659019740
+    second: sp_boss_cube_dungeon_skill_004_13
+  - first:
+      213: -4638797680134714079
+    second: sp_boss_cube_dungeon_skill_004_14
+  - first:
+      213: -5740439202199636534
+    second: sp_boss_cube_dungeon_skill_004_15
+  - first:
+      213: 6509418533207106988
+    second: sp_boss_cube_dungeon_skill_004_16
+  - first:
+      213: 4932333334495441682
+    second: sp_boss_cube_dungeon_skill_004_17
+  - first:
+      213: -2710206117395726086
+    second: sp_boss_cube_dungeon_skill_004_18
+  - first:
+      213: -1382514736202973262
+    second: sp_boss_cube_dungeon_skill_004_19
+  - first:
+      213: 6305363837536138999
+    second: sp_boss_cube_dungeon_skill_004_20
+  - first:
+      213: -7730807102730754921
+    second: sp_boss_cube_dungeon_skill_004_21
+  - first:
+      213: 4031588717835507502
+    second: sp_boss_cube_dungeon_skill_004_22
+  - first:
+      213: 7904004089217752533
+    second: sp_boss_cube_dungeon_skill_004_23
+  - first:
+      213: 8064945127503708842
+    second: sp_boss_cube_dungeon_skill_004_24
+  - first:
+      213: 5651995019678950123
+    second: sp_boss_cube_dungeon_skill_004_25
+  - first:
+      213: 6575570440718051774
+    second: sp_boss_cube_dungeon_skill_004_26
+  - first:
+      213: -3260075871692040079
+    second: sp_boss_cube_dungeon_skill_004_27
+  - first:
+      213: -447226039083785685
+    second: sp_boss_cube_dungeon_skill_004_28
+  - first:
+      213: -3402948459869289849
+    second: sp_boss_cube_dungeon_skill_004_29
+  - first:
+      213: 7928339989680321614
+    second: sp_boss_cube_dungeon_skill_004_30
+  - first:
+      213: -2789917230296419407
+    second: sp_boss_cube_dungeon_skill_004_31
+  - first:
+      213: -5210592629889772226
+    second: sp_boss_cube_dungeon_skill_004_32
+  - first:
+      213: 5965082762930545553
+    second: sp_boss_cube_dungeon_skill_004_33
+  - first:
+      213: 4113233529995504187
+    second: sp_boss_cube_dungeon_skill_004_34
+  - first:
+      213: 6762314431296080035
+    second: sp_boss_cube_dungeon_skill_004_35
+  - first:
+      213: 3358340159247230116
+    second: sp_boss_cube_dungeon_skill_004_36
+  - first:
+      213: 6651980287225779960
+    second: sp_boss_cube_dungeon_skill_004_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d936287d840af74fa6bffffda66e0bb
+      internalID: 832139499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf23198a9d09ab4a910572875fee0d4
+      internalID: 975754925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc0bd7da49db764ab51dbe8c965d0b9
+      internalID: -1923770784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6143f3dd7533145b075a702e93a957
+      internalID: 415580576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d14d7b077cf9e43b91ec9dc9f22977
+      internalID: -699708182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629e5d7996ff53b49b8def1b2aff93db
+      internalID: 1366793432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa61dbb9e850fd49bf012c01587a017
+      internalID: -22329117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8707a1d5904ff8d42a4c045e130d13b9
+      internalID: -825569470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63870697d049e384fb6df1a875f45d68
+      internalID: -170898593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b5974481f966e409a02e1830355924
+      internalID: 995396859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dab914356fa10f48bad4c9aa751a270
+      internalID: -2035884596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3ef5ab900426348984d11d914d36f5
+      internalID: -112911741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b1746a8868ac74d831b4b85998b05b
+      internalID: 1204813387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd48bd847e57334ab8360c6c3201768
+      internalID: -322109333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8778940c5f35e844096bd32514dda2e0
+      internalID: -731010940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_cube_dungeon_skill_004_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba0314ab72ff894c80f42c5242d8aae
+      internalID: -864226927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 41cb3b84043aa53469c871cd6c628e03
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_boss_cube_dungeon_skill_004_0: 832139499
+      sp_boss_cube_dungeon_skill_004_1: 975754925
+      sp_boss_cube_dungeon_skill_004_10: -2035884596
+      sp_boss_cube_dungeon_skill_004_11: -112911741
+      sp_boss_cube_dungeon_skill_004_12: 1204813387
+      sp_boss_cube_dungeon_skill_004_13: -322109333
+      sp_boss_cube_dungeon_skill_004_14: -731010940
+      sp_boss_cube_dungeon_skill_004_15: -864226927
+      sp_boss_cube_dungeon_skill_004_2: -1923770784
+      sp_boss_cube_dungeon_skill_004_3: 415580576
+      sp_boss_cube_dungeon_skill_004_4: -699708182
+      sp_boss_cube_dungeon_skill_004_5: 1366793432
+      sp_boss_cube_dungeon_skill_004_6: -22329117
+      sp_boss_cube_dungeon_skill_004_7: -825569470
+      sp_boss_cube_dungeon_skill_004_8: -170898593
+      sp_boss_cube_dungeon_skill_004_9: 995396859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

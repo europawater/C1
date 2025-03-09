@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 0a29ff6bb4bce4c49b5faedd62bf2b21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5614402034910163199
+    second: spi_mon_boss_whale_0
+  - first:
+      213: 2899381687740369202
+    second: spi_mon_boss_whale_1
+  - first:
+      213: -2021090744864871037
+    second: spi_mon_boss_whale_2
+  - first:
+      213: -4534842697503774046
+    second: spi_mon_boss_whale_3
+  - first:
+      213: -7066557400247625644
+    second: spi_mon_boss_whale_4
+  - first:
+      213: -7934838609386645090
+    second: spi_mon_boss_whale_5
+  - first:
+      213: 8110497568590873004
+    second: spi_mon_boss_whale_6
+  - first:
+      213: -9088424935610940354
+    second: spi_mon_boss_whale_7
+  - first:
+      213: -2827735157259368754
+    second: spi_mon_boss_whale_8
+  - first:
+      213: -4835567427517202785
+    second: spi_mon_boss_whale_9
+  - first:
+      213: -6326512270780407374
+    second: spi_mon_boss_whale_10
+  - first:
+      213: -7611308812178332629
+    second: spi_mon_boss_whale_11
+  - first:
+      213: -8950634305456745526
+    second: spi_mon_boss_whale_12
+  - first:
+      213: 7559158809061449732
+    second: spi_mon_boss_whale_13
+  - first:
+      213: -321684604974233479
+    second: spi_mon_boss_whale_14
+  - first:
+      213: 604618753129663468
+    second: spi_mon_boss_whale_15
+  - first:
+      213: -5636908923581984637
+    second: spi_mon_boss_whale_16
+  - first:
+      213: -5812825347943938019
+    second: spi_mon_boss_whale_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 440
+        width: 340
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f03fa7813a512b0800000000000000
+      internalID: -5614402034910163199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_1
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 496
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239890e884cac3820800000000000000
+      internalID: 2899381687740369202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 440
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38def7dfca4a3f3e0800000000000000
+      internalID: -2021090744864871037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 461
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa630fd7900111c0800000000000000
+      internalID: -4534842697503774046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 335
+        width: 412
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45815551c7b8eed90800000000000000
+      internalID: -7066557400247625644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 311
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e995479435ac1e190800000000000000
+      internalID: -7934838609386645090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_6
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 311
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1478f31964e8070800000000000000
+      internalID: 8110497568590873004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 355
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e348b117cad6fd180800000000000000
+      internalID: -9088424935610940354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 311
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec60ca04bddd1c8d0800000000000000
+      internalID: -2827735157259368754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 311
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e336b6b0d94ecb0800000000000000
+      internalID: -4835567427517202785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 271
+        width: 82
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1ebf8eb96b338a0800000000000000
+      internalID: -6326512270780407374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 187
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b246f4636f23f5690800000000000000
+      internalID: -7611308812178332629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 108
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac353dc8585f8c380800000000000000
+      internalID: -8950634305456745526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_13
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 11
+        width: 83
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4006fdef2e687e860800000000000000
+      internalID: 7559158809061449732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_14
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 11
+        width: 46
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9788cce5e85298bf0800000000000000
+      internalID: -321684604974233479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 86
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb45d47d89046800800000000000000
+      internalID: 604618753129663468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_16
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 54
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3809aaa133da5c1b0800000000000000
+      internalID: -5636908923581984637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_whale_17
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 11
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d184a6ac422b45fa0800000000000000
+      internalID: -5812825347943938019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_boss_whale_0: -5614402034910163199
+      spi_mon_boss_whale_1: 2899381687740369202
+      spi_mon_boss_whale_10: -6326512270780407374
+      spi_mon_boss_whale_11: -7611308812178332629
+      spi_mon_boss_whale_12: -8950634305456745526
+      spi_mon_boss_whale_13: 7559158809061449732
+      spi_mon_boss_whale_14: -321684604974233479
+      spi_mon_boss_whale_15: 604618753129663468
+      spi_mon_boss_whale_16: -5636908923581984637
+      spi_mon_boss_whale_17: -5812825347943938019
+      spi_mon_boss_whale_2: -2021090744864871037
+      spi_mon_boss_whale_3: -4534842697503774046
+      spi_mon_boss_whale_4: -7066557400247625644
+      spi_mon_boss_whale_5: -7934838609386645090
+      spi_mon_boss_whale_6: 8110497568590873004
+      spi_mon_boss_whale_7: -9088424935610940354
+      spi_mon_boss_whale_8: -2827735157259368754
+      spi_mon_boss_whale_9: -4835567427517202785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

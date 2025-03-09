@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 979a97bfc86eeac4bb0799256da1089c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -520002240881176466
+    second: spi_mon_volcano_lizard_0
+  - first:
+      213: 4144346298607855034
+    second: spi_mon_volcano_lizard_1
+  - first:
+      213: -7612669926806369295
+    second: spi_mon_volcano_lizard_2
+  - first:
+      213: 6081334417016352948
+    second: spi_mon_volcano_lizard_3
+  - first:
+      213: -5879175320692949831
+    second: spi_mon_volcano_lizard_4
+  - first:
+      213: -1376183495058151731
+    second: spi_mon_volcano_lizard_5
+  - first:
+      213: 2281077219270508828
+    second: spi_mon_volcano_lizard_6
+  - first:
+      213: -8802654744463331293
+    second: spi_mon_volcano_lizard_7
+  - first:
+      213: -4127716352871570212
+    second: spi_mon_volcano_lizard_8
+  - first:
+      213: 763182674861706858
+    second: spi_mon_volcano_lizard_9
+  - first:
+      213: 2521180760925354242
+    second: spi_mon_volcano_lizard_10
+  - first:
+      213: 3686408065898460236
+    second: spi_mon_volcano_lizard_11
+  - first:
+      213: 4875859436883844158
+    second: spi_mon_volcano_lizard_12
+  - first:
+      213: -4284678695547393853
+    second: spi_mon_volcano_lizard_13
+  - first:
+      213: 4673593393638610761
+    second: spi_mon_volcano_lizard_14
+  - first:
+      213: -7631155018500459348
+    second: spi_mon_volcano_lizard_15
+  - first:
+      213: 7749719352192948962
+    second: spi_mon_volcano_lizard_16
+  - first:
+      213: -974469516452548034
+    second: spi_mon_volcano_lizard_17
+  - first:
+      213: -4512687679298746178
+    second: spi_mon_volcano_lizard_18
+  - first:
+      213: -3314011443111752977
+    second: spi_mon_volcano_lizard_19
+  - first:
+      213: 8735569818820959467
+    second: spi_mon_volcano_lizard_20
+  - first:
+      213: -2221435143594322037
+    second: spi_mon_volcano_lizard_21
+  - first:
+      213: -422126258036169375
+    second: spi_mon_volcano_lizard_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 905
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60dedd87b498c8f0800000000000000
+      internalID: -520002240881176466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 866
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5e9ba300da38930800000000000000
+      internalID: 4144346298607855034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 918
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb4864090d5a5690800000000000000
+      internalID: -7612669926806369295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 918
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0fd969e6d356450800000000000000
+      internalID: 6081334417016352948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 864
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc7adde139f86ea0800000000000000
+      internalID: -5879175320692949831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 806
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6ad4f0760d6ece0800000000000000
+      internalID: -1376183495058151731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 845
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11cadf25a308af10800000000000000
+      internalID: 2281077219270508828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 809
+        width: 84
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3203bdbf520b6d580800000000000000
+      internalID: -8802654744463331293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 805
+        width: 78
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4e48db8d767b6c0800000000000000
+      internalID: -4127716352871570212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 736
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e4dd9699e579a00800000000000000
+      internalID: 763182674861706858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 561
+        width: 78
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20931855b880df220800000000000000
+      internalID: 2521180760925354242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 447
+        width: 138
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c443301ca90c82330800000000000000
+      internalID: 3686408065898460236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 493
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c923e03588aa340800000000000000
+      internalID: 4875859436883844158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 450
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8a6377d63c984c0800000000000000
+      internalID: -4284678695547393853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 129
+        width: 186
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94711740e60fbd040800000000000000
+      internalID: 4673593393638610761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 377
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4375831f0b81690800000000000000
+      internalID: -7631155018500459348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 320
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea5e68e0b88c8b60800000000000000
+      internalID: 7749719352192948962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e323663432df972f0800000000000000
+      internalID: -974469516452548034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 221
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8cd150776bf51c0800000000000000
+      internalID: -4512687679298746178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 180
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea8ebf96244202d0800000000000000
+      internalID: -3314011443111752977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 129
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec5279977afa3970800000000000000
+      internalID: 8735569818820959467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 192
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87dd7ea180eb21e0800000000000000
+      internalID: -2221435143594322037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_lizard_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165a363a76e442af0800000000000000
+      internalID: -422126258036169375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_volcano_lizard_0: -520002240881176466
+      spi_mon_volcano_lizard_1: 4144346298607855034
+      spi_mon_volcano_lizard_10: 2521180760925354242
+      spi_mon_volcano_lizard_11: 3686408065898460236
+      spi_mon_volcano_lizard_12: 4875859436883844158
+      spi_mon_volcano_lizard_13: -4284678695547393853
+      spi_mon_volcano_lizard_14: 4673593393638610761
+      spi_mon_volcano_lizard_15: -7631155018500459348
+      spi_mon_volcano_lizard_16: 7749719352192948962
+      spi_mon_volcano_lizard_17: -974469516452548034
+      spi_mon_volcano_lizard_18: -4512687679298746178
+      spi_mon_volcano_lizard_19: -3314011443111752977
+      spi_mon_volcano_lizard_2: -7612669926806369295
+      spi_mon_volcano_lizard_20: 8735569818820959467
+      spi_mon_volcano_lizard_21: -2221435143594322037
+      spi_mon_volcano_lizard_22: -422126258036169375
+      spi_mon_volcano_lizard_3: 6081334417016352948
+      spi_mon_volcano_lizard_4: -5879175320692949831
+      spi_mon_volcano_lizard_5: -1376183495058151731
+      spi_mon_volcano_lizard_6: 2281077219270508828
+      spi_mon_volcano_lizard_7: -8802654744463331293
+      spi_mon_volcano_lizard_8: -4127716352871570212
+      spi_mon_volcano_lizard_9: 763182674861706858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

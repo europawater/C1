@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SkeletonData_Hero
+  m_EditorClassIdentifier: 
+  m_GroupName: SkeletonData_Hero
+  m_GUID: 90ad3735e18a140488d5d6eecfa67231
+  m_SerializeEntries:
+  - m_GUID: 1f92d3f823cad3e43a8f6350dbe03d85
+    m_Address: spi_hero_f_knight_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b384b533188ec2243962d5c72e5dfd4c
+    m_Address: spi_hero_m_knight_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6a11478b9db5bf942b2ca4ad50c2056e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aff5e4804d1b61244b20f33cadeafb88, type: 2}
+    - {fileID: 11400000, guid: d5192eda4ef37fa448b53983ddc41d51, type: 2}

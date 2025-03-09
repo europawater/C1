@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 89ae0b7f37cb77843bd8566e3f51fd57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7071762430005808260
+    second: spi_mon_camel_0
+  - first:
+      213: -4198142776471796220
+    second: spi_mon_camel_1
+  - first:
+      213: 7621067500067250934
+    second: spi_mon_camel_2
+  - first:
+      213: 5006648016291317659
+    second: spi_mon_camel_3
+  - first:
+      213: -6189364203269753637
+    second: spi_mon_camel_4
+  - first:
+      213: 1154713223559585986
+    second: spi_mon_camel_5
+  - first:
+      213: 8213710558233325263
+    second: spi_mon_camel_6
+  - first:
+      213: 135367958218197519
+    second: spi_mon_camel_7
+  - first:
+      213: -1196987414704172268
+    second: spi_mon_camel_8
+  - first:
+      213: -9060163889604483271
+    second: spi_mon_camel_9
+  - first:
+      213: 5796074455733012390
+    second: spi_mon_camel_10
+  - first:
+      213: -4068921731078262395
+    second: spi_mon_camel_11
+  - first:
+      213: 3204080204308849110
+    second: spi_mon_camel_12
+  - first:
+      213: -2883054599860418999
+    second: spi_mon_camel_13
+  - first:
+      213: 635257360526734150
+    second: spi_mon_camel_14
+  - first:
+      213: 2641640560180671086
+    second: spi_mon_camel_15
+  - first:
+      213: 9150751004348372797
+    second: spi_mon_camel_16
+  - first:
+      213: -4578608387126766595
+    second: spi_mon_camel_17
+  - first:
+      213: -617287583336014034
+    second: spi_mon_camel_18
+  - first:
+      213: -3744797110315845986
+    second: spi_mon_camel_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_camel_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 415
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c03785672f32260800000000000000
+      internalID: 7071762430005808260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 415
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406c60433633db5c0800000000000000
+      internalID: -4198142776471796220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 415
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f268ce538873c960800000000000000
+      internalID: 7621067500067250934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 465
+        width: 87
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97457e28df2b7540800000000000000
+      internalID: 5006648016291317659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 490
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4769ebc06fa1aa0800000000000000
+      internalID: -6189364203269753637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 397
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c027b31f8d560010800000000000000
+      internalID: 1154713223559585986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 444
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce6f5f0c36fcf170800000000000000
+      internalID: 8213710558233325263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 395
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ac097d07ce0e100800000000000000
+      internalID: 135367958218197519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 217
+        width: 169
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413d1f9c942736fe0800000000000000
+      internalID: -1196987414704172268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 399
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937ad49f1f4d34280800000000000000
+      internalID: -9060163889604483271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 355
+        width: 101
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a78ea1320bcf6050800000000000000
+      internalID: 5796074455733012390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 351
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58176306e394887c0800000000000000
+      internalID: -4068921731078262395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 230
+        width: 51
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1a0b948fd277c20800000000000000
+      internalID: 3204080204308849110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 230
+        width: 43
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9468343dd155df7d0800000000000000
+      internalID: -2883054599860418999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 254
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643f5232433e0d800800000000000000
+      internalID: 635257360526734150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 195
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6235dde71ef8a420800000000000000
+      internalID: 2641640560180671086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 91
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37db324e8ffdfe70800000000000000
+      internalID: 9150751004348372797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_17
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 162
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df35faf2ee38570c0800000000000000
+      internalID: -4578608387126766595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_18
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 91
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f5ff6a634fe67f0800000000000000
+      internalID: -617287583336014034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_camel_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 123
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96f6b37edec70cc0800000000000000
+      internalID: -3744797110315845986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_camel_0: 7071762430005808260
+      spi_mon_camel_1: -4198142776471796220
+      spi_mon_camel_10: 5796074455733012390
+      spi_mon_camel_11: -4068921731078262395
+      spi_mon_camel_12: 3204080204308849110
+      spi_mon_camel_13: -2883054599860418999
+      spi_mon_camel_14: 635257360526734150
+      spi_mon_camel_15: 2641640560180671086
+      spi_mon_camel_16: 9150751004348372797
+      spi_mon_camel_17: -4578608387126766595
+      spi_mon_camel_18: -617287583336014034
+      spi_mon_camel_19: -3744797110315845986
+      spi_mon_camel_2: 7621067500067250934
+      spi_mon_camel_3: 5006648016291317659
+      spi_mon_camel_4: -6189364203269753637
+      spi_mon_camel_5: 1154713223559585986
+      spi_mon_camel_6: 8213710558233325263
+      spi_mon_camel_7: 135367958218197519
+      spi_mon_camel_8: -1196987414704172268
+      spi_mon_camel_9: -9060163889604483271
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

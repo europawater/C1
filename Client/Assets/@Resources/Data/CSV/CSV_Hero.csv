@@ -1,0 +1,2 @@
+TemplateID,Remark,NameKey,SkeletondataKey,DefaultSkill,Attack,Defense,MaxHP,CriticalValue,CriticalRate,SkillDamageValue,SkillCriticalValue,DodgeRate,ComboAttackRate,CounterAttackRate,BossExtraValue
+100001,영웅 01,,spi_hero_f_knight_SkeletonData,100001,6,3,200,0,0,0,0,0,0,0,0

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: bca79f3d2bc83dc43a945b49525849ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8361285308478935021
+    second: spi_mon_oasis_jinn_0
+  - first:
+      213: 1568830602467929817
+    second: spi_mon_oasis_jinn_1
+  - first:
+      213: 6299335717987646094
+    second: spi_mon_oasis_jinn_2
+  - first:
+      213: 3096049976776199419
+    second: spi_mon_oasis_jinn_3
+  - first:
+      213: -1508341119950921324
+    second: spi_mon_oasis_jinn_4
+  - first:
+      213: 6827918462453153387
+    second: spi_mon_oasis_jinn_5
+  - first:
+      213: -1554274675080791936
+    second: spi_mon_oasis_jinn_6
+  - first:
+      213: -8498712475015227712
+    second: spi_mon_oasis_jinn_7
+  - first:
+      213: 6203483159630219804
+    second: spi_mon_oasis_jinn_8
+  - first:
+      213: 8841011450176294926
+    second: spi_mon_oasis_jinn_9
+  - first:
+      213: -7613227062905159735
+    second: spi_mon_oasis_jinn_10
+  - first:
+      213: 683539121062013989
+    second: spi_mon_oasis_jinn_11
+  - first:
+      213: 6138614767288595732
+    second: spi_mon_oasis_jinn_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_oasis_jinn_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def449520b0490470800000000000000
+      internalID: 8361285308478935021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_oasis_jinn_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 101
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deecd4fe1b95c510800000000000000
+      internalID: 1568830602467929817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_oasis_jinn_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 70
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a759fc57cbb6750800000000000000
+      internalID: 6299335717987646094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_oasis_jinn_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 73
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc0a90ec0167fa20800000000000000
+      internalID: 3096049976776199419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_oasis_jinn_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 4
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491e5313ebb411be0800000000000000
+      internalID: -1508341119950921324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_oasis_jinn_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ef9dd6aa3a1ce50800000000000000
+      internalID: 6827918462453153387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_oasis_jinn_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0887c6cfa6b1e6ae0800000000000000
+      internalID: -1554274675080791936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_oasis_jinn_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 4
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6598638028e0a80800000000000000
+      internalID: -8498712475015227712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_oasis_jinn_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a80e3f013371650800000000000000
+      internalID: 6203483159630219804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_oasis_jinn_9
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e005bee721591ba70800000000000000
+      internalID: 8841011450176294926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_oasis_jinn_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfb529a252685690800000000000000
+      internalID: -7613227062905159735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_oasis_jinn_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cebf4853b6c7900800000000000000
+      internalID: 683539121062013989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_oasis_jinn_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41534396b9db03550800000000000000
+      internalID: 6138614767288595732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_oasis_jinn_0: 8361285308478935021
+      spi_mon_oasis_jinn_1: 1568830602467929817
+      spi_mon_oasis_jinn_10: -7613227062905159735
+      spi_mon_oasis_jinn_11: 683539121062013989
+      spi_mon_oasis_jinn_12: 6138614767288595732
+      spi_mon_oasis_jinn_2: 6299335717987646094
+      spi_mon_oasis_jinn_3: 3096049976776199419
+      spi_mon_oasis_jinn_4: -1508341119950921324
+      spi_mon_oasis_jinn_5: 6827918462453153387
+      spi_mon_oasis_jinn_6: -1554274675080791936
+      spi_mon_oasis_jinn_7: -8498712475015227712
+      spi_mon_oasis_jinn_8: 6203483159630219804
+      spi_mon_oasis_jinn_9: 8841011450176294926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

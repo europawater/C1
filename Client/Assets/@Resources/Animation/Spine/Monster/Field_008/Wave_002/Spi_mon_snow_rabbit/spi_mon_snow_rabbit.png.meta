@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 2bd8043d605523d429621add4a7e16d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3364098219345718820
+    second: spi_mon_snow_rabbit_0
+  - first:
+      213: 2530650728333639365
+    second: spi_mon_snow_rabbit_1
+  - first:
+      213: 6642252916618751592
+    second: spi_mon_snow_rabbit_2
+  - first:
+      213: -7203435982539313531
+    second: spi_mon_snow_rabbit_3
+  - first:
+      213: -394564974547489823
+    second: spi_mon_snow_rabbit_4
+  - first:
+      213: 414030287197300443
+    second: spi_mon_snow_rabbit_5
+  - first:
+      213: 1847908058127487686
+    second: spi_mon_snow_rabbit_6
+  - first:
+      213: 6807627624212874725
+    second: spi_mon_snow_rabbit_7
+  - first:
+      213: -5292029668807864564
+    second: spi_mon_snow_rabbit_8
+  - first:
+      213: -3508095014949007834
+    second: spi_mon_snow_rabbit_9
+  - first:
+      213: 2510537138275258279
+    second: spi_mon_snow_rabbit_10
+  - first:
+      213: -4791152289082764916
+    second: spi_mon_snow_rabbit_11
+  - first:
+      213: 7889717459950902881
+    second: spi_mon_snow_rabbit_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_snow_rabbit_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 187
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1df564e725051d0800000000000000
+      internalID: -3364098219345718820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_snow_rabbit_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 216
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cef8e0fd6dae1320800000000000000
+      internalID: 2530650728333639365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_snow_rabbit_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 217
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86eec53e5d50e2c50800000000000000
+      internalID: 6642252916618751592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_snow_rabbit_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 75
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e2a7aa321480c90800000000000000
+      internalID: -7203435982539313531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_snow_rabbit_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 183
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb29430f39368af0800000000000000
+      internalID: -394564974547489823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_snow_rabbit_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 183
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6e5a24a5eeeb500800000000000000
+      internalID: 414030287197300443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_snow_rabbit_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 137
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c25546969615a910800000000000000
+      internalID: 1847908058127487686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_snow_rabbit_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 139
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e54850814d897e50800000000000000
+      internalID: 6807627624212874725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_snow_rabbit_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 72
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f01e9fd0fee86b0800000000000000
+      internalID: -5292029668807864564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_snow_rabbit_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 99
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e45abab2eb05fc0800000000000000
+      internalID: -3508095014949007834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_snow_rabbit_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af8252d93837d220800000000000000
+      internalID: 2510537138275258279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_snow_rabbit_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c811c60b068628db0800000000000000
+      internalID: -4791152289082764916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_snow_rabbit_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e12927a38ed7d60800000000000000
+      internalID: 7889717459950902881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_snow_rabbit_0: -3364098219345718820
+      spi_mon_snow_rabbit_1: 2530650728333639365
+      spi_mon_snow_rabbit_10: 2510537138275258279
+      spi_mon_snow_rabbit_11: -4791152289082764916
+      spi_mon_snow_rabbit_12: 7889717459950902881
+      spi_mon_snow_rabbit_2: 6642252916618751592
+      spi_mon_snow_rabbit_3: -7203435982539313531
+      spi_mon_snow_rabbit_4: -394564974547489823
+      spi_mon_snow_rabbit_5: 414030287197300443
+      spi_mon_snow_rabbit_6: 1847908058127487686
+      spi_mon_snow_rabbit_7: 6807627624212874725
+      spi_mon_snow_rabbit_8: -5292029668807864564
+      spi_mon_snow_rabbit_9: -3508095014949007834
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

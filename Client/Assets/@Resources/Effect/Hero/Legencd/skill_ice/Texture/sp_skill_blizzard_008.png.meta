@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 773dd4b159d911348b982926141cc4d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1196864543370959624
+    second: sp_skill_blizzard_008_0
+  - first:
+      213: -696724672945446573
+    second: sp_skill_blizzard_008_1
+  - first:
+      213: -7005568938094888064
+    second: sp_skill_blizzard_008_2
+  - first:
+      213: 4799269307816143915
+    second: sp_skill_blizzard_008_3
+  - first:
+      213: 7457192248411244727
+    second: sp_skill_blizzard_008_4
+  - first:
+      213: 6467981330080778380
+    second: sp_skill_blizzard_008_5
+  - first:
+      213: -9060017451408281895
+    second: sp_skill_blizzard_008_6
+  - first:
+      213: 8098513383207601202
+    second: sp_skill_blizzard_008_7
+  - first:
+      213: 1560913153604290328
+    second: sp_skill_blizzard_008_8
+  - first:
+      213: 4527977123982114374
+    second: sp_skill_blizzard_008_9
+  - first:
+      213: -4642071656527765130
+    second: sp_skill_blizzard_008_10
+  - first:
+      213: -2214407179718917652
+    second: sp_skill_blizzard_008_11
+  - first:
+      213: 6105588954621735891
+    second: sp_skill_blizzard_008_12
+  - first:
+      213: -3286248905931192517
+    second: sp_skill_blizzard_008_13
+  - first:
+      213: -2481557843233881842
+    second: sp_skill_blizzard_008_14
+  - first:
+      213: 520974143969953301
+    second: sp_skill_blizzard_008_15
+  - first:
+      213: 7653648663562887482
+    second: sp_skill_blizzard_008_16
+  - first:
+      213: -3031719057592362453
+    second: sp_skill_blizzard_008_17
+  - first:
+      213: -1579556652029006630
+    second: sp_skill_blizzard_008_18
+  - first:
+      213: 6120696064501579206
+    second: sp_skill_blizzard_008_19
+  - first:
+      213: -694227893682222470
+    second: sp_skill_blizzard_008_20
+  - first:
+      213: 1777533053781287539
+    second: sp_skill_blizzard_008_21
+  - first:
+      213: -5218350862739888596
+    second: sp_skill_blizzard_008_22
+  - first:
+      213: -8991749435752353747
+    second: sp_skill_blizzard_008_23
+  - first:
+      213: 12342446862922414
+    second: sp_skill_blizzard_008_24
+  - first:
+      213: -3389733788814952802
+    second: sp_skill_blizzard_008_25
+  - first:
+      213: -2744611996642495184
+    second: sp_skill_blizzard_008_26
+  - first:
+      213: -3182013033810630245
+    second: sp_skill_blizzard_008_27
+  - first:
+      213: 1222220947239251076
+    second: sp_skill_blizzard_008_28
+  - first:
+      213: -757194408587407493
+    second: sp_skill_blizzard_008_29
+  - first:
+      213: 7172021460545877227
+    second: sp_skill_blizzard_008_30
+  - first:
+      213: -143798163110204064
+    second: sp_skill_blizzard_008_31
+  - first:
+      213: 8223196892220447599
+    second: sp_skill_blizzard_008_32
+  - first:
+      213: -7745825060827626335
+    second: sp_skill_blizzard_008_33
+  - first:
+      213: 1090750815559874889
+    second: sp_skill_blizzard_008_34
+  - first:
+      213: 364418142460972887
+    second: sp_skill_blizzard_008_35
+  - first:
+      213: -5819966399362017419
+    second: sp_skill_blizzard_008_36
+  - first:
+      213: -6648370064981679253
+    second: sp_skill_blizzard_008_37
+  - first:
+      213: 8082335861136642211
+    second: sp_skill_blizzard_008_38
+  - first:
+      213: 1853170613073305105
+    second: sp_skill_blizzard_008_39
+  - first:
+      213: -2872463411905777799
+    second: sp_skill_blizzard_008_40
+  - first:
+      213: 6817571960675568819
+    second: sp_skill_blizzard_008_41
+  - first:
+      213: 4777600704106683712
+    second: sp_skill_blizzard_008_42
+  - first:
+      213: -7004511542119283771
+    second: sp_skill_blizzard_008_43
+  - first:
+      213: -4753322868689200328
+    second: sp_skill_blizzard_008_44
+  - first:
+      213: -4802650229042517166
+    second: sp_skill_blizzard_008_45
+  - first:
+      213: -802608193728511392
+    second: sp_skill_blizzard_008_46
+  - first:
+      213: -6618359491369159077
+    second: sp_skill_blizzard_008_47
+  - first:
+      213: -3984407222206750882
+    second: sp_skill_blizzard_008_48
+  - first:
+      213: 3614073803778327013
+    second: sp_skill_blizzard_008_49
+  - first:
+      213: -4275357910405104182
+    second: sp_skill_blizzard_008_50
+  - first:
+      213: -4382487157755401676
+    second: sp_skill_blizzard_008_51
+  - first:
+      213: 5990016865356870139
+    second: sp_skill_blizzard_008_52
+  - first:
+      213: 1661602953989200369
+    second: sp_skill_blizzard_008_53
+  - first:
+      213: -4754822844497538135
+    second: sp_skill_blizzard_008_54
+  - first:
+      213: -7492716518858534635
+    second: sp_skill_blizzard_008_55
+  - first:
+      213: -1123099127248899714
+    second: sp_skill_blizzard_008_56
+  - first:
+      213: -2352747799414387731
+    second: sp_skill_blizzard_008_57
+  - first:
+      213: -4990092849311197172
+    second: sp_skill_blizzard_008_58
+  - first:
+      213: 2165773202637606765
+    second: sp_skill_blizzard_008_59
+  - first:
+      213: 130479257570888734
+    second: sp_skill_blizzard_008_60
+  - first:
+      213: -550455484405494436
+    second: sp_skill_blizzard_008_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_blizzard_008_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510aac7985f99a44da5ce725c76232d2
+      internalID: -1470230972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_blizzard_008_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552a4fa522a30bd45822857fb76c39fa
+      internalID: 346880593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_blizzard_008_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943944fdfe8c32447938ce5239b6a765
+      internalID: 113303762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_blizzard_008_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 288
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140985c8e562cf749b2f84182f225c7f
+      internalID: -1166046972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_blizzard_008_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24f9aef84eb8494b87582c0064e5e99
+      internalID: -1120483019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_blizzard_008_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbca6722c3eb99f4ba62bf1803657f51
+      internalID: 1437951340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_blizzard_008_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0269eac19be379d49ae70d40cabd2334
+      internalID: 2016738256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_blizzard_008_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099e658ee4859114eb4754d241c05376
+      internalID: 206606540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_blizzard_008_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd9785bed136e04ca792bd60a500a05
+      internalID: 691016127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_blizzard_008_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9bfbefb7a790243bd3cde106d44731
+      internalID: -944859411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_blizzard_008_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa93fe61808897c459ca595b65bb27d4
+      internalID: -891105948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_blizzard_008_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 96
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317d91a96b9aed9498aa5dedf1a9dcb8
+      internalID: 515171307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_blizzard_008_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d0268fba2776c4a837a640b3eabcbd
+      internalID: -1243618887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_blizzard_008_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1442f1af7b3cb0e4286026e6b008c9a0
+      internalID: -253541637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_blizzard_008_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2074d65c6276d8547a2e7614b7d3f84d
+      internalID: 1776178260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 434f5813e55c9e342be9527fa41cb01b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_blizzard_008_0: -1470230972
+      sp_skill_blizzard_008_1: 346880593
+      sp_skill_blizzard_008_10: -891105948
+      sp_skill_blizzard_008_11: 515171307
+      sp_skill_blizzard_008_12: -1243618887
+      sp_skill_blizzard_008_13: -253541637
+      sp_skill_blizzard_008_14: 1776178260
+      sp_skill_blizzard_008_2: 113303762
+      sp_skill_blizzard_008_3: -1166046972
+      sp_skill_blizzard_008_4: -1120483019
+      sp_skill_blizzard_008_5: 1437951340
+      sp_skill_blizzard_008_6: 2016738256
+      sp_skill_blizzard_008_7: 206606540
+      sp_skill_blizzard_008_8: 691016127
+      sp_skill_blizzard_008_9: -944859411
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 9b585ef6e94caf748a772d074069813a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2088244945753867938
+    second: spi_mon_boss_living_armor_0
+  - first:
+      213: 1325444348275802816
+    second: spi_mon_boss_living_armor_1
+  - first:
+      213: 674819522986136170
+    second: spi_mon_boss_living_armor_2
+  - first:
+      213: -1909110108566137793
+    second: spi_mon_boss_living_armor_3
+  - first:
+      213: 3487168070195521971
+    second: spi_mon_boss_living_armor_4
+  - first:
+      213: -6658599523748148743
+    second: spi_mon_boss_living_armor_5
+  - first:
+      213: -4658678388864072122
+    second: spi_mon_boss_living_armor_6
+  - first:
+      213: -7211072025723574132
+    second: spi_mon_boss_living_armor_7
+  - first:
+      213: -3993610213035043828
+    second: spi_mon_boss_living_armor_8
+  - first:
+      213: 3325573782022857601
+    second: spi_mon_boss_living_armor_9
+  - first:
+      213: -3549475058957826837
+    second: spi_mon_boss_living_armor_10
+  - first:
+      213: 4479606226506912844
+    second: spi_mon_boss_living_armor_11
+  - first:
+      213: 9183322167716536845
+    second: spi_mon_boss_living_armor_12
+  - first:
+      213: 8382935479848793275
+    second: spi_mon_boss_living_armor_13
+  - first:
+      213: 3063117326443595068
+    second: spi_mon_boss_living_armor_14
+  - first:
+      213: -5828752104262670791
+    second: spi_mon_boss_living_armor_15
+  - first:
+      213: 5688376972919135063
+    second: spi_mon_boss_living_armor_16
+  - first:
+      213: 5256015859595004947
+    second: spi_mon_boss_living_armor_17
+  - first:
+      213: 7430962330414017608
+    second: spi_mon_boss_living_armor_18
+  - first:
+      213: -585169971017251603
+    second: spi_mon_boss_living_armor_19
+  - first:
+      213: 6177885505045868219
+    second: spi_mon_boss_living_armor_20
+  - first:
+      213: -2783270175818538507
+    second: spi_mon_boss_living_armor_21
+  - first:
+      213: -150422866200519677
+    second: spi_mon_boss_living_armor_22
+  - first:
+      213: 8331517744438788534
+    second: spi_mon_boss_living_armor_23
+  - first:
+      213: -3241510097879263839
+    second: spi_mon_boss_living_armor_24
+  - first:
+      213: -7388074525194551072
+    second: spi_mon_boss_living_armor_25
+  - first:
+      213: 6330209800775173722
+    second: spi_mon_boss_living_armor_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 828
+        width: 171
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a60aa3d6bfeafc10800000000000000
+      internalID: 2088244945753867938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 967
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2478cbc9ce46210800000000000000
+      internalID: 1325444348275802816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 921
+        width: 89
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a625613e7c07d5900800000000000000
+      internalID: 674819522986136170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 828
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34decd987a7185e0800000000000000
+      internalID: -1909110108566137793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 828
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9a61052e8e46030800000000000000
+      internalID: 3487168070195521971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 828
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9086d0307e793a0800000000000000
+      internalID: -6658599523748148743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 710
+        width: 101
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646c7f420bc095fb0800000000000000
+      internalID: -4658678388864072122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 710
+        width: 127
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c886df0d2302deb90800000000000000
+      internalID: -7211072025723574132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 628
+        width: 211
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c049ca89ba8d398c0800000000000000
+      internalID: -3993610213035043828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 594
+        width: 228
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18323df2cbfc62e20800000000000000
+      internalID: 3325573782022857601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 402
+        width: 179
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4c5b36d3bbdbec0800000000000000
+      internalID: -3549475058957826837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 341
+        width: 269
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4492980122ca2e30800000000000000
+      internalID: 4479606226506912844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 261
+        width: 141
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02e6b03bd6b17f70800000000000000
+      internalID: 9183322167716536845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 299
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4f76b776b265470800000000000000
+      internalID: 8382935479848793275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 195
+        width: 157
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35c304baf0628a20800000000000000
+      internalID: 3063117326443595068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 407
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936ec9dd7dc1c1fa0800000000000000
+      internalID: -5828752104262670791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 179
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b5b53f7bc21fe40800000000000000
+      internalID: 5688376972919135063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 147
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ccaf4a39e11f840800000000000000
+      internalID: 5256015859595004947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 160
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ce2ab5ed4102760800000000000000
+      internalID: 7430962330414017608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_19
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 125
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de48a40030f01e7f0800000000000000
+      internalID: -585169971017251603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_20
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 117
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe2b4f82224cb550800000000000000
+      internalID: 6177885505045868219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_21
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 97
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1a5608586df59d0800000000000000
+      internalID: -2783270175818538507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_22
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 85
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c950e333799edf0800000000000000
+      internalID: -150422866200519677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 69
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1432d0f3f7f9370800000000000000
+      internalID: 8331517744438788534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 28
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a590108db7d303d0800000000000000
+      internalID: -3241510097879263839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e08aafec59487990800000000000000
+      internalID: -7388074525194551072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_living_armor_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5686e0664c69d750800000000000000
+      internalID: 6330209800775173722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_boss_living_armor_0: 2088244945753867938
+      spi_mon_boss_living_armor_1: 1325444348275802816
+      spi_mon_boss_living_armor_10: -3549475058957826837
+      spi_mon_boss_living_armor_11: 4479606226506912844
+      spi_mon_boss_living_armor_12: 9183322167716536845
+      spi_mon_boss_living_armor_13: 8382935479848793275
+      spi_mon_boss_living_armor_14: 3063117326443595068
+      spi_mon_boss_living_armor_15: -5828752104262670791
+      spi_mon_boss_living_armor_16: 5688376972919135063
+      spi_mon_boss_living_armor_17: 5256015859595004947
+      spi_mon_boss_living_armor_18: 7430962330414017608
+      spi_mon_boss_living_armor_19: -585169971017251603
+      spi_mon_boss_living_armor_2: 674819522986136170
+      spi_mon_boss_living_armor_20: 6177885505045868219
+      spi_mon_boss_living_armor_21: -2783270175818538507
+      spi_mon_boss_living_armor_22: -150422866200519677
+      spi_mon_boss_living_armor_23: 8331517744438788534
+      spi_mon_boss_living_armor_24: -3241510097879263839
+      spi_mon_boss_living_armor_25: -7388074525194551072
+      spi_mon_boss_living_armor_26: 6330209800775173722
+      spi_mon_boss_living_armor_3: -1909110108566137793
+      spi_mon_boss_living_armor_4: 3487168070195521971
+      spi_mon_boss_living_armor_5: -6658599523748148743
+      spi_mon_boss_living_armor_6: -4658678388864072122
+      spi_mon_boss_living_armor_7: -7211072025723574132
+      spi_mon_boss_living_armor_8: -3993610213035043828
+      spi_mon_boss_living_armor_9: 3325573782022857601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

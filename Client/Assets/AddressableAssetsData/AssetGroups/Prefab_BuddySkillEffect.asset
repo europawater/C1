@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefab_BuddySkillEffect
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefab_BuddySkillEffect
+  m_GUID: 45c63156b17736d4f95f6bdb72613155
+  m_SerializeEntries:
+  - m_GUID: 00e3e79b0d8fe1142b30a7f9c61626fa
+    m_Address: VFX_buddy_common_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02f04085ce30f8d4580b795ecdf52fcf
+    m_Address: VFX_buddy_zion_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03bb6f3f3ec2b554398a5a61890929a6
+    m_Address: VFX_buddy_kyle_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05007bf905ef0fb4394cdcd7b47dcbf6
+    m_Address: VFX_buddy_vanessa_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 088df774de2593a4dadba9cc0360391d
+    m_Address: VFX_buddy_veti_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c34f13023631e74c9874c546dedcdbf
+    m_Address: VFX_buddy_leon_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 195c3a0434acf8843b1984db3196311a
+    m_Address: VFX_buddy_ballack_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e40dd089c4d33f4c9c4772f57ad6ce3
+    m_Address: VFX_buddy_lui_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21ec0858b6d38a84dbbca2720c14e3b3
+    m_Address: VFX_buddy_alex_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 233cd618ad8012448aae9c0c8f66a1b5
+    m_Address: VFX_buddy_common_heal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2638d76f6a7fe8c4e98d6d17be5aa8cf
+    m_Address: VFX_buddy_laurel_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33df810319216a04eb6933563e1637ac
+    m_Address: VFX_buddy_owen_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3900f9da51f895847a9a247c75893385
+    m_Address: VFX_buddy_ellie_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52521d68fda17bd4784854092ef4e4a5
+    m_Address: VFX_buddy_duck_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ae63b93e8f63994ea2560a7c947b32e
+    m_Address: VFX_buddy_chloe_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f74dcb0155e5914e8b32475618e4cc6
+    m_Address: VFX_buddy_ballack_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72ce6944b0e230348a3d99c950edd0e3
+    m_Address: VFX_buddy_lucy_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 748511b97b5ed904487515bf7db7a542
+    m_Address: VFX_buddy_andre_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7506de6d0ea4c8041b3986ad49aa7c02
+    m_Address: VFX_buddy_kyle_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7628bc6cf5e96384c907fad0f31bb4af
+    m_Address: VFX_buddy_tom_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7717f8224934b874daddd40939f73fe2
+    m_Address: VFX_buddy_coon_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 775910f1967e66049ab7452e3c3a6359
+    m_Address: VFX_buddy_yuli_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85f0886400dcd8e4482dace6d4a371c2
+    m_Address: VFX_buddy_walt_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8728d96cf5b59fe4d940c989e2217d1d
+    m_Address: VFX_buddy_aren_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89b4f38099644294aa462cc01089faad
+    m_Address: VFX_buddy_lala_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c6b7b23a39dd034b857034339eabdb8
+    m_Address: VFX_buddy_owen_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 989b884508c45644ab51bcd257c5fa9d
+    m_Address: VFX_buddy_chloe_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fe6201861366f346ba02e1aa84ec121
+    m_Address: VFX_buddy_coon_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a18c03e9e5a1aae4087a332bd0babc60
+    m_Address: VFX_buddy_luke_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5fa9a01cbe35bc459f99291f8f17d8e
+    m_Address: VFX_buddy_mari_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd2604cbfb8650b45a9e0ce1a7024302
+    m_Address: VFX_buddy_laurel_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7704580c2c614d4e907da5ebb4f71fe
+    m_Address: VFX_buddy_andre_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8b70b9867213a045b68a0bebc162610
+    m_Address: VFX_buddy_sylvia_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9cf69c58683b9c49bb4154288a3d7a3
+    m_Address: VFX_buddy_bella_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da8678a33a5892a48bd43ae473eb53aa
+    m_Address: VFX_buddy_storm_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1b1f041b63bfe942bb71a3eef0dce65
+    m_Address: VFX_buddy_michelle_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1e1a1c5762d270468b7044f3789fe65
+    m_Address: VFX_buddy_veti_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee6655560cc29ae4483c760ea8c12738
+    m_Address: VFX_buddy_zion_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f36758c4debefda43b1f4c66f497a353
+    m_Address: VFX_buddy_rooki_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc7bc12a60bace347a1012fbaa336d91
+    m_Address: VFX_buddy_alex_skill_hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff011bceb1ee8c04e98778c3c26c503a
+    m_Address: VFX_buddy_hadi_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6a11478b9db5bf942b2ca4ad50c2056e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aa98eefc694d6884aa93147f1fc75e2d, type: 2}
+    - {fileID: 11400000, guid: 23fa2792444022445a5611fa1458b735, type: 2}

@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: 65a32bb2cca4cb04593a9741e137ce05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5892966759029443340
+    second: sp_alex_shield_skill_002_0
+  - first:
+      213: 573813406084049053
+    second: sp_alex_shield_skill_002_1
+  - first:
+      213: 6601524346188086583
+    second: sp_alex_shield_skill_002_2
+  - first:
+      213: 4919845811221137724
+    second: sp_alex_shield_skill_002_3
+  - first:
+      213: -3353431039010500393
+    second: sp_alex_shield_skill_002_4
+  - first:
+      213: -1872273303223975657
+    second: sp_alex_shield_skill_002_5
+  - first:
+      213: 3057299118959720171
+    second: sp_alex_shield_skill_002_6
+  - first:
+      213: 2780544722823201943
+    second: sp_alex_shield_skill_002_7
+  - first:
+      213: -5064282716745958805
+    second: sp_alex_shield_skill_002_8
+  - first:
+      213: 327944542585058631
+    second: sp_alex_shield_skill_002_9
+  - first:
+      213: 1547292771448932479
+    second: sp_alex_shield_skill_002_10
+  - first:
+      213: 1565985062733844347
+    second: sp_alex_shield_skill_002_11
+  - first:
+      213: -4138382944515870204
+    second: sp_alex_shield_skill_002_12
+  - first:
+      213: 1600782772153683239
+    second: sp_alex_shield_skill_002_13
+  - first:
+      213: -67742973101308308
+    second: sp_alex_shield_skill_002_14
+  - first:
+      213: -7893291539706141462
+    second: sp_alex_shield_skill_002_15
+  - first:
+      213: -4423935359072033065
+    second: sp_alex_shield_skill_002_16
+  - first:
+      213: 6706055666058621832
+    second: sp_alex_shield_skill_002_17
+  - first:
+      213: 1012396961001683140
+    second: sp_alex_shield_skill_002_18
+  - first:
+      213: 1316210624805659590
+    second: sp_alex_shield_skill_002_19
+  - first:
+      213: 6554967209001719046
+    second: sp_alex_shield_skill_002_20
+  - first:
+      213: 5997067171935492865
+    second: sp_alex_shield_skill_002_21
+  - first:
+      213: 5245931519433071780
+    second: sp_alex_shield_skill_002_22
+  - first:
+      213: -472477863820692149
+    second: sp_alex_shield_skill_002_23
+  - first:
+      213: -2499962066319828434
+    second: sp_alex_shield_skill_002_24
+  - first:
+      213: 3347395632669151469
+    second: sp_alex_shield_skill_002_25
+  - first:
+      213: 4897968552728599170
+    second: sp_alex_shield_skill_002_26
+  - first:
+      213: 1485828180232141396
+    second: sp_alex_shield_skill_002_27
+  - first:
+      213: -1843177842650475248
+    second: sp_alex_shield_skill_002_28
+  - first:
+      213: -5734524833589281006
+    second: sp_alex_shield_skill_002_29
+  - first:
+      213: 6894242671983425743
+    second: sp_alex_shield_skill_002_30
+  - first:
+      213: -3740230887120653244
+    second: sp_alex_shield_skill_002_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_alex_shield_skill_002_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107360dc08ea5144382cb153a4638d71
+      internalID: 1510594024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_shield_skill_002_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146658d15229bb14692ae530bfa6254a
+      internalID: 1943238717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_shield_skill_002_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c447ba23444264f812a1375f1b5418
+      internalID: -1038946620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_shield_skill_002_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f180ad8bb10644cac8ba9703ed0f30
+      internalID: 705402804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_shield_skill_002_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b803a7b44e0eee4fb0fe636533f5642
+      internalID: -1693779454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_shield_skill_002_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b493b18d37efc42a37851f0b0d92d7
+      internalID: 2063502606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_shield_skill_002_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f633c4bb0117946a408fa3b908780b
+      internalID: 1896889591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_shield_skill_002_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3036d0f45f10645ae2da318a9d27b6
+      internalID: -1530543309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_shield_skill_002_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7578cf25aef7a42a4969a556c38b4d
+      internalID: 2088140755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_shield_skill_002_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c6c568b94cfb5468e059b25e32dd47
+      internalID: 20979282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_shield_skill_002_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2924bb8771a86be4e84e39f2030d022a
+      internalID: 1655682523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_shield_skill_002_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0e878486d30974bbb42bbbbcb3c6ef
+      internalID: 1102001799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f95f5d7106c31ea45b0f43291a524161
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_alex_shield_skill_002_0: 1510594024
+      sp_alex_shield_skill_002_1: 1943238717
+      sp_alex_shield_skill_002_10: 1655682523
+      sp_alex_shield_skill_002_11: 1102001799
+      sp_alex_shield_skill_002_2: -1038946620
+      sp_alex_shield_skill_002_3: 705402804
+      sp_alex_shield_skill_002_4: -1693779454
+      sp_alex_shield_skill_002_5: 2063502606
+      sp_alex_shield_skill_002_6: 1896889591
+      sp_alex_shield_skill_002_7: -1530543309
+      sp_alex_shield_skill_002_8: 2088140755
+      sp_alex_shield_skill_002_9: 20979282
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

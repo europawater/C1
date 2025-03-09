@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: 4a91fa22db569894eb3ce4fe509954d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2523765449413600251
+    second: sp_hadi_skill_003_0
+  - first:
+      213: 678007531119331118
+    second: sp_hadi_skill_003_1
+  - first:
+      213: 8834696023062854407
+    second: sp_hadi_skill_003_2
+  - first:
+      213: -3173268978629798580
+    second: sp_hadi_skill_003_3
+  - first:
+      213: 2539935322309386156
+    second: sp_hadi_skill_003_4
+  - first:
+      213: -5092367640406520024
+    second: sp_hadi_skill_003_5
+  - first:
+      213: -1850685383494495787
+    second: sp_hadi_skill_003_6
+  - first:
+      213: 880905408954559022
+    second: sp_hadi_skill_003_7
+  - first:
+      213: 740818947176644679
+    second: sp_hadi_skill_003_8
+  - first:
+      213: -9154075768918952227
+    second: sp_hadi_skill_003_9
+  - first:
+      213: -1954671304918927283
+    second: sp_hadi_skill_003_10
+  - first:
+      213: -1302246073216613162
+    second: sp_hadi_skill_003_11
+  - first:
+      213: -3590504309858036438
+    second: sp_hadi_skill_003_12
+  - first:
+      213: -456479811244962222
+    second: sp_hadi_skill_003_13
+  - first:
+      213: 5369186349924956110
+    second: sp_hadi_skill_003_14
+  - first:
+      213: 6241632701998636327
+    second: sp_hadi_skill_003_15
+  - first:
+      213: 1728175252335855458
+    second: sp_hadi_skill_003_16
+  - first:
+      213: -1242375839945111515
+    second: sp_hadi_skill_003_17
+  - first:
+      213: 5378277490694493100
+    second: sp_hadi_skill_003_18
+  - first:
+      213: 3944036224385814729
+    second: sp_hadi_skill_003_19
+  - first:
+      213: -1909698705082770646
+    second: sp_hadi_skill_003_20
+  - first:
+      213: -3631640002586348558
+    second: sp_hadi_skill_003_21
+  - first:
+      213: 4540829287150302978
+    second: sp_hadi_skill_003_22
+  - first:
+      213: -6230980663099434417
+    second: sp_hadi_skill_003_23
+  - first:
+      213: 2933353182915679083
+    second: sp_hadi_skill_003_24
+  - first:
+      213: 8075883341065639458
+    second: sp_hadi_skill_003_25
+  - first:
+      213: -6154266680914664013
+    second: sp_hadi_skill_003_26
+  - first:
+      213: -871212310703795744
+    second: sp_hadi_skill_003_27
+  - first:
+      213: 4594476780873882576
+    second: sp_hadi_skill_003_28
+  - first:
+      213: 5104090213696123561
+    second: sp_hadi_skill_003_29
+  - first:
+      213: -3215051546534793124
+    second: sp_hadi_skill_003_30
+  - first:
+      213: -7110437376774557819
+    second: sp_hadi_skill_003_31
+  - first:
+      213: -6183580830453401974
+    second: sp_hadi_skill_003_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_hadi_skill_003_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5d9273d0461ae47a2dc3cfbedc3b5c
+      internalID: 2039844827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_003_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d844bfefeab8d4986c15723f8d07bf
+      internalID: 1178655107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_003_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318be5d564921794988c4971668f48ee
+      internalID: 2019204738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_003_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c72d6f918316842ba38d47abff6700
+      internalID: 1674171793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_003_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d63374deb50249844dbf5356ecd6b
+      internalID: 133498495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_003_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7483972e12758cc4da5bf86af302b74d
+      internalID: -679929236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_003_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748ef2d4a4b5ea54d9f2fc4bb4c3c544
+      internalID: -1650775733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_003_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0c8f56cc355a8478d8e91ac6fb7ac7
+      internalID: -1054864351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_003_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b7fdd24d8662348b3fca3a230f4b46
+      internalID: 1450023081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_003_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89323c81e318641429d3a477de0e5239
+      internalID: 1696877889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_003_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d68d7b1bac28c45946b91a98120f51
+      internalID: 367220475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_003_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba20b4f96cef70c469facbe71cae66bc
+      internalID: 622673318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_003_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f99c33d952a7345ad3e6123e8f718b
+      internalID: -1749960988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_003_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0301696f6037cf244aa1463a8d04f5f8
+      internalID: -685758390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_003_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95f3bc5423dda748ae8567590ca0edc
+      internalID: -832644393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d0070005ff8278548938b3eca9a512c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_hadi_skill_003_0: 2039844827
+      sp_hadi_skill_003_1: 1178655107
+      sp_hadi_skill_003_10: 367220475
+      sp_hadi_skill_003_11: 622673318
+      sp_hadi_skill_003_12: -1749960988
+      sp_hadi_skill_003_13: -685758390
+      sp_hadi_skill_003_14: -832644393
+      sp_hadi_skill_003_2: 2019204738
+      sp_hadi_skill_003_3: 1674171793
+      sp_hadi_skill_003_4: 133498495
+      sp_hadi_skill_003_5: -679929236
+      sp_hadi_skill_003_6: -1650775733
+      sp_hadi_skill_003_7: -1054864351
+      sp_hadi_skill_003_8: 1450023081
+      sp_hadi_skill_003_9: 1696877889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

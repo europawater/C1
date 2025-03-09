@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 24be65d7247b3f146bd32edd8d66eae1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3795214325882311011
+    second: sp_skill_tornado_005_0
+  - first:
+      213: 4073851428479592623
+    second: sp_skill_tornado_005_1
+  - first:
+      213: -5713906246963831687
+    second: sp_skill_tornado_005_2
+  - first:
+      213: -4728353742070460567
+    second: sp_skill_tornado_005_3
+  - first:
+      213: -7951052034454636756
+    second: sp_skill_tornado_005_4
+  - first:
+      213: -553749016644780445
+    second: sp_skill_tornado_005_5
+  - first:
+      213: -3877474608558416814
+    second: sp_skill_tornado_005_6
+  - first:
+      213: 3447014628644765203
+    second: sp_skill_tornado_005_7
+  - first:
+      213: -1530075931810069026
+    second: sp_skill_tornado_005_8
+  - first:
+      213: -1583553725710841387
+    second: sp_skill_tornado_005_9
+  - first:
+      213: 3845022532294349836
+    second: sp_skill_tornado_005_10
+  - first:
+      213: -6506570361853662032
+    second: sp_skill_tornado_005_11
+  - first:
+      213: 1198861435580014607
+    second: sp_skill_tornado_005_12
+  - first:
+      213: 7972847504470368383
+    second: sp_skill_tornado_005_13
+  - first:
+      213: -7351394158673073716
+    second: sp_skill_tornado_005_14
+  - first:
+      213: -767348323305764918
+    second: sp_skill_tornado_005_15
+  - first:
+      213: -4774007793658585137
+    second: sp_skill_tornado_005_16
+  - first:
+      213: -5968591347893450699
+    second: sp_skill_tornado_005_17
+  - first:
+      213: -7641669285800817050
+    second: sp_skill_tornado_005_18
+  - first:
+      213: 5926917482187897611
+    second: sp_skill_tornado_005_19
+  - first:
+      213: 7268286861300013576
+    second: sp_skill_tornado_005_20
+  - first:
+      213: 7029988983929112264
+    second: sp_skill_tornado_005_21
+  - first:
+      213: -3063412582246254592
+    second: sp_skill_tornado_005_22
+  - first:
+      213: -8822668314986421739
+    second: sp_skill_tornado_005_23
+  - first:
+      213: -7087592956288435723
+    second: sp_skill_tornado_005_24
+  - first:
+      213: -7460974973376520394
+    second: sp_skill_tornado_005_25
+  - first:
+      213: -937785256401405690
+    second: sp_skill_tornado_005_26
+  - first:
+      213: 1854136349706462367
+    second: sp_skill_tornado_005_27
+  - first:
+      213: -2307322580535931531
+    second: sp_skill_tornado_005_28
+  - first:
+      213: 2085328619785274267
+    second: sp_skill_tornado_005_29
+  - first:
+      213: 7525494612182782995
+    second: sp_skill_tornado_005_30
+  - first:
+      213: -3258242296625173346
+    second: sp_skill_tornado_005_31
+  - first:
+      213: 5754977975075126304
+    second: sp_skill_tornado_005_32
+  - first:
+      213: 6901724202423918750
+    second: sp_skill_tornado_005_33
+  - first:
+      213: 4268753115402918090
+    second: sp_skill_tornado_005_34
+  - first:
+      213: -7019410662382182410
+    second: sp_skill_tornado_005_35
+  - first:
+      213: -7620067583059254716
+    second: sp_skill_tornado_005_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_tornado_005_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a596bce5bcca8f4b94bc824943be95d
+      internalID: 734048064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_005_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3271d4a15bdd7cf41a444699c49bd5f8
+      internalID: 1488371235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_005_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbc41628e2e86c4c8fef78e4d7c8563
+      internalID: -1630585018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_005_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912e8a1c1c4655e4298bb365788dac49
+      internalID: -670399511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_005_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b8cd4bedfeea444b39bac133d571d4
+      internalID: 1092345835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_005_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47271f871f6e4ce42ac8bf97fee71745
+      internalID: 1967085816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_005_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f24f280b9dd794dbb40bd338b38747
+      internalID: 525234588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_005_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a103fad2c71d4b2479fc8b95eb408f35
+      internalID: -1363884301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_005_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e9008fea2feba44add269fa0a2eddd
+      internalID: -923475926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_005_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6467d3a3d19164ca9bfcea19537ef4
+      internalID: 2054689802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_005_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac68730df0581bc40b1344e735e3abea
+      internalID: 178769622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_005_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c7d88e145f9d049bada023ed081829
+      internalID: 2117737332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_005_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e7775eef1407043a181ab484dc6891
+      internalID: -2057102904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_005_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d40ddfd70e8c54888fe95ad92cd5bf
+      internalID: 2126514167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_005_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f535334b9544744a44bf219eaaaa12
+      internalID: -236461662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dfcfe16e0c15dee48b313ad44831eefa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_tornado_005_0: 734048064
+      sp_skill_tornado_005_1: 1488371235
+      sp_skill_tornado_005_10: 178769622
+      sp_skill_tornado_005_11: 2117737332
+      sp_skill_tornado_005_12: -2057102904
+      sp_skill_tornado_005_13: 2126514167
+      sp_skill_tornado_005_14: -236461662
+      sp_skill_tornado_005_2: -1630585018
+      sp_skill_tornado_005_3: -670399511
+      sp_skill_tornado_005_4: 1092345835
+      sp_skill_tornado_005_5: 1967085816
+      sp_skill_tornado_005_6: 525234588
+      sp_skill_tornado_005_7: -1363884301
+      sp_skill_tornado_005_8: -923475926
+      sp_skill_tornado_005_9: 2054689802
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

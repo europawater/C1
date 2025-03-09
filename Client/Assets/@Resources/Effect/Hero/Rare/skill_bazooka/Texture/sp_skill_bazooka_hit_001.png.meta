@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 561a00e11dfa82948bf3f95fcd6ec262
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1787874665177153591
+    second: sp_skill_bazooka_hit_001_0
+  - first:
+      213: -4606843352918457100
+    second: sp_skill_bazooka_hit_001_1
+  - first:
+      213: 5561083471249299340
+    second: sp_skill_bazooka_hit_001_2
+  - first:
+      213: 1136835501202675085
+    second: sp_skill_bazooka_hit_001_3
+  - first:
+      213: 2737252509435285322
+    second: sp_skill_bazooka_hit_001_4
+  - first:
+      213: -4266255681112852062
+    second: sp_skill_bazooka_hit_001_5
+  - first:
+      213: -8370811864664103899
+    second: sp_skill_bazooka_hit_001_6
+  - first:
+      213: -4735010703880469353
+    second: sp_skill_bazooka_hit_001_7
+  - first:
+      213: 2950263805415878091
+    second: sp_skill_bazooka_hit_001_8
+  - first:
+      213: -8553277545215865210
+    second: sp_skill_bazooka_hit_001_9
+  - first:
+      213: 789551285684810063
+    second: sp_skill_bazooka_hit_001_10
+  - first:
+      213: -5541422479177654111
+    second: sp_skill_bazooka_hit_001_11
+  - first:
+      213: 1664742218798032177
+    second: sp_skill_bazooka_hit_001_12
+  - first:
+      213: -7727694122628026827
+    second: sp_skill_bazooka_hit_001_13
+  - first:
+      213: -4082750419879366961
+    second: sp_skill_bazooka_hit_001_14
+  - first:
+      213: 5601170948507128734
+    second: sp_skill_bazooka_hit_001_15
+  - first:
+      213: -5187049469298883782
+    second: sp_skill_bazooka_hit_001_16
+  - first:
+      213: -2841667219541501477
+    second: sp_skill_bazooka_hit_001_17
+  - first:
+      213: -6898131438191537568
+    second: sp_skill_bazooka_hit_001_18
+  - first:
+      213: 5114609550638150612
+    second: sp_skill_bazooka_hit_001_19
+  - first:
+      213: -7886017496568568692
+    second: sp_skill_bazooka_hit_001_20
+  - first:
+      213: 5725174180171110054
+    second: sp_skill_bazooka_hit_001_21
+  - first:
+      213: -3287265622237253867
+    second: sp_skill_bazooka_hit_001_22
+  - first:
+      213: -8969034262022501500
+    second: sp_skill_bazooka_hit_001_23
+  - first:
+      213: 2282587567535134143
+    second: sp_skill_bazooka_hit_001_24
+  - first:
+      213: 3614810764152050558
+    second: sp_skill_bazooka_hit_001_25
+  - first:
+      213: -5386641453355911862
+    second: sp_skill_bazooka_hit_001_26
+  - first:
+      213: -7877690811014504709
+    second: sp_skill_bazooka_hit_001_27
+  - first:
+      213: -4198036338659221632
+    second: sp_skill_bazooka_hit_001_28
+  - first:
+      213: 3095832812519235811
+    second: sp_skill_bazooka_hit_001_29
+  - first:
+      213: -2449695576884827261
+    second: sp_skill_bazooka_hit_001_30
+  - first:
+      213: 5057146070802821490
+    second: sp_skill_bazooka_hit_001_31
+  - first:
+      213: -8631614870694500831
+    second: sp_skill_bazooka_hit_001_32
+  - first:
+      213: -7653290375473112866
+    second: sp_skill_bazooka_hit_001_33
+  - first:
+      213: 2729696232236512413
+    second: sp_skill_bazooka_hit_001_34
+  - first:
+      213: -21057495812670082
+    second: sp_skill_bazooka_hit_001_35
+  - first:
+      213: 9019220794581840243
+    second: sp_skill_bazooka_hit_001_36
+  - first:
+      213: 375239821030712758
+    second: sp_skill_bazooka_hit_001_37
+  - first:
+      213: 8570695407288853809
+    second: sp_skill_bazooka_hit_001_38
+  - first:
+      213: 6974022655358238007
+    second: sp_skill_bazooka_hit_001_39
+  - first:
+      213: -5671896089033108907
+    second: sp_skill_bazooka_hit_001_40
+  - first:
+      213: -5667657714278145204
+    second: sp_skill_bazooka_hit_001_41
+  - first:
+      213: 2268400054985186155
+    second: sp_skill_bazooka_hit_001_42
+  - first:
+      213: 5660119810856019571
+    second: sp_skill_bazooka_hit_001_43
+  - first:
+      213: 1137712107234837921
+    second: sp_skill_bazooka_hit_001_44
+  - first:
+      213: -4536132137659245886
+    second: sp_skill_bazooka_hit_001_45
+  - first:
+      213: 1157144371542201264
+    second: sp_skill_bazooka_hit_001_46
+  - first:
+      213: 5119621996859230572
+    second: sp_skill_bazooka_hit_001_47
+  - first:
+      213: -5374562463213737305
+    second: sp_skill_bazooka_hit_001_48
+  - first:
+      213: -5053574435435582235
+    second: sp_skill_bazooka_hit_001_49
+  - first:
+      213: -7600153106816098936
+    second: sp_skill_bazooka_hit_001_50
+  - first:
+      213: -1955531149048260410
+    second: sp_skill_bazooka_hit_001_51
+  - first:
+      213: -5749524581121565569
+    second: sp_skill_bazooka_hit_001_52
+  - first:
+      213: -7251354944417440546
+    second: sp_skill_bazooka_hit_001_53
+  - first:
+      213: -8065737189631612553
+    second: sp_skill_bazooka_hit_001_54
+  - first:
+      213: -1490416704459756235
+    second: sp_skill_bazooka_hit_001_55
+  - first:
+      213: 5410196112668481815
+    second: sp_skill_bazooka_hit_001_56
+  - first:
+      213: -6829414777669430798
+    second: sp_skill_bazooka_hit_001_57
+  - first:
+      213: 3879117514979007885
+    second: sp_skill_bazooka_hit_001_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cff13fe6713037e0800000000000000
+      internalID: -1787874665177153591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f40d6de0643110c0800000000000000
+      internalID: -4606843352918457100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c875c1604ffec2d40800000000000000
+      internalID: 5561083471249299340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d851d397dd9d6cf00800000000000000
+      internalID: 1136835501202675085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fcf6d97acacf520800000000000000
+      internalID: 2737252509435285322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9b646cf073bc4c0800000000000000
+      internalID: -4266255681112852062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5242215a5f6e4db80800000000000000
+      internalID: -8370811864664103899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794488b1adcd94eb0800000000000000
+      internalID: -4735010703880469353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd6183cc4171f820800000000000000
+      internalID: 2950263805415878091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e451cc367ac4980800000000000000
+      internalID: -8553277545215865210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41323b06bc05fa00800000000000000
+      internalID: 789551285684810063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0604a6d99e813b0800000000000000
+      internalID: -5541422479177654111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1356d025a3a5a1710800000000000000
+      internalID: 1664742218798032177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ee1e77327b1c490800000000000000
+      internalID: -7727694122628026827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce638cdf182757c0800000000000000
+      internalID: -4082750419879366961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bazooka_hit_001_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9351082d4b5bbd40800000000000000
+      internalID: 5601170948507128734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f878fb2e85ec7ff46bff2c4853766fe3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_bazooka_hit_001_0: -1787874665177153591
+      sp_skill_bazooka_hit_001_1: -4606843352918457100
+      sp_skill_bazooka_hit_001_10: 789551285684810063
+      sp_skill_bazooka_hit_001_11: -5541422479177654111
+      sp_skill_bazooka_hit_001_12: 1664742218798032177
+      sp_skill_bazooka_hit_001_13: -7727694122628026827
+      sp_skill_bazooka_hit_001_14: -4082750419879366961
+      sp_skill_bazooka_hit_001_15: 5601170948507128734
+      sp_skill_bazooka_hit_001_2: 5561083471249299340
+      sp_skill_bazooka_hit_001_3: 1136835501202675085
+      sp_skill_bazooka_hit_001_4: 2737252509435285322
+      sp_skill_bazooka_hit_001_5: -4266255681112852062
+      sp_skill_bazooka_hit_001_6: -8370811864664103899
+      sp_skill_bazooka_hit_001_7: -4735010703880469353
+      sp_skill_bazooka_hit_001_8: 2950263805415878091
+      sp_skill_bazooka_hit_001_9: -8553277545215865210
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

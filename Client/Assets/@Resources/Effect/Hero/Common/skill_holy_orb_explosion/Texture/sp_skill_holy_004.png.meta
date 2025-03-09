@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: c0b8c8bb174f7a942ae265b84cca777c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2694741698822014535
+    second: Hero_Skill_Holy_04_0
+  - first:
+      213: -6284302022255809374
+    second: Hero_Skill_Holy_04_1
+  - first:
+      213: -7115222634453244402
+    second: Hero_Skill_Holy_04_2
+  - first:
+      213: 4548372648933896011
+    second: Hero_Skill_Holy_04_3
+  - first:
+      213: -3526838928449559970
+    second: Hero_Skill_Holy_04_4
+  - first:
+      213: 4232703519680495503
+    second: Hero_Skill_Holy_04_5
+  - first:
+      213: -5394266097216630261
+    second: Hero_Skill_Holy_04_6
+  - first:
+      213: -5781780976329702489
+    second: Hero_Skill_Holy_04_7
+  - first:
+      213: 8864064690686304466
+    second: Hero_Skill_Holy_04_8
+  - first:
+      213: 2846116296757374926
+    second: Hero_Skill_Holy_04_9
+  - first:
+      213: 6367689724157145896
+    second: Hero_Skill_Holy_04_10
+  - first:
+      213: -6050597253874965354
+    second: Hero_Skill_Holy_04_11
+  - first:
+      213: 9206500130736948759
+    second: Hero_Skill_Holy_04_12
+  - first:
+      213: -7136853701409547428
+    second: Hero_Skill_Holy_04_13
+  - first:
+      213: -1261109182846991611
+    second: Hero_Skill_Holy_04_14
+  - first:
+      213: -3650315643332289187
+    second: Hero_Skill_Holy_04_15
+  - first:
+      213: 567889245567113461
+    second: Hero_Skill_Holy_04_16
+  - first:
+      213: -5626145838485403103
+    second: Hero_Skill_Holy_04_17
+  - first:
+      213: -1880675038874379136
+    second: Hero_Skill_Holy_04_18
+  - first:
+      213: 593527738956574614
+    second: Hero_Skill_Holy_04_19
+  - first:
+      213: -5610414996337083691
+    second: Hero_Skill_Holy_04_20
+  - first:
+      213: -2206432941731863445
+    second: Hero_Skill_Holy_04_21
+  - first:
+      213: 5592328597144813611
+    second: Hero_Skill_Holy_04_22
+  - first:
+      213: 3650156913436092993
+    second: Hero_Skill_Holy_04_23
+  - first:
+      213: 2755467502315427913
+    second: Hero_Skill_Holy_04_24
+  - first:
+      213: 7510322294062953613
+    second: Hero_Skill_Holy_04_25
+  - first:
+      213: -3499581702051943893
+    second: Hero_Skill_Holy_04_26
+  - first:
+      213: 1340904955328710277
+    second: Hero_Skill_Holy_04_27
+  - first:
+      213: -5819551540211394508
+    second: Hero_Skill_Holy_04_28
+  - first:
+      213: 7727092222903931485
+    second: Hero_Skill_Holy_04_29
+  - first:
+      213: 4149096184051127364
+    second: Hero_Skill_Holy_04_30
+  - first:
+      213: 7937302082756887852
+    second: Hero_Skill_Holy_04_31
+  - first:
+      213: -8145304751565772852
+    second: Hero_Skill_Holy_04_32
+  - first:
+      213: -2909067539848298168
+    second: Hero_Skill_Holy_04_33
+  - first:
+      213: -1814467744144473309
+    second: Hero_Skill_Holy_04_34
+  - first:
+      213: -5832508265715234313
+    second: Hero_Skill_Holy_04_35
+  - first:
+      213: 2273704362033818419
+    second: Hero_Skill_Holy_04_36
+  - first:
+      213: 2431076210066561614
+    second: Hero_Skill_Holy_04_37
+  - first:
+      213: -4779390036710075058
+    second: Hero_Skill_Holy_04_38
+  - first:
+      213: -2613650530043097256
+    second: Hero_Skill_Holy_04_39
+  - first:
+      213: 1780017966962869593
+    second: Hero_Skill_Holy_04_40
+  - first:
+      213: -7107654858937055754
+    second: Hero_Skill_Holy_04_41
+  - first:
+      213: -8671534841427118463
+    second: Hero_Skill_Holy_04_42
+  - first:
+      213: -8525642372830559232
+    second: Hero_Skill_Holy_04_43
+  - first:
+      213: 9206006158710972643
+    second: Hero_Skill_Holy_04_44
+  - first:
+      213: 7651702491371357410
+    second: Hero_Skill_Holy_04_45
+  - first:
+      213: -1895131582754065957
+    second: Hero_Skill_Holy_04_46
+  - first:
+      213: -6954151175979892047
+    second: Hero_Skill_Holy_04_47
+  - first:
+      213: 8317738574255387009
+    second: Hero_Skill_Holy_04_48
+  - first:
+      213: 7413842507622725633
+    second: Hero_Skill_Holy_04_49
+  - first:
+      213: 1603537886560117772
+    second: Hero_Skill_Holy_04_50
+  - first:
+      213: -6817167211530210508
+    second: Hero_Skill_Holy_04_51
+  - first:
+      213: -7723981652153900605
+    second: Hero_Skill_Holy_04_52
+  - first:
+      213: -1322863748761682540
+    second: Hero_Skill_Holy_04_53
+  - first:
+      213: 6633049359987013375
+    second: Hero_Skill_Holy_04_54
+  - first:
+      213: -7650961114931021761
+    second: Hero_Skill_Holy_04_55
+  - first:
+      213: 9089951438736825495
+    second: Hero_Skill_Holy_04_56
+  - first:
+      213: -2170012071900933572
+    second: Hero_Skill_Holy_04_57
+  - first:
+      213: -7173532647454369536
+    second: Hero_Skill_Holy_04_58
+  - first:
+      213: 9199767072712894684
+    second: Hero_Skill_Holy_04_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_holy_004_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2888b5d7d533e594294aa2a8ba28e372
+      internalID: 945745246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_004_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ce2deb01f281c4b9d36f1c663f821a
+      internalID: 216650144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_004_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5d9bcbb1a28fc4ba6850cc70777d65
+      internalID: 1573841485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_004_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffe67cbfad311940b66d5673063d464
+      internalID: 1374481297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_004_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b43a389c5fac5b41b87386621ff0d2c
+      internalID: 125792093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_004_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421dce7f5e112cf40ab4e21738ec4a36
+      internalID: 656319930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_004_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7a49e0301a47f4fad17990faa40b6e
+      internalID: 690828412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_004_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560d2d647b9f2334ab21a4064c8ec389
+      internalID: -1380023408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_004_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a5752c27fdb72408dee681cff5b79a
+      internalID: -1049999785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_004_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a1bb4a6cfa82a4da215b2a640af007
+      internalID: 942312113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_004_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad710946a12f16e4eaeff40fa3aab6b8
+      internalID: -1759176140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_004_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dfd66a820fd7844bb33d5f4bd3a49f
+      internalID: 1726612512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_004_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f736cfdbf898da84d9ef34000871f094
+      internalID: -2034217059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_004_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f12c6bbb8420b4093f8a0c456e4d48
+      internalID: -546441881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_004_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e93c61fa11bb14aaa416a75346f6e0
+      internalID: -727500343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_004_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb8442ed541afa4aa96ec4d5b4ebf45
+      internalID: 2095729160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 83b383a6d0f59a64586a9dd603e1f775
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_holy_004_0: 945745246
+      sp_skill_holy_004_1: 216650144
+      sp_skill_holy_004_10: -1759176140
+      sp_skill_holy_004_11: 1726612512
+      sp_skill_holy_004_12: -2034217059
+      sp_skill_holy_004_13: -546441881
+      sp_skill_holy_004_14: -727500343
+      sp_skill_holy_004_15: 2095729160
+      sp_skill_holy_004_2: 1573841485
+      sp_skill_holy_004_3: 1374481297
+      sp_skill_holy_004_4: 125792093
+      sp_skill_holy_004_5: 656319930
+      sp_skill_holy_004_6: 690828412
+      sp_skill_holy_004_7: -1380023408
+      sp_skill_holy_004_8: -1049999785
+      sp_skill_holy_004_9: 942312113
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 2abeebc5957fc3b4ca3c8e94063e19f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9137436559436972999
+    second: sp_skill_sound_hit_001_0
+  - first:
+      213: -7606561371422757704
+    second: sp_skill_sound_hit_001_1
+  - first:
+      213: -5289899099636428722
+    second: sp_skill_sound_hit_001_2
+  - first:
+      213: -7058584550858079149
+    second: sp_skill_sound_hit_001_3
+  - first:
+      213: -2316877233992568853
+    second: sp_skill_sound_hit_001_4
+  - first:
+      213: 1418577279853579981
+    second: sp_skill_sound_hit_001_5
+  - first:
+      213: 600536336020705830
+    second: sp_skill_sound_hit_001_6
+  - first:
+      213: -8213553974716137082
+    second: sp_skill_sound_hit_001_7
+  - first:
+      213: -5186274607250842187
+    second: sp_skill_sound_hit_001_8
+  - first:
+      213: -5488874781569277600
+    second: sp_skill_sound_hit_001_9
+  - first:
+      213: -175519694877974608
+    second: sp_skill_sound_hit_001_10
+  - first:
+      213: -869806242214114050
+    second: sp_skill_sound_hit_001_11
+  - first:
+      213: 4506429654242221242
+    second: sp_skill_sound_hit_001_12
+  - first:
+      213: -5211471988209863286
+    second: sp_skill_sound_hit_001_13
+  - first:
+      213: 2410374125349061352
+    second: sp_skill_sound_hit_001_14
+  - first:
+      213: -4031035655725915965
+    second: sp_skill_sound_hit_001_15
+  - first:
+      213: 8789944783080263900
+    second: sp_skill_sound_hit_001_16
+  - first:
+      213: -4812086058883983430
+    second: sp_skill_sound_hit_001_17
+  - first:
+      213: -1929062043013863845
+    second: sp_skill_sound_hit_001_18
+  - first:
+      213: -187165381184329928
+    second: sp_skill_sound_hit_001_19
+  - first:
+      213: -2379110587182676621
+    second: sp_skill_sound_hit_001_20
+  - first:
+      213: 6114265541445491185
+    second: sp_skill_sound_hit_001_21
+  - first:
+      213: 6801442182120786951
+    second: sp_skill_sound_hit_001_22
+  - first:
+      213: 7244594783636773773
+    second: sp_skill_sound_hit_001_23
+  - first:
+      213: -5292223914926236500
+    second: sp_skill_sound_hit_001_24
+  - first:
+      213: -7269594391306428007
+    second: sp_skill_sound_hit_001_25
+  - first:
+      213: 2844858455997688537
+    second: sp_skill_sound_hit_001_26
+  - first:
+      213: -1614532925905723247
+    second: sp_skill_sound_hit_001_27
+  - first:
+      213: -7319041923777541820
+    second: sp_skill_sound_hit_001_28
+  - first:
+      213: -2421784520799334912
+    second: sp_skill_sound_hit_001_29
+  - first:
+      213: -4416003493610410368
+    second: sp_skill_sound_hit_001_30
+  - first:
+      213: 3026915128040178795
+    second: sp_skill_sound_hit_001_31
+  - first:
+      213: 6002829415598512281
+    second: sp_skill_sound_hit_001_32
+  - first:
+      213: -1498386563265788324
+    second: sp_skill_sound_hit_001_33
+  - first:
+      213: -1610024724101010562
+    second: sp_skill_sound_hit_001_34
+  - first:
+      213: 6920095255530076951
+    second: sp_skill_sound_hit_001_35
+  - first:
+      213: -7150035715977685053
+    second: sp_skill_sound_hit_001_36
+  - first:
+      213: 132695343457296289
+    second: sp_skill_sound_hit_001_37
+  - first:
+      213: -7177197178615196620
+    second: sp_skill_sound_hit_001_38
+  - first:
+      213: -9064863944103196615
+    second: sp_skill_sound_hit_001_39
+  - first:
+      213: 4744179640383182582
+    second: sp_skill_sound_hit_001_40
+  - first:
+      213: -2593482964329287735
+    second: sp_skill_sound_hit_001_41
+  - first:
+      213: 1874509823662457443
+    second: sp_skill_sound_hit_001_42
+  - first:
+      213: 4934429010109997007
+    second: sp_skill_sound_hit_001_43
+  - first:
+      213: 2276043045536359377
+    second: sp_skill_sound_hit_001_44
+  - first:
+      213: -7075484694771550470
+    second: sp_skill_sound_hit_001_45
+  - first:
+      213: -7601058106662544421
+    second: sp_skill_sound_hit_001_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_sound_hit_001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506a2dc0d78b71d42bb3181d1b0bdf5b
+      internalID: 1693064087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_sound_hit_001_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0675c238629ea9498bbfeaa462622e2
+      internalID: -1436293785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_sound_hit_001_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77da501623f5f3a4f99bd80bc2fb1928
+      internalID: -251967202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_sound_hit_001_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0885a7e2b4adfa641b44ae10855df952
+      internalID: 745345086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_sound_hit_001_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7348c2d45bb23de43a4b74be297593b0
+      internalID: 385556883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_sound_hit_001_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68627a68448443a4ba5fa81048d98ac7
+      internalID: 1494355345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_sound_hit_001_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b448ba51e3c1f4d93b0e893d231671
+      internalID: 1526291409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_sound_hit_001_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8a1042481ad2640b7da163c87fca4d
+      internalID: 147198388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_sound_hit_001_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4909ef87dd08dff4b98db717261790d0
+      internalID: -395408028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_sound_hit_001_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47113fa39ae0b8c428f985867a9ceb09
+      internalID: -1248415800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_sound_hit_001_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e792f12aa272548a341a483869fe0c
+      internalID: -2085325319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 42d45221338d3474b8116494867eac7a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_sound_hit_001_0: 1693064087
+      sp_skill_sound_hit_001_1: -1436293785
+      sp_skill_sound_hit_001_10: -2085325319
+      sp_skill_sound_hit_001_2: -251967202
+      sp_skill_sound_hit_001_3: 745345086
+      sp_skill_sound_hit_001_4: 385556883
+      sp_skill_sound_hit_001_5: 1494355345
+      sp_skill_sound_hit_001_6: 1526291409
+      sp_skill_sound_hit_001_7: 147198388
+      sp_skill_sound_hit_001_8: -395408028
+      sp_skill_sound_hit_001_9: -1248415800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

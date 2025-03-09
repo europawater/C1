@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 6d3e9ee0365b12b43b22ca1eeceffd0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4962005473769448838
+    second: spi_mon_leon_0
+  - first:
+      213: 233473596882023037
+    second: spi_mon_leon_1
+  - first:
+      213: -8432833066988200835
+    second: spi_mon_leon_2
+  - first:
+      213: 6976028044160438164
+    second: spi_mon_leon_3
+  - first:
+      213: 8504451439871968026
+    second: spi_mon_leon_4
+  - first:
+      213: -8835021325411835247
+    second: spi_mon_leon_5
+  - first:
+      213: 4606400984005646207
+    second: spi_mon_leon_6
+  - first:
+      213: -8065796642717690592
+    second: spi_mon_leon_7
+  - first:
+      213: -3898403801991372257
+    second: spi_mon_leon_8
+  - first:
+      213: 8283165312553141832
+    second: spi_mon_leon_9
+  - first:
+      213: 842767537776997656
+    second: spi_mon_leon_10
+  - first:
+      213: -8126365144226730180
+    second: spi_mon_leon_11
+  - first:
+      213: -4838354674438016076
+    second: spi_mon_leon_12
+  - first:
+      213: 8344736824009129770
+    second: spi_mon_leon_13
+  - first:
+      213: -1650976285876504273
+    second: spi_mon_leon_14
+  - first:
+      213: 8968630874901336572
+    second: spi_mon_leon_15
+  - first:
+      213: 1900556581563536232
+    second: spi_mon_leon_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_leon_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 223
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a9d6abf4a632bb0800000000000000
+      internalID: -4962005473769448838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 223
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72f596dff67d3300800000000000000
+      internalID: 233473596882023037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 223
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c1000310f88fa80800000000000000
+      internalID: -8432833066988200835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 166
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f885bab84dfc060800000000000000
+      internalID: 6976028044160438164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 166
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13c02ba681e50670800000000000000
+      internalID: 8504451439871968026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192a3db1ae2b36580800000000000000
+      internalID: -8835021325411835247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 161
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f779aa80a493def30800000000000000
+      internalID: 4606400984005646207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 109
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025164810b8801090800000000000000
+      internalID: -8065796642717690592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 10
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12a54f856616e9c0800000000000000
+      internalID: -3898403801991372257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 10
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846419637f6b3f270800000000000000
+      internalID: 8283165312553141832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 78
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815bd654c9c12bb00800000000000000
+      internalID: 842767537776997656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 77
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fef37e4f9593f80800000000000000
+      internalID: -8126365144226730180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 72
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b375ccee06badcb0800000000000000
+      internalID: -4838354674438016076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_13
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 44
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f7f2bdde57ec370800000000000000
+      internalID: 8344736824009129770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 10
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29bcb3b0dd8619e0800000000000000
+      internalID: -1650976285876504273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_15
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 11
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1581c434af67c70800000000000000
+      internalID: 8968630874901336572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_leon_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 10
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86310af2422206a10800000000000000
+      internalID: 1900556581563536232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_leon_0: -4962005473769448838
+      spi_mon_leon_1: 233473596882023037
+      spi_mon_leon_10: 842767537776997656
+      spi_mon_leon_11: -8126365144226730180
+      spi_mon_leon_12: -4838354674438016076
+      spi_mon_leon_13: 8344736824009129770
+      spi_mon_leon_14: -1650976285876504273
+      spi_mon_leon_15: 8968630874901336572
+      spi_mon_leon_16: 1900556581563536232
+      spi_mon_leon_2: -8432833066988200835
+      spi_mon_leon_3: 6976028044160438164
+      spi_mon_leon_4: 8504451439871968026
+      spi_mon_leon_5: -8835021325411835247
+      spi_mon_leon_6: 4606400984005646207
+      spi_mon_leon_7: -8065796642717690592
+      spi_mon_leon_8: -3898403801991372257
+      spi_mon_leon_9: 8283165312553141832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI_WorldSpace
+  m_EditorClassIdentifier: 
+  m_GroupName: UI_WorldSpace
+  m_GUID: 3b7a8943c79cb6841922375a865ec4f3
+  m_SerializeEntries:
+  - m_GUID: 0c4b7a4691d516547a80454205f0af12
+    m_Address: UI_DodgeText
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e635bf5cbe0069418ef671eee43dded
+    m_Address: UI_GoldRewardText
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd70bcf233e7fab47b7223016837dff9
+    m_Address: UI_CriticalDamageText
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de9d5b21574a63e49a9e0faaacee1869
+    m_Address: UI_DamageText
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6a11478b9db5bf942b2ca4ad50c2056e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d416f5b3d0e57e9438efcb68fd92bcc5, type: 2}
+    - {fileID: 11400000, guid: def1e081e61b44c429d99b63dc520c41, type: 2}

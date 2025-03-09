@@ -1,0 +1,898 @@
+fileFormatVersion: 2
+guid: fafa7213910cc3d478cc34aa633287d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 327175515857567184
+    second: Boss_shaman_Skill_B_Hit_001_0
+  - first:
+      213: -2271230911102629780
+    second: Boss_shaman_Skill_B_Hit_001_1
+  - first:
+      213: -4493256841718469511
+    second: Boss_shaman_Skill_B_Hit_001_2
+  - first:
+      213: -5152042321203076123
+    second: Boss_shaman_Skill_B_Hit_001_3
+  - first:
+      213: -6124882242390392581
+    second: Boss_shaman_Skill_B_Hit_001_4
+  - first:
+      213: 5013794573728563471
+    second: Boss_shaman_Skill_B_Hit_001_5
+  - first:
+      213: 5911400950393587695
+    second: Boss_shaman_Skill_B_Hit_001_6
+  - first:
+      213: -7312905955811607293
+    second: Boss_shaman_Skill_B_Hit_001_7
+  - first:
+      213: 4745183576064566498
+    second: Boss_shaman_Skill_B_Hit_001_8
+  - first:
+      213: -2132789247977575956
+    second: Boss_shaman_Skill_B_Hit_001_9
+  - first:
+      213: 1397192020586614249
+    second: Boss_shaman_Skill_B_Hit_001_10
+  - first:
+      213: 8881945228541750957
+    second: Boss_shaman_Skill_B_Hit_001_11
+  - first:
+      213: -5816193574301610969
+    second: Boss_shaman_Skill_B_Hit_001_12
+  - first:
+      213: -1913181041534094037
+    second: Boss_shaman_Skill_B_Hit_001_13
+  - first:
+      213: 1422852852650857056
+    second: Boss_shaman_Skill_B_Hit_001_14
+  - first:
+      213: -4201248997063548136
+    second: Boss_shaman_Skill_B_Hit_001_15
+  - first:
+      213: 1095890870846364754
+    second: Boss_shaman_Skill_B_Hit_001_16
+  - first:
+      213: -7088427037030493132
+    second: Boss_shaman_Skill_B_Hit_001_17
+  - first:
+      213: 1022312664575484687
+    second: Boss_shaman_Skill_B_Hit_001_18
+  - first:
+      213: -2801272535707686838
+    second: Boss_shaman_Skill_B_Hit_001_19
+  - first:
+      213: 8548119239937190978
+    second: Boss_shaman_Skill_B_Hit_001_20
+  - first:
+      213: -5603409536796047985
+    second: Boss_shaman_Skill_B_Hit_001_21
+  - first:
+      213: -1889165534236538860
+    second: Boss_shaman_Skill_B_Hit_001_22
+  - first:
+      213: -4613451496237345410
+    second: Boss_shaman_Skill_B_Hit_001_23
+  - first:
+      213: -6757081798772220067
+    second: Boss_shaman_Skill_B_Hit_001_24
+  - first:
+      213: -8796337386702873024
+    second: Boss_shaman_Skill_B_Hit_001_25
+  - first:
+      213: -8452250350736621739
+    second: Boss_shaman_Skill_B_Hit_001_26
+  - first:
+      213: 8998266987386434934
+    second: Boss_shaman_Skill_B_Hit_001_27
+  - first:
+      213: -7019097554869794702
+    second: Boss_shaman_Skill_B_Hit_001_28
+  - first:
+      213: -5045029602063012499
+    second: Boss_shaman_Skill_B_Hit_001_29
+  - first:
+      213: -4216058788269248444
+    second: Boss_shaman_Skill_B_Hit_001_30
+  - first:
+      213: -5599202353484954624
+    second: Boss_shaman_Skill_B_Hit_001_31
+  - first:
+      213: -8958864003102189404
+    second: Boss_shaman_Skill_B_Hit_001_32
+  - first:
+      213: 142303369439809020
+    second: Boss_shaman_Skill_B_Hit_001_33
+  - first:
+      213: -898907532194152526
+    second: Boss_shaman_Skill_B_Hit_001_34
+  - first:
+      213: -2025773470162050171
+    second: Boss_shaman_Skill_B_Hit_001_35
+  - first:
+      213: -2597002122647044683
+    second: Boss_shaman_Skill_B_Hit_001_36
+  - first:
+      213: -3658389972368969954
+    second: Boss_shaman_Skill_B_Hit_001_37
+  - first:
+      213: -3090835713396574843
+    second: Boss_shaman_Skill_B_Hit_001_38
+  - first:
+      213: 2151742854280356891
+    second: Boss_shaman_Skill_B_Hit_001_39
+  - first:
+      213: 7409656480794374830
+    second: Boss_shaman_Skill_B_Hit_001_40
+  - first:
+      213: -3089441657429692792
+    second: Boss_shaman_Skill_B_Hit_001_41
+  - first:
+      213: 8280332504568977938
+    second: Boss_shaman_Skill_B_Hit_001_42
+  - first:
+      213: -6424305110548607481
+    second: Boss_shaman_Skill_B_Hit_001_43
+  - first:
+      213: -6378182197320991219
+    second: Boss_shaman_Skill_B_Hit_001_44
+  - first:
+      213: -6201380732902890175
+    second: Boss_shaman_Skill_B_Hit_001_45
+  - first:
+      213: 9135465156619707213
+    second: Boss_shaman_Skill_B_Hit_001_46
+  - first:
+      213: -585190734402150899
+    second: Boss_shaman_Skill_B_Hit_001_47
+  - first:
+      213: 1560362109114637089
+    second: Boss_shaman_Skill_B_Hit_001_48
+  - first:
+      213: 8577346307308449006
+    second: Boss_shaman_Skill_B_Hit_001_49
+  - first:
+      213: 3903164337732790517
+    second: Boss_shaman_Skill_B_Hit_001_50
+  - first:
+      213: 4835043669425875007
+    second: Boss_shaman_Skill_B_Hit_001_51
+  - first:
+      213: 8074691223078827929
+    second: Boss_shaman_Skill_B_Hit_001_52
+  - first:
+      213: -782585061920039308
+    second: Boss_shaman_Skill_B_Hit_001_53
+  - first:
+      213: -6271098564715047705
+    second: Boss_shaman_Skill_B_Hit_001_54
+  - first:
+      213: -5606454114121208331
+    second: Boss_shaman_Skill_B_Hit_001_55
+  - first:
+      213: 891532571834870480
+    second: Boss_shaman_Skill_B_Hit_001_56
+  - first:
+      213: 6008800756491079425
+    second: Boss_shaman_Skill_B_Hit_001_57
+  - first:
+      213: 884918834643447297
+    second: Boss_shaman_Skill_B_Hit_001_58
+  - first:
+      213: -644317903287472920
+    second: Boss_shaman_Skill_B_Hit_001_59
+  - first:
+      213: -307835642457371931
+    second: Boss_shaman_Skill_B_Hit_001_60
+  - first:
+      213: -1542581132084459655
+    second: Boss_shaman_Skill_B_Hit_001_61
+  - first:
+      213: -1760325262544367240
+    second: Boss_shaman_Skill_B_Hit_001_62
+  - first:
+      213: -5507305269980243548
+    second: Boss_shaman_Skill_B_Hit_001_63
+  - first:
+      213: -5005904655535566557
+    second: Boss_shaman_Skill_B_Hit_001_64
+  - first:
+      213: 6253280611307531621
+    second: Boss_shaman_Skill_B_Hit_001_65
+  - first:
+      213: 6393296244177453463
+    second: Boss_shaman_Skill_B_Hit_001_66
+  - first:
+      213: -2750185968902834741
+    second: Boss_shaman_Skill_B_Hit_001_67
+  - first:
+      213: -6367291750822860761
+    second: Boss_shaman_Skill_B_Hit_001_68
+  - first:
+      213: -3064002684428523338
+    second: Boss_shaman_Skill_B_Hit_001_69
+  - first:
+      213: -2687958268664881323
+    second: Boss_shaman_Skill_B_Hit_001_70
+  - first:
+      213: 5535344337304536773
+    second: Boss_shaman_Skill_B_Hit_001_71
+  - first:
+      213: 4999541933467520084
+    second: Boss_shaman_Skill_B_Hit_001_72
+  - first:
+      213: -7135026712011649372
+    second: Boss_shaman_Skill_B_Hit_001_73
+  - first:
+      213: 5277502120669057255
+    second: Boss_shaman_Skill_B_Hit_001_74
+  - first:
+      213: -7156873971905466931
+    second: Boss_shaman_Skill_B_Hit_001_75
+  - first:
+      213: -3849120722226877743
+    second: Boss_shaman_Skill_B_Hit_001_76
+  - first:
+      213: -5314543391492921131
+    second: Boss_shaman_Skill_B_Hit_001_77
+  - first:
+      213: 7059082292999357429
+    second: Boss_shaman_Skill_B_Hit_001_78
+  - first:
+      213: 1316704364285895217
+    second: Boss_shaman_Skill_B_Hit_001_79
+  - first:
+      213: 5650083382314500467
+    second: Boss_shaman_Skill_B_Hit_001_80
+  - first:
+      213: 4526444800592054293
+    second: Boss_shaman_Skill_B_Hit_001_81
+  - first:
+      213: 1061508583077152170
+    second: Boss_shaman_Skill_B_Hit_001_82
+  - first:
+      213: -4656455678571769880
+    second: Boss_shaman_Skill_B_Hit_001_83
+  - first:
+      213: 5989035705399505782
+    second: Boss_shaman_Skill_B_Hit_001_84
+  - first:
+      213: 8419285406009018027
+    second: Boss_shaman_Skill_B_Hit_001_85
+  - first:
+      213: 8408036075160431641
+    second: Boss_shaman_Skill_B_Hit_001_86
+  - first:
+      213: 8010100687947575601
+    second: Boss_shaman_Skill_B_Hit_001_87
+  - first:
+      213: -4478375482285350494
+    second: Boss_shaman_Skill_B_Hit_001_88
+  - first:
+      213: -1494817803763585585
+    second: Boss_shaman_Skill_B_Hit_001_89
+  - first:
+      213: -4641059223509057814
+    second: Boss_shaman_Skill_B_Hit_001_90
+  - first:
+      213: -8698723597199091976
+    second: Boss_shaman_Skill_B_Hit_001_91
+  - first:
+      213: -1543723748304975783
+    second: Boss_shaman_Skill_B_Hit_001_92
+  - first:
+      213: -3609689696560332466
+    second: Boss_shaman_Skill_B_Hit_001_93
+  - first:
+      213: 8608069804408861598
+    second: Boss_shaman_Skill_B_Hit_001_94
+  - first:
+      213: 7033726635463491247
+    second: Boss_shaman_Skill_B_Hit_001_95
+  - first:
+      213: 9127788567048767187
+    second: Boss_shaman_Skill_B_Hit_001_96
+  - first:
+      213: -3483692851317945966
+    second: Boss_shaman_Skill_B_Hit_001_97
+  - first:
+      213: -3689557365932137968
+    second: Boss_shaman_Skill_B_Hit_001_98
+  - first:
+      213: 2960377396456779841
+    second: Boss_shaman_Skill_B_Hit_001_99
+  - first:
+      213: 2609873911351640271
+    second: Boss_shaman_Skill_B_Hit_001_100
+  - first:
+      213: 8591203202993535656
+    second: Boss_shaman_Skill_B_Hit_001_101
+  - first:
+      213: -6492831710159622196
+    second: Boss_shaman_Skill_B_Hit_001_102
+  - first:
+      213: -3329149010814833341
+    second: Boss_shaman_Skill_B_Hit_001_103
+  - first:
+      213: 3166445857285323004
+    second: Boss_shaman_Skill_B_Hit_001_104
+  - first:
+      213: -5490275876082821329
+    second: Boss_shaman_Skill_B_Hit_001_105
+  - first:
+      213: 7172438800227691432
+    second: Boss_shaman_Skill_B_Hit_001_106
+  - first:
+      213: -2893682726407203029
+    second: Boss_shaman_Skill_B_Hit_001_107
+  - first:
+      213: 1443493777055453028
+    second: Boss_shaman_Skill_B_Hit_001_108
+  - first:
+      213: 2342778394297908778
+    second: Boss_shaman_Skill_B_Hit_001_109
+  - first:
+      213: -8480110084151924699
+    second: Boss_shaman_Skill_B_Hit_001_110
+  - first:
+      213: -8522415476065379055
+    second: Boss_shaman_Skill_B_Hit_001_111
+  - first:
+      213: 3853533300757786057
+    second: Boss_shaman_Skill_B_Hit_001_112
+  - first:
+      213: 6112794984539437776
+    second: Boss_shaman_Skill_B_Hit_001_113
+  - first:
+      213: 7504869720282709412
+    second: Boss_shaman_Skill_B_Hit_001_114
+  - first:
+      213: 4203691716666202851
+    second: Boss_shaman_Skill_B_Hit_001_115
+  - first:
+      213: -8226908308861292099
+    second: Boss_shaman_Skill_B_Hit_001_116
+  - first:
+      213: 1755630652778718957
+    second: Boss_shaman_Skill_B_Hit_001_117
+  - first:
+      213: -6374003478794318215
+    second: Boss_shaman_Skill_B_Hit_001_118
+  - first:
+      213: -3922002946814177723
+    second: Boss_shaman_Skill_B_Hit_001_119
+  - first:
+      213: -1308098269012141009
+    second: Boss_shaman_Skill_B_Hit_001_120
+  - first:
+      213: -8035583961866966628
+    second: Boss_shaman_Skill_B_Hit_001_121
+  - first:
+      213: 1838731567964721209
+    second: Boss_shaman_Skill_B_Hit_001_122
+  - first:
+      213: 4730706399410824918
+    second: Boss_shaman_Skill_B_Hit_001_123
+  - first:
+      213: -6016542740134209597
+    second: Boss_shaman_Skill_B_Hit_001_124
+  - first:
+      213: -6546588492231979674
+    second: Boss_shaman_Skill_B_Hit_001_125
+  - first:
+      213: 2469412366785501333
+    second: Boss_shaman_Skill_B_Hit_001_126
+  - first:
+      213: 4796088728078928838
+    second: Boss_shaman_Skill_B_Hit_001_127
+  - first:
+      213: -5863011443608265207
+    second: Boss_shaman_Skill_B_Hit_001_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa08044a162b09418bfe0964c768c2f
+      internalID: -308609133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764858428e9405447afedcb6d2d67167
+      internalID: 1202904317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca417067fcd105845b80a6537a66407c
+      internalID: 1336667613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf16f5e0d346d045a6168f2564bfcea
+      internalID: -1889034740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf52724b1ec267947bba34dee88bbfab
+      internalID: 1228720691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7f413c46430f3438743643fcb52d5f
+      internalID: -1931604540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d377875b9ebb7445ab36b794eea27ea
+      internalID: 1032420422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e9c3768a8feab43b1d5f00fd88a127
+      internalID: 1197920140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c152faf8a462b6241b042d1ef749cb7c
+      internalID: -535893204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf64bb36a735d846bd8129050998ef1
+      internalID: 827773262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c398b9f25e8734aa94677ecd941d0e
+      internalID: -1144979366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313a5d94d0361224d816efc3dbf48d25
+      internalID: -445349234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bb85cc34e9fa64b82641c4c67e9439
+      internalID: 915928159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d4f5e84fc608b4a9e196af73ff4078
+      internalID: 158616865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623a8df32c3050c4bb44b2381b7979f3
+      internalID: 1173796074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_dark_hit_002_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897180156a6fef745897057106f95262
+      internalID: -2116153145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7ce0750e78aaecd4fb5f57eec20ba948
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_dark_hit_002_0: -308609133
+      sp_skill_dark_hit_002_1: 1202904317
+      sp_skill_dark_hit_002_10: -1144979366
+      sp_skill_dark_hit_002_11: -445349234
+      sp_skill_dark_hit_002_12: 915928159
+      sp_skill_dark_hit_002_13: 158616865
+      sp_skill_dark_hit_002_14: 1173796074
+      sp_skill_dark_hit_002_15: -2116153145
+      sp_skill_dark_hit_002_2: 1336667613
+      sp_skill_dark_hit_002_3: -1889034740
+      sp_skill_dark_hit_002_4: 1228720691
+      sp_skill_dark_hit_002_5: -1931604540
+      sp_skill_dark_hit_002_6: 1032420422
+      sp_skill_dark_hit_002_7: 1197920140
+      sp_skill_dark_hit_002_8: -535893204
+      sp_skill_dark_hit_002_9: 827773262
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: deac5c8cddbc45d459b4c34c795a9a3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5448690217553897849
+    second: spi_mon_boss_crazy_santa_0
+  - first:
+      213: -8518631250230820481
+    second: spi_mon_boss_crazy_santa_1
+  - first:
+      213: 3095874722108757
+    second: spi_mon_boss_crazy_santa_2
+  - first:
+      213: 710068834084055504
+    second: spi_mon_boss_crazy_santa_3
+  - first:
+      213: 3664517866599291847
+    second: spi_mon_boss_crazy_santa_4
+  - first:
+      213: -3796076286493742503
+    second: spi_mon_boss_crazy_santa_5
+  - first:
+      213: -94107999511595219
+    second: spi_mon_boss_crazy_santa_6
+  - first:
+      213: 9086575768939449755
+    second: spi_mon_boss_crazy_santa_7
+  - first:
+      213: -184280246474418697
+    second: spi_mon_boss_crazy_santa_8
+  - first:
+      213: 4374661768777882403
+    second: spi_mon_boss_crazy_santa_9
+  - first:
+      213: 1519961260653373451
+    second: spi_mon_boss_crazy_santa_10
+  - first:
+      213: 8328494424106829825
+    second: spi_mon_boss_crazy_santa_11
+  - first:
+      213: 4049549448951789437
+    second: spi_mon_boss_crazy_santa_12
+  - first:
+      213: 787960527672171103
+    second: spi_mon_boss_crazy_santa_13
+  - first:
+      213: 1920210155653838651
+    second: spi_mon_boss_crazy_santa_14
+  - first:
+      213: 3737700040670172442
+    second: spi_mon_boss_crazy_santa_15
+  - first:
+      213: -602621335759714203
+    second: spi_mon_boss_crazy_santa_16
+  - first:
+      213: 3752365828814904883
+    second: spi_mon_boss_crazy_santa_17
+  - first:
+      213: 8092483348839812753
+    second: spi_mon_boss_crazy_santa_18
+  - first:
+      213: -2898986649177884676
+    second: spi_mon_boss_crazy_santa_19
+  - first:
+      213: 3453809621089107113
+    second: spi_mon_boss_crazy_santa_20
+  - first:
+      213: -927493435088386687
+    second: spi_mon_boss_crazy_santa_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 475
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979227c62e2ad9b40800000000000000
+      internalID: 5448690217553897849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 392
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f714375f20eb7c980800000000000000
+      internalID: -8518631250230820481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 475
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55594118eaffa0000800000000000000
+      internalID: 3095874722108757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 392
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9e7ada7dbaad900800000000000000
+      internalID: 710068834084055504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 266
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb19bf859bfad230800000000000000
+      internalID: 3664517866599291847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 353
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aa14bdab0a15bc0800000000000000
+      internalID: -3796076286493742503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 353
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27b696e549a1bef0800000000000000
+      internalID: -94107999511595219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 266
+        width: 158
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dce44e4800a1e70800000000000000
+      internalID: 9086575768939449755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 287
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f555c9971e417df0800000000000000
+      internalID: -184280246474418697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 265
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bdc7463bbe5bc30800000000000000
+      internalID: 4374661768777882403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 335
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b086995a6bcf71510800000000000000
+      internalID: 1519961260653373451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 8
+        width: 279
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10885be6d81c49370800000000000000
+      internalID: 8328494424106829825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_12
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 141
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d777625b4c3e23830800000000000000
+      internalID: 4049549448951789437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_13
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 225
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5adde4dce56fea00800000000000000
+      internalID: 787960527672171103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 141
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3738dd76f4f5aa10800000000000000
+      internalID: 1920210155653838651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_15
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 7
+        width: 115
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15db11426afed330800000000000000
+      internalID: 3737700040670172442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_16
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 99
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56888f3861f03a7f0800000000000000
+      internalID: -602621335759714203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_17
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 7
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e93d527d4131430800000000000000
+      internalID: 3752365828814904883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 7
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e4c5edab64e4070800000000000000
+      internalID: 8092483348839812753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_19
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 56
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7f627800bb4c7d0800000000000000
+      internalID: -2898986649177884676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_20
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 7
+        width: 94
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acb7d22d856eef20800000000000000
+      internalID: 3453809621089107113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_crazy_santa_21
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 7
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185cc0682a1e023f0800000000000000
+      internalID: -927493435088386687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_boss_crazy_santa_0: 5448690217553897849
+      spi_mon_boss_crazy_santa_1: -8518631250230820481
+      spi_mon_boss_crazy_santa_10: 1519961260653373451
+      spi_mon_boss_crazy_santa_11: 8328494424106829825
+      spi_mon_boss_crazy_santa_12: 4049549448951789437
+      spi_mon_boss_crazy_santa_13: 787960527672171103
+      spi_mon_boss_crazy_santa_14: 1920210155653838651
+      spi_mon_boss_crazy_santa_15: 3737700040670172442
+      spi_mon_boss_crazy_santa_16: -602621335759714203
+      spi_mon_boss_crazy_santa_17: 3752365828814904883
+      spi_mon_boss_crazy_santa_18: 8092483348839812753
+      spi_mon_boss_crazy_santa_19: -2898986649177884676
+      spi_mon_boss_crazy_santa_2: 3095874722108757
+      spi_mon_boss_crazy_santa_20: 3453809621089107113
+      spi_mon_boss_crazy_santa_21: -927493435088386687
+      spi_mon_boss_crazy_santa_3: 710068834084055504
+      spi_mon_boss_crazy_santa_4: 3664517866599291847
+      spi_mon_boss_crazy_santa_5: -3796076286493742503
+      spi_mon_boss_crazy_santa_6: -94107999511595219
+      spi_mon_boss_crazy_santa_7: 9086575768939449755
+      spi_mon_boss_crazy_santa_8: -184280246474418697
+      spi_mon_boss_crazy_santa_9: 4374661768777882403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

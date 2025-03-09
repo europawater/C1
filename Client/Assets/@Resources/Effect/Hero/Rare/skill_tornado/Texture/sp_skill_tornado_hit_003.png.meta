@@ -1,0 +1,1039 @@
+fileFormatVersion: 2
+guid: 45881e39ffa22094fa636b71e174c321
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6848653166093924447
+    second: Wizard_Skill_D_Hit_002_0
+  - first:
+      213: -2694197119326028898
+    second: Wizard_Skill_D_Hit_002_1
+  - first:
+      213: -960067305458118518
+    second: Wizard_Skill_D_Hit_002_2
+  - first:
+      213: 2848933942602346602
+    second: Wizard_Skill_D_Hit_002_3
+  - first:
+      213: -3641609732563378335
+    second: Wizard_Skill_D_Hit_002_4
+  - first:
+      213: 1998300862995895404
+    second: Wizard_Skill_D_Hit_002_5
+  - first:
+      213: 1646288450790803118
+    second: Wizard_Skill_D_Hit_002_6
+  - first:
+      213: 6842984981249763614
+    second: Wizard_Skill_D_Hit_002_7
+  - first:
+      213: -1304675907011049893
+    second: Wizard_Skill_D_Hit_002_8
+  - first:
+      213: -4126871003119416433
+    second: Wizard_Skill_D_Hit_002_9
+  - first:
+      213: -128808507016924831
+    second: Wizard_Skill_D_Hit_002_10
+  - first:
+      213: -180593813199885968
+    second: Wizard_Skill_D_Hit_002_11
+  - first:
+      213: 3015755173012361542
+    second: Wizard_Skill_D_Hit_002_12
+  - first:
+      213: 5268829414000379239
+    second: Wizard_Skill_D_Hit_002_13
+  - first:
+      213: -9021009102973059663
+    second: Wizard_Skill_D_Hit_002_14
+  - first:
+      213: -8209084573563563111
+    second: Wizard_Skill_D_Hit_002_15
+  - first:
+      213: 7468408588724354076
+    second: Wizard_Skill_D_Hit_002_16
+  - first:
+      213: -7313987167782067177
+    second: Wizard_Skill_D_Hit_002_17
+  - first:
+      213: 1482673547554342036
+    second: Wizard_Skill_D_Hit_002_18
+  - first:
+      213: -154219516987842193
+    second: Wizard_Skill_D_Hit_002_19
+  - first:
+      213: 8254920385077186946
+    second: Wizard_Skill_D_Hit_002_20
+  - first:
+      213: 9144341212656303826
+    second: Wizard_Skill_D_Hit_002_21
+  - first:
+      213: 3673502196750673986
+    second: Wizard_Skill_D_Hit_002_22
+  - first:
+      213: -3005553996434285690
+    second: Wizard_Skill_D_Hit_002_23
+  - first:
+      213: -6584900015187837876
+    second: Wizard_Skill_D_Hit_002_24
+  - first:
+      213: -1967229433063247091
+    second: Wizard_Skill_D_Hit_002_25
+  - first:
+      213: -988414847999028535
+    second: Wizard_Skill_D_Hit_002_26
+  - first:
+      213: 1938603861492699599
+    second: Wizard_Skill_D_Hit_002_27
+  - first:
+      213: -4948713088137224
+    second: Wizard_Skill_D_Hit_002_28
+  - first:
+      213: 5496692522060046507
+    second: Wizard_Skill_D_Hit_002_29
+  - first:
+      213: 4392468735499051412
+    second: Wizard_Skill_D_Hit_002_30
+  - first:
+      213: 7480742471580842081
+    second: Wizard_Skill_D_Hit_002_31
+  - first:
+      213: -4155681728404112265
+    second: Wizard_Skill_D_Hit_002_32
+  - first:
+      213: -6605898759587040195
+    second: Wizard_Skill_D_Hit_002_33
+  - first:
+      213: 6767647495657653987
+    second: Wizard_Skill_D_Hit_002_34
+  - first:
+      213: -6659690397963684391
+    second: Wizard_Skill_D_Hit_002_35
+  - first:
+      213: -4166547897599649343
+    second: Wizard_Skill_D_Hit_002_36
+  - first:
+      213: -2368578509568444728
+    second: Wizard_Skill_D_Hit_002_37
+  - first:
+      213: 3899416535667883556
+    second: Wizard_Skill_D_Hit_002_38
+  - first:
+      213: -9119968581454582548
+    second: Wizard_Skill_D_Hit_002_39
+  - first:
+      213: 8426454926838701566
+    second: Wizard_Skill_D_Hit_002_40
+  - first:
+      213: 1544256298008579137
+    second: Wizard_Skill_D_Hit_002_41
+  - first:
+      213: -3148663586355180760
+    second: Wizard_Skill_D_Hit_002_42
+  - first:
+      213: -2129404478807376718
+    second: Wizard_Skill_D_Hit_002_43
+  - first:
+      213: 1184362199501193861
+    second: Wizard_Skill_D_Hit_002_44
+  - first:
+      213: -5531639531536312813
+    second: Wizard_Skill_D_Hit_002_45
+  - first:
+      213: 8228035425779806629
+    second: Wizard_Skill_D_Hit_002_46
+  - first:
+      213: -33801344552014921
+    second: Wizard_Skill_D_Hit_002_47
+  - first:
+      213: -4908561129060418954
+    second: Wizard_Skill_D_Hit_002_48
+  - first:
+      213: 3700127325871223364
+    second: Wizard_Skill_D_Hit_002_49
+  - first:
+      213: -528532898666605237
+    second: Wizard_Skill_D_Hit_002_50
+  - first:
+      213: 3846628285917570429
+    second: Wizard_Skill_D_Hit_002_51
+  - first:
+      213: 8864704516712529809
+    second: Wizard_Skill_D_Hit_002_52
+  - first:
+      213: 2753474142915412729
+    second: Wizard_Skill_D_Hit_002_53
+  - first:
+      213: -511948671558997668
+    second: Wizard_Skill_D_Hit_002_54
+  - first:
+      213: 6757445163046401604
+    second: Wizard_Skill_D_Hit_002_55
+  - first:
+      213: -1759018366474774432
+    second: Wizard_Skill_D_Hit_002_56
+  - first:
+      213: -8957840474668527368
+    second: Wizard_Skill_D_Hit_002_57
+  - first:
+      213: 8582718775077786633
+    second: Wizard_Skill_D_Hit_002_58
+  - first:
+      213: -3033326116473163389
+    second: Wizard_Skill_D_Hit_002_59
+  - first:
+      213: -5886298013526713463
+    second: Wizard_Skill_D_Hit_002_60
+  - first:
+      213: 1966142025263524994
+    second: Wizard_Skill_D_Hit_002_61
+  - first:
+      213: -2376927214494475387
+    second: Wizard_Skill_D_Hit_002_62
+  - first:
+      213: -2181494823807936022
+    second: Wizard_Skill_D_Hit_002_63
+  - first:
+      213: 5286118050987656899
+    second: Wizard_Skill_D_Hit_002_64
+  - first:
+      213: -7869349943606399120
+    second: Wizard_Skill_D_Hit_002_65
+  - first:
+      213: -5367693463725930102
+    second: Wizard_Skill_D_Hit_002_66
+  - first:
+      213: 7542657060681976157
+    second: Wizard_Skill_D_Hit_002_67
+  - first:
+      213: 1907791094470569493
+    second: Wizard_Skill_D_Hit_002_68
+  - first:
+      213: -7119245729599115138
+    second: Wizard_Skill_D_Hit_002_69
+  - first:
+      213: 557139062016692661
+    second: Wizard_Skill_D_Hit_002_70
+  - first:
+      213: -5954620098411083508
+    second: Wizard_Skill_D_Hit_002_71
+  - first:
+      213: 2696249743644942727
+    second: Wizard_Skill_D_Hit_002_72
+  - first:
+      213: 5331368066698235259
+    second: Wizard_Skill_D_Hit_002_73
+  - first:
+      213: 3992267847604945182
+    second: Wizard_Skill_D_Hit_002_74
+  - first:
+      213: -7152320163247630389
+    second: Wizard_Skill_D_Hit_002_75
+  - first:
+      213: 8548504029331697881
+    second: Wizard_Skill_D_Hit_002_76
+  - first:
+      213: -6195176888114660752
+    second: Wizard_Skill_D_Hit_002_77
+  - first:
+      213: -6950023718894697038
+    second: Wizard_Skill_D_Hit_002_78
+  - first:
+      213: -1242343965214157722
+    second: Wizard_Skill_D_Hit_002_79
+  - first:
+      213: -8303275850405502469
+    second: Wizard_Skill_D_Hit_002_80
+  - first:
+      213: -3849604638226429715
+    second: Wizard_Skill_D_Hit_002_81
+  - first:
+      213: -6395084643651287310
+    second: Wizard_Skill_D_Hit_002_82
+  - first:
+      213: 3670982002094705927
+    second: Wizard_Skill_D_Hit_002_83
+  - first:
+      213: -1645203890630239035
+    second: Wizard_Skill_D_Hit_002_84
+  - first:
+      213: -68674127034164108
+    second: Wizard_Skill_D_Hit_002_85
+  - first:
+      213: -4203957580306305342
+    second: Wizard_Skill_D_Hit_002_86
+  - first:
+      213: -6108450198839721200
+    second: Wizard_Skill_D_Hit_002_87
+  - first:
+      213: -4230166174010024216
+    second: Wizard_Skill_D_Hit_002_88
+  - first:
+      213: 4196960032915556942
+    second: Wizard_Skill_D_Hit_002_89
+  - first:
+      213: 4185400905744129352
+    second: Wizard_Skill_D_Hit_002_90
+  - first:
+      213: 5490038349744838965
+    second: Wizard_Skill_D_Hit_002_91
+  - first:
+      213: 840976325433407856
+    second: Wizard_Skill_D_Hit_002_92
+  - first:
+      213: 6270505022006615715
+    second: Wizard_Skill_D_Hit_002_93
+  - first:
+      213: 3892373473488505821
+    second: Wizard_Skill_D_Hit_002_94
+  - first:
+      213: -7082732065882537289
+    second: Wizard_Skill_D_Hit_002_95
+  - first:
+      213: -3527018055313590566
+    second: Wizard_Skill_D_Hit_002_96
+  - first:
+      213: -1571052639947524014
+    second: Wizard_Skill_D_Hit_002_97
+  - first:
+      213: -267209539643248352
+    second: Wizard_Skill_D_Hit_002_98
+  - first:
+      213: 7316881820787750416
+    second: Wizard_Skill_D_Hit_002_99
+  - first:
+      213: -2367570754819899883
+    second: Wizard_Skill_D_Hit_002_100
+  - first:
+      213: -27571907942455889
+    second: Wizard_Skill_D_Hit_002_101
+  - first:
+      213: -3267666689702577608
+    second: Wizard_Skill_D_Hit_002_102
+  - first:
+      213: 3639297762160721141
+    second: Wizard_Skill_D_Hit_002_103
+  - first:
+      213: 9116997839160559525
+    second: Wizard_Skill_D_Hit_002_104
+  - first:
+      213: 6263274468938959704
+    second: Wizard_Skill_D_Hit_002_105
+  - first:
+      213: -2721495036107831496
+    second: Wizard_Skill_D_Hit_002_106
+  - first:
+      213: -7046919607751940535
+    second: Wizard_Skill_D_Hit_002_107
+  - first:
+      213: 3499373107805878009
+    second: Wizard_Skill_D_Hit_002_108
+  - first:
+      213: -2001273041976738764
+    second: Wizard_Skill_D_Hit_002_109
+  - first:
+      213: 4002494002130958077
+    second: Wizard_Skill_D_Hit_002_110
+  - first:
+      213: -4750114376833784565
+    second: Wizard_Skill_D_Hit_002_111
+  - first:
+      213: -513132503216406536
+    second: Wizard_Skill_D_Hit_002_112
+  - first:
+      213: -3401029411119401958
+    second: Wizard_Skill_D_Hit_002_113
+  - first:
+      213: -2236918303566521899
+    second: Wizard_Skill_D_Hit_002_114
+  - first:
+      213: -8409659873727707203
+    second: Wizard_Skill_D_Hit_002_115
+  - first:
+      213: -6646595048314878069
+    second: Wizard_Skill_D_Hit_002_116
+  - first:
+      213: -2242046950085612604
+    second: Wizard_Skill_D_Hit_002_117
+  - first:
+      213: 1614543217554386376
+    second: Wizard_Skill_D_Hit_002_118
+  - first:
+      213: -4427816236830357978
+    second: Wizard_Skill_D_Hit_002_119
+  - first:
+      213: 6833714724958232116
+    second: Wizard_Skill_D_Hit_002_120
+  - first:
+      213: 9049955358165724725
+    second: Wizard_Skill_D_Hit_002_121
+  - first:
+      213: 6593770797874062662
+    second: Wizard_Skill_D_Hit_002_122
+  - first:
+      213: 6071285323959338487
+    second: Wizard_Skill_D_Hit_002_123
+  - first:
+      213: -433276137280190286
+    second: Wizard_Skill_D_Hit_002_124
+  - first:
+      213: -5843269528556984937
+    second: Wizard_Skill_D_Hit_002_125
+  - first:
+      213: 8609857829775940979
+    second: Wizard_Skill_D_Hit_002_126
+  - first:
+      213: -5034687368798281063
+    second: Wizard_Skill_D_Hit_002_127
+  - first:
+      213: 2488980623829077762
+    second: Wizard_Skill_D_Hit_002_128
+  - first:
+      213: 7641895171160573897
+    second: Wizard_Skill_D_Hit_002_129
+  - first:
+      213: -1363476138520665715
+    second: Wizard_Skill_D_Hit_002_130
+  - first:
+      213: 4913779128265617945
+    second: Wizard_Skill_D_Hit_002_131
+  - first:
+      213: -4064405118805705715
+    second: Wizard_Skill_D_Hit_002_132
+  - first:
+      213: 654224504523607183
+    second: Wizard_Skill_D_Hit_002_133
+  - first:
+      213: 5663860712152923898
+    second: Wizard_Skill_D_Hit_002_134
+  - first:
+      213: 2628363497678800151
+    second: Wizard_Skill_D_Hit_002_135
+  - first:
+      213: -965115111227418894
+    second: Wizard_Skill_D_Hit_002_136
+  - first:
+      213: -1256914265365813554
+    second: Wizard_Skill_D_Hit_002_137
+  - first:
+      213: -5056121940192105448
+    second: Wizard_Skill_D_Hit_002_138
+  - first:
+      213: 5398788647926506478
+    second: Wizard_Skill_D_Hit_002_139
+  - first:
+      213: 4715282222076242911
+    second: Wizard_Skill_D_Hit_002_140
+  - first:
+      213: -2692299278116725770
+    second: Wizard_Skill_D_Hit_002_141
+  - first:
+      213: -5125928212880011298
+    second: Wizard_Skill_D_Hit_002_142
+  - first:
+      213: -9150078849319568556
+    second: Wizard_Skill_D_Hit_002_143
+  - first:
+      213: -9020122142168964945
+    second: Wizard_Skill_D_Hit_002_144
+  - first:
+      213: 2456918696126234056
+    second: Wizard_Skill_D_Hit_002_145
+  - first:
+      213: -870796824590142140
+    second: Wizard_Skill_D_Hit_002_146
+  - first:
+      213: 8387193188967835182
+    second: Wizard_Skill_D_Hit_002_147
+  - first:
+      213: 8008722987009475934
+    second: Wizard_Skill_D_Hit_002_148
+  - first:
+      213: 8272628283483002610
+    second: Wizard_Skill_D_Hit_002_149
+  - first:
+      213: 1524498361042427681
+    second: Wizard_Skill_D_Hit_002_150
+  - first:
+      213: 2266623995753998683
+    second: Wizard_Skill_D_Hit_002_151
+  - first:
+      213: -1719317904970345877
+    second: Wizard_Skill_D_Hit_002_152
+  - first:
+      213: 3076435849432064660
+    second: Wizard_Skill_D_Hit_002_153
+  - first:
+      213: 5278093655875753680
+    second: Wizard_Skill_D_Hit_002_154
+  - first:
+      213: -5118716763151258365
+    second: Wizard_Skill_D_Hit_002_155
+  - first:
+      213: 4420518303743521730
+    second: Wizard_Skill_D_Hit_002_156
+  - first:
+      213: -8271840775098661743
+    second: Wizard_Skill_D_Hit_002_157
+  - first:
+      213: 5613071095803710336
+    second: Wizard_Skill_D_Hit_002_158
+  - first:
+      213: 6953712561357414120
+    second: Wizard_Skill_D_Hit_002_159
+  - first:
+      213: 3448911124759621372
+    second: Wizard_Skill_D_Hit_002_160
+  - first:
+      213: 407046916312903347
+    second: Wizard_Skill_D_Hit_002_161
+  - first:
+      213: 6911844730527735163
+    second: Wizard_Skill_D_Hit_002_162
+  - first:
+      213: -215964341077893738
+    second: Wizard_Skill_D_Hit_002_163
+  - first:
+      213: 6189822052341383423
+    second: Wizard_Skill_D_Hit_002_164
+  - first:
+      213: -4065886943774034984
+    second: Wizard_Skill_D_Hit_002_165
+  - first:
+      213: 8281234096925309641
+    second: Wizard_Skill_D_Hit_002_166
+  - first:
+      213: 1871524105257483642
+    second: Wizard_Skill_D_Hit_002_167
+  - first:
+      213: -1041496420026343402
+    second: Wizard_Skill_D_Hit_002_168
+  - first:
+      213: -1490618029428479720
+    second: Wizard_Skill_D_Hit_002_169
+  - first:
+      213: 2986867997305658599
+    second: Wizard_Skill_D_Hit_002_170
+  - first:
+      213: -5563992415836034378
+    second: Wizard_Skill_D_Hit_002_171
+  - first:
+      213: -7801514404075656303
+    second: Wizard_Skill_D_Hit_002_172
+  - first:
+      213: 3247107948662247361
+    second: Wizard_Skill_D_Hit_002_173
+  - first:
+      213: -7617904389183753846
+    second: Wizard_Skill_D_Hit_002_174
+  - first:
+      213: 2204110760949316934
+    second: Wizard_Skill_D_Hit_002_175
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f84588bc6bd55c4ab5da3d9f79c4151
+      internalID: 134337980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ad6c2997c83a74caeecaa4c202165c
+      internalID: -792890464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d62cadb5221cb48942229ea291fc00
+      internalID: 508013372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1944f5989d472c4479a6878f686c859b
+      internalID: 766615105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f53686538783e4faf869d4455b36cc
+      internalID: 719965269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866d18466eb1b5d439c74eb6d54ef479
+      internalID: -1057669028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd317faea48b3464da6464d250eac18b
+      internalID: 509350178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4030869a4ba0e784d86b40c3f8ce117f
+      internalID: -902007898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a909d571add8efa498065b4821d568f9
+      internalID: -824795393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75baf21d10cf6f4c9d5099200d0e807
+      internalID: 1326379405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0cb3fd732f8fc498eb377be90886ae
+      internalID: 831229525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94448d6f2c77543428a4aef4ff0657ae
+      internalID: 1413741450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a99a3141b4fda943850c9a5cc54665b
+      internalID: -705098398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825cd84121ff52a49b9ec4b6b238c52b
+      internalID: 1221065284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1942cdfd90304459224070cec1a93c
+      internalID: -1647489592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_tornado_hit_003_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc82ab40964a4104d94cf0f517c18394
+      internalID: -1460202291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ba491d5c1b3a34343b4bd26319047ed7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_tornado_hit_003_0: 134337980
+      sp_skill_tornado_hit_003_1: -792890464
+      sp_skill_tornado_hit_003_10: 831229525
+      sp_skill_tornado_hit_003_11: 1413741450
+      sp_skill_tornado_hit_003_12: -705098398
+      sp_skill_tornado_hit_003_13: 1221065284
+      sp_skill_tornado_hit_003_14: -1647489592
+      sp_skill_tornado_hit_003_15: -1460202291
+      sp_skill_tornado_hit_003_2: 508013372
+      sp_skill_tornado_hit_003_3: 766615105
+      sp_skill_tornado_hit_003_4: 719965269
+      sp_skill_tornado_hit_003_5: -1057669028
+      sp_skill_tornado_hit_003_6: 509350178
+      sp_skill_tornado_hit_003_7: -902007898
+      sp_skill_tornado_hit_003_8: -824795393
+      sp_skill_tornado_hit_003_9: 1326379405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

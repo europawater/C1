@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: ad438af9b3da82a42916fe10980bdbb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -493042671215662520
+    second: spi_mon_farm_ghost_rare_0
+  - first:
+      213: -6509931362244119740
+    second: spi_mon_farm_ghost_rare_1
+  - first:
+      213: -1135122906324075189
+    second: spi_mon_farm_ghost_rare_2
+  - first:
+      213: 6560358307115639507
+    second: spi_mon_farm_ghost_rare_3
+  - first:
+      213: 3787738141045464520
+    second: spi_mon_farm_ghost_rare_4
+  - first:
+      213: 3529866042305101494
+    second: spi_mon_farm_ghost_rare_5
+  - first:
+      213: 1162750277881388536
+    second: spi_mon_farm_ghost_rare_6
+  - first:
+      213: -5842369484146459165
+    second: spi_mon_farm_ghost_rare_7
+  - first:
+      213: 4018568415935113258
+    second: spi_mon_farm_ghost_rare_8
+  - first:
+      213: -5705406511912228691
+    second: spi_mon_farm_ghost_rare_9
+  - first:
+      213: 9059113398444087834
+    second: spi_mon_farm_ghost_rare_10
+  - first:
+      213: -4776630806567415694
+    second: spi_mon_farm_ghost_rare_11
+  - first:
+      213: 7493570368301625641
+    second: spi_mon_farm_ghost_rare_12
+  - first:
+      213: 6585598286267703527
+    second: spi_mon_farm_ghost_rare_13
+  - first:
+      213: -3910575555729489244
+    second: spi_mon_farm_ghost_rare_14
+  - first:
+      213: 633703912551577743
+    second: spi_mon_farm_ghost_rare_15
+  - first:
+      213: -5610758428158263264
+    second: spi_mon_farm_ghost_rare_16
+  - first:
+      213: 5286398333121915858
+    second: spi_mon_farm_ghost_rare_17
+  - first:
+      213: 6399349481429785639
+    second: spi_mon_farm_ghost_rare_18
+  - first:
+      213: 119313559021429960
+    second: spi_mon_farm_ghost_rare_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 14
+        width: 111
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aa4138d4c5829f0800000000000000
+      internalID: -493042671215662520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 7
+        width: 121
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443b349cae318a5a0800000000000000
+      internalID: -6509931362244119740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 9
+        width: 136
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4df4281bbb3f30f0800000000000000
+      internalID: -1135122906324075189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 9
+        width: 146
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d229ee3f131b0b50800000000000000
+      internalID: 6560358307115639507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_4
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 9
+        width: 130
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd963f55cfb09430800000000000000
+      internalID: 3787738141045464520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_5
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 9
+        width: 109
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be3f44a67a9cf030800000000000000
+      internalID: 3529866042305101494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_6
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 157
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd5b9b973be22010800000000000000
+      internalID: 1162750277881388536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_7
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 157
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed3eda88ebbbeea0800000000000000
+      internalID: -5842369484146459165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_8
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 73
+        width: 121
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28aa69dea2d4c730800000000000000
+      internalID: 4018568415935113258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_9
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 110
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da86546810352d0b0800000000000000
+      internalID: -5705406511912228691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_10
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 115
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1add3e73af68bd70800000000000000
+      internalID: 9059113398444087834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_11
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 125
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2709c5fc69ff5bdb0800000000000000
+      internalID: -4776630806567415694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_12
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 102
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921f20e1c828ef760800000000000000
+      internalID: 7493570368301625641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_13
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 9
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e06866dfbeb46b50800000000000000
+      internalID: 6585598286267703527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_14
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 9
+        width: 44
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a20b6d4048dab9c0800000000000000
+      internalID: -3910575555729489244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_15
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 59
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f887968d95e5bc800800000000000000
+      internalID: 633703912551577743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_16
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 63
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0200919cfe49222b0800000000000000
+      internalID: -5610758428158263264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_17
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 9
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbe2f2864f0d5940800000000000000
+      internalID: 5286398333121915858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_18
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 9
+        width: 45
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cd33ab27e0fc850800000000000000
+      internalID: 6399349481429785639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_farm_ghost_rare_19
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 3
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c42c5ebc03e7a100800000000000000
+      internalID: 119313559021429960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_farm_ghost_rare_0: -493042671215662520
+      spi_mon_farm_ghost_rare_1: -6509931362244119740
+      spi_mon_farm_ghost_rare_10: 9059113398444087834
+      spi_mon_farm_ghost_rare_11: -4776630806567415694
+      spi_mon_farm_ghost_rare_12: 7493570368301625641
+      spi_mon_farm_ghost_rare_13: 6585598286267703527
+      spi_mon_farm_ghost_rare_14: -3910575555729489244
+      spi_mon_farm_ghost_rare_15: 633703912551577743
+      spi_mon_farm_ghost_rare_16: -5610758428158263264
+      spi_mon_farm_ghost_rare_17: 5286398333121915858
+      spi_mon_farm_ghost_rare_18: 6399349481429785639
+      spi_mon_farm_ghost_rare_19: 119313559021429960
+      spi_mon_farm_ghost_rare_2: -1135122906324075189
+      spi_mon_farm_ghost_rare_3: 6560358307115639507
+      spi_mon_farm_ghost_rare_4: 3787738141045464520
+      spi_mon_farm_ghost_rare_5: 3529866042305101494
+      spi_mon_farm_ghost_rare_6: 1162750277881388536
+      spi_mon_farm_ghost_rare_7: -5842369484146459165
+      spi_mon_farm_ghost_rare_8: 4018568415935113258
+      spi_mon_farm_ghost_rare_9: -5705406511912228691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

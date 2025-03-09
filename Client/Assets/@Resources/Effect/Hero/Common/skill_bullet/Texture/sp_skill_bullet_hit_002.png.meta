@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 6b2082796c3aa644a9faa265af6c4378
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4940860041311199996
+    second: sp_skill_bullet_hit_002_0
+  - first:
+      213: 1626258353258300338
+    second: sp_skill_bullet_hit_002_1
+  - first:
+      213: 8696665513158031694
+    second: sp_skill_bullet_hit_002_2
+  - first:
+      213: -7660918943711533972
+    second: sp_skill_bullet_hit_002_3
+  - first:
+      213: -3880138457575562224
+    second: sp_skill_bullet_hit_002_4
+  - first:
+      213: -8261458360430239291
+    second: sp_skill_bullet_hit_002_5
+  - first:
+      213: 1926071327560463972
+    second: sp_skill_bullet_hit_002_6
+  - first:
+      213: -2113166757466431526
+    second: sp_skill_bullet_hit_002_7
+  - first:
+      213: 9214153622634747453
+    second: sp_skill_bullet_hit_002_8
+  - first:
+      213: -1667801203119821987
+    second: sp_skill_bullet_hit_002_9
+  - first:
+      213: 4632248581606877088
+    second: sp_skill_bullet_hit_002_10
+  - first:
+      213: 7718344881077736501
+    second: sp_skill_bullet_hit_002_11
+  - first:
+      213: -3808348706611334816
+    second: sp_skill_bullet_hit_002_12
+  - first:
+      213: 2737732708887011733
+    second: sp_skill_bullet_hit_002_13
+  - first:
+      213: 876884292796370480
+    second: sp_skill_bullet_hit_002_14
+  - first:
+      213: -2122860210696865369
+    second: sp_skill_bullet_hit_002_15
+  - first:
+      213: -4903747557668629449
+    second: sp_skill_bullet_hit_002_16
+  - first:
+      213: 8501694698335285873
+    second: sp_skill_bullet_hit_002_17
+  - first:
+      213: -8826428303878242646
+    second: sp_skill_bullet_hit_002_18
+  - first:
+      213: -5571081340311640062
+    second: sp_skill_bullet_hit_002_19
+  - first:
+      213: -7643431496772322268
+    second: sp_skill_bullet_hit_002_20
+  - first:
+      213: 1898580357181431864
+    second: sp_skill_bullet_hit_002_21
+  - first:
+      213: -6919385345925174253
+    second: sp_skill_bullet_hit_002_22
+  - first:
+      213: -8203875501537174522
+    second: sp_skill_bullet_hit_002_23
+  - first:
+      213: -2159430185136862891
+    second: sp_skill_bullet_hit_002_24
+  - first:
+      213: -4945160029728577414
+    second: sp_skill_bullet_hit_002_25
+  - first:
+      213: -8688173647876582256
+    second: sp_skill_bullet_hit_002_26
+  - first:
+      213: 1909282693950776552
+    second: sp_skill_bullet_hit_002_27
+  - first:
+      213: 5901009707695021651
+    second: sp_skill_bullet_hit_002_28
+  - first:
+      213: -5207923088865591236
+    second: sp_skill_bullet_hit_002_29
+  - first:
+      213: -5551604907874010001
+    second: sp_skill_bullet_hit_002_30
+  - first:
+      213: -1905183291745181823
+    second: sp_skill_bullet_hit_002_31
+  - first:
+      213: 8853032361193533299
+    second: sp_skill_bullet_hit_002_32
+  - first:
+      213: 9008074484061733600
+    second: sp_skill_bullet_hit_002_33
+  - first:
+      213: -5167659814072424501
+    second: sp_skill_bullet_hit_002_34
+  - first:
+      213: 5902387043047796716
+    second: sp_skill_bullet_hit_002_35
+  - first:
+      213: 3066384233279744962
+    second: sp_skill_bullet_hit_002_36
+  - first:
+      213: -3950476365773559538
+    second: sp_skill_bullet_hit_002_37
+  - first:
+      213: -6840297581450277339
+    second: sp_skill_bullet_hit_002_38
+  - first:
+      213: 8859421103451047803
+    second: sp_skill_bullet_hit_002_39
+  - first:
+      213: 3045320048238971045
+    second: sp_skill_bullet_hit_002_40
+  - first:
+      213: -5133205444160114926
+    second: sp_skill_bullet_hit_002_41
+  - first:
+      213: -231727781436212459
+    second: sp_skill_bullet_hit_002_42
+  - first:
+      213: -2552320352445894821
+    second: sp_skill_bullet_hit_002_43
+  - first:
+      213: 6217209338472121894
+    second: sp_skill_bullet_hit_002_44
+  - first:
+      213: 2038556248228911321
+    second: sp_skill_bullet_hit_002_45
+  - first:
+      213: 7052637510811753028
+    second: sp_skill_bullet_hit_002_46
+  - first:
+      213: 4856378407033997352
+    second: sp_skill_bullet_hit_002_47
+  - first:
+      213: -8088859259718747193
+    second: sp_skill_bullet_hit_002_48
+  - first:
+      213: -2031256709633786335
+    second: sp_skill_bullet_hit_002_49
+  - first:
+      213: -6682147273157967902
+    second: sp_skill_bullet_hit_002_50
+  - first:
+      213: 8195297518765225545
+    second: sp_skill_bullet_hit_002_51
+  - first:
+      213: 116016102182708693
+    second: sp_skill_bullet_hit_002_52
+  - first:
+      213: -7257310330031786130
+    second: sp_skill_bullet_hit_002_53
+  - first:
+      213: 1184725937415956079
+    second: sp_skill_bullet_hit_002_54
+  - first:
+      213: 1462645824277667472
+    second: sp_skill_bullet_hit_002_55
+  - first:
+      213: 848868508536369948
+    second: sp_skill_bullet_hit_002_56
+  - first:
+      213: 2983366947548636245
+    second: sp_skill_bullet_hit_002_57
+  - first:
+      213: -6807596763139372720
+    second: sp_skill_bullet_hit_002_58
+  - first:
+      213: -2589368542304218066
+    second: sp_skill_bullet_hit_002_59
+  - first:
+      213: -5950402067174019608
+    second: sp_skill_bullet_hit_002_60
+  - first:
+      213: 8243111004273564630
+    second: sp_skill_bullet_hit_002_61
+  - first:
+      213: -9112575320370779430
+    second: sp_skill_bullet_hit_002_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_bullet_hit_002_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2a64f9706719440800000000000000
+      internalID: 4940860041311199996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bullet_hit_002_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b309f22b51a19610800000000000000
+      internalID: 1626258353258300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bullet_hit_002_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49bc221533c0b870800000000000000
+      internalID: 8696665513158031694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bullet_hit_002_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64630b5fc2fea590800000000000000
+      internalID: -7660918943711533972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bullet_hit_002_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01460e471aaf62ac0800000000000000
+      internalID: -3880138457575562224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bullet_hit_002_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1efdb6467695d80800000000000000
+      internalID: -8261458360430239291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bullet_hit_002_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4667e4beaa7caba10800000000000000
+      internalID: 1926071327560463972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bullet_hit_002_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf9c06b7068ca2e0800000000000000
+      internalID: -2113166757466431526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bullet_hit_002_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36d50fa6ef3fdf70800000000000000
+      internalID: 9214153622634747453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bullet_hit_002_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5be21464a7cad8e0800000000000000
+      internalID: -1667801203119821987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bullet_hit_002_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a72cf1da8d094040800000000000000
+      internalID: 4632248581606877088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_bullet_hit_002_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534d79a96c11d1b60800000000000000
+      internalID: 7718344881077736501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d91730f552096454b9fb476c8aa5620b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_bullet_hit_002_0: 4940860041311199996
+      sp_skill_bullet_hit_002_1: 1626258353258300338
+      sp_skill_bullet_hit_002_10: 4632248581606877088
+      sp_skill_bullet_hit_002_11: 7718344881077736501
+      sp_skill_bullet_hit_002_2: 8696665513158031694
+      sp_skill_bullet_hit_002_3: -7660918943711533972
+      sp_skill_bullet_hit_002_4: -3880138457575562224
+      sp_skill_bullet_hit_002_5: -8261458360430239291
+      sp_skill_bullet_hit_002_6: 1926071327560463972
+      sp_skill_bullet_hit_002_7: -2113166757466431526
+      sp_skill_bullet_hit_002_8: 9214153622634747453
+      sp_skill_bullet_hit_002_9: -1667801203119821987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

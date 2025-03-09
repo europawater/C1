@@ -1,0 +1,641 @@
+fileFormatVersion: 2
+guid: 00c33585e18456947a9777acbacebf4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4452206893363499834
+    second: Elite_farm_jinn_skill_A_hit_0
+  - first:
+      213: -1429935351860116838
+    second: Elite_farm_jinn_skill_A_hit_1
+  - first:
+      213: 2723074399728444436
+    second: Elite_farm_jinn_skill_A_hit_2
+  - first:
+      213: 9022328336604296554
+    second: Elite_farm_jinn_skill_A_hit_3
+  - first:
+      213: -2139723533479587630
+    second: Elite_farm_jinn_skill_A_hit_4
+  - first:
+      213: 6242664692204873581
+    second: Elite_farm_jinn_skill_A_hit_5
+  - first:
+      213: 4796639945380952798
+    second: Elite_farm_jinn_skill_A_hit_6
+  - first:
+      213: -2733598405781292102
+    second: Elite_farm_jinn_skill_A_hit_7
+  - first:
+      213: 2402906595154491721
+    second: Elite_farm_jinn_skill_A_hit_8
+  - first:
+      213: -3655537046467711541
+    second: Elite_farm_jinn_skill_A_hit_9
+  - first:
+      213: -873586531622237364
+    second: Elite_farm_jinn_skill_A_hit_10
+  - first:
+      213: 369592689085855821
+    second: Elite_farm_jinn_skill_A_hit_11
+  - first:
+      213: -7657083524190588495
+    second: Elite_farm_jinn_skill_A_hit_12
+  - first:
+      213: -6855105399019045652
+    second: Elite_farm_jinn_skill_A_hit_13
+  - first:
+      213: -2775933799922617266
+    second: Elite_farm_jinn_skill_A_hit_14
+  - first:
+      213: 8674132551681178094
+    second: Elite_farm_jinn_skill_A_hit_15
+  - first:
+      213: -62582324457743991
+    second: Elite_farm_jinn_skill_A_hit_16
+  - first:
+      213: -5672490772738637434
+    second: Elite_farm_jinn_skill_A_hit_17
+  - first:
+      213: 8507251697800751530
+    second: Elite_farm_jinn_skill_A_hit_18
+  - first:
+      213: -8814906947964895343
+    second: Elite_farm_jinn_skill_A_hit_19
+  - first:
+      213: -509069774542396616
+    second: Elite_farm_jinn_skill_A_hit_20
+  - first:
+      213: 2524121093796219662
+    second: Elite_farm_jinn_skill_A_hit_21
+  - first:
+      213: -3037786747036877416
+    second: Elite_farm_jinn_skill_A_hit_22
+  - first:
+      213: 7384397192923415769
+    second: Elite_farm_jinn_skill_A_hit_23
+  - first:
+      213: 8183554686641243266
+    second: Elite_farm_jinn_skill_A_hit_24
+  - first:
+      213: -298779303899103280
+    second: Elite_farm_jinn_skill_A_hit_25
+  - first:
+      213: 2864470783934692646
+    second: Elite_farm_jinn_skill_A_hit_26
+  - first:
+      213: -6660841324793068310
+    second: Elite_farm_jinn_skill_A_hit_27
+  - first:
+      213: 2037965874198040439
+    second: Elite_farm_jinn_skill_A_hit_28
+  - first:
+      213: 437144328304601594
+    second: Elite_farm_jinn_skill_A_hit_29
+  - first:
+      213: -6034982768008526242
+    second: Elite_farm_jinn_skill_A_hit_30
+  - first:
+      213: 7631225686848461903
+    second: Elite_farm_jinn_skill_A_hit_31
+  - first:
+      213: 2858744749844615310
+    second: Elite_farm_jinn_skill_A_hit_32
+  - first:
+      213: 2160951941058330249
+    second: Elite_farm_jinn_skill_A_hit_33
+  - first:
+      213: -5442607372256417633
+    second: Elite_farm_jinn_skill_A_hit_34
+  - first:
+      213: -6484972036292988667
+    second: Elite_farm_jinn_skill_A_hit_35
+  - first:
+      213: 3434537212563510870
+    second: Elite_farm_jinn_skill_A_hit_36
+  - first:
+      213: -8004643899887817700
+    second: Elite_farm_jinn_skill_A_hit_37
+  - first:
+      213: -4042572957375074436
+    second: Elite_farm_jinn_skill_A_hit_38
+  - first:
+      213: 2324051026316629553
+    second: Elite_farm_jinn_skill_A_hit_39
+  - first:
+      213: -5774481454171242357
+    second: Elite_farm_jinn_skill_A_hit_40
+  - first:
+      213: -3388797511481262770
+    second: Elite_farm_jinn_skill_A_hit_41
+  - first:
+      213: -943257622369306448
+    second: Elite_farm_jinn_skill_A_hit_42
+  - first:
+      213: 3995952593457695411
+    second: Elite_farm_jinn_skill_A_hit_43
+  - first:
+      213: 3138927226996184678
+    second: Elite_farm_jinn_skill_A_hit_44
+  - first:
+      213: -3041065001944010201
+    second: Elite_farm_jinn_skill_A_hit_45
+  - first:
+      213: -2939815947977790787
+    second: Elite_farm_jinn_skill_A_hit_46
+  - first:
+      213: 263160589437429279
+    second: Elite_farm_jinn_skill_A_hit_47
+  - first:
+      213: -6809906592417948425
+    second: Elite_farm_jinn_skill_A_hit_48
+  - first:
+      213: 9087839846266683400
+    second: Elite_farm_jinn_skill_A_hit_49
+  - first:
+      213: -6874272539474318063
+    second: Elite_farm_jinn_skill_A_hit_50
+  - first:
+      213: 3075556738224524571
+    second: Elite_farm_jinn_skill_A_hit_51
+  - first:
+      213: -4628929087891337601
+    second: Elite_farm_jinn_skill_A_hit_52
+  - first:
+      213: 6912015616072248543
+    second: Elite_farm_jinn_skill_A_hit_53
+  - first:
+      213: -2312469958009504325
+    second: Elite_farm_jinn_skill_A_hit_54
+  - first:
+      213: 6888157817494093272
+    second: Elite_farm_jinn_skill_A_hit_55
+  - first:
+      213: 8734709207113777294
+    second: Elite_farm_jinn_skill_A_hit_56
+  - first:
+      213: 3907784832728991019
+    second: Elite_farm_jinn_skill_A_hit_57
+  - first:
+      213: -3735644927366960988
+    second: Elite_farm_jinn_skill_A_hit_58
+  - first:
+      213: -3239828928107946018
+    second: Elite_farm_jinn_skill_A_hit_59
+  - first:
+      213: 3946995635664425968
+    second: Elite_farm_jinn_skill_A_hit_60
+  - first:
+      213: -8941548400875900246
+    second: Elite_farm_jinn_skill_A_hit_61
+  - first:
+      213: 2146994051715778102
+    second: Elite_farm_jinn_skill_A_hit_62
+  - first:
+      213: 5195434388698197190
+    second: Elite_farm_jinn_skill_A_hit_63
+  - first:
+      213: -8114591594513736128
+    second: Elite_farm_jinn_skill_A_hit_64
+  - first:
+      213: -4341358842514739440
+    second: Elite_farm_jinn_skill_A_hit_65
+  - first:
+      213: -6650909868236461958
+    second: Elite_farm_jinn_skill_A_hit_66
+  - first:
+      213: -2217734696186727583
+    second: Elite_farm_jinn_skill_A_hit_67
+  - first:
+      213: -3377990341897857645
+    second: Elite_farm_jinn_skill_A_hit_68
+  - first:
+      213: -974720981347544638
+    second: Elite_farm_jinn_skill_A_hit_69
+  - first:
+      213: 2198399464006529842
+    second: Elite_farm_jinn_skill_A_hit_70
+  - first:
+      213: -1871666905064305734
+    second: Elite_farm_jinn_skill_A_hit_71
+  - first:
+      213: -527880527719664634
+    second: Elite_farm_jinn_skill_A_hit_72
+  - first:
+      213: 7801306324404293764
+    second: Elite_farm_jinn_skill_A_hit_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_002_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce89e93dd589f3d4e82d355caa35ad34
+      internalID: 731686381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_002_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574af4ed9d0ff4743a3a78a10a311a4b
+      internalID: -1394321649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_002_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aa60e74c22fb84eadea945f382ce5d
+      internalID: -686494554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_002_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a9ede2977b8854fa9153a0a2d73674
+      internalID: -1969461147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_002_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e737894234a842d48a2a05282f06e903
+      internalID: -1957460409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_002_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efa91033e20aad44bdea7eab37dbea2
+      internalID: -1525927806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_002_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed79fd703d96854891a4b6540dc8e48
+      internalID: 2043933078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_002_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67763cf84ca8f747bd6438e62bba2ce
+      internalID: -1320152265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_002_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2842d36ea086d479f0f5ae06a59d34
+      internalID: 603131911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_002_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae679b62c53f72741ad14afd047a278d
+      internalID: -1712036453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_002_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec9fe73e7b82424895ab8bd74611604
+      internalID: -1827665908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_boss_skill_attack_hit_002_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804747ef7233ea44596d40a0bab5603b
+      internalID: 1216755381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c8b320a11d2b8b24d8229f132dbaf413
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_boss_skill_attack_hit_002_0: 731686381
+      sp_boss_skill_attack_hit_002_1: -1394321649
+      sp_boss_skill_attack_hit_002_10: -1827665908
+      sp_boss_skill_attack_hit_002_11: 1216755381
+      sp_boss_skill_attack_hit_002_2: -686494554
+      sp_boss_skill_attack_hit_002_3: -1969461147
+      sp_boss_skill_attack_hit_002_4: -1957460409
+      sp_boss_skill_attack_hit_002_5: -1525927806
+      sp_boss_skill_attack_hit_002_6: 2043933078
+      sp_boss_skill_attack_hit_002_7: -1320152265
+      sp_boss_skill_attack_hit_002_8: 603131911
+      sp_boss_skill_attack_hit_002_9: -1712036453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

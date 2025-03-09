@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 71aa0fbb1fdf88c46be5d091a9b11c16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1778695932955376203
+    second: sp_skill_poison_hit_003_01_0
+  - first:
+      213: -9165222733936740655
+    second: sp_skill_poison_hit_003_01_1
+  - first:
+      213: 2457735921888702194
+    second: sp_skill_poison_hit_003_01_2
+  - first:
+      213: 1753437766261578681
+    second: sp_skill_poison_hit_003_01_3
+  - first:
+      213: 8280999521778745243
+    second: sp_skill_poison_hit_003_01_4
+  - first:
+      213: -8299274901840210046
+    second: sp_skill_poison_hit_003_01_5
+  - first:
+      213: -229175313905558947
+    second: sp_skill_poison_hit_003_01_6
+  - first:
+      213: -8472576160977456060
+    second: sp_skill_poison_hit_003_01_7
+  - first:
+      213: -3839709317996588291
+    second: sp_skill_poison_hit_003_01_8
+  - first:
+      213: 2180966170084142555
+    second: sp_skill_poison_hit_003_01_9
+  - first:
+      213: -5206654085681118672
+    second: sp_skill_poison_hit_003_01_10
+  - first:
+      213: -4286660212777374138
+    second: sp_skill_poison_hit_003_01_11
+  - first:
+      213: -5066433389855916736
+    second: sp_skill_poison_hit_003_01_12
+  - first:
+      213: -5287962069882393614
+    second: sp_skill_poison_hit_003_01_13
+  - first:
+      213: 621915139821692411
+    second: sp_skill_poison_hit_003_01_14
+  - first:
+      213: 8730538355403366
+    second: sp_skill_poison_hit_003_01_15
+  - first:
+      213: -3234485227141540300
+    second: sp_skill_poison_hit_003_01_16
+  - first:
+      213: 7025927792558213474
+    second: sp_skill_poison_hit_003_01_17
+  - first:
+      213: -6552981053692614677
+    second: sp_skill_poison_hit_003_01_18
+  - first:
+      213: 3481645281271577801
+    second: sp_skill_poison_hit_003_01_19
+  - first:
+      213: -4834260869406690510
+    second: sp_skill_poison_hit_003_01_20
+  - first:
+      213: 6511521074578985220
+    second: sp_skill_poison_hit_003_01_21
+  - first:
+      213: 2773923811314851759
+    second: sp_skill_poison_hit_003_01_22
+  - first:
+      213: 7241878200119057583
+    second: sp_skill_poison_hit_003_01_23
+  - first:
+      213: 8144362368988809054
+    second: sp_skill_poison_hit_003_01_24
+  - first:
+      213: 1211245631559879441
+    second: sp_skill_poison_hit_003_01_25
+  - first:
+      213: -6362632575874007275
+    second: sp_skill_poison_hit_003_01_26
+  - first:
+      213: 1077581235667561784
+    second: sp_skill_poison_hit_003_01_27
+  - first:
+      213: -8852429209510827312
+    second: sp_skill_poison_hit_003_01_28
+  - first:
+      213: 2759643144216674996
+    second: sp_skill_poison_hit_003_01_29
+  - first:
+      213: -8125935503373094979
+    second: sp_skill_poison_hit_003_01_30
+  - first:
+      213: 8132372370354344292
+    second: sp_skill_poison_hit_003_01_31
+  - first:
+      213: -6727493892153588342
+    second: sp_skill_poison_hit_003_01_32
+  - first:
+      213: -184065401270820286
+    second: sp_skill_poison_hit_003_01_33
+  - first:
+      213: 5806579981961807799
+    second: sp_skill_poison_hit_003_01_34
+  - first:
+      213: 158273749249159413
+    second: sp_skill_poison_hit_003_01_35
+  - first:
+      213: 1843515042865836728
+    second: sp_skill_poison_hit_003_01_36
+  - first:
+      213: -6967912439585487727
+    second: sp_skill_poison_hit_003_01_37
+  - first:
+      213: -3515244973498028273
+    second: sp_skill_poison_hit_003_01_38
+  - first:
+      213: -2156655665994462153
+    second: sp_skill_poison_hit_003_01_39
+  - first:
+      213: 5608061433307528890
+    second: sp_skill_poison_hit_003_01_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_poison_hit_003_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c79de8de3920444aba64db9f2db0740
+      internalID: 1189621113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_poison_hit_003_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7851d2d49f2f57344bbbacce0317b774
+      internalID: -618562298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_poison_hit_003_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3af1447db16244488cc639fd6dbc0de
+      internalID: 407396614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_poison_hit_003_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c84ea0db5778f64b9416ed96be84181
+      internalID: 130082729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_poison_hit_003_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2276fe9983c99b645aaaa7c705da5960
+      internalID: 2016136931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_poison_hit_003_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68728d95c6640f0408b9bb76c8f07f35
+      internalID: 553759742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_poison_hit_003_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54987f2c8e7218648a0d8b133dc1e852
+      internalID: -886026102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_poison_hit_003_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed21c1b6617927546b15dda046bca4ff
+      internalID: 1165764106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_poison_hit_003_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0c18275c8013246bec01e7489fe8b9
+      internalID: 2079882463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_poison_hit_003_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323e2afc5ed22af49b227c0757905509
+      internalID: -2088949422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_poison_hit_003_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf431e253245f74a9ca77c76261ffda
+      internalID: 240164224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 318249e5054057347a17c36f3f069d62
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_poison_hit_003_0: 1189621113
+      sp_skill_poison_hit_003_1: -618562298
+      sp_skill_poison_hit_003_10: 240164224
+      sp_skill_poison_hit_003_2: 407396614
+      sp_skill_poison_hit_003_3: 130082729
+      sp_skill_poison_hit_003_4: 2016136931
+      sp_skill_poison_hit_003_5: 553759742
+      sp_skill_poison_hit_003_6: -886026102
+      sp_skill_poison_hit_003_7: 1165764106
+      sp_skill_poison_hit_003_8: 2079882463
+      sp_skill_poison_hit_003_9: -2088949422
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

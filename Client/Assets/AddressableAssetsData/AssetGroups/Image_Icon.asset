@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Image_Icon
+  m_EditorClassIdentifier: 
+  m_GroupName: Image_Icon
+  m_GUID: b08f9dd309ba1ae459b57f82f3a70209
+  m_SerializeEntries:
+  - m_GUID: 0b667c67d272e6e47899dfae67c48540
+    m_Address: sp_ui_ic_rare_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 102e1a168b9955643a7a2010cee4eb70
+    m_Address: sp_ui_ic_common_grove_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 130da37cfb12d4c48bd126fb6e351578
+    m_Address: sp_ui_ic_common_necklace_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37735bfbfacb0434f95b9bd803503cdc
+    m_Address: sp_ui_ic_advanced_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45fadb9d2b0679d4dbcc587a0ca87b78
+    m_Address: sp_ui_ic_epic_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70e621e3a89dc234baf1db37b8412c5d
+    m_Address: sp_ui_ic_legend_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 779e44b2c00720a4c83a87fa3554559c
+    m_Address: sp_ui_ic_common_shoulder_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88ee831ea5f1c7f4aba162d37dfadd18
+    m_Address: sp_ui_ic_common_chest_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7c8a6b1fe39f5147b6ddeb2468c92ad
+    m_Address: sp_ui_ic_common_sword_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cba7e697689d93e41ae4d6304f73f621
+    m_Address: sp_ui_ic_common_ring_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2691da1421ec524ab383bf122644188
+    m_Address: sp_ui_ic_common_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5f0096ea0d3e2940b59a93892a0cf08
+    m_Address: sp_ui_ic_common_pants_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1ed8e1f6a1d9a24b9f6441630a46d8a
+    m_Address: sp_ui_ic_common_helmet_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6a11478b9db5bf942b2ca4ad50c2056e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5a4539292aa90f44f8772e923205eca6, type: 2}
+    - {fileID: 11400000, guid: d87a6c8c74c922a488d6a26c8100bacf, type: 2}

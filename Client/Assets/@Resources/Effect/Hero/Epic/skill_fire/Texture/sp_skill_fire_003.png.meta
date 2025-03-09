@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 37098c7948538bb4f98165e7e81e5d76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2721453589251726553
+    second: Archer_Skill_E_turret_014_0
+  - first:
+      213: 9003591730693198903
+    second: Archer_Skill_E_turret_014_1
+  - first:
+      213: -2283711299768558273
+    second: Archer_Skill_E_turret_014_2
+  - first:
+      213: 3905146898534321496
+    second: Archer_Skill_E_turret_014_3
+  - first:
+      213: 2329096041314082365
+    second: Archer_Skill_E_turret_014_4
+  - first:
+      213: 1242335285990228875
+    second: Archer_Skill_E_turret_014_5
+  - first:
+      213: -8830953665937809351
+    second: Archer_Skill_E_turret_014_6
+  - first:
+      213: -8198820316024449814
+    second: Archer_Skill_E_turret_014_7
+  - first:
+      213: -5440079752657133052
+    second: Archer_Skill_E_turret_014_8
+  - first:
+      213: -2119080868261673803
+    second: Archer_Skill_E_turret_014_9
+  - first:
+      213: 4758953343338317986
+    second: Archer_Skill_E_turret_014_10
+  - first:
+      213: 4863197820347949208
+    second: Archer_Skill_E_turret_014_11
+  - first:
+      213: 6710253020545048709
+    second: Archer_Skill_E_turret_014_12
+  - first:
+      213: -3794122778627110499
+    second: Archer_Skill_E_turret_014_13
+  - first:
+      213: -3242284565119395402
+    second: Archer_Skill_E_turret_014_14
+  - first:
+      213: 8736551288016784767
+    second: Archer_Skill_E_turret_014_15
+  - first:
+      213: -1968348646964174219
+    second: Archer_Skill_E_turret_014_16
+  - first:
+      213: -3127190765615608456
+    second: Archer_Skill_E_turret_014_17
+  - first:
+      213: -3868998583894033297
+    second: Archer_Skill_E_turret_014_18
+  - first:
+      213: 3244286867610069994
+    second: Archer_Skill_E_turret_014_19
+  - first:
+      213: 2936002795652767638
+    second: Archer_Skill_E_turret_014_20
+  - first:
+      213: -4839893879112383390
+    second: Archer_Skill_E_turret_014_21
+  - first:
+      213: 3722215210309472184
+    second: Archer_Skill_E_turret_014_22
+  - first:
+      213: -5921598475945208715
+    second: Archer_Skill_E_turret_014_23
+  - first:
+      213: 3646269531376151593
+    second: Archer_Skill_E_turret_014_24
+  - first:
+      213: 660055923657520104
+    second: Archer_Skill_E_turret_014_25
+  - first:
+      213: -4918208004840312999
+    second: Archer_Skill_E_turret_014_26
+  - first:
+      213: 3681543112088011640
+    second: Archer_Skill_E_turret_014_27
+  - first:
+      213: 6826950740551852874
+    second: Archer_Skill_E_turret_014_28
+  - first:
+      213: -7231243324327855621
+    second: Archer_Skill_E_turret_014_29
+  - first:
+      213: 6795602004931373756
+    second: Archer_Skill_E_turret_014_30
+  - first:
+      213: -4888293112708215384
+    second: Archer_Skill_E_turret_014_31
+  - first:
+      213: 4418093886941457516
+    second: Archer_Skill_E_turret_014_32
+  - first:
+      213: -6025478431858189183
+    second: Archer_Skill_E_turret_014_33
+  - first:
+      213: -167294643970571049
+    second: Archer_Skill_E_turret_014_34
+  - first:
+      213: 2704203406865953351
+    second: Archer_Skill_E_turret_014_35
+  - first:
+      213: -861974097581954099
+    second: Archer_Skill_E_turret_014_36
+  - first:
+      213: 6849238066585347651
+    second: Archer_Skill_E_turret_014_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_fire_003_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822d57a9d37da9b4cadd4582745c0504
+      internalID: 566308414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_003_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b1431515ac34440a8ceb65f70ea725
+      internalID: 1244648986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_003_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0660fbebf795a34184d85bfe3c77de0
+      internalID: -1141851205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_003_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cd45505e7ebcd41ab75d58eebadb7f
+      internalID: 1944598912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_003_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef012b4a4211f964abd93ce4b2368a2f
+      internalID: 998615755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_003_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6055278a292ef464ca0e1ede6b7241d3
+      internalID: -115242954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_003_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa93d44ac18cdf346a0c3a61459832fb
+      internalID: 2019490644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_003_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8cf0b156d254e479dbce5f371d6bed
+      internalID: -428616119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_003_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b17393cfe73fe4491166aed8e4e680
+      internalID: 854119654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_003_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc19afca976a25344ba92112d4c3167f
+      internalID: 309732057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_003_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0398378d97db32f4da3e9fc2b8ef1876
+      internalID: -1743027469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_003_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1867d5f6669574442ad715b063dcde12
+      internalID: 26195295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_003_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e219158329779d4e896595246fbaf44
+      internalID: -1923438817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_003_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1500672d5b51b4fbf828b38b8417be
+      internalID: 1704406895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_003_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c930ff3cd8151a4087152e0e461f5f4
+      internalID: 463077944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_fire_003_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838fdfb63b32c7340a7af86842532adc
+      internalID: -533579097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 636d4501c4f9805488b45d2b6585e965
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_fire_003_0: 566308414
+      sp_skill_fire_003_1: 1244648986
+      sp_skill_fire_003_10: -1743027469
+      sp_skill_fire_003_11: 26195295
+      sp_skill_fire_003_12: -1923438817
+      sp_skill_fire_003_13: 1704406895
+      sp_skill_fire_003_14: 463077944
+      sp_skill_fire_003_15: -533579097
+      sp_skill_fire_003_2: -1141851205
+      sp_skill_fire_003_3: 1944598912
+      sp_skill_fire_003_4: 998615755
+      sp_skill_fire_003_5: -115242954
+      sp_skill_fire_003_6: 2019490644
+      sp_skill_fire_003_7: -428616119
+      sp_skill_fire_003_8: 854119654
+      sp_skill_fire_003_9: 309732057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 9dad7709ea03cd0408a7485825a65d5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4426417405591871132
+    second: Boss_Snowqueen_Skill_B_AOE_006_0
+  - first:
+      213: 2594642065428137989
+    second: Boss_Snowqueen_Skill_B_AOE_006_1
+  - first:
+      213: 8892527404968330771
+    second: Boss_Snowqueen_Skill_B_AOE_006_2
+  - first:
+      213: 1056025047697816224
+    second: Boss_Snowqueen_Skill_B_AOE_006_3
+  - first:
+      213: -3014927176465314793
+    second: Boss_Snowqueen_Skill_B_AOE_006_4
+  - first:
+      213: -2994940188738219163
+    second: Boss_Snowqueen_Skill_B_AOE_006_5
+  - first:
+      213: -2223470357636964169
+    second: Boss_Snowqueen_Skill_B_AOE_006_6
+  - first:
+      213: 5247439196710963214
+    second: Boss_Snowqueen_Skill_B_AOE_006_7
+  - first:
+      213: 7609576995434211048
+    second: Boss_Snowqueen_Skill_B_AOE_006_8
+  - first:
+      213: -2207340970317715573
+    second: Boss_Snowqueen_Skill_B_AOE_006_9
+  - first:
+      213: 2549890291508808884
+    second: Boss_Snowqueen_Skill_B_AOE_006_10
+  - first:
+      213: 5050338425257946601
+    second: Boss_Snowqueen_Skill_B_AOE_006_11
+  - first:
+      213: 5900372968252749
+    second: Boss_Snowqueen_Skill_B_AOE_006_12
+  - first:
+      213: -6284987534044799053
+    second: Boss_Snowqueen_Skill_B_AOE_006_13
+  - first:
+      213: 5320099545938572117
+    second: Boss_Snowqueen_Skill_B_AOE_006_14
+  - first:
+      213: 7896171343625527446
+    second: Boss_Snowqueen_Skill_B_AOE_006_15
+  - first:
+      213: 5913739398313203854
+    second: Boss_Snowqueen_Skill_B_AOE_006_16
+  - first:
+      213: 4431502780209321104
+    second: Boss_Snowqueen_Skill_B_AOE_006_17
+  - first:
+      213: -6914258105170477576
+    second: Boss_Snowqueen_Skill_B_AOE_006_18
+  - first:
+      213: 4015021316343694395
+    second: Boss_Snowqueen_Skill_B_AOE_006_19
+  - first:
+      213: 35168748736797636
+    second: Boss_Snowqueen_Skill_B_AOE_006_20
+  - first:
+      213: -5993421011680262331
+    second: Boss_Snowqueen_Skill_B_AOE_006_21
+  - first:
+      213: 4210201802266870968
+    second: Boss_Snowqueen_Skill_B_AOE_006_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_AOE_006_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8932114c62e4d429eac78ca652c065
+      internalID: 1509823093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_AOE_006_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1a0946c637bab409019c28b1bb2134
+      internalID: 1364897348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_AOE_006_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62d745c2894a89499abc04f7d0dd3d3
+      internalID: -231124188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_AOE_006_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d703378bc2fa794c8f70bc41a9664f5
+      internalID: -1878007208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_AOE_006_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464cd2d5042914f41b16f8182c2f26ef
+      internalID: 1439252275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_AOE_006_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d5caed453ff464f8c4433a4a58a929
+      internalID: 2112874841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Snowqueen_Skill_B_AOE_006_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564fe2c26b95dd241bbbde11fd5597ec
+      internalID: 1707756173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1402f9de891914b4d8be6d67063da5dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boss_Snowqueen_Skill_B_AOE_006_0: 1509823093
+      Boss_Snowqueen_Skill_B_AOE_006_1: 1364897348
+      Boss_Snowqueen_Skill_B_AOE_006_2: -231124188
+      Boss_Snowqueen_Skill_B_AOE_006_3: -1878007208
+      Boss_Snowqueen_Skill_B_AOE_006_4: 1439252275
+      Boss_Snowqueen_Skill_B_AOE_006_5: 2112874841
+      Boss_Snowqueen_Skill_B_AOE_006_6: 1707756173
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

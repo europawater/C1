@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: c539195ac4fbc1842bf4fdf0f5bd228f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3705631422733788838
+    second: sp_alex_skill_006_0
+  - first:
+      213: -3886009898937144725
+    second: sp_alex_skill_006_1
+  - first:
+      213: -3458032828940949080
+    second: sp_alex_skill_006_2
+  - first:
+      213: -1078173393648239093
+    second: sp_alex_skill_006_3
+  - first:
+      213: 484436652192306918
+    second: sp_alex_skill_006_4
+  - first:
+      213: 1941007294938780036
+    second: sp_alex_skill_006_5
+  - first:
+      213: -1552699142086233342
+    second: sp_alex_skill_006_6
+  - first:
+      213: -3783058560682644195
+    second: sp_alex_skill_006_7
+  - first:
+      213: -6804633541139667742
+    second: sp_alex_skill_006_8
+  - first:
+      213: 791835538271909593
+    second: sp_alex_skill_006_9
+  - first:
+      213: 783759642016000013
+    second: sp_alex_skill_006_10
+  - first:
+      213: 6353808977577369166
+    second: sp_alex_skill_006_11
+  - first:
+      213: -3935196948582385091
+    second: sp_alex_skill_006_12
+  - first:
+      213: -2007503030044790270
+    second: sp_alex_skill_006_13
+  - first:
+      213: 7665299362908414042
+    second: sp_alex_skill_006_14
+  - first:
+      213: -1090031570806175955
+    second: sp_alex_skill_006_15
+  - first:
+      213: 728017860002012217
+    second: sp_alex_skill_006_16
+  - first:
+      213: -7391525070203838329
+    second: sp_alex_skill_006_17
+  - first:
+      213: -4129834333985888625
+    second: sp_alex_skill_006_18
+  - first:
+      213: 5976384969789163526
+    second: sp_alex_skill_006_19
+  - first:
+      213: -475591782854490026
+    second: sp_alex_skill_006_20
+  - first:
+      213: 4938003569990379713
+    second: sp_alex_skill_006_21
+  - first:
+      213: 6538507237008858488
+    second: sp_alex_skill_006_22
+  - first:
+      213: 5338646486974467894
+    second: sp_alex_skill_006_23
+  - first:
+      213: -7028557331136839424
+    second: sp_alex_skill_006_24
+  - first:
+      213: -5057780644548013913
+    second: sp_alex_skill_006_25
+  - first:
+      213: 4442913491565372141
+    second: sp_alex_skill_006_26
+  - first:
+      213: -8724561781834686501
+    second: sp_alex_skill_006_27
+  - first:
+      213: 8992641116920102886
+    second: sp_alex_skill_006_28
+  - first:
+      213: 4834947042427240373
+    second: sp_alex_skill_006_29
+  - first:
+      213: 6776076706615545866
+    second: sp_alex_skill_006_30
+  - first:
+      213: 6392085579234219219
+    second: sp_alex_skill_006_31
+  - first:
+      213: -2079222831738440391
+    second: sp_alex_skill_006_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_alex_skill_006_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a685d55a754ada4db2fc7c8165f556b
+      internalID: 1271343551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_skill_006_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d992a721d0afc9499cfad79fed5209f
+      internalID: 429652737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_skill_006_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f494d745362f54cbe555e54a185710
+      internalID: -619768081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_skill_006_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a745d631c1520b54f94eb15d152c5270
+      internalID: 1157261540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_skill_006_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1739fbeb4f2f32409af85f93352faeb
+      internalID: 2035949623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_skill_006_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36a70d465396af45aca5a84725bb341
+      internalID: -361152870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_skill_006_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75454a0c295df54386a66c1754ca82e
+      internalID: -634859882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_skill_006_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3bcaf0c4b44194ca67d69e435ac474
+      internalID: -1999621870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_skill_006_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff20e5b77357a14da6e206ea4f0e475
+      internalID: 2058591503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_skill_006_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d21adbc29150749a3c335964e6534b
+      internalID: -477788347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_skill_006_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d6d54063c554b40ba9c06acab2874e
+      internalID: 1643902871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_alex_skill_006_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702d8b2bd0d6b1f42821c77b293a7b82
+      internalID: 822332222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 52c2b1b14fa735b48a63c042e0bf3652
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_alex_skill_006_0: 1271343551
+      sp_alex_skill_006_1: 429652737
+      sp_alex_skill_006_10: 1643902871
+      sp_alex_skill_006_11: 822332222
+      sp_alex_skill_006_2: -619768081
+      sp_alex_skill_006_3: 1157261540
+      sp_alex_skill_006_4: 2035949623
+      sp_alex_skill_006_5: -361152870
+      sp_alex_skill_006_6: -634859882
+      sp_alex_skill_006_7: -1999621870
+      sp_alex_skill_006_8: 2058591503
+      sp_alex_skill_006_9: -477788347
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

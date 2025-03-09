@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefab_Object
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefab_Object
+  m_GUID: e9e388e586f5bca43bef7ccb1df5c77e
+  m_SerializeEntries:
+  - m_GUID: 66a8f965870bca7418516e24ea7b85a7
+    m_Address: NormalMonster
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75acc87f0cacf3a4e95ca9a03880edbc
+    m_Address: BossMonster
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d3d3d4199962984a8bc9b0f7f310961
+    m_Address: SkillCube
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db5b4dc210a03614a98f0619b35bafbc
+    m_Address: Hero
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6a11478b9db5bf942b2ca4ad50c2056e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 48b3fff507cdbfb4a9341e028415cf6c, type: 2}
+    - {fileID: 11400000, guid: 9d5dcf70981672b46a601621d1834dec, type: 2}

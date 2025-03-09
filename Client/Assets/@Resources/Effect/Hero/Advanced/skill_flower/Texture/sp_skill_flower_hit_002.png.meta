@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: cc6e8ba9b08d89e499886cd0e22b1f09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 618394631102896519
+    second: Elite_scorpion_Hit_003_0
+  - first:
+      213: 752357342657358692
+    second: Elite_scorpion_Hit_003_1
+  - first:
+      213: -2361953983598683026
+    second: Elite_scorpion_Hit_003_2
+  - first:
+      213: -5062357502841376760
+    second: Elite_scorpion_Hit_003_3
+  - first:
+      213: 4141747174282518462
+    second: Elite_scorpion_Hit_003_4
+  - first:
+      213: -8812721332540784013
+    second: Elite_scorpion_Hit_003_5
+  - first:
+      213: 1651721286949139616
+    second: Elite_scorpion_Hit_003_6
+  - first:
+      213: 5611507653209728349
+    second: Elite_scorpion_Hit_003_7
+  - first:
+      213: -4847550848468482491
+    second: Elite_scorpion_Hit_003_8
+  - first:
+      213: 2905267537835312541
+    second: Elite_scorpion_Hit_003_9
+  - first:
+      213: 7956108622992750235
+    second: Elite_scorpion_Hit_003_10
+  - first:
+      213: 222232817058590864
+    second: Elite_scorpion_Hit_003_11
+  - first:
+      213: 9031986078481302335
+    second: Elite_scorpion_Hit_003_12
+  - first:
+      213: -9085421147576105381
+    second: Elite_scorpion_Hit_003_13
+  - first:
+      213: 3132526918194819511
+    second: Elite_scorpion_Hit_003_14
+  - first:
+      213: -2612957887104621422
+    second: Elite_scorpion_Hit_003_15
+  - first:
+      213: -3592040657691465300
+    second: Elite_scorpion_Hit_003_16
+  - first:
+      213: -1975199693544510115
+    second: Elite_scorpion_Hit_003_17
+  - first:
+      213: -6167146584531102865
+    second: Elite_scorpion_Hit_003_18
+  - first:
+      213: -600406544843251964
+    second: Elite_scorpion_Hit_003_19
+  - first:
+      213: -3460725628260681290
+    second: Elite_scorpion_Hit_003_20
+  - first:
+      213: -1782291286191510074
+    second: Elite_scorpion_Hit_003_21
+  - first:
+      213: 5861605090397680216
+    second: Elite_scorpion_Hit_003_22
+  - first:
+      213: 3622659103633497391
+    second: Elite_scorpion_Hit_003_23
+  - first:
+      213: -1890658340102307356
+    second: Elite_scorpion_Hit_003_24
+  - first:
+      213: -451001035781177430
+    second: Elite_scorpion_Hit_003_25
+  - first:
+      213: -1448167701808974714
+    second: Elite_scorpion_Hit_003_26
+  - first:
+      213: -8909489295109877694
+    second: Elite_scorpion_Hit_003_27
+  - first:
+      213: 7330645476526211886
+    second: Elite_scorpion_Hit_003_28
+  - first:
+      213: 679813289270005659
+    second: Elite_scorpion_Hit_003_29
+  - first:
+      213: -4262020891648673907
+    second: Elite_scorpion_Hit_003_30
+  - first:
+      213: -8611230438201841962
+    second: Elite_scorpion_Hit_003_31
+  - first:
+      213: 3044831460084925549
+    second: Elite_scorpion_Hit_003_32
+  - first:
+      213: -2706508887198255899
+    second: Elite_scorpion_Hit_003_33
+  - first:
+      213: -4742353845350230853
+    second: Elite_scorpion_Hit_003_34
+  - first:
+      213: -568565702815183048
+    second: Elite_scorpion_Hit_003_35
+  - first:
+      213: 7984336972532716407
+    second: Elite_scorpion_Hit_003_36
+  - first:
+      213: 8749509496949072051
+    second: Elite_scorpion_Hit_003_37
+  - first:
+      213: -3580389856980008709
+    second: Elite_scorpion_Hit_003_38
+  - first:
+      213: 3553445461496404394
+    second: Elite_scorpion_Hit_003_39
+  - first:
+      213: 1898781202517768794
+    second: Elite_scorpion_Hit_003_40
+  - first:
+      213: -5327465348251837705
+    second: Elite_scorpion_Hit_003_41
+  - first:
+      213: -3174705578099389930
+    second: Elite_scorpion_Hit_003_42
+  - first:
+      213: -6963937855186130410
+    second: Elite_scorpion_Hit_003_43
+  - first:
+      213: 4246636226133512147
+    second: Elite_scorpion_Hit_003_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_flower_hit_002_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f28b72012831c444a51d5da4dd4b081
+      internalID: 1779911647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_flower_hit_002_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8010053b3058504d950fa243202fdc7
+      internalID: 186088488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_flower_hit_002_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b8a3fbf1fd04541ba96824c5816feb
+      internalID: -20950818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_flower_hit_002_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7f37b60c03a814182936b86c20d217
+      internalID: -1197877850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_flower_hit_002_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30efc425e0f5a4043a4fb30e08ec5a34
+      internalID: 1352781758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_flower_hit_002_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825e08c4d73d6064ba04379c9a3b1417
+      internalID: 1326881979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_flower_hit_002_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ca128a510ac72498c760743cae7db3
+      internalID: -2129149957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_flower_hit_002_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e457281df90eab440a2b63d5e9304e20
+      internalID: 1208686063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_flower_hit_002_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5ddac402d299d4b944eb38208247e7
+      internalID: 353648236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_flower_hit_002_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75b1a17cd969684a8af58ea21a4938e
+      internalID: -843364549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_flower_hit_002_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09821b8be39a24f4d90be7815a103295
+      internalID: -1017388886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_flower_hit_002_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4767601e44f198d42b28b64f01df3506
+      internalID: -586136710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d0e103ac3f3011d44abeff42c4dce006
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_flower_hit_002_0: 1779911647
+      sp_skill_flower_hit_002_1: 186088488
+      sp_skill_flower_hit_002_10: -1017388886
+      sp_skill_flower_hit_002_11: -586136710
+      sp_skill_flower_hit_002_2: -20950818
+      sp_skill_flower_hit_002_3: -1197877850
+      sp_skill_flower_hit_002_4: 1352781758
+      sp_skill_flower_hit_002_5: 1326881979
+      sp_skill_flower_hit_002_6: -2129149957
+      sp_skill_flower_hit_002_7: 1208686063
+      sp_skill_flower_hit_002_8: 353648236
+      sp_skill_flower_hit_002_9: -843364549
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

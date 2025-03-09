@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 9602a4ff24abc6d4085088270623f67e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3548718881895747102
+    second: spi_mon_volcano_mountain_0
+  - first:
+      213: -7890689840227656620
+    second: spi_mon_volcano_mountain_1
+  - first:
+      213: 279776770638109520
+    second: spi_mon_volcano_mountain_2
+  - first:
+      213: -3175163290349431755
+    second: spi_mon_volcano_mountain_3
+  - first:
+      213: -5224434384406134856
+    second: spi_mon_volcano_mountain_4
+  - first:
+      213: 6713072108167322166
+    second: spi_mon_volcano_mountain_5
+  - first:
+      213: -3616938559318680502
+    second: spi_mon_volcano_mountain_6
+  - first:
+      213: -3513694239978209958
+    second: spi_mon_volcano_mountain_7
+  - first:
+      213: 219515840116279904
+    second: spi_mon_volcano_mountain_8
+  - first:
+      213: 5856179350975868105
+    second: spi_mon_volcano_mountain_9
+  - first:
+      213: -8150864736459345341
+    second: spi_mon_volcano_mountain_10
+  - first:
+      213: 8447780885733859354
+    second: spi_mon_volcano_mountain_11
+  - first:
+      213: 6911846990618106625
+    second: spi_mon_volcano_mountain_12
+  - first:
+      213: -7687826238008963427
+    second: spi_mon_volcano_mountain_13
+  - first:
+      213: 9176552043084277060
+    second: spi_mon_volcano_mountain_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_volcano_mountain_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 234
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e0e1b65059f3130800000000000000
+      internalID: 3548718881895747102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_mountain_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 208
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c5270a563ae7290800000000000000
+      internalID: -7890689840227656620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_mountain_2
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 225
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b5a469d77f1e300800000000000000
+      internalID: 279776770638109520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_mountain_3
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 147
+        width: 134
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5349cd66fcd8fe3d0800000000000000
+      internalID: -3175163290349431755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_mountain_4
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 141
+        width: 37
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfb22d8b941f77b0800000000000000
+      internalID: -5224434384406134856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_mountain_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 13
+        width: 114
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a55e6d38f992d50800000000000000
+      internalID: 6713072108167322166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_mountain_6
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 208
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c956d2b8d0ecdc0800000000000000
+      internalID: -3616938559318680502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_mountain_7
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 198
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d33c084b9dc3fc0800000000000000
+      internalID: -3513694239978209958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_mountain_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 5
+        width: 115
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ac3b85e70eb0300800000000000000
+      internalID: 219515840116279904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_mountain_9
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 193
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cce4e3a714554150800000000000000
+      internalID: 5856179350975868105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_mountain_10
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 5
+        width: 125
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342351315bf42ee80800000000000000
+      internalID: -8150864736459345341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_mountain_11
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 3
+        width: 131
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10608215fb8c3570800000000000000
+      internalID: 8447780885733859354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_mountain_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 5
+        width: 120
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b15a9a730dbef50800000000000000
+      internalID: 6911846990618106625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_mountain_13
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 5
+        width: 126
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e4c84b4ca5f4590800000000000000
+      internalID: -7687826238008963427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_mountain_14
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4456ce6b679a95f70800000000000000
+      internalID: 9176552043084277060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_volcano_mountain_0: 3548718881895747102
+      spi_mon_volcano_mountain_1: -7890689840227656620
+      spi_mon_volcano_mountain_10: -8150864736459345341
+      spi_mon_volcano_mountain_11: 8447780885733859354
+      spi_mon_volcano_mountain_12: 6911846990618106625
+      spi_mon_volcano_mountain_13: -7687826238008963427
+      spi_mon_volcano_mountain_14: 9176552043084277060
+      spi_mon_volcano_mountain_2: 279776770638109520
+      spi_mon_volcano_mountain_3: -3175163290349431755
+      spi_mon_volcano_mountain_4: -5224434384406134856
+      spi_mon_volcano_mountain_5: 6713072108167322166
+      spi_mon_volcano_mountain_6: -3616938559318680502
+      spi_mon_volcano_mountain_7: -3513694239978209958
+      spi_mon_volcano_mountain_8: 219515840116279904
+      spi_mon_volcano_mountain_9: 5856179350975868105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: f0ebf9fbaa3382f419cecdaf30af2192
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8431780117303661454
+    second: sp_skill_holy_orb_001_0
+  - first:
+      213: 90560431991259058
+    second: sp_skill_holy_orb_001_1
+  - first:
+      213: 8057573786253764786
+    second: sp_skill_holy_orb_001_2
+  - first:
+      213: 3676896594350006079
+    second: sp_skill_holy_orb_001_3
+  - first:
+      213: -818894226954997639
+    second: sp_skill_holy_orb_001_4
+  - first:
+      213: 3737846893637720722
+    second: sp_skill_holy_orb_001_5
+  - first:
+      213: 8619675009588330382
+    second: sp_skill_holy_orb_001_6
+  - first:
+      213: 5138999056154243912
+    second: sp_skill_holy_orb_001_7
+  - first:
+      213: -3577763794600446450
+    second: sp_skill_holy_orb_001_8
+  - first:
+      213: -4415043639282420033
+    second: sp_skill_holy_orb_001_9
+  - first:
+      213: 640432474713049303
+    second: sp_skill_holy_orb_001_10
+  - first:
+      213: -810629895700541610
+    second: sp_skill_holy_orb_001_11
+  - first:
+      213: -7150256018179668434
+    second: sp_skill_holy_orb_001_12
+  - first:
+      213: 1628935678522727759
+    second: sp_skill_holy_orb_001_13
+  - first:
+      213: 40853343472327698
+    second: sp_skill_holy_orb_001_14
+  - first:
+      213: -8577029096381499225
+    second: sp_skill_holy_orb_001_15
+  - first:
+      213: -4769772920799245964
+    second: sp_skill_holy_orb_001_16
+  - first:
+      213: 513895975651173198
+    second: sp_skill_holy_orb_001_17
+  - first:
+      213: 6952986733335633484
+    second: sp_skill_holy_orb_001_18
+  - first:
+      213: 1918666229487084909
+    second: sp_skill_holy_orb_001_19
+  - first:
+      213: -505330092271975423
+    second: sp_skill_holy_orb_001_20
+  - first:
+      213: -9023826429863890059
+    second: sp_skill_holy_orb_001_21
+  - first:
+      213: -3766723603187236962
+    second: sp_skill_holy_orb_001_22
+  - first:
+      213: 4511565407623495556
+    second: sp_skill_holy_orb_001_23
+  - first:
+      213: -7137119501454470575
+    second: sp_skill_holy_orb_001_24
+  - first:
+      213: 4932964385173392893
+    second: sp_skill_holy_orb_001_25
+  - first:
+      213: 503370625910512957
+    second: sp_skill_holy_orb_001_26
+  - first:
+      213: 6053864162450352687
+    second: sp_skill_holy_orb_001_27
+  - first:
+      213: -734356001929357115
+    second: sp_skill_holy_orb_001_28
+  - first:
+      213: -3831518524376640612
+    second: sp_skill_holy_orb_001_29
+  - first:
+      213: -650899481800214262
+    second: sp_skill_holy_orb_001_30
+  - first:
+      213: 2624226853576949274
+    second: sp_skill_holy_orb_001_31
+  - first:
+      213: -6570026153826999236
+    second: sp_skill_holy_orb_001_32
+  - first:
+      213: 6533318177717193253
+    second: sp_skill_holy_orb_001_33
+  - first:
+      213: -5762855578558473836
+    second: sp_skill_holy_orb_001_34
+  - first:
+      213: -993410272666457676
+    second: sp_skill_holy_orb_001_35
+  - first:
+      213: -2065853004394764131
+    second: sp_skill_holy_orb_001_36
+  - first:
+      213: -66660473268511
+    second: sp_skill_holy_orb_001_37
+  - first:
+      213: -6440430367217150962
+    second: sp_skill_holy_orb_001_38
+  - first:
+      213: 3704849820951600626
+    second: sp_skill_holy_orb_001_39
+  - first:
+      213: -5082031919420901610
+    second: sp_skill_holy_orb_001_40
+  - first:
+      213: -3962881090250410330
+    second: sp_skill_holy_orb_001_41
+  - first:
+      213: 5563633935504838852
+    second: sp_skill_holy_orb_001_42
+  - first:
+      213: 2124050544732064566
+    second: sp_skill_holy_orb_001_43
+  - first:
+      213: 8269002389663290942
+    second: sp_skill_holy_orb_001_44
+  - first:
+      213: 5933879622047480075
+    second: sp_skill_holy_orb_001_45
+  - first:
+      213: 3288442986171481856
+    second: sp_skill_holy_orb_001_46
+  - first:
+      213: -5482362630486280618
+    second: sp_skill_holy_orb_001_47
+  - first:
+      213: -2848687757636175536
+    second: sp_skill_holy_orb_001_48
+  - first:
+      213: 1023986103956721666
+    second: sp_skill_holy_orb_001_49
+  - first:
+      213: -6327384542622138299
+    second: sp_skill_holy_orb_001_50
+  - first:
+      213: -3135155790223089328
+    second: sp_skill_holy_orb_001_51
+  - first:
+      213: 8538352136690785192
+    second: sp_skill_holy_orb_001_52
+  - first:
+      213: -5839329137237574730
+    second: sp_skill_holy_orb_001_53
+  - first:
+      213: 2979095625736484968
+    second: sp_skill_holy_orb_001_54
+  - first:
+      213: -1634047694334582741
+    second: sp_skill_holy_orb_001_55
+  - first:
+      213: 5609989183082859890
+    second: sp_skill_holy_orb_001_56
+  - first:
+      213: -6200316940132541271
+    second: sp_skill_holy_orb_001_57
+  - first:
+      213: -3290481394943955548
+    second: sp_skill_holy_orb_001_58
+  - first:
+      213: 6913592959333907013
+    second: sp_skill_holy_orb_001_59
+  - first:
+      213: -44885858172491892
+    second: sp_skill_holy_orb_001_60
+  - first:
+      213: -1453481045034109624
+    second: sp_skill_holy_orb_001_61
+  - first:
+      213: 4243185429125899122
+    second: sp_skill_holy_orb_001_62
+  - first:
+      213: -4021389164964555291
+    second: sp_skill_holy_orb_001_63
+  - first:
+      213: -844157126897132723
+    second: sp_skill_holy_orb_001_64
+  - first:
+      213: -6409661468335546586
+    second: sp_skill_holy_orb_001_65
+  - first:
+      213: 3642948836559659557
+    second: sp_skill_holy_orb_001_66
+  - first:
+      213: 563117930184125296
+    second: sp_skill_holy_orb_001_67
+  - first:
+      213: 4196114929520664102
+    second: sp_skill_holy_orb_001_68
+  - first:
+      213: -5374855197722367652
+    second: sp_skill_holy_orb_001_69
+  - first:
+      213: 2888855804958334018
+    second: sp_skill_holy_orb_001_70
+  - first:
+      213: -1001119728212972187
+    second: sp_skill_holy_orb_001_71
+  - first:
+      213: -3602575482840794903
+    second: sp_skill_holy_orb_001_72
+  - first:
+      213: 8890027537492140987
+    second: sp_skill_holy_orb_001_73
+  - first:
+      213: 7918552748992492748
+    second: sp_skill_holy_orb_001_74
+  - first:
+      213: -6060681935893601378
+    second: sp_skill_holy_orb_001_75
+  - first:
+      213: -7293021466309224317
+    second: sp_skill_holy_orb_001_76
+  - first:
+      213: 2091159050086889955
+    second: sp_skill_holy_orb_001_77
+  - first:
+      213: 8587561297356225750
+    second: sp_skill_holy_orb_001_78
+  - first:
+      213: -5322078727223034337
+    second: sp_skill_holy_orb_001_79
+  - first:
+      213: 7486856646928504335
+    second: sp_skill_holy_orb_001_80
+  - first:
+      213: -386257275426667797
+    second: sp_skill_holy_orb_001_81
+  - first:
+      213: -4168423041102844290
+    second: sp_skill_holy_orb_001_82
+  - first:
+      213: 6080324252650200978
+    second: sp_skill_holy_orb_001_83
+  - first:
+      213: 8294702905240044395
+    second: sp_skill_holy_orb_001_84
+  - first:
+      213: 8788182751730043267
+    second: sp_skill_holy_orb_001_85
+  - first:
+      213: -8865055990434910613
+    second: sp_skill_holy_orb_001_86
+  - first:
+      213: -8761075991491525126
+    second: sp_skill_holy_orb_001_87
+  - first:
+      213: -769125729878781669
+    second: sp_skill_holy_orb_001_88
+  - first:
+      213: -6101195853570601200
+    second: sp_skill_holy_orb_001_89
+  - first:
+      213: -2634420756232822394
+    second: sp_skill_holy_orb_001_90
+  - first:
+      213: -8516834696752479153
+    second: sp_skill_holy_orb_001_91
+  - first:
+      213: 3024850899373407668
+    second: sp_skill_holy_orb_001_92
+  - first:
+      213: 3107707176780966969
+    second: sp_skill_holy_orb_001_93
+  - first:
+      213: -91548953658096894
+    second: sp_skill_holy_orb_001_94
+  - first:
+      213: -8814526966778010876
+    second: sp_skill_holy_orb_001_95
+  - first:
+      213: 3644606465599037543
+    second: sp_skill_holy_orb_001_96
+  - first:
+      213: 6956185643590512420
+    second: sp_skill_holy_orb_001_97
+  - first:
+      213: 1377202727558509566
+    second: sp_skill_holy_orb_001_98
+  - first:
+      213: -5700943089667888683
+    second: sp_skill_holy_orb_001_99
+  - first:
+      213: -5530436807610182313
+    second: sp_skill_holy_orb_001_100
+  - first:
+      213: 5897848936656689534
+    second: sp_skill_holy_orb_001_101
+  - first:
+      213: 87119246278413545
+    second: sp_skill_holy_orb_001_102
+  - first:
+      213: -4729129842255410231
+    second: sp_skill_holy_orb_001_103
+  - first:
+      213: 4547676841742904962
+    second: sp_skill_holy_orb_001_104
+  - first:
+      213: -2765952957017986981
+    second: sp_skill_holy_orb_001_105
+  - first:
+      213: -2667965133288141841
+    second: sp_skill_holy_orb_001_106
+  - first:
+      213: 8379732776443941375
+    second: sp_skill_holy_orb_001_107
+  - first:
+      213: -4554908996637057474
+    second: sp_skill_holy_orb_001_108
+  - first:
+      213: 9088859856931531499
+    second: sp_skill_holy_orb_001_109
+  - first:
+      213: 4901775672217604953
+    second: sp_skill_holy_orb_001_110
+  - first:
+      213: -4999200901050082877
+    second: sp_skill_holy_orb_001_111
+  - first:
+      213: 6569722233307929813
+    second: sp_skill_holy_orb_001_112
+  - first:
+      213: -8258293993064946206
+    second: sp_skill_holy_orb_001_113
+  - first:
+      213: -7240476745460596700
+    second: sp_skill_holy_orb_001_114
+  - first:
+      213: -59984829415737313
+    second: sp_skill_holy_orb_001_115
+  - first:
+      213: -8759499080277671415
+    second: sp_skill_holy_orb_001_116
+  - first:
+      213: -5534977192397238317
+    second: sp_skill_holy_orb_001_117
+  - first:
+      213: -2081076581836366462
+    second: sp_skill_holy_orb_001_118
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_holy_orb_003_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6483c32011fd0e44ea0b206bae938bdd
+      internalID: 655181427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_orb_003_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4a623adf663a648ad71652187d9b7e
+      internalID: -817305677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_orb_003_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1148ed792cb1803409ecf9d03e89bb6e
+      internalID: 1582686532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_orb_003_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a991a05f04893f44d9ebf4657a4b2760
+      internalID: 40818348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_orb_003_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea7e8d9403c15e46968de12e54caad7
+      internalID: -1520864280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_orb_003_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46883f308e52a1843a6c3d354ad0c0bf
+      internalID: 1316436871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_orb_003_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec93dc78eafcf24281e22103b2f2c1d
+      internalID: 681425144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_orb_003_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42a5dd8b6b1de045ba0631b024608e0
+      internalID: -515378432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_orb_003_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba46eecedfac38479911e1497ed8e1d
+      internalID: -871157992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_orb_003_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6736f5e6ee26314596835076389c62c
+      internalID: -1790188713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_orb_003_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcc02f8fc2c8794db9c2bc1c9389b16
+      internalID: -990936240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_holy_orb_003_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c029a5727f55db4c84cb17799a036e8
+      internalID: -1147757728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3675aeb13af72f849b63c960436d43c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_holy_orb_003_0: 655181427
+      sp_skill_holy_orb_003_1: -817305677
+      sp_skill_holy_orb_003_10: -990936240
+      sp_skill_holy_orb_003_11: -1147757728
+      sp_skill_holy_orb_003_2: 1582686532
+      sp_skill_holy_orb_003_3: 40818348
+      sp_skill_holy_orb_003_4: -1520864280
+      sp_skill_holy_orb_003_5: 1316436871
+      sp_skill_holy_orb_003_6: 681425144
+      sp_skill_holy_orb_003_7: -515378432
+      sp_skill_holy_orb_003_8: -871157992
+      sp_skill_holy_orb_003_9: -1790188713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

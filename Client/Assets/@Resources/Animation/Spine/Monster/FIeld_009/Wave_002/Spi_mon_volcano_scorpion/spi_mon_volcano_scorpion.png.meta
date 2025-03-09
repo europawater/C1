@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 1396183655d1f6a48bb0d86ad6010d46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3134490123385184414
+    second: spi_mon_volcano_scorpion_0
+  - first:
+      213: 4451920261722922859
+    second: spi_mon_volcano_scorpion_1
+  - first:
+      213: -1799352984951805122
+    second: spi_mon_volcano_scorpion_2
+  - first:
+      213: -5362982558758736778
+    second: spi_mon_volcano_scorpion_3
+  - first:
+      213: 5803845826496001054
+    second: spi_mon_volcano_scorpion_4
+  - first:
+      213: -8304972513446539064
+    second: spi_mon_volcano_scorpion_5
+  - first:
+      213: 8739019638482020976
+    second: spi_mon_volcano_scorpion_6
+  - first:
+      213: 4078722917928352838
+    second: spi_mon_volcano_scorpion_7
+  - first:
+      213: 7465642490667460822
+    second: spi_mon_volcano_scorpion_8
+  - first:
+      213: -575490131750710858
+    second: spi_mon_volcano_scorpion_9
+  - first:
+      213: -3600846741721525324
+    second: spi_mon_volcano_scorpion_10
+  - first:
+      213: -2185829891060315237
+    second: spi_mon_volcano_scorpion_11
+  - first:
+      213: 8353350294568134658
+    second: spi_mon_volcano_scorpion_12
+  - first:
+      213: 2699047456017302463
+    second: spi_mon_volcano_scorpion_13
+  - first:
+      213: -7717307695116294998
+    second: spi_mon_volcano_scorpion_14
+  - first:
+      213: 6714392882692734108
+    second: spi_mon_volcano_scorpion_15
+  - first:
+      213: 1283744190555295064
+    second: spi_mon_volcano_scorpion_16
+  - first:
+      213: -3397952842330249110
+    second: spi_mon_volcano_scorpion_17
+  - first:
+      213: 5163405276107536796
+    second: spi_mon_volcano_scorpion_18
+  - first:
+      213: 3310068853304044139
+    second: spi_mon_volcano_scorpion_19
+  - first:
+      213: 1441583320055866049
+    second: spi_mon_volcano_scorpion_20
+  - first:
+      213: 4642874665823438
+    second: spi_mon_volcano_scorpion_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 153
+        width: 88
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fd7ab07dd0084d0800000000000000
+      internalID: -3134490123385184414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 223
+        width: 89
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fdb5804e568cd30800000000000000
+      internalID: 4451920261722922859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 223
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ba86a5ef96707e0800000000000000
+      internalID: -1799352984951805122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 222
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ce190f6cbd295b0800000000000000
+      internalID: -5362982558758736778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 214
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e147d6377076b8050800000000000000
+      internalID: 5803845826496001054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 234
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0d2aa208fcebc80800000000000000
+      internalID: -8304972513446539064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 153
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a22e45f0c374970800000000000000
+      internalID: 8739019638482020976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 141
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c3d5442e88a9830800000000000000
+      internalID: 4078722917928352838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 200
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8eb446a4a4b9760800000000000000
+      internalID: 7465642490667460822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_9
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 194
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1914536c27308f0800000000000000
+      internalID: -575490131750710858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 194
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3d01d67f8370ec0800000000000000
+      internalID: -3600846741721525324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 128
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b4beb8b4f5aa1e0800000000000000
+      internalID: -2185829891060315237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2
+        width: 130
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2086320c5df0de370800000000000000
+      internalID: 8353350294568134658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_13
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 138
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb345df6c51f47520800000000000000
+      internalID: 2699047456017302463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_14
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 138
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa464321a8d96e490800000000000000
+      internalID: -7717307695116294998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 95
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cbf4f90c05e2d50800000000000000
+      internalID: 6714392882692734108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_16
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 95
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d058c2a86c0d110800000000000000
+      internalID: 1283744190555295064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 83
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68606d94eb08d0d0800000000000000
+      internalID: -3397952842330249110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9974c1edb918a740800000000000000
+      internalID: 5163405276107536796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6aa547a51abfed20800000000000000
+      internalID: 3310068853304044139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_20
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 42
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2ee0a4468810410800000000000000
+      internalID: 1441583320055866049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_volcano_scorpion_21
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc613f7bae701000800000000000000
+      internalID: 4642874665823438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_volcano_scorpion_0: -3134490123385184414
+      spi_mon_volcano_scorpion_1: 4451920261722922859
+      spi_mon_volcano_scorpion_10: -3600846741721525324
+      spi_mon_volcano_scorpion_11: -2185829891060315237
+      spi_mon_volcano_scorpion_12: 8353350294568134658
+      spi_mon_volcano_scorpion_13: 2699047456017302463
+      spi_mon_volcano_scorpion_14: -7717307695116294998
+      spi_mon_volcano_scorpion_15: 6714392882692734108
+      spi_mon_volcano_scorpion_16: 1283744190555295064
+      spi_mon_volcano_scorpion_17: -3397952842330249110
+      spi_mon_volcano_scorpion_18: 5163405276107536796
+      spi_mon_volcano_scorpion_19: 3310068853304044139
+      spi_mon_volcano_scorpion_2: -1799352984951805122
+      spi_mon_volcano_scorpion_20: 1441583320055866049
+      spi_mon_volcano_scorpion_21: 4642874665823438
+      spi_mon_volcano_scorpion_3: -5362982558758736778
+      spi_mon_volcano_scorpion_4: 5803845826496001054
+      spi_mon_volcano_scorpion_5: -8304972513446539064
+      spi_mon_volcano_scorpion_6: 8739019638482020976
+      spi_mon_volcano_scorpion_7: 4078722917928352838
+      spi_mon_volcano_scorpion_8: 7465642490667460822
+      spi_mon_volcano_scorpion_9: -575490131750710858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

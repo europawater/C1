@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 8ae8d4c8e9d3b1d4f8116de255e60699
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1565505534706597000
+    second: spi_mon_boss_mermaid_king_0
+  - first:
+      213: 680528028259780366
+    second: spi_mon_boss_mermaid_king_1
+  - first:
+      213: 5201014136242321720
+    second: spi_mon_boss_mermaid_king_2
+  - first:
+      213: 1439843399398204484
+    second: spi_mon_boss_mermaid_king_3
+  - first:
+      213: -5713376454763722778
+    second: spi_mon_boss_mermaid_king_4
+  - first:
+      213: 8589170965266135505
+    second: spi_mon_boss_mermaid_king_5
+  - first:
+      213: -5199829465549813990
+    second: spi_mon_boss_mermaid_king_6
+  - first:
+      213: -734605070353237921
+    second: spi_mon_boss_mermaid_king_7
+  - first:
+      213: 145231940266224563
+    second: spi_mon_boss_mermaid_king_8
+  - first:
+      213: -7189921371305032475
+    second: spi_mon_boss_mermaid_king_9
+  - first:
+      213: -7539231964018700628
+    second: spi_mon_boss_mermaid_king_10
+  - first:
+      213: -7629540205102345460
+    second: spi_mon_boss_mermaid_king_11
+  - first:
+      213: -8555157528672306650
+    second: spi_mon_boss_mermaid_king_12
+  - first:
+      213: 4817395679934016014
+    second: spi_mon_boss_mermaid_king_13
+  - first:
+      213: 147787406846190396
+    second: spi_mon_boss_mermaid_king_14
+  - first:
+      213: 7002425026823939791
+    second: spi_mon_boss_mermaid_king_15
+  - first:
+      213: 3005964540732573876
+    second: spi_mon_boss_mermaid_king_16
+  - first:
+      213: 6642963929204781215
+    second: spi_mon_boss_mermaid_king_17
+  - first:
+      213: 1072115093035428249
+    second: spi_mon_boss_mermaid_king_18
+  - first:
+      213: -8921155312740209277
+    second: spi_mon_boss_mermaid_king_19
+  - first:
+      213: 5218855980932118900
+    second: spi_mon_boss_mermaid_king_20
+  - first:
+      213: 634407777265200628
+    second: spi_mon_boss_mermaid_king_21
+  - first:
+      213: 8995310531616406790
+    second: spi_mon_boss_mermaid_king_22
+  - first:
+      213: 756789880459706249
+    second: spi_mon_boss_mermaid_king_23
+  - first:
+      213: 8556792688603462169
+    second: spi_mon_boss_mermaid_king_24
+  - first:
+      213: 26356745148456984
+    second: spi_mon_boss_mermaid_king_25
+  - first:
+      213: -4915626615808881924
+    second: spi_mon_boss_mermaid_king_26
+  - first:
+      213: 7053850538136818981
+    second: spi_mon_boss_mermaid_king_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 130
+        width: 158
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c381a4dfac9b510800000000000000
+      internalID: 1565505534706597000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 226
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e070f18d2a8b17900800000000000000
+      internalID: 680528028259780366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 226
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839328efcc6bd2840800000000000000
+      internalID: 5201014136242321720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 226
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444225171f95bf310800000000000000
+      internalID: 1439843399398204484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 226
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e74ab9926206b0b0800000000000000
+      internalID: -5713376454763722778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 201
+        width: 99
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d979cb4c7dd23770800000000000000
+      internalID: 8589170965266135505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_6
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 200
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a174b45a6ae76d7b0800000000000000
+      internalID: -5199829465549813990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_7
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 199
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58f463a4982ec5f0800000000000000
+      internalID: -734605070353237921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_8
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 199
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbeb912ea7f30200800000000000000
+      internalID: 145231940266224563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_9
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 193
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4cf5c4b94483c90800000000000000
+      internalID: -7189921371305032475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_10
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 124
+        width: 78
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae056929744f5790800000000000000
+      internalID: -7539231964018700628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 121
+        width: 85
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0350534b9d6e1690800000000000000
+      internalID: -7629540205102345460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_12
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 95
+        width: 207
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a7af90e89f54980800000000000000
+      internalID: -8555157528672306650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_13
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 2
+        width: 215
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ae7f4e8d3dad240800000000000000
+      internalID: 4817395679934016014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 129
+        width: 161
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33e75f0ddb0d0200800000000000000
+      internalID: 147787406846190396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 129
+        width: 137
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc66522267c9d2160800000000000000
+      internalID: 7002425026823939791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_16
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 129
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b809c1d2d457b920800000000000000
+      internalID: 3005964540732573876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_17
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 128
+        width: 102
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90fbf76f7c803c50800000000000000
+      internalID: 6642963929204781215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_18
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 105
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99926be2ffae0ee00800000000000000
+      internalID: 1072115093035428249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 508
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38de7066280b13480800000000000000
+      internalID: -8921155312740209277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479b16d2dd91d6840800000000000000
+      internalID: 5218855980932118900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_21
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd23ae138eddc800800000000000000
+      internalID: 634407777265200628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_22
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 2
+        width: 78
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d7351f443c5dc70800000000000000
+      internalID: 8995310531616406790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_23
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f396af268a08a00800000000000000
+      internalID: 756789880459706249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_24
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a7edc4d95dfb670800000000000000
+      internalID: 8556792688603462169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_25
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8106200f153ad5000800000000000000
+      internalID: 26356745148456984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_26
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 2
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa814413af28cbb0800000000000000
+      internalID: -4915626615808881924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_boss_mermaid_king_27
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525d75801bf44e160800000000000000
+      internalID: 7053850538136818981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_boss_mermaid_king_0: 1565505534706597000
+      spi_mon_boss_mermaid_king_1: 680528028259780366
+      spi_mon_boss_mermaid_king_10: -7539231964018700628
+      spi_mon_boss_mermaid_king_11: -7629540205102345460
+      spi_mon_boss_mermaid_king_12: -8555157528672306650
+      spi_mon_boss_mermaid_king_13: 4817395679934016014
+      spi_mon_boss_mermaid_king_14: 147787406846190396
+      spi_mon_boss_mermaid_king_15: 7002425026823939791
+      spi_mon_boss_mermaid_king_16: 3005964540732573876
+      spi_mon_boss_mermaid_king_17: 6642963929204781215
+      spi_mon_boss_mermaid_king_18: 1072115093035428249
+      spi_mon_boss_mermaid_king_19: -8921155312740209277
+      spi_mon_boss_mermaid_king_2: 5201014136242321720
+      spi_mon_boss_mermaid_king_20: 5218855980932118900
+      spi_mon_boss_mermaid_king_21: 634407777265200628
+      spi_mon_boss_mermaid_king_22: 8995310531616406790
+      spi_mon_boss_mermaid_king_23: 756789880459706249
+      spi_mon_boss_mermaid_king_24: 8556792688603462169
+      spi_mon_boss_mermaid_king_25: 26356745148456984
+      spi_mon_boss_mermaid_king_26: -4915626615808881924
+      spi_mon_boss_mermaid_king_27: 7053850538136818981
+      spi_mon_boss_mermaid_king_3: 1439843399398204484
+      spi_mon_boss_mermaid_king_4: -5713376454763722778
+      spi_mon_boss_mermaid_king_5: 8589170965266135505
+      spi_mon_boss_mermaid_king_6: -5199829465549813990
+      spi_mon_boss_mermaid_king_7: -734605070353237921
+      spi_mon_boss_mermaid_king_8: 145231940266224563
+      spi_mon_boss_mermaid_king_9: -7189921371305032475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

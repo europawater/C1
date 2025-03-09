@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 85bc1d21c5d33594b852028c255d310d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6775375502054166720
+    second: Boss_Snowqueen_Skill_B_Hit_0
+  - first:
+      213: -3757360804727879904
+    second: Boss_Snowqueen_Skill_B_Hit_1
+  - first:
+      213: 6671964351336157376
+    second: Boss_Snowqueen_Skill_B_Hit_2
+  - first:
+      213: -3630957879795058507
+    second: Boss_Snowqueen_Skill_B_Hit_3
+  - first:
+      213: -4633225809565569775
+    second: Boss_Snowqueen_Skill_B_Hit_4
+  - first:
+      213: 8265074499196346859
+    second: Boss_Snowqueen_Skill_B_Hit_5
+  - first:
+      213: -9216068098420341392
+    second: Boss_Snowqueen_Skill_B_Hit_6
+  - first:
+      213: 7942359981689128256
+    second: Boss_Snowqueen_Skill_B_Hit_7
+  - first:
+      213: -1248809339499975325
+    second: Boss_Snowqueen_Skill_B_Hit_8
+  - first:
+      213: -6781852198795700163
+    second: Boss_Snowqueen_Skill_B_Hit_9
+  - first:
+      213: -1114526013432549347
+    second: Boss_Snowqueen_Skill_B_Hit_10
+  - first:
+      213: -673040859403326861
+    second: Boss_Snowqueen_Skill_B_Hit_11
+  - first:
+      213: 6652302413907235579
+    second: Boss_Snowqueen_Skill_B_Hit_12
+  - first:
+      213: -781021277390087809
+    second: Boss_Snowqueen_Skill_B_Hit_13
+  - first:
+      213: -6255919624125175234
+    second: Boss_Snowqueen_Skill_B_Hit_14
+  - first:
+      213: 8912166594820195773
+    second: Boss_Snowqueen_Skill_B_Hit_15
+  - first:
+      213: 2696995186101689571
+    second: Boss_Snowqueen_Skill_B_Hit_16
+  - first:
+      213: 977402320897467218
+    second: Boss_Snowqueen_Skill_B_Hit_17
+  - first:
+      213: 7755848884461353747
+    second: Boss_Snowqueen_Skill_B_Hit_18
+  - first:
+      213: -9220871367354668740
+    second: Boss_Snowqueen_Skill_B_Hit_19
+  - first:
+      213: 4923497758405614884
+    second: Boss_Snowqueen_Skill_B_Hit_20
+  - first:
+      213: -2842612924156185133
+    second: Boss_Snowqueen_Skill_B_Hit_21
+  - first:
+      213: -9116449376901544300
+    second: Boss_Snowqueen_Skill_B_Hit_22
+  - first:
+      213: -6676323728635786887
+    second: Boss_Snowqueen_Skill_B_Hit_23
+  - first:
+      213: -754257141737402182
+    second: Boss_Snowqueen_Skill_B_Hit_24
+  - first:
+      213: 6714438234562405983
+    second: Boss_Snowqueen_Skill_B_Hit_25
+  - first:
+      213: -2635055178034634361
+    second: Boss_Snowqueen_Skill_B_Hit_26
+  - first:
+      213: 2432992811409277169
+    second: Boss_Snowqueen_Skill_B_Hit_27
+  - first:
+      213: 4390684778190655944
+    second: Boss_Snowqueen_Skill_B_Hit_28
+  - first:
+      213: -103806925896545573
+    second: Boss_Snowqueen_Skill_B_Hit_29
+  - first:
+      213: 9022029227005345190
+    second: Boss_Snowqueen_Skill_B_Hit_30
+  - first:
+      213: -3272766582880931289
+    second: Boss_Snowqueen_Skill_B_Hit_31
+  - first:
+      213: 7293888851843657480
+    second: Boss_Snowqueen_Skill_B_Hit_32
+  - first:
+      213: 7731595024421449497
+    second: Boss_Snowqueen_Skill_B_Hit_33
+  - first:
+      213: 5269692168483354905
+    second: Boss_Snowqueen_Skill_B_Hit_34
+  - first:
+      213: 478720207247459473
+    second: Boss_Snowqueen_Skill_B_Hit_35
+  - first:
+      213: 8329607565195043994
+    second: Boss_Snowqueen_Skill_B_Hit_36
+  - first:
+      213: -7513892890650249680
+    second: Boss_Snowqueen_Skill_B_Hit_37
+  - first:
+      213: -1237331500707538288
+    second: Boss_Snowqueen_Skill_B_Hit_38
+  - first:
+      213: 1707092366848300004
+    second: Boss_Snowqueen_Skill_B_Hit_39
+  - first:
+      213: 8970438086197604686
+    second: Boss_Snowqueen_Skill_B_Hit_40
+  - first:
+      213: 9181644809581786521
+    second: Boss_Snowqueen_Skill_B_Hit_41
+  - first:
+      213: 8765104712992125229
+    second: Boss_Snowqueen_Skill_B_Hit_42
+  - first:
+      213: 7085736786021463099
+    second: Boss_Snowqueen_Skill_B_Hit_43
+  - first:
+      213: -8502365638599599401
+    second: Boss_Snowqueen_Skill_B_Hit_44
+  - first:
+      213: -7027457281217590925
+    second: Boss_Snowqueen_Skill_B_Hit_45
+  - first:
+      213: 1335166408290354032
+    second: Boss_Snowqueen_Skill_B_Hit_46
+  - first:
+      213: -892568666799424115
+    second: Boss_Snowqueen_Skill_B_Hit_47
+  - first:
+      213: 8697016045844677333
+    second: Boss_Snowqueen_Skill_B_Hit_48
+  - first:
+      213: 3479376208897074296
+    second: Boss_Snowqueen_Skill_B_Hit_49
+  - first:
+      213: 1005972791481785072
+    second: Boss_Snowqueen_Skill_B_Hit_50
+  - first:
+      213: -5042376270030395520
+    second: Boss_Snowqueen_Skill_B_Hit_51
+  - first:
+      213: -2602440113943340258
+    second: Boss_Snowqueen_Skill_B_Hit_52
+  - first:
+      213: 3124448539621025405
+    second: Boss_Snowqueen_Skill_B_Hit_53
+  - first:
+      213: -3383911029150678607
+    second: Boss_Snowqueen_Skill_B_Hit_54
+  - first:
+      213: -1661446647623408166
+    second: Boss_Snowqueen_Skill_B_Hit_55
+  - first:
+      213: 1680072355650253914
+    second: Boss_Snowqueen_Skill_B_Hit_56
+  - first:
+      213: 5903794167612671479
+    second: Boss_Snowqueen_Skill_B_Hit_57
+  - first:
+      213: -2430401587202831857
+    second: Boss_Snowqueen_Skill_B_Hit_58
+  - first:
+      213: -5050605802669250763
+    second: Boss_Snowqueen_Skill_B_Hit_59
+  - first:
+      213: 5304842179166201392
+    second: Boss_Snowqueen_Skill_B_Hit_60
+  - first:
+      213: 2354021954841930952
+    second: Boss_Snowqueen_Skill_B_Hit_61
+  - first:
+      213: 1750142546578307076
+    second: Boss_Snowqueen_Skill_B_Hit_62
+  - first:
+      213: -4517331677516843629
+    second: Boss_Snowqueen_Skill_B_Hit_63
+  - first:
+      213: -6337639598180049179
+    second: Boss_Snowqueen_Skill_B_Hit_64
+  - first:
+      213: 3303851273205953972
+    second: Boss_Snowqueen_Skill_B_Hit_65
+  - first:
+      213: -6630899047775383496
+    second: Boss_Snowqueen_Skill_B_Hit_66
+  - first:
+      213: -5592127763520907142
+    second: Boss_Snowqueen_Skill_B_Hit_67
+  - first:
+      213: -8542511275181620934
+    second: Boss_Snowqueen_Skill_B_Hit_68
+  - first:
+      213: 5500118825037928378
+    second: Boss_Snowqueen_Skill_B_Hit_69
+  - first:
+      213: -5182024350960690789
+    second: Boss_Snowqueen_Skill_B_Hit_70
+  - first:
+      213: 34427819300785037
+    second: Boss_Snowqueen_Skill_B_Hit_71
+  - first:
+      213: 650271507418700771
+    second: Boss_Snowqueen_Skill_B_Hit_72
+  - first:
+      213: -5458154452313434174
+    second: Boss_Snowqueen_Skill_B_Hit_73
+  - first:
+      213: 4885615924126283256
+    second: Boss_Snowqueen_Skill_B_Hit_74
+  - first:
+      213: -7690958013295542996
+    second: Boss_Snowqueen_Skill_B_Hit_75
+  - first:
+      213: -7894309256345152848
+    second: Boss_Snowqueen_Skill_B_Hit_76
+  - first:
+      213: -1195258316673739086
+    second: Boss_Snowqueen_Skill_B_Hit_77
+  - first:
+      213: -2103412417857392036
+    second: Boss_Snowqueen_Skill_B_Hit_78
+  - first:
+      213: -3510999949308194553
+    second: Boss_Snowqueen_Skill_B_Hit_79
+  - first:
+      213: -2515734583398930778
+    second: Boss_Snowqueen_Skill_B_Hit_80
+  - first:
+      213: -680866797160000506
+    second: Boss_Snowqueen_Skill_B_Hit_81
+  - first:
+      213: -9136303450225492635
+    second: Boss_Snowqueen_Skill_B_Hit_82
+  - first:
+      213: -4670677603248712345
+    second: Boss_Snowqueen_Skill_B_Hit_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_ice_005_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221b243b949036b4d92967ac32964a2b
+      internalID: 2041947617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_ice_005_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb02a31ff44c8954eba708214f624c1d
+      internalID: 1384858558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_ice_005_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a65690483f53f48ae8dd619736a4fc
+      internalID: -1847394506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_ice_005_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257d16a7a1f1cba47bbb7248a1f4153e
+      internalID: -1040057471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_ice_005_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52ae2c3c190691438225048ccd2e848
+      internalID: 879511421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_ice_005_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1765ad835f3d3444867a6e8092021e4
+      internalID: 238883521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_ice_005_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fce6fe20ae2ed46b94a8c93a3d55ea
+      internalID: 1852769585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_ice_005_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38533128ab8414489492d7d7e36b6b7
+      internalID: 1779067644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_ice_005_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a46da2023539624aa888311029557c0
+      internalID: -1886769554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_ice_005_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb5f480824107f469c2f740f232fee8
+      internalID: -56735744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_ice_005_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19029616c01754941977f072d7eaeca0
+      internalID: -1389135519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_ice_005_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9bef52356c688488eb768d2728f7da
+      internalID: 643524554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_ice_005_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e296b0200a41bb489d6d35ea33af9ea
+      internalID: -2050482858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_ice_005_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd419f53c2dd5c4999ea4935a8a957f
+      internalID: 33168914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_ice_005_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6a1d9f4c40e2e40ae103ec7cb756ae
+      internalID: -1693589394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_ice_005_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1225a2f8b95ce45a7c51a9c0945468
+      internalID: -1880250957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2d87e81f52bfe4845a05ca4a86618003
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_ice_005_0: 2041947617
+      sp_skill_ice_005_1: 1384858558
+      sp_skill_ice_005_10: -1389135519
+      sp_skill_ice_005_11: 643524554
+      sp_skill_ice_005_12: -2050482858
+      sp_skill_ice_005_13: 33168914
+      sp_skill_ice_005_14: -1693589394
+      sp_skill_ice_005_15: -1880250957
+      sp_skill_ice_005_2: -1847394506
+      sp_skill_ice_005_3: -1040057471
+      sp_skill_ice_005_4: 879511421
+      sp_skill_ice_005_5: 238883521
+      sp_skill_ice_005_6: 1852769585
+      sp_skill_ice_005_7: 1779067644
+      sp_skill_ice_005_8: -1886769554
+      sp_skill_ice_005_9: -56735744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

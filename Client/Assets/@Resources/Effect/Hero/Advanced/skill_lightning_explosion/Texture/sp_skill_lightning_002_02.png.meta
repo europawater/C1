@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: 5c6d48e974d2dd94fba78f1e10e2148d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -915151401434533923
+    second: sp_skill_lightning_002_02_0
+  - first:
+      213: 2607231402234070950
+    second: sp_skill_lightning_002_02_1
+  - first:
+      213: 5126377934745435365
+    second: sp_skill_lightning_002_02_2
+  - first:
+      213: -1864831872080149388
+    second: sp_skill_lightning_002_02_3
+  - first:
+      213: 5073397352778283244
+    second: sp_skill_lightning_002_02_4
+  - first:
+      213: 9200511102651294380
+    second: sp_skill_lightning_002_02_5
+  - first:
+      213: -1318207046472259852
+    second: sp_skill_lightning_002_02_6
+  - first:
+      213: 2690507382911982052
+    second: sp_skill_lightning_002_02_7
+  - first:
+      213: 7029185858940937268
+    second: sp_skill_lightning_002_02_8
+  - first:
+      213: 6583981521199923029
+    second: sp_skill_lightning_002_02_9
+  - first:
+      213: -885491025878937635
+    second: sp_skill_lightning_002_02_10
+  - first:
+      213: 8824965129048628381
+    second: sp_skill_lightning_002_02_11
+  - first:
+      213: 6027848866093710634
+    second: sp_skill_lightning_002_02_12
+  - first:
+      213: 351564068432535821
+    second: sp_skill_lightning_002_02_13
+  - first:
+      213: -3048771781266873404
+    second: sp_skill_lightning_002_02_14
+  - first:
+      213: 4906053161636169348
+    second: sp_skill_lightning_002_02_15
+  - first:
+      213: -3158937124774111547
+    second: sp_skill_lightning_002_02_16
+  - first:
+      213: 4544685370462942928
+    second: sp_skill_lightning_002_02_17
+  - first:
+      213: 3070055017615321159
+    second: sp_skill_lightning_002_02_18
+  - first:
+      213: -6090379036240805744
+    second: sp_skill_lightning_002_02_19
+  - first:
+      213: 6951348050339283323
+    second: sp_skill_lightning_002_02_20
+  - first:
+      213: -2139955297304289104
+    second: sp_skill_lightning_002_02_21
+  - first:
+      213: -4873166795926087068
+    second: sp_skill_lightning_002_02_22
+  - first:
+      213: -2323774991882505200
+    second: sp_skill_lightning_002_02_23
+  - first:
+      213: 168319233920762819
+    second: sp_skill_lightning_002_02_24
+  - first:
+      213: 707464075010945027
+    second: sp_skill_lightning_002_02_25
+  - first:
+      213: -2980271876215121763
+    second: sp_skill_lightning_002_02_26
+  - first:
+      213: 7582343561834068110
+    second: sp_skill_lightning_002_02_27
+  - first:
+      213: -943585596814618705
+    second: sp_skill_lightning_002_02_28
+  - first:
+      213: 7465148685312264665
+    second: sp_skill_lightning_002_02_29
+  - first:
+      213: -2498101776842628797
+    second: sp_skill_lightning_002_02_30
+  - first:
+      213: 6916982038292265928
+    second: sp_skill_lightning_002_02_31
+  - first:
+      213: -8467900439744269256
+    second: sp_skill_lightning_002_02_32
+  - first:
+      213: -2565188060133119304
+    second: sp_skill_lightning_002_02_33
+  - first:
+      213: -2340840488312462762
+    second: sp_skill_lightning_002_02_34
+  - first:
+      213: 5308211911207470487
+    second: sp_skill_lightning_002_02_35
+  - first:
+      213: 4477654442637579951
+    second: sp_skill_lightning_002_02_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_skill_lightning_002_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf2bc926aabc43f0800000000000000
+      internalID: -915151401434533923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_002_02_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7c769852fbe2420800000000000000
+      internalID: 2607231402234070950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_002_02_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecf6e8229d842740800000000000000
+      internalID: 5126377934745435365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_002_02_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47406daea49ce16e0800000000000000
+      internalID: -1864831872080149388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_002_02_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8b1c82304586640800000000000000
+      internalID: 5073397352778283244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_002_02_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca26199f918ceaf70800000000000000
+      internalID: 9200511102651294380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_002_02_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6aa96eca9c4bde0800000000000000
+      internalID: -1318207046472259852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_002_02_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9d808b53a965520800000000000000
+      internalID: 2690507382911982052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_002_02_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434af56eb4fac8160800000000000000
+      internalID: 7029185858940937268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_002_02_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f7bd26f400f5b50800000000000000
+      internalID: 6583981521199923029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_002_02_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf80be7a9a16b3f0800000000000000
+      internalID: -885491025878937635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_skill_lightning_002_02_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c17283703987a70800000000000000
+      internalID: 8824965129048628381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1d610038a88f7284baaf1edc8ac4023e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_skill_lightning_002_02_0: -915151401434533923
+      sp_skill_lightning_002_02_1: 2607231402234070950
+      sp_skill_lightning_002_02_10: -885491025878937635
+      sp_skill_lightning_002_02_11: 8824965129048628381
+      sp_skill_lightning_002_02_2: 5126377934745435365
+      sp_skill_lightning_002_02_3: -1864831872080149388
+      sp_skill_lightning_002_02_4: 5073397352778283244
+      sp_skill_lightning_002_02_5: 9200511102651294380
+      sp_skill_lightning_002_02_6: -1318207046472259852
+      sp_skill_lightning_002_02_7: 2690507382911982052
+      sp_skill_lightning_002_02_8: 7029185858940937268
+      sp_skill_lightning_002_02_9: 6583981521199923029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

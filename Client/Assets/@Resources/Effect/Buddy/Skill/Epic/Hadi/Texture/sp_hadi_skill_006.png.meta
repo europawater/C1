@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: c9496d1368617b149a38d27ddd0ebcd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6494034634303449294
+    second: Elite_snowtree_Skill_A_Hit_007_0
+  - first:
+      213: -6975518366235135881
+    second: Elite_snowtree_Skill_A_Hit_007_1
+  - first:
+      213: -802573818333087201
+    second: Elite_snowtree_Skill_A_Hit_007_2
+  - first:
+      213: 2441883600983344339
+    second: Elite_snowtree_Skill_A_Hit_007_3
+  - first:
+      213: 5746295865521399006
+    second: Elite_snowtree_Skill_A_Hit_007_4
+  - first:
+      213: 897852013800304293
+    second: Elite_snowtree_Skill_A_Hit_007_5
+  - first:
+      213: -3764253935075908032
+    second: Elite_snowtree_Skill_A_Hit_007_6
+  - first:
+      213: 517979566732681245
+    second: Elite_snowtree_Skill_A_Hit_007_7
+  - first:
+      213: -3712716541028703596
+    second: Elite_snowtree_Skill_A_Hit_007_8
+  - first:
+      213: -8526564496954187407
+    second: Elite_snowtree_Skill_A_Hit_007_9
+  - first:
+      213: -6223355580833365967
+    second: Elite_snowtree_Skill_A_Hit_007_10
+  - first:
+      213: 1811989283765371278
+    second: Elite_snowtree_Skill_A_Hit_007_11
+  - first:
+      213: -2603451614937517966
+    second: Elite_snowtree_Skill_A_Hit_007_12
+  - first:
+      213: 5512297047243891882
+    second: Elite_snowtree_Skill_A_Hit_007_13
+  - first:
+      213: 985507548297786358
+    second: Elite_snowtree_Skill_A_Hit_007_14
+  - first:
+      213: -3121998477912551165
+    second: Elite_snowtree_Skill_A_Hit_007_15
+  - first:
+      213: 2137530852897544701
+    second: Elite_snowtree_Skill_A_Hit_007_16
+  - first:
+      213: 1532114792499415073
+    second: Elite_snowtree_Skill_A_Hit_007_17
+  - first:
+      213: -6231019391281509588
+    second: Elite_snowtree_Skill_A_Hit_007_18
+  - first:
+      213: -921587825884742663
+    second: Elite_snowtree_Skill_A_Hit_007_19
+  - first:
+      213: 2294392101283874369
+    second: Elite_snowtree_Skill_A_Hit_007_20
+  - first:
+      213: -269088503707935936
+    second: Elite_snowtree_Skill_A_Hit_007_21
+  - first:
+      213: -2782261415520657824
+    second: Elite_snowtree_Skill_A_Hit_007_22
+  - first:
+      213: -2605409606831011251
+    second: Elite_snowtree_Skill_A_Hit_007_23
+  - first:
+      213: 6296916564384594036
+    second: Elite_snowtree_Skill_A_Hit_007_24
+  - first:
+      213: 4400032242571894808
+    second: Elite_snowtree_Skill_A_Hit_007_25
+  - first:
+      213: -5085484171647195216
+    second: Elite_snowtree_Skill_A_Hit_007_26
+  - first:
+      213: 3812837803220035943
+    second: Elite_snowtree_Skill_A_Hit_007_27
+  - first:
+      213: -8896363104738246793
+    second: Elite_snowtree_Skill_A_Hit_007_28
+  - first:
+      213: 3065244658516397201
+    second: Elite_snowtree_Skill_A_Hit_007_29
+  - first:
+      213: 327818998702623913
+    second: Elite_snowtree_Skill_A_Hit_007_30
+  - first:
+      213: 7876161305950126775
+    second: Elite_snowtree_Skill_A_Hit_007_31
+  - first:
+      213: -6862524953998271028
+    second: Elite_snowtree_Skill_A_Hit_007_32
+  - first:
+      213: -5536185655007789099
+    second: Elite_snowtree_Skill_A_Hit_007_33
+  - first:
+      213: 7975444732791831540
+    second: Elite_snowtree_Skill_A_Hit_007_34
+  - first:
+      213: -8387110959639748317
+    second: Elite_snowtree_Skill_A_Hit_007_35
+  - first:
+      213: 3335076672307536536
+    second: Elite_snowtree_Skill_A_Hit_007_36
+  - first:
+      213: 7489066284836462829
+    second: Elite_snowtree_Skill_A_Hit_007_37
+  - first:
+      213: -8130721247056202657
+    second: Elite_snowtree_Skill_A_Hit_007_38
+  - first:
+      213: -6780537299288431911
+    second: Elite_snowtree_Skill_A_Hit_007_39
+  - first:
+      213: -5954977826362676234
+    second: Elite_snowtree_Skill_A_Hit_007_40
+  - first:
+      213: -7048898592872538609
+    second: Elite_snowtree_Skill_A_Hit_007_41
+  - first:
+      213: -7259559537587689021
+    second: Elite_snowtree_Skill_A_Hit_007_42
+  - first:
+      213: -2523507761168835494
+    second: Elite_snowtree_Skill_A_Hit_007_43
+  - first:
+      213: 7020153390265663594
+    second: Elite_snowtree_Skill_A_Hit_007_44
+  - first:
+      213: 4819588261542626985
+    second: Elite_snowtree_Skill_A_Hit_007_45
+  - first:
+      213: -615881968058127359
+    second: Elite_snowtree_Skill_A_Hit_007_46
+  - first:
+      213: 7355270364551376668
+    second: Elite_snowtree_Skill_A_Hit_007_47
+  - first:
+      213: 1403942509258328597
+    second: Elite_snowtree_Skill_A_Hit_007_48
+  - first:
+      213: 8701736752062190726
+    second: Elite_snowtree_Skill_A_Hit_007_49
+  - first:
+      213: 368954637106910521
+    second: Elite_snowtree_Skill_A_Hit_007_50
+  - first:
+      213: -402662280007169176
+    second: Elite_snowtree_Skill_A_Hit_007_51
+  - first:
+      213: 8879809713358320050
+    second: Elite_snowtree_Skill_A_Hit_007_52
+  - first:
+      213: -3003645923418552822
+    second: Elite_snowtree_Skill_A_Hit_007_53
+  - first:
+      213: -7118277860134770821
+    second: Elite_snowtree_Skill_A_Hit_007_54
+  - first:
+      213: 113550839927549393
+    second: Elite_snowtree_Skill_A_Hit_007_55
+  - first:
+      213: 6402851669189974090
+    second: Elite_snowtree_Skill_A_Hit_007_56
+  - first:
+      213: 8937792266344904979
+    second: Elite_snowtree_Skill_A_Hit_007_57
+  - first:
+      213: 6732433086005954518
+    second: Elite_snowtree_Skill_A_Hit_007_58
+  - first:
+      213: -1335222305400422734
+    second: Elite_snowtree_Skill_A_Hit_007_59
+  - first:
+      213: 8540138699058563042
+    second: Elite_snowtree_Skill_A_Hit_007_60
+  - first:
+      213: 6675266983102351175
+    second: Elite_snowtree_Skill_A_Hit_007_61
+  - first:
+      213: 6729048447700209015
+    second: Elite_snowtree_Skill_A_Hit_007_62
+  - first:
+      213: -162156008883779383
+    second: Elite_snowtree_Skill_A_Hit_007_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_hadi_skill_006_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4072d85414edc41befbfadf53d4c9a
+      internalID: -1612564030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_006_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 147
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e99284f8bcd1140bffecaa915b65a9
+      internalID: 965923606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_006_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 147
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc04215a6cca6ef44bc3bfd5094167f9
+      internalID: -341775170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_006_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 147
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6353ce4b2579b304ea2220b9c02e189e
+      internalID: 643657510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_006_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 147
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cfd1b3e9077d14c93c0770b4a277e9
+      internalID: 1562684270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_006_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 147
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab834e58f7b265240a1e8057c8e443ac
+      internalID: -1285277447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_006_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 147
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a640e574332d7ed47abf2e43c8bd319f
+      internalID: -1801365890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_006_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b377d195f31765e48919d216cd38890e
+      internalID: 1442964004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_006_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0e61f5d9d81a54285ecb71510106f1
+      internalID: 599064751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_006_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bcd4b985c38694ea0976f4f826bedb
+      internalID: -602890698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_006_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242c435619cb5974d84c94c7c4708dc7
+      internalID: -1475983594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_006_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce59f4209b2cd3b47b5c083919148522
+      internalID: 1988355503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_006_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9654c034375cc4486a79decfae3874
+      internalID: 1969305587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sp_hadi_skill_006_13
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a69c1f5a5b31634a9be3288e8c0e93e
+      internalID: -62735313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2a4bc3e79612e6049af055d0b3328f85
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sp_hadi_skill_006_0: -1612564030
+      sp_hadi_skill_006_1: 965923606
+      sp_hadi_skill_006_10: -1475983594
+      sp_hadi_skill_006_11: 1988355503
+      sp_hadi_skill_006_12: 1969305587
+      sp_hadi_skill_006_13: -62735313
+      sp_hadi_skill_006_2: -341775170
+      sp_hadi_skill_006_3: 643657510
+      sp_hadi_skill_006_4: 1562684270
+      sp_hadi_skill_006_5: -1285277447
+      sp_hadi_skill_006_6: -1801365890
+      sp_hadi_skill_006_7: 1442964004
+      sp_hadi_skill_006_8: 599064751
+      sp_hadi_skill_006_9: -602890698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
