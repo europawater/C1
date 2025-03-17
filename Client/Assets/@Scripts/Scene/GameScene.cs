@@ -9,25 +9,27 @@ public class GameScene : BaseScene
 	#region Object Transform
 
 	[SerializeField]
-	private Transform[] _heroTransformArray;
+	private Transform _heroTransform;
 	[SerializeField]
 	private Transform[] _singleMonsterTransformArray;
 	[SerializeField]
 	private Transform[] _doubleMonsterTransformArray;
 	[SerializeField]
 	private Transform[] _tripleMonsterTransformArray;
+	[SerializeField]
+	private Transform[] _buddyTransformArray;
 
 	#endregion
 
 	private Animator _gameSceneAnimator;
-	private UI_GameScene _gameSceneUI;
+	protected UI_GameScene _gameSceneUI;
 
 	// 데이터
 	private StageData _stageData;
 	public StageData StageData => _stageData;
-
-	// 정보
-	private int _stageWaveIndex = 0;
+	
+    // 정보
+    private int _stageWaveIndex = 0;
 	public int StageWaveIndex
 	{
 		get { return _stageWaveIndex; }
@@ -62,9 +64,19 @@ public class GameScene : BaseScene
 		Initialize();
 	}
 
-	private void Initialize()
+	private void OnEnable()
 	{
-		_stageData = Managers.Backend.Chart.StageChart.DataList[1];
+		Managers.Event.AddEvent(EEventType.OnBuddyChanged, SpawnBuddy);	
+	}
+
+	private void OnDisable()
+	{
+		Managers.Event.RemoveEvent(EEventType.OnBuddyChanged, SpawnBuddy);
+	}
+
+	protected virtual void Initialize()
+	{
+		_stageData = Managers.Backend.Chart.StageChart.DataList[Managers.Backend.GameData.Player.StageLevel];
 
 		if (_stageData == null)
 		{
@@ -76,6 +88,10 @@ public class GameScene : BaseScene
 		SpawnMap();
 		// 영웅 생성
 		SpawnHero();
+
+		Managers.Game.SetBuddy();
+		SpawnBuddy();
+
 		// SceneUI 설정
 		_gameSceneUI.SetInfo(this);
 
@@ -88,7 +104,7 @@ public class GameScene : BaseScene
 	private const string ANIMATION_INTRO = "anim_game_scene_direction_intro";
 	private const string ANIMATION_MOVE = "anim_game_scene_driection_move";
 	private const string UI_ANIMATION_FADE_IN = "anim_game_scene_ui_fade_in";
-	private const string UI_ANIMATION_FADE_OUT = "anim_game_scene_ui_fade_out";
+	protected const string UI_ANIMATION_FADE_OUT = "anim_game_scene_ui_fade_out";
 
 	private IEnumerator _currentCoroutine = null;
 	private EStageState _stageState = EStageState.None;
@@ -185,7 +201,7 @@ public class GameScene : BaseScene
 		yield return null;
 	}
 
-	private IEnumerator CoOverState()
+	protected virtual IEnumerator CoOverState()
 	{
 		// Fade Out
 		_gameSceneUI.PlayAnimation(UI_ANIMATION_FADE_OUT);
@@ -198,7 +214,7 @@ public class GameScene : BaseScene
 		yield return null;
 	}
 
-	private IEnumerator CoClearState()
+    protected virtual IEnumerator CoClearState()
 	{
 		// Fade Out
 		_gameSceneUI.PlayAnimation(UI_ANIMATION_FADE_OUT);
@@ -208,7 +224,7 @@ public class GameScene : BaseScene
 		Managers.Object.RemoveMap();
 		Managers.Object.RemoveHero();
 
-		//Managers.Backend.UserInfoData.StageLevel++;
+		Managers.Backend.GameData.Player.AddStageLevel(1);
 
 		Initialize();
 
@@ -217,22 +233,34 @@ public class GameScene : BaseScene
 
 	#endregion
 
-	private Map SpawnMap()
+	protected virtual Map SpawnMap()
 	{
 		Map map = Managers.Object.SpawnMap(new Vector3(0.0f, 11.0f, 0.0f), _stageData.PrefabKey);
 
 		return map;
 	}
 
-	private Hero SpawnHero()
+    protected Hero SpawnHero()
 	{
-		Hero hero = Managers.Object.SpawnAIObject<Hero>(_heroTransformArray[0], 100001);
+		Hero hero = Managers.Object.SpawnAIObject<Hero>(_heroTransform, 100001);
 		hero.LookLeft = false;
 
 		return hero;
 	}
 
-	private void SpawnMonsterByWaveIndex(int waveIndex)
+    protected void SpawnBuddy()
+	{
+		int slotIndex = 0;
+		Managers.Object.RemoveAllBuddy();
+		foreach (var buddyInfo in Managers.Game.EquippedBuddyInfoSlotDict.Values)
+		{
+			Buddy buddy = Managers.Object.SpawnBuddy(_buddyTransformArray[slotIndex], buddyInfo.TemplateID);
+			buddy.LookLeft = false;
+			slotIndex++;
+		}
+	}
+
+	protected virtual void SpawnMonsterByWaveIndex(int waveIndex)
 	{
 		switch (waveIndex)
 		{
@@ -257,7 +285,7 @@ public class GameScene : BaseScene
 		}
 	}
 
-	private void SpawnMonsters(List<int> monsterList, int difficultyLevel)
+	protected void SpawnMonsters(List<int> monsterList, int difficultyLevel)
 	{
 		int spawnIndex = 0;
 		switch (monsterList.Count)

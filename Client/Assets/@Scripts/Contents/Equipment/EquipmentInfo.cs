@@ -26,14 +26,14 @@ public class EquipmentInfo
 		EnchantSafe = (int)jsonData["EnchantSafe"];
 	}
 
-	public void SetEnchantLevel(int enchantLevel)
+	public void AddEnchantLevel(int enchantLevel)
 	{
-		EnchantLevel = enchantLevel;
+		EnchantLevel += enchantLevel;
 	}
 
-	public void SetEnchantSafe(int enchantSafe)
+	public void SubEnchantLevel(int enchantLevel)
 	{
-		EnchantSafe = enchantSafe;
+		EnchantLevel -= enchantLevel;
 	}
 
 	public void AddEnchantSafe(int count)

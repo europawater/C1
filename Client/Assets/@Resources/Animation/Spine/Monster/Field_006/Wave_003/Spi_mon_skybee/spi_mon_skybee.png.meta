@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 81bed970640c3bc4ab15c353db960fb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2908340022076587960
+    second: spi_mon_skybee_0
+  - first:
+      213: 8136774431262987528
+    second: spi_mon_skybee_1
+  - first:
+      213: 1889008261515340193
+    second: spi_mon_skybee_2
+  - first:
+      213: -2841961466037258502
+    second: spi_mon_skybee_3
+  - first:
+      213: 7850119457569220479
+    second: spi_mon_skybee_4
+  - first:
+      213: 3320520633609547367
+    second: spi_mon_skybee_5
+  - first:
+      213: -2848988265341928491
+    second: spi_mon_skybee_6
+  - first:
+      213: 5528697069112391279
+    second: spi_mon_skybee_7
+  - first:
+      213: 3254462526292095108
+    second: spi_mon_skybee_8
+  - first:
+      213: -960499923671846773
+    second: spi_mon_skybee_9
+  - first:
+      213: 6823675393117475145
+    second: spi_mon_skybee_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_skybee_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf3ded47df7c5820800000000000000
+      internalID: 2908340022076587960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skybee_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 207
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80559e81c31abe070800000000000000
+      internalID: 8136774431262987528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skybee_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 166
+        width: 73
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a96665610b173a10800000000000000
+      internalID: 1889008261515340193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skybee_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 178
+        width: 54
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6308f9a135f88d0800000000000000
+      internalID: -2841961466037258502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skybee_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 180
+        width: 33
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77abc01e0a31fc60800000000000000
+      internalID: 7850119457569220479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skybee_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 178
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ee6a36cebd41e20800000000000000
+      internalID: 3320520633609547367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skybee_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 153
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbb90b644c5678d0800000000000000
+      internalID: -2848988265341928491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skybee_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2
+        width: 96
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66ff2b21b0e9bc40800000000000000
+      internalID: 5528697069112391279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skybee_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480f57ebc6c2a2d20800000000000000
+      internalID: 3254462526292095108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skybee_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 90
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80ffba886e9ba2f0800000000000000
+      internalID: -960499923671846773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_skybee_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941575ddd9092be50800000000000000
+      internalID: 6823675393117475145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_skybee_0: 2908340022076587960
+      spi_mon_skybee_1: 8136774431262987528
+      spi_mon_skybee_10: 6823675393117475145
+      spi_mon_skybee_2: 1889008261515340193
+      spi_mon_skybee_3: -2841961466037258502
+      spi_mon_skybee_4: 7850119457569220479
+      spi_mon_skybee_5: 3320520633609547367
+      spi_mon_skybee_6: -2848988265341928491
+      spi_mon_skybee_7: 5528697069112391279
+      spi_mon_skybee_8: 3254462526292095108
+      spi_mon_skybee_9: -960499923671846773
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

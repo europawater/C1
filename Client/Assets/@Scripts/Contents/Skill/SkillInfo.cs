@@ -13,13 +13,23 @@ public class SkillInfo
     public EOwningState OwningState { get; private set; }
     public int Level { get; private set; }
     public bool IsEquipped { get; private set; }
+	public int PieceCount { get; private set; }
 
-	public SkillInfo(int templateID, EOwningState owningState, int level, bool isEquipped)
+	public bool CanLevelUp
+	{
+		get
+		{
+			return Level <= 5 && PieceCount >= Managers.Backend.Chart.SkillChart.HeroSkillDataDict[TemplateID].LevelUpPiece;
+		}
+	}
+
+	public SkillInfo(int templateID, EOwningState owningState, int level, bool isEquipped, int pieceCount)
     {
         TemplateID = templateID;
         OwningState = owningState;
         Level = level;
 		IsEquipped = isEquipped;
+		PieceCount = pieceCount;
 	}
 
 	public SkillInfo(JsonData jsonData)
@@ -28,6 +38,7 @@ public class SkillInfo
 		OwningState = (EOwningState)Enum.Parse(typeof(EOwningState), jsonData["OwningState"].ToString());
 		Level = int.Parse(jsonData["Level"].ToString());
 		IsEquipped = bool.Parse(jsonData["IsEquipped"].ToString());
+		PieceCount = int.Parse(jsonData["PieceCount"].ToString());
 	}
 
     public void SetOwningState(EOwningState owningState)
@@ -35,13 +46,29 @@ public class SkillInfo
 		OwningState = owningState;
 	}
 
-	public void SetLevel(int level)
+	public void LevelUp()
 	{
-		Level = level;
+		if(!CanLevelUp)
+		{
+			return;
+		}
+
+		Level++;
+		SubtractPieceCount(Managers.Backend.Chart.SkillChart.HeroSkillDataDict[TemplateID].LevelUpPiece);
 	}
 
 	public void SetIsEquipped(bool isEquipped)
 	{
 		IsEquipped = isEquipped;
+	}
+
+	public void AddPieceCount(int pieceCount)
+	{
+		PieceCount += pieceCount;
+	}
+
+	public void SubtractPieceCount(int pieceCount)
+	{
+		PieceCount -= pieceCount;
 	}
 }

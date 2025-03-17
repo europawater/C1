@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 public class UI_NewEquipmentSub : UI_Sub
 {
@@ -16,6 +17,13 @@ public class UI_NewEquipmentSub : UI_Sub
 		Text_GradeAndName,
 	}
 
+	private enum Images
+	{
+		Image_ShieldIcon1,
+		Image_ShieldIcon2,
+		Image_ShieldIcon3,
+	}
+
 	private enum Buttons
 	{
 		Button_Dismantle,
@@ -23,9 +31,9 @@ public class UI_NewEquipmentSub : UI_Sub
 	}
 
 	private Equipment _oldEquipment;
-	private Equipment _newEquipment;
 	private UI_EquipmentSlot _equipmentSlot;
 	private List<UI_EquipmentStatSlot> _statSlotList = new List<UI_EquipmentStatSlot>();
+	private List<Image> _shieldImageList = new List<Image>();
 
 	protected override void Awake()
 	{
@@ -34,6 +42,7 @@ public class UI_NewEquipmentSub : UI_Sub
 		// Bind
 		BindGameObjects(typeof(GameObjects));
 		BindTexts(typeof(Texts));
+		BindImages(typeof(Images));
 		BindButtons(typeof(Buttons));
 
 		// Init
@@ -49,31 +58,47 @@ public class UI_NewEquipmentSub : UI_Sub
 			}
 		}
 
+		_shieldImageList.Clear();
+		_shieldImageList.Add(GetImage((int)Images.Image_ShieldIcon1));
+		_shieldImageList.Add(GetImage((int)Images.Image_ShieldIcon2));
+		_shieldImageList.Add(GetImage((int)Images.Image_ShieldIcon3));
+
 		// Bind Event
 		GetButton((int)Buttons.Button_Dismantle).gameObject.BindEvent(OnClickDismantle);
 		GetButton((int)Buttons.Button_Equip).gameObject.BindEvent(OnClickEquip);
 	}
 
-	public void SetInfo(Equipment oldEquipment, Equipment newEquipment)
+	public void SetInfo(Equipment oldEquipment)
 	{
 		_oldEquipment = oldEquipment;
-		_newEquipment = newEquipment;
 
 		RefreshUI();
 	}
 
 	private void RefreshUI()
 	{
-		GetText((int)Texts.Text_GradeAndName).text = $"{_newEquipment.EquipmentData.Remark}";
+		GetText((int)Texts.Text_GradeAndName).text = $"{Managers.Game.NewEquipment.EquipmentData.Remark}";
 
-		_equipmentSlot.SetInfo(UI_EquipmentSlot.EquipmentSlotToUse.EquipmentPopup, _newEquipment);
+		_equipmentSlot.SetInfo(UI_EquipmentSlot.EquipmentSlotToUse.EquipmentPopup, Managers.Game.NewEquipment);
 
 		int index = 0;
-		foreach (var validEquipmentValue in _newEquipment.ValidEquipmentValueDict)
+		foreach (var validEquipmentValue in Managers.Game.NewEquipment.ValidEquipmentValueDict)
 		{
 			float compareValue = _oldEquipment == null ? validEquipmentValue.Value : _oldEquipment.ValidEquipmentValueDict[validEquipmentValue.Key];
 			_statSlotList[index].SetInfo(validEquipmentValue.Key, validEquipmentValue.Value, compareValue);
 			index++;
+		}
+
+		for (int count = 0; count < _shieldImageList.Count; count++)
+		{
+			if (count < Managers.Game.NewEquipment.EnchantSafe)
+			{
+				_shieldImageList[count].color = Color.white;
+			}
+			else
+			{
+				_shieldImageList[count].color = Color.gray;
+			}
 		}
 	}
 

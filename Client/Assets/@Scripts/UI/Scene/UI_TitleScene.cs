@@ -149,6 +149,11 @@ public class UI_TitleScene : UI_Scene
 		_initializeStep.Enqueue(() => { _loadingText = "스테이지 차트 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.Chart.StageChart.LoadChartData(HandleBackendInitializeStep); });
 		_initializeStep.Enqueue(() => { _loadingText = "다이스 차트 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.Chart.DiceChart.LoadChartData(HandleBackendInitializeStep); });
 		_initializeStep.Enqueue(() => { _loadingText = "보상 차트 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.Chart.RewardChart.LoadChartData(HandleBackendInitializeStep); });
+		_initializeStep.Enqueue(() => { _loadingText = "동료 차트 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.Chart.BuddyChart.LoadChartData(HandleBackendInitializeStep); });
+		_initializeStep.Enqueue(() => { _loadingText = "던전 차트 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.Chart.DungeonChart.LoadChartData(HandleBackendInitializeStep); });
+		_initializeStep.Enqueue(() => { _loadingText = "컬렉션 차트 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.Chart.CollectionChart.LoadChartData(HandleBackendInitializeStep); });
+		_initializeStep.Enqueue(() => { _loadingText = "미션 차트 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.Chart.MissionChart.LoadChartData(HandleBackendInitializeStep); });
+		_initializeStep.Enqueue(() => { _loadingText = "상점 차트 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.Chart.ShopChart.LoadChartData(HandleBackendInitializeStep); });
 		// GameData
 		_initializeStep.Enqueue(() => { _loadingText = "플레이어 데이터 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.GameData.Player.LoadGameData(HandleBackendInitializeStep); });
 		_initializeStep.Enqueue(() => { _loadingText = "재화 데이터 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.GameData.Currency.LoadGameData(HandleBackendInitializeStep); });
@@ -156,6 +161,9 @@ public class UI_TitleScene : UI_Scene
 		_initializeStep.Enqueue(() => { _loadingText = "다이스 데이터 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.GameData.Dice.LoadGameData(HandleBackendInitializeStep); });
 		_initializeStep.Enqueue(() => { _loadingText = "장비 데이터 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.GameData.Equipment.LoadGameData(HandleBackendInitializeStep); });
 		_initializeStep.Enqueue(() => { _loadingText = "스킬 데이터 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.GameData.Skill.LoadGameData(HandleBackendInitializeStep); });
+		_initializeStep.Enqueue(() => { _loadingText = "동료 데이터 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.GameData.Buddy.LoadGameData(HandleBackendInitializeStep); });
+		_initializeStep.Enqueue(() => { _loadingText = "컬렉션 데이터 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.GameData.Collection.LoadGameData(HandleBackendInitializeStep); });
+		_initializeStep.Enqueue(() => { _loadingText = "미션 데이터 불러오는 중..."; RefreshLoadingUI(); Managers.Backend.GameData.Mission.LoadGameData(HandleBackendInitializeStep); });
 		// Post
 		_initializeStep.Enqueue(() => { _loadingText = "관리자 우편 정보 불러오는 중..."; RefreshLoadingUI(); Managers.Post.LoadPostList(PostType.Admin, HandleBackendInitializeStep); });
 		_initializeStep.Enqueue(() => { _loadingText = "리더보드 우편 정보 불러오는 중..."; RefreshLoadingUI(); Managers.Post.LoadPostList(PostType.Rank, HandleBackendInitializeStep); });

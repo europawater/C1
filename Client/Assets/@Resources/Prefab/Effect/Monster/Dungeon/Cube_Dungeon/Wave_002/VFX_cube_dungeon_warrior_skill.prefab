@@ -287,7 +287,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.6
+      scalar: 0.7
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -499,7 +499,7 @@ ParticleSystem:
     startRotationY:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0
+      scalar: -3.1415925
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -552,7 +552,7 @@ ParticleSystem:
     startRotation:
       serializedVersion: 2
       minMaxState: 0
-      scalar: -1.0471976
+      scalar: -0.87266463
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -604,9 +604,9 @@ ParticleSystem:
         m_RotationOrder: 4
     randomizeRotationDirection: 0
     gravitySource: 0
-    maxNumParticles: 5
+    maxNumParticles: 1
     customEmitterVelocity: {x: 0, y: 0, z: 0}
-    size3D: 1
+    size3D: 0
     rotation3D: 1
     gravityModifier:
       serializedVersion: 2
@@ -670,7 +670,7 @@ ParticleSystem:
     boxThickness: {x: 0, y: 0, z: 0}
     radiusThickness: 0
     donutRadius: 0.2
-    m_Position: {x: 0.65, y: 0.65, z: 0}
+    m_Position: {x: -0.47, y: 0.65, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
     m_Scale: {x: 1, y: 1, z: 1}
     placementMode: 0
@@ -1196,7 +1196,7 @@ ParticleSystem:
         m_RotationOrder: 4
     separateAxes: 0
   RotationModule:
-    enabled: 1
+    enabled: 0
     x:
       serializedVersion: 2
       minMaxState: 0
@@ -4876,7 +4876,7 @@ ParticleSystemRenderer:
   m_CameraVelocityScale: 0
   m_VelocityScale: 0
   m_LengthScale: 2
-  m_SortingFudge: 0
+  m_SortingFudge: -100
   m_NormalDirection: 1
   m_ShadowBias: 0
   m_RenderAlignment: 2

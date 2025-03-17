@@ -78,5 +78,34 @@ public class EquipmentGameData : BaseGameData
 		UpdateData();
 	}
 
+	public void EnchantEquipment(Equipment equipment)
+	{
+		if (equipment == null)
+		{
+			UpdateData();
+	
+			return;
+		}
+
+		equipment.EquipmentInfo.AddEnchantLevel(1);
+		equipment.UpdateStat();
+
+		UpdateData();
+	}
+
+	public void FailEnchant(Equipment equipment)
+	{
+		if (equipment == null)
+		{
+			UpdateData();
+
+			return;
+		}
+
+		equipment.EquipmentInfo.SubEnchantSafe(1);
+
+		UpdateData();
+	}
+
 	#endregion
 }

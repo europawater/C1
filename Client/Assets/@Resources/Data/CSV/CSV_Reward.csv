@@ -1,4 +1,4 @@
-TemplateID,Remark,NameKey
-1,골드,
-2,다이아,
-3,다이스 카운트,
+TemplateID,Remark,NameKey,IconKey
+1,골드,,sp_ui_ic_gold
+2,다이아,,sp_ui_ic_diamond
+3,다이스 카운트,,sp_ui_image_cube

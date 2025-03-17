@@ -34,6 +34,11 @@ public class TurnManager
 		{
 			_battleInfoOrderList.Add(new BattleInfo(monster, monster.GetCanUseSkillList()));
 		}
+
+		foreach(Buddy buddy in Managers.Object.Buddys)
+		{
+			_battleInfoOrderList.Add(new BattleInfo(buddy, buddy.GetCanUseSkillList()));
+		}
 	}
 
 	public IEnumerator CoTurnBattleHandler(Action onHeroDead, Action onAllMonstersDead)

@@ -499,7 +499,7 @@ ParticleSystem:
     startRotationY:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0
+      scalar: -3.1415925
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -663,7 +663,7 @@ ParticleSystem:
         m_RotationOrder: 4
   ShapeModule:
     serializedVersion: 6
-    enabled: 1
+    enabled: 0
     type: 10
     angle: 25
     length: 5

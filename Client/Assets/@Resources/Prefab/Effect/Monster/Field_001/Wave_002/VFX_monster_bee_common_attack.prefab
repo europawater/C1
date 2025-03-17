@@ -500,7 +500,7 @@ ParticleSystem:
     startRotationY:
       serializedVersion: 2
       minMaxState: 0
-      scalar: -3.1415925
+      scalar: 0
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -5232,7 +5232,7 @@ ParticleSystem:
     startSizeY:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 20
+      scalar: 30
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -5391,7 +5391,7 @@ ParticleSystem:
     startRotationY:
       serializedVersion: 2
       minMaxState: 0
-      scalar: -3.1415925
+      scalar: 0
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -9763,7 +9763,7 @@ ParticleSystemRenderer:
   m_NormalDirection: 1
   m_ShadowBias: 0
   m_RenderAlignment: 2
-  m_Pivot: {x: 0.06, y: 0, z: 0}
+  m_Pivot: {x: -0.1, y: 0, z: 0}
   m_Flip: {x: 0, y: 0, z: 0}
   m_EnableGPUInstancing: 1
   m_ApplyActiveColorSpace: 1

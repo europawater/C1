@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 660911240, guid: f624596d5fe1bd5459a5da424a8abc1b, type: 3}
   m_Name: TheBackendSettings
   m_EditorClassIdentifier: 
-  clientAppID: dd131880-eaae-11ef-84a5-fd199d22526a9328
-  signatureKey: dd133f90-eaae-11ef-84a5-fd199d22526a9328
+  clientAppID: 9b1fb850-eec5-11ef-bb00-03a201837b739361
+  signatureKey: 9b1fdf60-eec5-11ef-bb00-03a201837b739361
   functionAuthKey: 
   packageName: com.DefaultCompany.2D-URP
   sendLogReport: 1

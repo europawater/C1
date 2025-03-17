@@ -6,6 +6,7 @@ using System.Collections;
 using System.Reflection;
 using UnityEngine;
 using static Define;
+using BackEnd.Tcp;
 
 /// <summary>뒤끝 콘솔에 업로드한 차트(데이터 시트) 데이터들 입니다.</summary>
 public class BackendChart
@@ -40,6 +41,21 @@ public class BackendChart
 
 	// Reward Chart
 	public readonly RewardChart RewardChart = new RewardChart();
+
+	// Buddy Chart
+	public readonly BuddyChart BuddyChart = new BuddyChart();
+
+	// Dungeon Chart
+	public readonly DungeonChart DungeonChart = new DungeonChart();
+
+	// Collection Chart
+	public readonly CollectionChart CollectionChart = new CollectionChart();
+
+	// Mission Chart
+	public readonly MissionChart MissionChart = new MissionChart();
+
+	// Shop Chart
+	public readonly ShopChart ShopChart = new ShopChart();
 
 	public void LoadAllChartID()
 	{
@@ -84,6 +100,9 @@ public class BackendGameData
 	public EquipmentGameData Equipment { get; private set; } = new EquipmentGameData();
 	public DiceGameData Dice { get; private set; } = new DiceGameData();
 	public SkillGameData Skill { get; private set; } = new SkillGameData();
+	public BuddyGameData Buddy { get; private set; } = new BuddyGameData();
+	public CollectionGameData Collection { get; private set; } = new CollectionGameData();
+	public MissionGameData Mission { get; private set; } = new MissionGameData();
 
 	public void SetGameDataDict()
 	{
@@ -94,6 +113,9 @@ public class BackendGameData
 		_gameDataDict.Add(Equipment.GetTableName(), Equipment);
 		_gameDataDict.Add(Dice.GetTableName(), Dice);
 		_gameDataDict.Add(Skill.GetTableName(), Skill);
+		_gameDataDict.Add(Buddy.GetTableName(), Buddy);
+		_gameDataDict.Add(Collection.GetTableName(), Collection);
+		_gameDataDict.Add(Mission.GetTableName(), Mission);
 	}
 }
 
@@ -170,6 +192,39 @@ public class BackendManager
 		};
 	}
 
+	public void GetServerTime(Action<bool, DateTime, string> onComplete)
+	{
+		bool isSuccess = false;
+		DateTime serverTime = DateTime.MinValue;
+		string errorInfo = string.Empty;
+
+		SendQueue.Enqueue(Backend.Utils.GetServerTime, bro =>
+		{
+			try
+			{
+				Debug.Log($"Backend.Utils.GetServerTime : {bro}");
+
+				if (bro.IsSuccess())
+				{
+					string serverTimeStr = bro.GetReturnValuetoJSON()["utcTime"].ToString();
+					serverTime = DateTime.Parse(serverTimeStr).ToUniversalTime();
+				}
+				else
+				{
+					errorInfo = bro.ToString();
+				}
+			}
+			catch (Exception e)
+			{
+				errorInfo = e.ToString();
+			}
+			finally
+			{
+				onComplete?.Invoke(isSuccess, serverTime, errorInfo);
+			}
+		});
+	}
+
 	#region Update
 
 	private void UpdateBackend()
@@ -177,6 +232,7 @@ public class BackendManager
 		Managers.Instance.StartCoroutine(CoUpdateGameDataTransaction());
 		Managers.Instance.StartCoroutine(CoUpdatePostScore());
 		Managers.Instance.StartCoroutine(CoUpdateRankScore());
+		Managers.Instance.StartCoroutine(CoUpdateMissionRest());
 	}
 
 	public void StopUpdateBackend()
@@ -188,6 +244,7 @@ public class BackendManager
 	private const float DATA_UPDATE_TICK = 10.0f;
 	private const float POST_UPDATE_TICK = 600.0f;
 	private const float RANK_UPDATE_TICK = 10.0f;
+	private const float MISSION_UPDATE_TICK = 600.0f;
 
 	private IEnumerator CoUpdateGameDataTransaction()
 	{
@@ -349,6 +406,41 @@ public class BackendManager
 				}
 			});
 		}
+	}
+
+	private IEnumerator CoUpdateMissionRest()
+	{
+		while (!_isErrorOccured)
+		{
+			yield return new WaitForSeconds(MISSION_UPDATE_TICK);
+
+			UpdateMissionRest();
+		}
+	}
+
+	private void UpdateMissionRest()
+	{
+		GetServerTime((isSuccess, serverTime, erroInfo) => 
+		{
+			if (isSuccess)
+			{
+				bool resetDaily = GameData.Mission.LastDayMissionResetDate.AddDays(1) <= serverTime;
+				if (resetDaily)
+				{
+					GameData.Mission.ResetDayMission();
+				}
+
+				bool resetWeekly = GameData.Mission.LastWeekMissionResetData.AddDays(7) <= serverTime;
+				if (resetWeekly)
+				{
+					GameData.Mission.ResetWeekMission();
+				}
+			}
+			else
+			{
+				Debug.LogError($"Error : {"BackendManager"} - {"GetServerTime"} - {erroInfo}");
+			}
+		});
 	}
 
 	private const int LOG_EXPIRATION_DAYS = 7;

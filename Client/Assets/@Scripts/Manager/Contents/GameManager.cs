@@ -59,7 +59,7 @@ public class GameManager
 		Equipment oldEquipment = EquipmentDict[part] == null ? null : EquipmentDict[part];
 
 		UI_EquipmentPopup popup = Managers.UI.ShowPopupUI<UI_EquipmentPopup>();
-		popup.SetInfo(oldEquipment, NewEquipment);
+		popup.SetInfo(oldEquipment);
 	}
 
 	public void HandleRemoveNewEquipment()
@@ -67,8 +67,6 @@ public class GameManager
 		Managers.Backend.GameData.Equipment.EquipEquipment(null);
 
 		NewEquipment = null;
-
-		UpdateEquipmentStat();
 
 		// TODO : ÇÃ·¹ÀÌ¾î °æÇèÄ¡ È¹µæ
 	}
@@ -86,6 +84,40 @@ public class GameManager
 		NewEquipment = null;
 
 		UpdateEquipmentStat();
+
+		if (Managers.Object.Hero != null)
+		{
+			Managers.Object.Hero.GetComponent<HeroStatus>().UpdateEquipmentStat();
+		}
+	}
+
+	public void HandleEnchantNewEquipment()
+	{
+		if (NewEquipment == null)
+		{
+			return;
+		}
+
+		float randomValue = Util.GetRadomfloat(0.0f, 100.0f);
+		bool isSuccess = randomValue <= NewEquipment.EquipmentData.EnchantRate;
+
+		if (isSuccess)
+		{
+			Managers.Backend.GameData.Equipment.EnchantEquipment(NewEquipment);
+		}
+		else
+		{
+			if (NewEquipment.EnchantSafe > 0)
+			{
+				Managers.Backend.GameData.Equipment.FailEnchant(NewEquipment);
+			}
+			else
+			{
+				NewEquipment = null;
+
+				Managers.Event.TriggerEvent(EEventType.OnEquipmentEnchantFail);
+			}
+		}
 	}
 
 	#endregion
@@ -298,6 +330,296 @@ public class GameManager
 			EquippedSkillSlotDict.Add(skillSlot.Key, _skillPool.GetSkill(Managers.Object.Hero, skillInfo));
 		}
 	}
+
+	public void HandleDrawSkill()
+	{
+		List<int> drawSkillIdList = new List<int>();
+		drawSkillIdList = Managers.Backend.GameData.Skill.DrawSkill();
+
+		UI_DrawPopup popup = Managers.UI.ShowPopupUI<UI_DrawPopup>();
+		popup.SetInfo(UI_DrawPopup.DrawPopupState.Skill, drawSkillIdList);
+	}
+
+	#endregion
+
+	#region Buddy
+
+	private int? _selectedBuddySlotIndex = null;
+	public int? SelectedBuddySlotIndex
+	{
+		get { return _selectedBuddySlotIndex; }
+		set
+		{
+			_selectedBuddySlotIndex = _selectedBuddySlotIndex == value ? null : value;
+
+			Managers.Event.TriggerEvent(EEventType.OnSelectedBuddySlotIndex);
+		}
+	}
+
+	public Dictionary<EBuddySlot, BuddyInfo> EquippedBuddyInfoSlotDict { get; private set; } = new Dictionary<EBuddySlot, BuddyInfo>();
+
+	public void SetBuddy()
+	{
+		UpdateBuddySlot();
+	}
+
+	public void UpdateBuddySlot()
+	{
+		EquippedBuddyInfoSlotDict.Clear();
+		foreach (var buddySlot in Managers.Backend.GameData.Buddy.BuddySlotDict)
+		{
+			BuddyInfo buddyInfo = null;
+			if (!Managers.Backend.GameData.Buddy.BuddyInfoDict.TryGetValue(buddySlot.Value, out buddyInfo))
+			{
+				continue;
+			}
+
+			EquippedBuddyInfoSlotDict.Add(buddySlot.Key, buddyInfo);
+		}
+	}
+
+	public void HandleDrawBuddy()
+	{
+		List<int> drawBuddyIdList = new List<int>();
+		drawBuddyIdList = Managers.Backend.GameData.Buddy.DrawBuddy();
+
+		UI_DrawPopup popup = Managers.UI.ShowPopupUI<UI_DrawPopup>();
+		popup.SetInfo(UI_DrawPopup.DrawPopupState.Buddy, drawBuddyIdList);
+	}
+
+	#endregion
+
+	#region Dungeon
+
+	private EDungeonType _selectDungeonType = EDungeonType.None;
+	public EDungeonType SelectDungeonType
+	{
+		get { return _selectDungeonType; }
+		set
+		{
+			_selectDungeonType = value;
+		}
+	}
+
+	#endregion
+
+	#region Reward
+
+	public void HandleReward(ERewardType rewardType, int rewardAmount)
+	{
+		switch (rewardType)
+		{
+			case ERewardType.Gold:
+				Managers.Backend.GameData.Currency.AddAmount(ECurrency.Gold, rewardAmount);
+				break;
+			case ERewardType.Diamond:
+				Managers.Backend.GameData.Currency.AddAmount(ECurrency.Diamond, rewardAmount);
+				break;
+			case ERewardType.DiceCount:
+				Managers.Backend.GameData.Dice.AddDiceCount(rewardAmount);
+				break;
+
+			default:
+				break;
+		}
+
+		List<Reward> rewardList = new List<Reward>();
+		rewardList.Add(new Reward(rewardType, rewardAmount));
+		UI_RewardPopup popup = Managers.UI.ShowPopupUI<UI_RewardPopup>();
+		popup.SetInfo(rewardList);
+	}
+
+	#endregion
+
+	#region Collection
+
+	public List<Collection> CollectionList { get; private set; } = new List<Collection>();
+	public List<Collection> ItemCollectionList => CollectionList.Where(collection => collection.CollectionData.CollectionType == ECollectionType.Item).ToList();
+	public List<Collection> BuddyCollectionList => CollectionList.Where(collection => collection.CollectionData.CollectionType == ECollectionType.Buddy).ToList();
+	public List<Collection> SkillCollectionList => CollectionList.Where(collection => collection.CollectionData.CollectionType == ECollectionType.Skill).ToList();
+	public Dictionary<EStat, float> CollectionValueDict { get; private set; } = new Dictionary<EStat, float>();
+
+	public void CollectionInit()
+	{
+		foreach (var collectionInfo in Managers.Backend.GameData.Collection.ItemCollectionInfoDict)
+		{
+			CollectionList.Add(collectionInfo.Value.TemplateID == 0 ? null : new Collection(collectionInfo.Value));
+		}
+
+		foreach (var collectionInfo in Managers.Backend.GameData.Collection.BuddyCollectionInfoDict)
+		{
+			CollectionList.Add(collectionInfo.Value.TemplateID == 0 ? null : new Collection(collectionInfo.Value));
+		}
+
+		foreach (var collectionInfo in Managers.Backend.GameData.Collection.SkillCollectionInfoDict)
+		{
+			CollectionList.Add(collectionInfo.Value.TemplateID == 0 ? null : new Collection(collectionInfo.Value));
+		}
+
+		UpdateCollectionStat();
+	}
+
+	private void UpdateCollectionStat()
+	{
+		CollectionValueDict.Clear();
+		CollectionValueDict.Add(EStat.Attack, CalculateCollectionValue(EStat.Attack));
+		CollectionValueDict.Add(EStat.Defense, CalculateCollectionValue(EStat.Defense));
+		CollectionValueDict.Add(EStat.MaxHP, CalculateCollectionValue(EStat.MaxHP));
+		CollectionValueDict.Add(EStat.CriticalValue, CalculateCollectionValue(EStat.CriticalValue));
+		CollectionValueDict.Add(EStat.CriticalRate, CalculateCollectionValue(EStat.CriticalRate));
+		CollectionValueDict.Add(EStat.SkillDamageValue, CalculateCollectionValue(EStat.SkillDamageValue));
+		CollectionValueDict.Add(EStat.SkillCriticalValue, CalculateCollectionValue(EStat.SkillCriticalValue));
+		CollectionValueDict.Add(EStat.DodgeRate, CalculateCollectionValue(EStat.DodgeRate));
+		CollectionValueDict.Add(EStat.ComboAttackRate, CalculateCollectionValue(EStat.ComboAttackRate));
+		CollectionValueDict.Add(EStat.CounterAttackRate, CalculateCollectionValue(EStat.CounterAttackRate));
+		CollectionValueDict.Add(EStat.BossExtraValue, CalculateCollectionValue(EStat.BossExtraValue));
+	}
+
+	private float CalculateCollectionValue(EStat stat)
+	{
+		float collectionValue = 0.0f;
+		foreach (Collection collection in CollectionList)
+		{
+			if (collection == null || collection.CollectionInfo.OwningState != EOwningState.Owned)
+			{
+				continue;
+			}
+
+			collectionValue += collection.CollectionValueDict[stat];
+		}
+
+		return collectionValue;
+	}
+
+	public bool CanRegistCollection(ECollectionType collectionType, int templateID)
+	{
+		switch (collectionType)
+		{
+			case ECollectionType.Item:
+				foreach (Collection collection in ItemCollectionList)
+				{
+					if (collection.CollectionInfo.OwningState == EOwningState.Owned)
+					{
+						continue;
+					}
+
+					if (!collection.CollectionInfo.NeedCollectionDict.TryGetValue(templateID, out EOwningState owningState))
+					{
+						continue;
+					}
+
+					if (owningState == EOwningState.Unowned)
+					{
+						return true;
+					}
+				}
+				break;
+			case ECollectionType.Buddy:
+				foreach (Collection collection in BuddyCollectionList)
+				{
+					if (collection.CollectionInfo.OwningState == EOwningState.Owned)
+					{
+						continue;
+					}
+
+					if (!collection.CollectionInfo.NeedCollectionDict.TryGetValue(templateID, out EOwningState owningState))
+					{
+						continue;
+					}
+
+					if (owningState == EOwningState.Unowned)
+					{
+						return true;
+					}
+				}
+				break;
+			case ECollectionType.Skill:
+				foreach (Collection collection in SkillCollectionList)
+				{
+					if (collection.CollectionInfo.OwningState == EOwningState.Owned)
+					{
+						continue;
+					}
+
+					if (!collection.CollectionInfo.NeedCollectionDict.TryGetValue(templateID, out EOwningState owningState))
+					{
+						continue;
+					}
+
+					if (owningState == EOwningState.Unowned)
+					{
+						return true;
+					}
+				}
+				break;
+
+			default:
+				break;
+		}
+
+		return false;
+	}
+
+	public void RegistCollection(ECollectionType collectionType, int templateID)
+	{
+		switch (collectionType)
+		{
+			case ECollectionType.Item:
+				Managers.Backend.GameData.Collection.AddNeedCollectionDict(ECollectionType.Item, templateID);
+				break;
+			case ECollectionType.Buddy:
+				Managers.Backend.GameData.Collection.AddNeedCollectionDict(ECollectionType.Buddy, templateID);
+				break;
+			case ECollectionType.Skill:
+				Managers.Backend.GameData.Collection.AddNeedCollectionDict(ECollectionType.Skill, templateID);
+				break;
+
+			default:
+				break;
+		}
+
+		NewEquipment = null;
+
+		UpdateCollectionStat();
+
+		if (Managers.Object.Hero != null)
+		{
+			Managers.Object.Hero.GetComponent<HeroStatus>().UpdateCollectionStat();
+		}
+	}
+
+	#endregion
+
+	#region Mission
+
+	public List<Mission> MissionList { get; private set; } = new List<Mission>();
+	public List<Mission> NormalMissionList => MissionList.Where(mission => mission.MissionData.MissionType == EMissionType.Normal).ToList();
+	public List<Mission> DayMissionList => MissionList.Where(mission => mission.MissionData.MissionType == EMissionType.Day).ToList();
+	public List<Mission> WeekMissionList => MissionList.Where(mission => mission.MissionData.MissionType == EMissionType.Week).ToList();
+
+	public void MissionInit()
+	{
+		foreach (var missionInfo in Managers.Backend.GameData.Mission.NormalMissionInfoDict)
+		{
+			MissionList.Add(missionInfo.Value.TemplateID == 0 ? null : new Mission(missionInfo.Value));
+		}
+
+		foreach (var missionInfo in Managers.Backend.GameData.Mission.DayMissionInfoDict)
+		{
+			MissionList.Add(missionInfo.Value.TemplateID == 0 ? null : new Mission(missionInfo.Value));
+		}
+
+		foreach (var missionInfo in Managers.Backend.GameData.Mission.WeekMissionInfoDict)
+		{
+			MissionList.Add(missionInfo.Value.TemplateID == 0 ? null : new Mission(missionInfo.Value));
+		}
+	}
+
+	#endregion
+
+	#region Shop
+
+
 
 	#endregion
 }

@@ -112,4 +112,9 @@ public class Equipment
 				return 0.0f;
 		}
 	}
+
+	public void UpdateStat()
+	{
+		Initialize();
+	}
 }

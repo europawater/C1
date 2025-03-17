@@ -60,14 +60,14 @@ Material:
     m_Ints: []
     m_Floats:
     - _Emissive: 1
-    - _Mask_intence: 2
-    - _Mask_mul_intence: 2
+    - _Mask_intence: 1.5
+    - _Mask_mul_intence: 2.2
     - _Move_x: 0
-    - _Move_y: -0.04
-    - _Power_exp: 0.8
+    - _Move_y: 0
+    - _Power_exp: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Scale_u: 3
+    - _Scale_u: 2.64
     - _Scale_v: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}

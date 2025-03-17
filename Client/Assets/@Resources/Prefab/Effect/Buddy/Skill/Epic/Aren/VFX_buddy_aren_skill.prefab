@@ -287,7 +287,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 3
+      scalar: 2
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -340,7 +340,7 @@ ParticleSystem:
     startSizeY:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 3.5
+      scalar: 2.5
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -1038,7 +1038,7 @@ ParticleSystem:
     curve:
       serializedVersion: 2
       minMaxState: 1
-      scalar: 1.1
+      scalar: 1.2
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -1047,16 +1047,16 @@ ParticleSystem:
           time: 0
           value: 0
           inSlope: 0
-          outSlope: 9.296874
+          outSlope: 7.332504
           tangentMode: 65
           weightedMode: 0
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.09959602
-          value: 0.9259317
+          time: 0.12064552
+          value: 0.8846338
           inSlope: 1
-          outSlope: 0.0822612
+          outSlope: 0.13119422
           tangentMode: 65
           weightedMode: 0
           inWeight: 0.33333334
@@ -1064,7 +1064,7 @@ ParticleSystem:
         - serializedVersion: 3
           time: 1
           value: 1
-          inSlope: 0.0822612
+          inSlope: 0.13119422
           outSlope: 1
           tangentMode: 5
           weightedMode: 0
@@ -10480,7 +10480,7 @@ ParticleSystem:
     radiusThickness: 0
     donutRadius: 0.2
     m_Position: {x: 2.35, y: 0, z: 0}
-    m_Rotation: {x: 40, y: 0, z: 0}
+    m_Rotation: {x: 50, y: 0, z: 0}
     m_Scale: {x: 1, y: 1, z: 1}
     placementMode: 0
     m_MeshMaterialIndex: 0
@@ -12501,7 +12501,7 @@ ParticleSystem:
     drag:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.07
+      scalar: 0.08
       minScalar: 0
       maxCurve:
         serializedVersion: 2

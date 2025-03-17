@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
+using static Define;
 
 public class UIManager
 {
@@ -140,6 +141,8 @@ public class UIManager
         _popupStack.Push(popup);
 
         gameObject.transform.SetParent(Root.transform);
+
+        Managers.Sound.Play(ESound.Effect, "SFX_popup");
 
         return popup;
     }

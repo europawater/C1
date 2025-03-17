@@ -1,32 +1,32 @@
 public class Define
 {
-    #region Core
+	#region Core
 
-    public enum ESound
-    {
-        Bgm,
-        Effect,
-        MaxCount,
-    }
+	public enum ESound
+	{
+		Bgm,
+		Effect,
+		MaxCount,
+	}
 
-    public enum EScene
-    {
-        Title,
-        Game,
-        CreateSkill,
-    }
+	public enum EScene
+	{
+		Title,
+		Game,
+		Dungeon,
+	}
 
-    public enum EUIEvent
-    {
-        Click,
-        Enter,
-        Exit,
-    }
+	public enum EUIEvent
+	{
+		Click,
+		Enter,
+		Exit,
+	}
 
-    public enum EEventType
-    {
-        // Player
-        OnPlayerChanged,
+	public enum EEventType
+	{
+		// Player
+		OnPlayerChanged,
 
 		// Currency
 		OnCurrencyChanged,
@@ -47,9 +47,23 @@ public class Define
 
 		// Equipment
 		OnEquipmentChanged,
+		OnEquipmentEnchantFail,
 
 		// Post
 		OnPostListChanged,
+
+		// Buddy
+		OnBuddyChanged,
+		OnSelectedBuddySlotIndex,
+
+		// Dungeon
+		OnSelectDungeonSlotIndex,
+
+		// Collection
+		OnCollectionChanged,
+
+		// Mission
+		OnMissionChanged,
 	}
 
 	#endregion
@@ -57,44 +71,45 @@ public class Define
 	#region Object
 
 	public enum EGameObjectType
-    { 
-        None,
-        Map,
-        Hero,
-        Monster,
-        SkillEffect,
-        SkillCube,
+	{
+		None,
+		Map,
+		Hero,
+		Buddy,
+		Monster,
+		SkillEffect,
+		SkillCube,
 		Projectile,
 	}
 
-    public enum EMapState
-    {
-        None,
-        Stop,
-        Move,
-    }
+	public enum EMapState
+	{
+		None,
+		Stop,
+		Move,
+	}
 
-    public enum EAIObjectState
-    { 
-        None,
-        Idle,
-        Move,
-        Attack,
-        Hit,
-        Dead,
-    }
+	public enum EAIObjectState
+	{
+		None,
+		Idle,
+		Move,
+		Attack,
+		Hit,
+		Dead,
+	}
 
-    public enum EMonsterType
-    { 
-        None,
-        NormalMonster,
-        BossMonster,
-    }
+	public enum EMonsterType
+	{
+		None,
+		NormalMonster,
+		BossMonster,
+	}
 
-    public enum EStat
-    { 
-        None,
-        Attack,
+	public enum EStat
+	{
+		None,
+		Attack,
 		Defense,
 		MaxHP,
 		CriticalValue,
@@ -107,65 +122,65 @@ public class Define
 		BossExtraValue,
 	}
 
-    #endregion
+	#endregion
 
-    #region Stage
+	#region Stage
 
-    public enum EStageState
-    { 
-        None,
-        Start,
-        Battle,
-        Move,
-        Over,
-        Clear,
-    }
+	public enum EStageState
+	{
+		None,
+		Start,
+		Battle,
+		Move,
+		Over,
+		Clear,
+	}
 
-    #endregion
+	#endregion
 
-    #region Skill
+	#region Skill
 
-    public enum ESkillCaster
-    {
-        None,
-        Hero,
-        Monster,
-        Buddy,
-    }
+	public enum ESkillCaster
+	{
+		None,
+		Hero,
+		Monster,
+		Buddy,
+	}
 
-    public enum ESkillGrade
-    { 
-        None,
-        Common,
-        Advanced,
+	public enum ESkillGrade
+	{
+		None,
+		Common,
+		Advanced,
 		Rare,
-        Epic,
+		Epic,
 		Legend,
 	}
 
-    public enum ESkillType
-    {
-        None,
-        NormalMelee,
-        NormalRange,
-        SkillSingle,
-        SkillMulti,
-    }
+	public enum ESkillType
+	{
+		None,
+		NormalMelee,
+		NormalRange,
+		SkillSingle,
+		SkillMulti,
+	}
 
-    public enum ESkillEffectType
-    { 
-        Buff,
-        DeBuff,
+	public enum ESkillEffectType
+	{
+		Buff,
+		DeBuff,
 
-    }
+	}
 
-    public enum ESkillSlot
-    { 
-        SkillSlot01,
-        SkillSlot02,
-        SkillSlot03,
-        SkillSlot04,
-        SkillSlot05,
+	public enum ESkillSlot
+	{
+		SkillSlot01,
+		SkillSlot02,
+		SkillSlot03,
+		SkillSlot04,
+		SkillSlot05,
 	}
 
 	#endregion
@@ -173,20 +188,20 @@ public class Define
 	#region Mastery
 
 	public enum EMasteryType
-    { 
-        None,
+	{
+		None,
 		Attack,
 		Defense,
 		MaxHP,
 	}
 
-    #endregion
+	#endregion
 
-    #region Equipment
+	#region Equipment
 
-    public enum EEquipmentPart
-	{ 
-        None,
+	public enum EEquipmentPart
+	{
+		None,
 		Weapon,
 		Helmet,
 		Armor,
@@ -197,7 +212,7 @@ public class Define
 		Ring,
 	}
 
-    public enum EEquipmentGrade
+	public enum EEquipmentGrade
 	{
 		None,
 		Common,
@@ -206,38 +221,123 @@ public class Define
 		Epic,
 		Legend,
 		Mythic,
-        Beyond,
-        Twilight,
+		Beyond,
+		Twilight,
 	}
 
-    #endregion
+	#endregion
 
-    #region Dice
+	#region Dice
 
-    public enum EDiceState
-    { 
-        None,
-        Idle,
-        Draw,
-    }
+	public enum EDiceState
+	{
+		None,
+		Idle,
+		Draw,
+	}
 
 	#endregion
 
 	#region Common
 
 	public enum EOwningState
-    { 
-        None,
-        Unowned,
-        Owned,
-    }
+	{
+		None,
+		Unowned,
+		Owned,
+	}
 
-    public enum ECurrency
-    { 
-        None,
-        Gold,
-        Diamond,
-    }
+	public enum ECurrency
+	{
+		None,
+		Gold,
+		Diamond,
+		DungeonTicket,
+	}
 
-    #endregion
+	public enum ERewardType
+	{
+		None,
+		Gold,
+		Diamond,
+		DiceCount,
+	}
+
+	#endregion
+
+	#region Buddy
+
+	public enum EBuddyGrade
+	{
+		None,
+		Common,
+		Rare,
+		Unique,
+		Epic,
+		Legend,
+	}
+
+	public enum EBuddySlot
+	{
+		BuddySlot01,
+		BuddySlot02,
+	}
+
+	#endregion
+
+	#region Dungeon
+
+	public enum EDungeonType
+	{
+		None,
+		Cube,
+		Gold,
+		Diamond,
+	}
+
+	#endregion
+
+	#region Collection
+
+	public enum ECollectionType
+	{
+		None,
+		Item,
+		Buddy,
+		Skill,
+	}
+
+	#endregion
+
+	#region Mission
+
+	public enum EMissionType
+	{
+		None,
+		Normal,
+		Day,
+		Week,
+	}
+
+	public enum EMissionGoal
+	{
+		None,
+		MonsterKill,
+		ConsumGold,
+	}
+
+	#endregion
+
+	#region Shop
+
+	public enum EShopType
+	{ 
+		None,
+		InApp,
+		AD,
+		Buddy,
+		Skill,
+	}
+
+	#endregion
 }

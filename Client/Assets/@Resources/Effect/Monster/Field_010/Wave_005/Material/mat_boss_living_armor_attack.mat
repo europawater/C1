@@ -56,16 +56,16 @@ Material:
     m_Ints: []
     m_Floats:
     - _Final_Intence: 2.49
-    - _Mask_Intence: 0.34
+    - _Mask_Intence: 1.5
     - _Move_X: 0
     - _Move_Y: 0
     - _Noise_Scale: 100
-    - _Power_Exp: 0.57
+    - _Power_Exp: 1.5
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Scale_U: 2.46
+    - _Scale_U: 2.32
     - _Scale_V: 0.8
     m_Colors:
-    - _Color: {r: 1.6968192, g: 1.0028808, b: 0.12437412, a: 1}
+    - _Color: {r: 1.4980394, g: 0.8853948, b: 0.10980388, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

@@ -22,6 +22,7 @@ public class EquipmentData
 	public float ComboAttackRate { get; private set; }
 	public float CounterAttackRate { get; private set; }
 	public float BossExtraValue { get; private set; }
+	public float EnchantRate { get; private set; }
 
 	public EquipmentData(JsonData json)
 	{
@@ -43,5 +44,6 @@ public class EquipmentData
 		ComboAttackRate = float.Parse(json["ComboAttackRate"].ToString());
 		CounterAttackRate = float.Parse(json["CounterAttackRate"].ToString());
 		BossExtraValue = float.Parse(json["BossExtraValue"].ToString());
+		EnchantRate = float.Parse(json["EnchantRate"].ToString());
 	}
 }

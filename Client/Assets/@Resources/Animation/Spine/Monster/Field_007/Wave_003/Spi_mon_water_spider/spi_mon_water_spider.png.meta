@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 18d31861af47d9c4d8bebf12746af47b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1439437993751205020
+    second: spi_mon_water_spider_0
+  - first:
+      213: 2681791230650786016
+    second: spi_mon_water_spider_1
+  - first:
+      213: -7806040127966173050
+    second: spi_mon_water_spider_2
+  - first:
+      213: 6877512166981703018
+    second: spi_mon_water_spider_3
+  - first:
+      213: 4524104519527715208
+    second: spi_mon_water_spider_4
+  - first:
+      213: 6653903296827585557
+    second: spi_mon_water_spider_5
+  - first:
+      213: -4686813895546753096
+    second: spi_mon_water_spider_6
+  - first:
+      213: 3358801241647045995
+    second: spi_mon_water_spider_7
+  - first:
+      213: -8479074023461296799
+    second: spi_mon_water_spider_8
+  - first:
+      213: 9044155149339369670
+    second: spi_mon_water_spider_9
+  - first:
+      213: 5660437728346713904
+    second: spi_mon_water_spider_10
+  - first:
+      213: 3571388716561714170
+    second: spi_mon_water_spider_11
+  - first:
+      213: 2446571530569706079
+    second: spi_mon_water_spider_12
+  - first:
+      213: 5534379481313126567
+    second: spi_mon_water_spider_13
+  - first:
+      213: 8236316694446489399
+    second: spi_mon_water_spider_14
+  - first:
+      213: -1535945594982130096
+    second: spi_mon_water_spider_15
+  - first:
+      213: -4240236688464866634
+    second: spi_mon_water_spider_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_water_spider_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 234
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b224a65c6160ce0800000000000000
+      internalID: -1439437993751205020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 228
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0a2b06ae2a73520800000000000000
+      internalID: 2681791230650786016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 231
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688a12e9cdf5ba390800000000000000
+      internalID: -7806040127966173050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 231
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a651f5390e4d17f50800000000000000
+      internalID: 6877512166981703018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 176
+        width: 48
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881503d3719d8ce30800000000000000
+      internalID: 4524104519527715208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 191
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51475396bc9675c50800000000000000
+      internalID: 6653903296827585557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 156
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf2293089715feb0800000000000000
+      internalID: -4686813895546753096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 156
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d538ffeebdc9e20800000000000000
+      internalID: 3358801241647045995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 179
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165e8578917445a80800000000000000
+      internalID: -8479074023461296799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 176
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0a4e9b03b438d70800000000000000
+      internalID: 9044155149339369670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 146
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f2357af1aed8e40800000000000000
+      internalID: 5660437728346713904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 156
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbcf7d9d1f109130800000000000000
+      internalID: 3571388716561714170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 106
+        width: 138
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ae03538d7f3f120800000000000000
+      internalID: 2446571530569706079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a821ebd0d01ecc40800000000000000
+      internalID: 5534379481313126567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f3a1e45664d4270800000000000000
+      internalID: 8236316694446489399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 103
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e93c08e993faae0800000000000000
+      internalID: -1535945594982130096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_water_spider_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 4
+        width: 79
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b219749237a725c0800000000000000
+      internalID: -4240236688464866634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_water_spider_0: -1439437993751205020
+      spi_mon_water_spider_1: 2681791230650786016
+      spi_mon_water_spider_10: 5660437728346713904
+      spi_mon_water_spider_11: 3571388716561714170
+      spi_mon_water_spider_12: 2446571530569706079
+      spi_mon_water_spider_13: 5534379481313126567
+      spi_mon_water_spider_14: 8236316694446489399
+      spi_mon_water_spider_15: -1535945594982130096
+      spi_mon_water_spider_16: -4240236688464866634
+      spi_mon_water_spider_2: -7806040127966173050
+      spi_mon_water_spider_3: 6877512166981703018
+      spi_mon_water_spider_4: 4524104519527715208
+      spi_mon_water_spider_5: 6653903296827585557
+      spi_mon_water_spider_6: -4686813895546753096
+      spi_mon_water_spider_7: 3358801241647045995
+      spi_mon_water_spider_8: -8479074023461296799
+      spi_mon_water_spider_9: 9044155149339369670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

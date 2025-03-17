@@ -1,6 +1,8 @@
 using BackEnd;
 using LitJson;
+using Spine;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 using static Define;
 
@@ -28,7 +30,7 @@ public class SkillGameData : BaseGameData
 
 	protected override void InitializeData()
 	{
-		DefaultSkillInfo = new SkillInfo(100001, EOwningState.Owned, 1, true);
+		DefaultSkillInfo = new SkillInfo(100001, EOwningState.Owned, 1, true, 0);
 
 		SkillInfoDict.Clear();
 		foreach (SkillData skillData in Managers.Backend.Chart.SkillChart.HeroSkillDataDict.Values)
@@ -38,7 +40,7 @@ public class SkillGameData : BaseGameData
 				continue;
 			}
 
-			SkillInfo skillInfo = new SkillInfo(skillData.TemplateID, EOwningState.Unowned, 1, false);
+			SkillInfo skillInfo = new SkillInfo(skillData.TemplateID, EOwningState.Unowned, 1, false, 0);
 			SkillInfoDict.Add(skillData.TemplateID, skillInfo);
 		}
 
@@ -81,8 +83,8 @@ public class SkillGameData : BaseGameData
 
 	public void EquipSkill(ESkillSlot skillSlot, int templateID)
 	{
-		int skillTemplatedID = 0;
-		if (!SkillSlotDict.TryGetValue(skillSlot, out skillTemplatedID))
+		int skillTemplateID = 0;
+		if (!SkillSlotDict.TryGetValue(skillSlot, out skillTemplateID))
 		{
 			return;
 		}
@@ -96,14 +98,14 @@ public class SkillGameData : BaseGameData
 			}
 		}
 
-		if (skillTemplatedID == 0)
+		if (skillTemplateID == 0)
 		{
 			SkillInfoDict[templateID].SetIsEquipped(true);
 			SkillSlotDict[skillSlot] = templateID;
 		}
 		else
 		{
-			SkillInfoDict[skillTemplatedID].SetIsEquipped(false);
+			SkillInfoDict[skillTemplateID].SetIsEquipped(false);
 
 			if (templateID != 0)
 			{
@@ -116,6 +118,84 @@ public class SkillGameData : BaseGameData
 		Managers.Game.UpdateSkillSlot();
 
 		UpdateData();
+	}
+
+	public void EquipRecommendedSkill()
+	{
+		foreach (var slot in SkillSlotDict)
+		{
+			if (slot.Value == 0)
+			{
+				continue;
+			}
+
+			SkillInfoDict[slot.Value].SetIsEquipped(false);
+		}
+
+		SkillSlotDict.Clear();
+		SkillSlotDict.Add(ESkillSlot.SkillSlot01, 0);
+		SkillSlotDict.Add(ESkillSlot.SkillSlot02, 0);
+		SkillSlotDict.Add(ESkillSlot.SkillSlot03, 0);
+		SkillSlotDict.Add(ESkillSlot.SkillSlot04, 0);
+		SkillSlotDict.Add(ESkillSlot.SkillSlot05, 0);
+
+		int stack = 0;
+		int index = 0;
+		foreach (var skillInfo in SkillInfoDict.OrderByDescending(kvp => kvp.Key))
+		{
+			if (stack >= 5)
+			{
+				break;
+			}
+
+			if (skillInfo.Value.OwningState == EOwningState.Owned)
+			{
+				SkillInfoDict[skillInfo.Value.TemplateID].SetIsEquipped(true);
+				SkillSlotDict[(ESkillSlot)index] = skillInfo.Value.TemplateID;
+				stack++;
+				index++;
+			}
+		}
+
+		Managers.Game.UpdateSkillSlot();
+
+		UpdateData();
+	}
+
+	public void LevelUpSkills()
+	{
+		foreach (SkillInfo skillInfo in SkillInfoDict.Values)
+		{
+			if (skillInfo.CanLevelUp)
+			{ 
+				skillInfo.LevelUp();
+			}
+		}
+
+		UpdateData();
+	}
+
+	public List<int> DrawSkill()
+	{
+		List<int> drawSkillList = new List<int>();
+		for (int count = 0; count < 10; count++)
+		{
+			int randomValue = Util.GetRandomInt(0, SkillInfoDict.Count - 1);
+			int key = SkillInfoDict.Keys.ElementAt(randomValue);
+			drawSkillList.Add(key);
+			if (SkillInfoDict[key].OwningState == EOwningState.Unowned)
+			{
+				SkillInfoDict[key].SetOwningState(EOwningState.Owned);
+			}
+			else if(SkillInfoDict[key].OwningState == EOwningState.Owned)
+			{
+				SkillInfoDict[key].AddPieceCount(10);
+			}
+		}
+
+		UpdateData();
+
+		return drawSkillList;
 	}
 
 	#endregion

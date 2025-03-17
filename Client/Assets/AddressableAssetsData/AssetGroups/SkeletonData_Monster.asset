@@ -153,6 +153,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ee9dc5c45dfd7340a7cc0da92f8702b
+    m_Address: spi_mon_water_frog_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2f5fa0a0807d7e44f80b1cf853d17be5
     m_Address: spi_mon_wood_common_SkeletonData
     m_ReadOnly: 0
@@ -161,6 +167,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2f9d03ca5af3c9f4b833176785f54c57
     m_Address: spi_mon_seashell_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fae7824a3b2c8844be39c0d25193c00
+    m_Address: spi_mon_pirate_attacker_SkeletonData
     m_ReadOnly: 0
     m_SerializedLabels:
     - Preload
@@ -345,6 +357,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71584f019e7076f49aeb5289689ca454
+    m_Address: spi_mon_water_slime_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 716e7eff3e7aa174cbe5d2847e101dcd
     m_Address: spi_mon_cube_puncher_SkeletonData
     m_ReadOnly: 0
@@ -357,8 +375,20 @@ MonoBehaviour:
     m_SerializedLabels:
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 782a3780674acf74cb2cad0af6004d2b
+    m_Address: spi_mon_pirate_shooter_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 79cb691b81f242b48aa77de47d1e1e5a
     m_Address: spi_mon_shark_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cf9e3541ffbd344abe5d761bdf7746e
+    m_Address: spi_mon_skyflower_SkeletonData
     m_ReadOnly: 0
     m_SerializedLabels:
     - Preload
@@ -467,6 +497,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bcabdba29c35f7f43bdf792094bbbcf3
     m_Address: spi_mon_tiger_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd1fab83b32509a4aa3b670d78bebe91
+    m_Address: spi_mon_skybee_SkeletonData
     m_ReadOnly: 0
     m_SerializedLabels:
     - Preload
@@ -581,6 +617,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f76385107dd393848a21d88a6aabe078
     m_Address: spi_mon_wood_rare_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7829464bc47a1b468edadb312bc87bb
+    m_Address: spi_mon_water_spider_SkeletonData
     m_ReadOnly: 0
     m_SerializedLabels:
     - Preload

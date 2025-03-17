@@ -29,7 +29,11 @@ public class TitleScene : BaseScene
                 // Backend
                 Managers.Backend.Init(() =>
                 {
-					OnBackendInitSuccess();
+					// Ads
+					Managers.Ads.Init(() =>
+					{
+						OnBackendInitSuccess();
+					});
                 });
             }
         });
@@ -37,6 +41,8 @@ public class TitleScene : BaseScene
 
     private void OnBackendInitSuccess()
     {
+        Managers.Sound.Init();
+
 		// UI
 		UI_TitleScene sceneUI = Managers.UI.ShowSceneUI<UI_TitleScene>();
         sceneUI.SetInfo();

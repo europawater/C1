@@ -13,7 +13,9 @@ public class UI_EventHandler : MonoBehaviour, IPointerClickHandler, IPointerEnte
     {
         if (OnClickHandler != null)
         {
-            OnClickHandler.Invoke(eventData);
+            Managers.Sound.Play(ESound.Effect, "SFX_click");
+
+			OnClickHandler.Invoke(eventData);
         }
     }
 

@@ -1,67 +1,107 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
 using static Define;
 
 public class UI_EquipmentPopup : UI_Popup
 {
-	private enum GameObjects
-	{
-		UI_OldEquipmentSub,
-		UI_NewEquipmentSub,
-	}
+    private enum GameObjects
+    {
+        UI_OldEquipmentSub,
+        UI_NewEquipmentSub,
+    }
 
-	private Equipment _oldEquipment;
-	private Equipment _newEquipment;
+    private enum Images
+    {
+        Image_Registration,
+    }
 
-	private UI_OldEquipmentSub _oldEquipmentSub;
-	private UI_NewEquipmentSub _newEquipmentSub;
+    private enum Buttons
+    {
+        Button_Collection,
+        Button_Enchant,
+    }
 
-	protected override void Awake()
-	{
-		base.Awake();
+    private Equipment _oldEquipment;
 
-		// Bind
-		BindGameObjects(typeof(GameObjects));
+    private UI_OldEquipmentSub _oldEquipmentSub;
+    private UI_NewEquipmentSub _newEquipmentSub;
 
-		// Init
-		_oldEquipmentSub = GetGameObject((int)GameObjects.UI_OldEquipmentSub).GetComponent<UI_OldEquipmentSub>();
-		_newEquipmentSub = GetGameObject((int)GameObjects.UI_NewEquipmentSub).GetComponent<UI_NewEquipmentSub>();
-	}
+    protected override void Awake()
+    {
+        base.Awake();
 
-	private void OnEnable()
-	{
-		Managers.Event.AddEvent(EEventType.OnEquipmentChanged, CloseEquipmentPopupUI);
-	}
+        // Bind
+        BindGameObjects(typeof(GameObjects));
+        BindImages(typeof(Images));
+        BindButtons(typeof(Buttons));
 
-	private void OnDisable()
-	{
-		Managers.Event.RemoveEvent(EEventType.OnEquipmentChanged, CloseEquipmentPopupUI);
-	}
+        // Init
+        _oldEquipmentSub = GetGameObject((int)GameObjects.UI_OldEquipmentSub).GetComponent<UI_OldEquipmentSub>();
+        _newEquipmentSub = GetGameObject((int)GameObjects.UI_NewEquipmentSub).GetComponent<UI_NewEquipmentSub>();
 
-	public void SetInfo(Equipment oldEquipment, Equipment newEquipment)
-	{
-		_oldEquipment = oldEquipment;
-		_newEquipment = newEquipment;
+        // Bind Event
+        GetButton((int)Buttons.Button_Collection).gameObject.BindEvent(OnClickCollection);
+        GetButton((int)Buttons.Button_Enchant).gameObject.BindEvent(OnClickEnchant);
+    }
 
-		RefreshUI();
-	}
+    private void OnEnable()
+    {
+        Managers.Event.AddEvent(EEventType.OnEquipmentChanged, CloseEquipmentPopupUI);
+        Managers.Event.AddEvent(EEventType.OnCollectionChanged, CloseEquipmentPopupUI);
+    }
 
-	private void RefreshUI()
-	{
-		if (_oldEquipment == null)
-		{
-			_oldEquipmentSub.gameObject.SetActive(false);
-		}
-		else
-		{ 
-			_oldEquipmentSub.SetInfo(_oldEquipment);
-			_oldEquipmentSub.gameObject.SetActive(true);
-		}
+    private void OnDisable()
+    {
+        Managers.Event.RemoveEvent(EEventType.OnEquipmentChanged, CloseEquipmentPopupUI);
+        Managers.Event.RemoveEvent(EEventType.OnCollectionChanged, CloseEquipmentPopupUI);
+    }
 
-		_newEquipmentSub.SetInfo(_oldEquipment, _newEquipment);
-	}
+    public void SetInfo(Equipment oldEquipment)
+    {
+        _oldEquipment = oldEquipment;
 
-	private void CloseEquipmentPopupUI()
-	{
-		ClosePopupUI();
-	}
+        RefreshUI();
+    }
+
+    public void RefreshUI()
+    {
+        if (_oldEquipment == null)
+        {
+            _oldEquipmentSub.gameObject.SetActive(false);
+        }
+        else
+        {
+            _oldEquipmentSub.SetInfo(_oldEquipment);
+            _oldEquipmentSub.gameObject.SetActive(true);
+        }
+
+        _newEquipmentSub.SetInfo(_oldEquipment);
+
+        bool canRegist = Managers.Game.CanRegistCollection(ECollectionType.Item, Managers.Game.NewEquipment.EquipmentInfo.TemplateID);
+        GetButton((int)Buttons.Button_Collection).interactable = canRegist;
+        GetImage((int)Images.Image_Registration).gameObject.SetActive(canRegist);
+    }
+
+    private void CloseEquipmentPopupUI()
+    {
+        ClosePopupUI();
+    }
+
+    #region UI Event
+
+    private void OnClickCollection(PointerEventData data)
+    {
+        if (GetButton((int)Buttons.Button_Collection).interactable)
+        {
+            Managers.Game.RegistCollection(ECollectionType.Item, Managers.Game.NewEquipment.EquipmentInfo.TemplateID);
+        }
+    }
+
+    private void OnClickEnchant(PointerEventData data)
+    {
+        UI_EnchantPopup popup = Managers.UI.ShowPopupUI<UI_EnchantPopup>();
+        popup.SetInfo(this);
+    }
+
+    #endregion
 }

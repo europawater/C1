@@ -49,17 +49,7 @@ public class PostChart
 		switch (PostChartType)
 		{
 			case PostChartType.RewardChart:
-				switch (TemplateID)
-				{
-					case 1:
-						Managers.Backend.GameData.Currency.AddAmount(ECurrency.Gold, Count);
-						break;
-					case 2:
-						Managers.Backend.GameData.Currency.AddAmount(ECurrency.Diamond, Count);
-						break;
-					case 3:
-						break;
-				}
+				Managers.Game.HandleReward((ERewardType)TemplateID, Count);
 				break;
 		}
 	}

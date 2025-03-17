@@ -12,11 +12,10 @@ Material:
   m_Parent: {fileID: 2100000, guid: b93d814c5a8b5d945a9f40db8abaf340, type: 2}
   m_ModifiedSerializedProperties: 2
   m_ValidKeywords:
-  - _EMISSION
   - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords:
   - _FLIPBOOKBLENDING_OFF
-  m_LightmapFlags: 2
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -35,9 +34,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Blend: 0
-    - _DstBlend: 10
-    - _DstBlendAlpha: 10
+    - _Blend: 2
+    - _DstBlend: 1
+    - _DstBlendAlpha: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}

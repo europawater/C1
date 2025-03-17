@@ -18,7 +18,7 @@ public class Skill
 		{
 			List<BaseAIObject> targetList = new List<BaseAIObject>();
 
-			if (_owner.GameObjectType == EGameObjectType.Hero)
+			if (_owner.GameObjectType == EGameObjectType.Hero || _owner.GameObjectType == EGameObjectType.Buddy)
 			{
 				switch (SkillData.SkillType)
 				{
@@ -61,6 +61,10 @@ public class Skill
 		else if (_owner.GameObjectType == EGameObjectType.Monster)
 		{
 			SkillData = Managers.Backend.Chart.SkillChart.MonsterSkillDataDict[skillInfo.TemplateID];
+		}
+		else if (_owner.GameObjectType == EGameObjectType.Buddy)
+		{
+			SkillData = Managers.Backend.Chart.SkillChart.BuddySkillDataDict[skillInfo.TemplateID];
 		}
 
 		SkillInfo = skillInfo;
@@ -118,10 +122,10 @@ public class Skill
 			Managers.Object.SpawnSkillEffect(_owner.transform.position, SkillData.SkillEffectPrefabKey, SkillData.LifeTime);
 		}
 		else if (SkillData.SkillType == ESkillType.NormalRange)
-		{ 
+		{
 			Vector2 startPosition = _owner.transform.position + Vector3.up;
 			Vector2 endPosition = SkillTargetList.FirstOrDefault().transform.position + Vector3.up;
-			float lifeTime = SkillData.HitDelay == 0 ? 0.3f : SkillData.HitDelay;
+			float lifeTime = SkillData.HitStartTime == 0 ? 0.3f : SkillData.HitStartTime;
 
 			Managers.Object.SpawnProjectile(SkillData.SkillEffectPrefabKey, startPosition, endPosition, lifeTime);
 		}
@@ -135,6 +139,11 @@ public class Skill
 		{
 			Managers.Instance.StopCoroutine(_coSkillHitHandler);
 			_coSkillHitHandler = null;
+		}
+
+		if (SkillData.StartSoundKey != string.Empty)
+		{
+			Managers.Sound.Play(ESound.Effect, SkillData.StartSoundKey);
 		}
 
 		_coSkillHitHandler = Managers.Instance.StartCoroutine(CoSkillHitHandler());
@@ -168,6 +177,11 @@ public class Skill
 					damage = Mathf.FloorToInt(CalculateSkillDamage(target, isCritical));
 				}
 
+				if (SkillData.HitSoundKey != string.Empty)
+				{
+					Managers.Sound.Play(ESound.Effect, SkillData.HitSoundKey);
+				}
+
 				target.OnDamage(_owner, damage, isCritical, SkillData.HitEffectPrefabKey);
 			}
 
@@ -183,14 +197,14 @@ public class Skill
 		if (target.GameObjectType == EGameObjectType.Monster)
 		{
 			BaseMonsterObject monster = (BaseMonsterObject)target;
-			if(monster.MonsterType == EMonsterType.BossMonster)
+			if (monster.MonsterType == EMonsterType.BossMonster)
 			{
 				bossExtraValue = _owner.Status.BossExtraValue;
 			}
 		}
 
 		float damage = _owner.Status.Attack + (_owner.Status.Attack * bossExtraValue);
-		if(isCritical)
+		if (isCritical)
 		{
 			float criticalvalue = _owner.Status.CriticalValue;
 			damage = damage + (damage * criticalvalue);
@@ -201,7 +215,7 @@ public class Skill
 
 	private float CalculateSkillDamage(BaseAIObject target, bool isCritical)
 	{
-		float damage = _owner.Status.Attack * SkillData.AttackValue;
+		float damage = _owner.Status.Attack * SkillData.AttackValue + (SkillData.IncreaseValue * SkillInfo.Level);
 		if (isCritical)
 		{
 			float criticalvalue = _owner.Status.SkillCriticalValue;

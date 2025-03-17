@@ -64,7 +64,7 @@ Material:
     - _Power_exp: 0.88
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Scale_u: 1.85
+    - _Scale_u: 2.39
     - _Scale_v: 0.78
     m_Colors:
     - _Color: {r: 0.05489557, g: 0.23896945, b: 1.6625506, a: 1}

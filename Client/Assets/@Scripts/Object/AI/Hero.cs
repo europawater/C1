@@ -24,7 +24,7 @@ public class Hero : BaseAIObject
             return;
         }
 
-        SkeletonAnimation.skeletonDataAsset = Managers.Resource.Load<SkeletonDataAsset>(heroData.SkeletondataKey);
+        SkeletonAnimation.skeletonDataAsset = Managers.Resource.Load<SkeletonDataAsset>(Util.GetHeroSkeletonDataKey());
 		SkeletonAnimation.Initialize(true);
 
 		Status.SetInfo(this, heroData.Attack, heroData.Defense, heroData.MaxHP, heroData.CriticalValue, heroData.CriticalRate, heroData.SkillDamageValue, heroData.SkillCriticalValue, heroData.DodgeRate, heroData.ComboAttackRate, heroData.CounterAttackRate);

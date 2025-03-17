@@ -15,8 +15,50 @@ MonoBehaviour:
   m_GroupName: Image_Icon
   m_GUID: b08f9dd309ba1ae459b57f82f3a70209
   m_SerializeEntries:
+  - m_GUID: 039aa9c7b9850fd4f85a12c62c0f3bc1
+    m_Address: sp_ui_ic_skill_legend_hollysword
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 073ac649ebb06634185e70448114daa7
+    m_Address: sp_ui_ic_buddy_epic_lucy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a44fa77771193948854607e90c87723
+    m_Address: sp_ui_ic_buddy_unique_chloe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b206ea4b240bd64d8e64691d30ae3c0
+    m_Address: sp_ui_ic_buddy_epic_veti
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0b667c67d272e6e47899dfae67c48540
     m_Address: sp_ui_ic_rare_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b6fd0e62f7d9774b9d3e0795980cc08
+    m_Address: sp_ui_ic_skill_rare_flower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c46f0070ef12f84988498c6203c8133
+    m_Address: sp_ui_ic_diamond
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f3ba0890a551ca4a828625e1649570d
+    m_Address: sp_ui_ic_skill_legend_blackholl
     m_ReadOnly: 0
     m_SerializedLabels:
     - Preload
@@ -27,8 +69,56 @@ MonoBehaviour:
     m_SerializedLabels:
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11f7feddf49f1544a935f8f2fdae8652
+    m_Address: sp_ui_ic_buddy_epic_walt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 130da37cfb12d4c48bd126fb6e351578
     m_Address: sp_ui_ic_common_necklace_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e908f7eaa71d88409358b1092a2897e
+    m_Address: sp_ui_ic_buddy_unique_leon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 201d79e8cd897514e9b18186878428d6
+    m_Address: sp_ui_ic_buddy_unique_yuli
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 207ee4338560c5247958c30e35083be2
+    m_Address: sp_ui_ic_buddy_common_duck
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 285ec59991f41c14981ad94c180f91a7
+    m_Address: sp_ui_ic_buddy_unique_michelle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30a0a52d3afdfb64f9b276b23fa11e22
+    m_Address: sp_ui_pl_grade_common
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35cddae11fa174142a017e48bd93763e
+    m_Address: sp_ui_ic_skill_unique_spear
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36e51a3dcd3fe584aa92e1b10b96c98d
+    m_Address: sp_ui_ic_skill_unique_iceattaeck
     m_ReadOnly: 0
     m_SerializedLabels:
     - Preload
@@ -39,8 +129,146 @@ MonoBehaviour:
     m_SerializedLabels:
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b4ac33b05907d0429c02674d9f0e9bf
+    m_Address: sp_ui_ic_buddy_rare_lala
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c4f459b0e60a054fa7cab3582b4ba58
+    m_Address: sp_ui_pl_grade_epic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 421a0291dafcaec4793daa157bbd0741
+    m_Address: sp_ui_ic_buddy_legend_kyle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45b2cf110cf5bd3478be93f6dc91e2da
+    m_Address: sp_ui_ic_skill_rare_bomb
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 45fadb9d2b0679d4dbcc587a0ca87b78
     m_Address: sp_ui_ic_epic_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45fdd843fb59b8e43a4495e633922339
+    m_Address: sp_ui_ic_skill_unique_wind
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4751f7eada76d704aabfd5823308f6d4
+    m_Address: sp_ui_ic_skill_unique_darkexpoison
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a10cd060d4764148afb20927251ea66
+    m_Address: sp_ui_ic_skill_epic_thunderlighting
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a21c985a89161149a244a27e2f6f3b0
+    m_Address: sp_ui_ic_buddy_epic_lui
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a6fd8f38c98b0b43aedb519c70b8968
+    m_Address: sp_ui_ic_buddy_rare_eile
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4be4f82781bd99c43ab6ebeb0e6c4e6e
+    m_Address: sp_ui_ic_skill_common_star
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d8330df9e0e3b647a6d75287cab3b75
+    m_Address: sp_ui_pl_grade_legend
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e03676328f2d134e8924a949b770cc2
+    m_Address: sp_ui_ic_skill_rare_fireboll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fa5b44da8b6f3e4a9b317826978246d
+    m_Address: sp_ui_ic_skill_legend_meteo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fb04ffc0524f24448e8e096d40dc231
+    m_Address: sp_ui_ic_buddy_legend_bella
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56f3f2f2f006287489f7377b3e16d269
+    m_Address: sp_ui_ic_buddy_common_tom
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57162784ae370794abb5c303a99e7fa4
+    m_Address: sp_ui_image_cube
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58240496d1d92c847adc6290fc1266ec
+    m_Address: sp_ui_ic_skill_unique_lighting
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e7ea36194fff8b49b3fe7e89fc0e42c
+    m_Address: sp_ui_ic_skill_epic_flamestrike
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61ed2826080d95b479f79c8b228e5cf8
+    m_Address: sp_ui_ic_skill_rare_thunder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64ce10444d640204b9f9e8f958b599e0
+    m_Address: sp_ui_ic_buddy_epic_hadi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6603b16c4ff177844a0ee090b90dc4db
+    m_Address: sp_ui_ic_buddy_unique_laurel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69da57daac7825f4e984ca8703aa2846
+    m_Address: sp_ui_ic_buddy_common_mari
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cc578513f86e114384120d282dba6ca
+    m_Address: sp_ui_ic_skill_legend_lightingexporsion
     m_ReadOnly: 0
     m_SerializedLabels:
     - Preload
@@ -51,8 +279,32 @@ MonoBehaviour:
     m_SerializedLabels:
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7470d7858e94c414eb72db152fb74b37
+    m_Address: sp_ui_ic_buddy_epic_vanessa
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 779e44b2c00720a4c83a87fa3554559c
     m_Address: sp_ui_ic_common_shoulder_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80d81d0232adf014bba1b814fda8eda0
+    m_Address: sp_ui_ic_skill_legend_brizzard
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85a4deaed4c095d47908d448da77e774
+    m_Address: sp_ui_ic_skill_common_holly
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86b836b2b7fedcf4fbfc83956cb2f0d2
+    m_Address: sp_ui_ic_skill_epic_iceregion
     m_ReadOnly: 0
     m_SerializedLabels:
     - Preload
@@ -63,8 +315,86 @@ MonoBehaviour:
     m_SerializedLabels:
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a1834564cd669741bcda04428f6862d
+    m_Address: sp_ui_ic_buddy_unique_storm
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e246c76105ab874ba23bed31ff34182
+    m_Address: sp_ui_ic_buddy_epic_aren
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91fd976f671003e4f85ff8cc4f748d40
+    m_Address: sp_ui_ic_buddy_rare_sam
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96f10d8388b453846a5d1676514de308
+    m_Address: sp_ui_ic_skill_unique_bazuka
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9807aea5da875e648862420ecdca44ef
+    m_Address: sp_ui_pl_grade_twlilight
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d8445fa114ec5b43bf9af0df917983f
+    m_Address: sp_ui_ic_buddy_epic_ballack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9df0c090de3cf9044961b3fe9a3a5a67
+    m_Address: sp_ui_ic_buddy_unique_andre
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6d980e7d0a07964ea1d5de7e5051989
+    m_Address: sp_ui_ic_skill_unique_mashfire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3625892b4132994a9bdc8c33efb276c
+    m_Address: sp_ui_ic_skill_rare_sword
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b7c8a6b1fe39f5147b6ddeb2468c92ad
     m_Address: sp_ui_ic_common_sword_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b96538ca6e29fdc48b580ee79a05444e
+    m_Address: sp_ui_ic_gold
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdaceff198664cd4995055ab46dd4012
+    m_Address: sp_ui_ic_skill_unique_flameexposion
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3ec54a64193f1240998567440e4ac8f
+    m_Address: sp_ui_ic_buddy_legend_zion
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c55e18cb06bfacd47986aed6a1bf2266
+    m_Address: sp_ui_ic_buddy_legend_alex
     m_ReadOnly: 0
     m_SerializedLabels:
     - Preload
@@ -75,8 +405,62 @@ MonoBehaviour:
     m_SerializedLabels:
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cca6301e7d9dbe947a0d914d600e1d27
+    m_Address: sp_ui_ic_skill_common_bullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0f6de964fcaaf94a991a4843c4fa208
+    m_Address: sp_ui_ic_buddy_rare_rooki
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d20aa29cba4258844a592c88021e360f
+    m_Address: sp_ui_ic_buddy_epic_coon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d2691da1421ec524ab383bf122644188
     m_Address: sp_ui_ic_common_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4594d5195b2984488b102a80f367b2a
+    m_Address: sp_ui_pl_grade_myth
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dacd79d66ad53b4469d216a800ba3044
+    m_Address: sp_ui_ic_skill_epic_dark
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: daf9af2971e6a6e489f3bb93eec25650
+    m_Address: sp_ui_ic_skill_unique_arrow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ded2aff0a3e55be40be0b801c2fe6e9f
+    m_Address: sp_ui_pl_grade_beyond
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dff4cdca1940f454b9249f2c3cea171c
+    m_Address: sp_ui_ic_skill_epic_burstcall
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e58b106078cf7cc4fbe9641bba61c7cd
+    m_Address: sp_ui_ic_skill_epic_posiongranade
     m_ReadOnly: 0
     m_SerializedLabels:
     - Preload
@@ -87,8 +471,56 @@ MonoBehaviour:
     m_SerializedLabels:
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e83e23dc71a46e7408779a4f1b3693b1
+    m_Address: sp_ui_ic_skill_epic_sound
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eba1799d5d73d824d8025c3ec94cc174
+    m_Address: sp_ui_pl_grade_rare
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec06d3785767ea54cb65e03c7acf3ffa
+    m_Address: sp_ui_pl_grade_unique
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee8ee079ffcd1ff4c87b7d3927db2f9a
+    m_Address: sp_ui_ic_skill_epic_hollyarrow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f1ed8e1f6a1d9a24b9f6441630a46d8a
     m_Address: sp_ui_ic_common_helmet_001
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9f0805e1d6a34240b81e4be4fb62d0b
+    m_Address: sp_ui_ic_skill_unique_posion
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb4bd8289d6f3f247aea9241644d94be
+    m_Address: sp_ui_ic_buddy_legend_sylvia
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe4231c0e5e5f734bbce53c78dfcf3fe
+    m_Address: sp_ui_ic_buddy_epic_owen
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe5519113c182d3478d9707c6a11ec21
+    m_Address: sp_ui_ic_buddy_rare_luke
     m_ReadOnly: 0
     m_SerializedLabels:
     - Preload

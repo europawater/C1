@@ -1,3 +1,4 @@
+using Spine.Unity;
 using System;
 using System.Collections.Generic;
 using UnityEngine;
@@ -34,10 +35,18 @@ public class UI_HeroPopup : UI_Popup
 	{
 		Button_Close,
 		Button_MasteryUpgrade,
+
+		Button_EquipAll,
+		Button_UpgradeAll,
 	}
 
 	private enum Toggles
 	{
+		// Spine Toggle
+		Toggle_Male,
+		Toggle_Female,
+
+		// Page Toggle
 		Toggle_HeroInfo,
 		Toggle_SkillInfo,
 	}
@@ -45,6 +54,11 @@ public class UI_HeroPopup : UI_Popup
 	private enum Sliders
 	{
 		Slider_Mastery,
+	}
+
+	private enum SkeletonGraphics
+	{
+		Spine_Character,
 	}
 
 	public enum HeroPopupState
@@ -55,6 +69,10 @@ public class UI_HeroPopup : UI_Popup
 	}
 
 	private HeroPopupState _heroPopupState = HeroPopupState.None;
+
+	// Spine Toggle
+	private Toggle _maleToggle;
+	private Toggle _femaleToggle;
 
 	// Page Toggle
 	private Toggle _heroInfoToggle;
@@ -79,8 +97,12 @@ public class UI_HeroPopup : UI_Popup
 		BindButtons(typeof(Buttons));
 		BindToggles(typeof(Toggles));
 		BindSliders(typeof(Sliders));
+		BindSkeletonGraphic(typeof(SkeletonGraphics));
 
 		// Init
+		_maleToggle = GetToggle((int)Toggles.Toggle_Male);
+		_femaleToggle = GetToggle((int)Toggles.Toggle_Female);
+
 		_heroInfoToggle = GetToggle((int)Toggles.Toggle_HeroInfo);
 		_skillInfoToggle = GetToggle((int)Toggles.Toggle_SkillInfo);
 
@@ -110,10 +132,16 @@ public class UI_HeroPopup : UI_Popup
 		GetGameObject((int)GameObjects.CloseArea).BindEvent(OnClickCloseArea);
 		GetButton((int)Buttons.Button_Close).gameObject.BindEvent(OnClickCloseArea);
 
+		_maleToggle.gameObject.BindEvent(OnClickMaleToggle);
+		_femaleToggle.gameObject.BindEvent(OnClickFemaleToggle);
+		
 		_heroInfoToggle.gameObject.BindEvent(OnClickHeroInfoToggle);
 		_skillInfoToggle.gameObject.BindEvent(OnClickSkillInfoToggle);
 
 		GetButton((int)Buttons.Button_MasteryUpgrade).gameObject.BindEvent(OnClickMasteryUpgrade);
+
+		GetButton((int)Buttons.Button_EquipAll).gameObject.BindEvent(OnClickEquipAll);
+		GetButton((int)Buttons.Button_UpgradeAll).gameObject.BindEvent(OnClickUpgradeAll);
 	}
 
 	private void OnEnable()
@@ -135,6 +163,11 @@ public class UI_HeroPopup : UI_Popup
 
 	private void RefreshUI()
 	{
+		_maleToggle.isOn = Managers.Backend.GameData.Player.IsMale;
+		_femaleToggle.isOn = !Managers.Backend.GameData.Player.IsMale;
+		GetSkeletonGraphic((int)SkeletonGraphics.Spine_Character).skeletonDataAsset = Managers.Resource.Load<SkeletonDataAsset>(Util.GetHeroSkeletonDataKey());
+		GetSkeletonGraphic((int)SkeletonGraphics.Spine_Character).Initialize(true);
+
 		switch (_heroPopupState)
 		{
 			case HeroPopupState.HeroInfo:
@@ -179,7 +212,7 @@ public class UI_HeroPopup : UI_Popup
 		int skillSlotUIIndex = 0;
 		foreach (SkillInfo skillInfo in Managers.Backend.GameData.Skill.SkillInfoDict.Values)
 		{
-			_skillSlotUIList[skillSlotUIIndex].SetInfo(skillInfo);
+			_skillSlotUIList[skillSlotUIIndex].SetInfo(UI_SkillSlot.SkillSlotToUse.SkillPopup, skillInfo);
 			skillSlotUIIndex++;
 		}
 	}
@@ -189,6 +222,22 @@ public class UI_HeroPopup : UI_Popup
 	private void OnClickCloseArea(PointerEventData data)
 	{
 		ClosePopupUI();
+	}
+
+	private void OnClickMaleToggle(PointerEventData data)
+	{
+		Managers.Backend.GameData.Player.SetIsMale(true);
+		RefreshUI();
+
+		Managers.Scene.LoadScene(EScene.Game);
+	}
+
+	private void OnClickFemaleToggle(PointerEventData data)
+	{
+		Managers.Backend.GameData.Player.SetIsMale(false);
+		RefreshUI();
+
+		Managers.Scene.LoadScene(EScene.Game);
 	}
 
 	private void OnClickMasteryUpgrade(PointerEventData data)
@@ -211,6 +260,19 @@ public class UI_HeroPopup : UI_Popup
 	{
 		_heroPopupState = HeroPopupState.SkillInfo;
 		RefreshUI();
+	}
+
+	private void OnClickEquipAll(PointerEventData data)
+	{
+		if (Managers.Object.Hero.AIObjectState != EAIObjectState.Attack)
+		{ 
+			Managers.Backend.GameData.Skill.EquipRecommendedSkill();
+		}
+	}
+
+	private void OnClickUpgradeAll(PointerEventData data)
+	{
+		Managers.Backend.GameData.Skill.LevelUpSkills();
 	}
 
 	#endregion

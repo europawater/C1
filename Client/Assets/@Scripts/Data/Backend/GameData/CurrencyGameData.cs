@@ -19,6 +19,7 @@ public class CurrencyGameData : BaseGameData
 
 		param.Add("Gold", CurrencyDict[ECurrency.Gold]);
 		param.Add("Diamond", CurrencyDict[ECurrency.Diamond]);
+		param.Add("DungeonTicket", CurrencyDict[ECurrency.DungeonTicket]);
 
 		return param;
 	}
@@ -28,21 +29,25 @@ public class CurrencyGameData : BaseGameData
 		CurrencyDict.Clear();
 		CurrencyDict.Add(ECurrency.Gold, 10000);
 		CurrencyDict.Add(ECurrency.Diamond, 0);
+		CurrencyDict.Add(ECurrency.DungeonTicket, 6);
 	}
 
 	protected override void SetServerDataToLocal(JsonData gameDataJson)
 	{
 		int goldAmount = int.Parse(gameDataJson["Gold"].ToString());
 		int diamondAmount = int.Parse(gameDataJson["Diamond"].ToString());
+		int dungeonTicket = int.Parse(gameDataJson["DungeonTicket"].ToString());
 
 		CurrencyDict.Clear();
 		CurrencyDict.Add(ECurrency.Gold, goldAmount);
 		CurrencyDict.Add(ECurrency.Diamond, diamondAmount);
+		CurrencyDict.Add(ECurrency.DungeonTicket, dungeonTicket);
 	}
 
 	protected override void UpdateData()
 	{
 		base.UpdateData();
+
 		Managers.Event.TriggerEvent(EEventType.OnCurrencyChanged);
 	}
 
@@ -59,7 +64,12 @@ public class CurrencyGameData : BaseGameData
 	{
 		CurrencyDict[currencyType] = CurrencyDict[currencyType] >= amount ? CurrencyDict[currencyType] - amount : 0;
 
-		UpdateData();
+        if (currencyType == ECurrency.Gold)
+        {
+            Managers.Backend.GameData.Mission.AddNormalMissionPoint(EMissionGoal.ConsumGold, amount);
+        }
+
+        UpdateData();
 	}
 
 	#endregion

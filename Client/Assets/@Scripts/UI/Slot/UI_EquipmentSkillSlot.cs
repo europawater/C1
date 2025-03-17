@@ -60,7 +60,7 @@ public class UI_EquipmentSkillSlot : UI_Slot
 
 		RefreshUI();
 	}
-	
+
 	private void RefreshUI()
 	{
 		switch (_equipmentSkillSlotToUse)
@@ -116,6 +116,11 @@ public class UI_EquipmentSkillSlot : UI_Slot
 
 	private void OnClickEquipmentSkillSlot(PointerEventData data)
 	{
+		if (Managers.Object.Hero.AIObjectState == EAIObjectState.Attack)
+		{
+			return;
+		}
+
 		switch (_equipmentSkillSlotToUse)
 		{
 			case EquipmentSkillSlotToUse.GameScene:
@@ -128,6 +133,11 @@ public class UI_EquipmentSkillSlot : UI_Slot
 				}
 				else
 				{
+					if (!Managers.Game.EquippedSkillSlotDict.ContainsKey((ESkillSlot)_slotIndex))
+					{
+						return;
+					}
+
 					Managers.Backend.GameData.Skill.EquipSkill((ESkillSlot)_slotIndex, 0);
 					Managers.Game.SelectedSkillSlotIndex = null;
 				}

@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 1fc691d1605991144bf1afee7647bf39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5646035767032217675
+    second: spi_mon_pirate_shooter_0
+  - first:
+      213: 5322467795664086824
+    second: spi_mon_pirate_shooter_1
+  - first:
+      213: -1591822934556322991
+    second: spi_mon_pirate_shooter_2
+  - first:
+      213: 9137396985672930584
+    second: spi_mon_pirate_shooter_3
+  - first:
+      213: -333825536315148310
+    second: spi_mon_pirate_shooter_4
+  - first:
+      213: 4331096276151533653
+    second: spi_mon_pirate_shooter_5
+  - first:
+      213: 4910993764168673242
+    second: spi_mon_pirate_shooter_6
+  - first:
+      213: -6725407530417659505
+    second: spi_mon_pirate_shooter_7
+  - first:
+      213: -4361574806308790447
+    second: spi_mon_pirate_shooter_8
+  - first:
+      213: 6189211532674477498
+    second: spi_mon_pirate_shooter_9
+  - first:
+      213: -7478724023143371906
+    second: spi_mon_pirate_shooter_10
+  - first:
+      213: 6675554200756432100
+    second: spi_mon_pirate_shooter_11
+  - first:
+      213: -3577159915066495769
+    second: spi_mon_pirate_shooter_12
+  - first:
+      213: 7267303593246923838
+    second: spi_mon_pirate_shooter_13
+  - first:
+      213: 5437774938898797820
+    second: spi_mon_pirate_shooter_14
+  - first:
+      213: -1146258182563083306
+    second: spi_mon_pirate_shooter_15
+  - first:
+      213: -9090224202695094226
+    second: spi_mon_pirate_shooter_16
+  - first:
+      213: -696173110976364233
+    second: spi_mon_pirate_shooter_17
+  - first:
+      213: 1885750548419072544
+    second: spi_mon_pirate_shooter_18
+  - first:
+      213: -1861984572042218569
+    second: spi_mon_pirate_shooter_19
+  - first:
+      213: -1989332932254550485
+    second: spi_mon_pirate_shooter_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 202
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bff4e4426045a1b0800000000000000
+      internalID: -5646035767032217675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 202
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827a301b2443dd940800000000000000
+      internalID: 5322467795664086824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 198
+        width: 109
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15353709975b8e9e0800000000000000
+      internalID: -1591822934556322991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 198
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81592ce752e8ece70800000000000000
+      internalID: 9137396985672930584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 198
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae73bf281730e5bf0800000000000000
+      internalID: -333825536315148310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 238
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5508704bd152b1c30800000000000000
+      internalID: 4331096276151533653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 238
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7ae671fca572440800000000000000
+      internalID: 4910993764168673242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 235
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81e7bbdb7d8aa2a0800000000000000
+      internalID: -6725407530417659505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 235
+        width: 104
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fdba082d29873c0800000000000000
+      internalID: -4361574806308790447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 134
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd20dcd81f74e550800000000000000
+      internalID: 6189211532674477498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2
+        width: 126
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7beb5bff1c363890800000000000000
+      internalID: -7478724023143371906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2
+        width: 37
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec24fe4d2554ac50800000000000000
+      internalID: 6675554200756432100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 141
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ece1b582006b5ec0800000000000000
+      internalID: -3577159915066495769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 126
+        width: 44
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c176e3d16aad460800000000000000
+      internalID: 7267303593246923838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 126
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf495911f7bd67b40800000000000000
+      internalID: 5437774938898797820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_15
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 163
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db417f814ca710f0800000000000000
+      internalID: -1146258182563083306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2053bdef3909d180800000000000000
+      internalID: -9090224202695094226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_17
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2
+        width: 71
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731431a7e32b656f0800000000000000
+      internalID: -696173110976364233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_18
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0225485f1288b2a10800000000000000
+      internalID: 1885750548419072544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_19
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 93
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b37a2e95e6e826e0800000000000000
+      internalID: -1861984572042218569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spi_mon_pirate_shooter_20
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b263bf0fc387464e0800000000000000
+      internalID: -1989332932254550485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spi_mon_pirate_shooter_0: -5646035767032217675
+      spi_mon_pirate_shooter_1: 5322467795664086824
+      spi_mon_pirate_shooter_10: -7478724023143371906
+      spi_mon_pirate_shooter_11: 6675554200756432100
+      spi_mon_pirate_shooter_12: -3577159915066495769
+      spi_mon_pirate_shooter_13: 7267303593246923838
+      spi_mon_pirate_shooter_14: 5437774938898797820
+      spi_mon_pirate_shooter_15: -1146258182563083306
+      spi_mon_pirate_shooter_16: -9090224202695094226
+      spi_mon_pirate_shooter_17: -696173110976364233
+      spi_mon_pirate_shooter_18: 1885750548419072544
+      spi_mon_pirate_shooter_19: -1861984572042218569
+      spi_mon_pirate_shooter_2: -1591822934556322991
+      spi_mon_pirate_shooter_20: -1989332932254550485
+      spi_mon_pirate_shooter_3: 9137396985672930584
+      spi_mon_pirate_shooter_4: -333825536315148310
+      spi_mon_pirate_shooter_5: 4331096276151533653
+      spi_mon_pirate_shooter_6: 4910993764168673242
+      spi_mon_pirate_shooter_7: -6725407530417659505
+      spi_mon_pirate_shooter_8: -4361574806308790447
+      spi_mon_pirate_shooter_9: 6189211532674477498
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

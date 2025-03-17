@@ -61,7 +61,7 @@ Material:
     m_Floats:
     - _Emissive: 1
     - _Mask_intence: 2
-    - _Mask_mul_intence: 3.42
+    - _Mask_mul_intence: 2
     - _Move_x: 0
     - _Move_y: -0.209
     - _Power_exp: 1.16

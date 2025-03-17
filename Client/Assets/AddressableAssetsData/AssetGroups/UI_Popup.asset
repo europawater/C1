@@ -15,6 +15,12 @@ MonoBehaviour:
   m_GroupName: UI_Popup
   m_GUID: d9506d90971d54a4f885af557c9785e9
   m_SerializeEntries:
+  - m_GUID: 3b5678363ffbf194a8cb80a3898620e0
+    m_Address: UI_BuddyPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4274193a3c7584244833c6c3f6116fd3
     m_Address: UI_RankPopup
     m_ReadOnly: 0
@@ -33,14 +39,50 @@ MonoBehaviour:
     m_SerializedLabels:
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e34d8464f3f00f49b357bc9f8e6d570
+    m_Address: UI_CollectionPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a647e19365fc46344af485b62374459f
     m_Address: UI_HeroPopup
     m_ReadOnly: 0
     m_SerializedLabels:
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a95c631d530115a4f9f13cec7fdc4f79
+    m_Address: UI_DungeonPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6a2bb69aa8d42441a6e0880b4c36259
+    m_Address: UI_DrawPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8cd79d9b2e278e499cf99bbf11be40b
+    m_Address: UI_ShopPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6d4fce1981b88a49ab8fbe18a8a2300
+    m_Address: UI_MissionPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ec0ee9979c5b90f4f8582e629355758e
     m_Address: UI_RewardPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdc2991d374631344a2a99bfa51df595
+    m_Address: UI_EnchantPopup
     m_ReadOnly: 0
     m_SerializedLabels:
     - Preload

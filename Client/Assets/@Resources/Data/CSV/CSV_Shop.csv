@@ -1,0 +1,5 @@
+TemplateID,Remark,NameKey,IconKey,ShopType,PurchaseValue,RewardValue
+1,다이아,,,InApp,0,11000
+2,다이아 광고,,,AD,0,1100
+3,동료 뽑기,,,Buddy,1100,10
+4,스킬 뽑기,,,Skill,1100,10

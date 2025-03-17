@@ -41,9 +41,16 @@ public abstract class BaseAIObject : BaseObject
 	protected override void Init()
 	{
 		SkeletonAnimation = GetComponentInChildren<SkeletonAnimation>();
-		
+
 		// Component
-		Status = GetComponent<BaseStatus>();
+		if (GameObjectType == EGameObjectType.Buddy)
+		{
+			Status = Managers.Object.Hero.Status;
+		}
+		else
+		{
+			Status = GetComponent<BaseStatus>();
+		}
 	}
 
 	public virtual void SetInfo(int templateID)
@@ -96,14 +103,14 @@ public abstract class BaseAIObject : BaseObject
 	public void StackAllSkillTurnCount()
 	{
 		foreach (Skill skill in SkillList)
-		{ 
+		{
 			skill.StackedTurnCount++;
 		}
 	}
 
 	public void FullStackAllSkillTurnCount()
-	{ 
-		foreach(Skill skill in SkillList)
+	{
+		foreach (Skill skill in SkillList)
 		{
 			skill.StackedTurnCount = skill.NeedTurnCount;
 		}
@@ -112,7 +119,7 @@ public abstract class BaseAIObject : BaseObject
 	public List<Skill> GetCanUseSkillList()
 	{
 		List<Skill> canUseSkillList = new List<Skill>();
-		foreach(Skill skill in SkillList)
+		foreach (Skill skill in SkillList)
 		{
 			if (skill.IsReadyToUse)
 			{

@@ -1,112 +1,109 @@
-TemplateID,Remark,Namekey,IconKey,SkillCaster,SkillGrade,SkillType,SkillEffectPrefabKey,HitEffectPrefabKey,NeedTurnCount,AttackValue,HitStartTime,HitCount,HitDelay,LifeTime
-100001,영웅 일반 공격,,sp_ui_ic_common_skill,Hero,Common,NormalMelee,VFX_hero_skill_common_attack,VFX_hero_skill_common_attack_hit,0,1,0,1,0,4
-100002,영웅 스킬 단일,,sp_ui_ic_common_skill,Hero,Common,NormalMelee,VFX_hero_skill_critical_attack,VFX_hero_skill_critical_attack_hit,0,1.8,0,1,0,4
-100003,영웅 스킬 다중,,sp_ui_ic_common_skill,Hero,Common,SkillMulti,VFX_hero_rare_skill_dark,VFX_hero_rare_skill_dark_hit,1,0.4,0.2,2,0,4
-100004,총알 발사,,sp_ui_ic_common_skill,Hero,Common,SkillSingle,VFX_hero_common_skill_bullet,VFX_hero_common_skill_bullet_hit,1,1,0.23,1,0,1
-100005,별 폭발,,sp_ui_ic_common_skill,Hero,Common,SkillSingle,VFX_hero_common_skill_star,VFX_hero_common_skill_star_hit,1,1,0.25,1,0,3
-100006,홀리 오브 폭발,,sp_ui_ic_common_skill,Hero,Common,SkillSingle,VFX_hero_common_skill_holy_orb,VFX_hero_common_skill_holy_orb_hit,1,1,0.3,1,0,1
-100007,파이어 볼,,sp_ui_ic_advanced_skill,Hero,Advanced,SkillSingle,VFX_hero_advanced_skill_fire,VFX_hero_advanced_skill_fire_hit,1,1,0.23,1,0,3
-100008,꽃 폭발,,sp_ui_ic_advanced_skill,Hero,Advanced,SkillSingle,VFX_hero_advanced_skill_flower,VFX_hero_advanced_skill_flower_hit,1,1,0.23,1,0,3
-100009,검 투척,,sp_ui_ic_advanced_skill,Hero,Advanced,SkillSingle,VFX_hero_advanced_skill_sword,VFX_hero_advanced_skill_sword_hit,1,1,0.23,1,0,3
-100010,폭탄 투척,,sp_ui_ic_advanced_skill,Hero,Advanced,SkillSingle,VFX_hero_advanced_skill_bomb,VFX_hero_advanced_skill_bomb_hit,1,1,0.23,1,0,3
-100011,라이트닝 폭발,,sp_ui_ic_advanced_skill,Hero,Advanced,SkillSingle,VFX_hero_advanced_skill_lightning,VFX_hero_advanced_skill_lightning_hit,1,1,0,1,0,3
-100012,바주카포,,sp_ui_ic_rare_skill,Hero,Rare,SkillSingle,VFX_hero_rare_skill_bazooka,VFX_hero_rare_skill_bazooka_hit,2,1,0.23,1,0,1
-100013,창 투척,,sp_ui_ic_rare_skill,Hero,Rare,SkillSingle,VFX_hero_rare_skill_spear,VFX_hero_rare_skill_spear_hit,2,1,0,1,0,3
-100014,썬더 라이트닝,,sp_ui_ic_rare_skill,Hero,Rare,SkillSingle,VFX_hero_rare_skill_lightning,VFX_hero_rare_skill_lightning_hit,2,1,0,1,0,1
-100015,아이스 어택,,sp_ui_ic_rare_skill,Hero,Rare,SkillSingle,VFX_hero_rare_skill_ice,VFX_hero_rare_skill_ice_hit,2,1,0,1,0,1
-100016,어둠 폭발,,sp_ui_ic_rare_skill,Hero,Rare,SkillMulti,VFX_hero_rare_skill_dark,VFX_hero_rare_skill_dark_hit,2,1,0,1,0,1
-100017,포이즌 오브,,sp_ui_ic_rare_skill,Hero,Rare,SkillSingle,VFX_hero_rare_skill_poison,VFX_hero_rare_skill_poison_hit,2,1,0,1,0,1
-100018,플레임 익스플로전,,sp_ui_ic_rare_skill,Hero,Rare,SkillMulti,VFX_hero_rare_skill_fire,VFX_hero_rare_skill_fire_hit,2,1,0,2,0.2,1
-100019,헤비 에로우,,sp_ui_ic_rare_skill,Hero,Rare,SkillSingle,VFX_hero_rare_skill_archer,VFX_hero_rare_skill_archer_hit,2,1,0.5,1,0,1
-100020,매시드 파이어,,sp_ui_ic_rare_skill,Hero,Rare,SkillSingle,VFX_hero_rare_skill_meshfire,VFX_hero_rare_skill_meshfire_hit,2,1,0,1,0,1
-100021,윈드 슈리켄,,sp_ui_ic_rare_skill,Hero,Rare,SkillMulti,VFX_hero_rare_skill_windshuriken,VFX_hero_rare_skill_windshuriken_hit,2,1,0,3,0.2,3
-100022,플레임 스트라이크,,sp_ui_ic_epic_skill,Hero,Epic,SkillMulti,VFX_hero_epic_skill_fire,VFX_hero_epic_skill_fire_hit,3,2,0,2,0.2,3
-100023,벽력,,sp_ui_ic_epic_skill,Hero,Epic,SkillMulti,VFX_hero_epic_skill_lightning,VFX_hero_epic_skill_lightning_hit,3,2,0,2,0.2,3
-100024,다크 소서리스,,sp_ui_ic_epic_skill,Hero,Epic,SkillMulti,VFX_hero_epic_skill_dark,VFX_hero_epic_skill_dark_hit,3,2,0,1,0.2,3
-100025,아이스 리전,,sp_ui_ic_epic_skill,Hero,Epic,SkillMulti,VFX_hero_epic_skill_ice,VFX_hero_epic_skill_ice_hit,3,2,0,2,0.2,3
-100026,포이즌 그레네이드,,sp_ui_ic_epic_skill,Hero,Epic,SkillMulti,VFX_hero_epic_skill_poison,VFX_hero_epic_skill_poison_hit,3,2,0.23,1,0,3
-100027,홀리 에로우,,sp_ui_ic_epic_skill,Hero,Epic,SkillMulti,VFX_hero_epic_skill_holyarrow,VFX_hero_epic_skill_holyarrow_hit,3,2,0.23,3,0.2,3
-100028,사운드 쇼크 웨이브,,sp_ui_ic_epic_skill,Hero,Epic,SkillMulti,VFX_hero_skill_epic_sound,VFX_hero_skill_epic_sound_hit,3,2,0.25,1,0.2,1
-100029,버스터 콜,,sp_ui_ic_epic_skill,Hero,Epic,SkillMulti,VFX_hero_epic_skill_missile,VFX_hero_epic_skill_missile_hit,3,2,0.23,1,0,3
-100030,메테오,,sp_ui_ic_legend_skill,Hero,Legend,SkillMulti,VFX_hero_legend_skill_fire,VFX_hero_legend_skill_fire_hit,4,3,0.5,3,0.2,3
-100031,블리자드,,sp_ui_ic_legend_skill,Hero,Legend,SkillMulti,VFX_hero_legend_skill_ice,VFX_hero_legend_skill_ice_hit,4,3,0.5,3,0.2,3
-100032,라이트닝 익스플로전,,sp_ui_ic_legend_skill,Hero,Legend,SkillMulti,VFX_hero_legend_skill_lightning,VFX_hero_legend_skill_lightning_hit,4,3,0.6,3,0.2,3
-100033,블랙홀,,sp_ui_ic_legend_skill,Hero,Legend,SkillMulti,VFX_hero_legencd_skill_dark,VFX_hero_legend_skill_dark_hit,4,3,0,3,0.2,3
-100034,빛과 어둠의 검,,sp_ui_ic_legend_skill,Hero,Legend,SkillMulti,VFX_hero_legend_skill_holy_dark,VFX_hero_legend_skill_holy_dark_hit,4,3,0.2,3,0.2,3
-200001,일반 몬스터 공격,,,Monster,Common,NormalMelee,VFX_hero_skill_common_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200002,초원의 수호자 일반공격,,,Monster,Common,NormalMelee,VFX_boss_veld_guardian_attack,VFX_boss_attack_hit,0,1,0.2,1,0,4
-200003,고대 사제 일반공격,,,Monster,Common,NormalRange,VFX_boss_pirest_skeleton_attack,VFX_boss_attack_hit,0,1,0.2,1,0,4
-200004,대주술사 일반공격,,,Monster,Common,NormalRange,VFX_boss_shaman_attack,VFX_boss_attack_hit,0,1,0.2,1,0,4
-200005,미치광이 산타 일반공격,,,Monster,Common,NormalRange,VFX_boss_crazy_santa_attack,VFX_boss_attack_hit,0,1,0.2,1,0,4
-200006,드래곤 일반공격,,,Monster,Common,NormalRange,VFX_boss_dragon_attack,VFX_boss_attack_hit,0,1,0.2,1,0,4
-200007,관리자 리빙아머 일반공격,,,Monster,Common,NormalMelee,VFX_boss_living_armor_attack,VFX_boss_attack_hit,0,1,0.2,1,0,4
-200008,레드 슬라임,,,Monster,Common,NormalRange,VFX_mosnter_slime_rare_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200009,벌,,,Monster,Common,NormalRange,VFX_monster_bee_common_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200010,거미,,,Monster,Common,NormalRange,VFX_monster_spider_rare_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200011,해골 궁수,,,Monster,Common,NormalRange,VFX_monster_skeleton_rare_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200012,귀신들린 낫,,,Monster,Common,NormalRange,VFX_monster_farm_ghost_rare_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200013,낙타,,,Monster,Common,NormalRange,VFX_monster_camel_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200014,새끼 걷게,,,Monster,Common,NormalRange,VFX_monster_walking_crab_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200015,바나나 원숭이,,,Monster,Common,NormalRange,VFX_monster_snowmonkey_common_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200016,발사 조개,,,Monster,Common,NormalRange,VFX_monster_shell_shooter_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200017,귀신들린 대포,,,Monster,Common,NormalRange,VFX_monster_ghost_canon_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200018,리빙아머 창병,,,Monster,Common,NormalRange,VFX_monster_living_armor_rare_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200019,농작요정,,,Monster,Common,NormalRange,VFX_monster_farm_jinn_common_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200020,저주받은 정령사,,,Monster,Common,NormalRange,VFX_monster_curse_wood_w_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200021,주술사,,,Monster,Common,NormalRange,VFX_monster_shaman_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200022,두건요정,,,Monster,Common,NormalRange,VFX_monster_oasis_jinn_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200023,벌집,,,Monster,Common,NormalRange,VFX_monster_bee_house_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200024,작살 잠수부,,,Monster,Common,NormalRange,VFX_monster_diver_shooter_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200025,포병 인어,,,Monster,Common,NormalRange,VFX_monster_mermaid_shooter_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200026,아이스웜,,,Monster,Common,NormalRange,VFX_monster_ice_worm_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200027,새끼 예티,,,Monster,Common,NormalRange,VFX_monster_yeti_common_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200028,망자 대포 골렘,,,Monster,Common,NormalRange,VFX_monster_golem_shooter_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200029,새끼 드래곤,,,Monster,Common,NormalRange,VFX_monster_dragon_baby_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200030,캐논,,,Monster,Common,NormalRange,VFX_monster_canon_attack,VFX_monster_common_attack_hit,0,1,0.2,1,0,4
-200031,기계관리자2,,,Monster,Common,NormalRange,,,0,1,0.2,1,0,4
-200032,초원의 수호자,,,Monster,Common,SkillSingle,VFX_boss_veld_guardian_skill,VFX_boss_veld_guardian_skill_hit,0,1,0.4,1,0,4
-200033,거대 좀비,,,Monster,Common,NormalRange,VFX_boss_zombie_skill,VFX_boss_zombie_skill_hit,0,1,0.4,1,0,4
-200034,고대 사제,,,Monster,Common,SkillSingle,VFX_boss_pirest_skeleton_skill,VFX_boss_pirest_skeleton_skill_hit,0,1,0.4,1,0,4
-200035,워킹웨일,,,Monster,Common,SkillSingle,VFX_boss_whale_skill,VFX_boss_whale_skill_hit,0,1,0.4,1,0,4
-200036,대주술사,,,Monster,Common,SkillSingle,VFX_boss_shaman_skill,VFX_boss_shaman_skill_hit,0,1,0.4,1,0,4
-200037,정원의 주인,,,Monster,Common,SkillSingle,VFX_boss_jungle_king_skill,VFX_boss_jungle_king_skill_hit,0,1,0.4,1,0,4
-200038,인어왕,,,Monster,Common,SkillSingle,VFX_boss_mermaid_king_skill,VFX_boss_mermaid_king_skill_hit,0,1,0.4,1,0,4
-200039,미치광이 산타,,,Monster,Common,SkillSingle,VFX_boss_crazy_santa_skill,VFX_boss_crazy_santa_skill_hit,0,1,0.4,1,0,4
-200040,드래곤,,,Monster,Common,SkillSingle,VFX_boss_dragon_skill,VFX_boss_dragon_skill_hit,0,1,0.4,1,0,4
-200041,관리자 리빙아머,,,Monster,Common,NormalRange,VFX_boss_living_armor_skill,VFX_boss_living_armor_skill_hit,0,1,0.4,1,0,4
-200042,펀처 큐브,,,Monster,Common,NormalMelee,VFX_cube_dungeon_puncher_skill,VFX_cube_dungeon_common_attack_hit,0,1,0,1,0,4
-200043,워리어 큐브,,,Monster,Common,NormalMelee,VFX_cube_dungeon_warrior_skill,VFX_cube_dungeon_common_attack_hit,0,1,0,1,0,4
-200044,썬더 큐브,,,Monster,Common,NormalRange,VFX_cube_dungeon_thunder_skill,VFX_cube_dungeon_thunder_skill_hit,0,1,0.4,1,0,4
-200045,파이어 큐브,,,Monster,Common,NormalRange,VFX_cube_dungeon_fire_skill,VFX_cube_dungeon_fire_skill_hit,0,1,0.4,1,0,4
-200046,큐브 던전 보스 일반 평타,,,Monster,Common,NormalMelee,VFX_boss_cube_dungeon_attack,VFX_cube_dungeon_common_attack_hit,0,0,0,1,0,4
-200047,큐브 던전 보스,,,Monster,Common,SkillSingle,VFX_cube_dungeon_boss_skill,VFX_cube_dungeon_boss_skill_hit,0,1,0.4,1,0,4
-300001,강타,,,Buddy,Common,SkillSingle,VFX_buddy_duck_skill,VFX_buddy_common_skill_hit,4,1,0.4,1,0,4
-300002,단도날리기 ,,,Buddy,Common,NormalRange,VFX_buddy_tom_skill,VFX_buddy_common_skill_hit,3,1,0.4,1,0,4
-300003,지팡이 올린다,,,Buddy,Common,None,VFX_buddy_mari_skill,VFX_buddy_common_heal,3,1,0.4,1,0,4
-300004,강타,,,Buddy,Common,SkillSingle,VFX_buddy_rooki_skill,VFX_buddy_common_skill_hit,4,1,0.4,1,0,4
-300005,석궁 발사,,,Buddy,Common,NormalRange,VFX_buddy_luke_skill,VFX_buddy_common_skill_hit,4,1,0.4,1,0,4
-300006,책을 들어올린다,,,Buddy,Common,None,VFX_buddy_lala_skill,VFX_buddy_common_heal,3,1,0.4,1,0,4
-300007,에너지샷발사,,,Buddy,Common,NormalRange,VFX_buddy_ellie_skill,VFX_buddy_common_skill_hit,4,1,0.4,1,0,4
-300008,두번찌르기,,,Buddy,Common,SkillSingle,VFX_buddy_sam_skill,VFX_buddy_common_skill_hit,5,1,0.4,1,0,4
-300009,대지강타,,,Buddy,Common,SkillSingle,VFX_buddy_michelle_skill,VFX_buddy_common_skill_hit,3,1,0.4,1,0,4
-300010,하프를켠다,,,Buddy,Common,None,VFX_buddy_yuli_skill,VFX_buddy_common_heal,4,1,0.4,1,0,4
-300011,독찌르기,,,Buddy,Common,SkillSingle,VFX_buddy_storm_skill,VFX_buddy_common_skill_hit,3,1,0.4,1,0,4
-300012,화이어볼 발사,,,Buddy,Common,NormalRange,VFX_buddy_chloe_skill,VFX_buddy_chloe_skill_hit,3,1,0.4,1,0,4
-300013,빙결포션 던지기,,,Buddy,Common,NormalRange,VFX_buddy_laurel_skill,VFX_buddy_laurel_skill_hit,3,1,0.4,1,0,4
-300014,연속찌르기,,,Buddy,Common,SkillSingle,VFX_buddy_andre_skill,VFX_buddy_common_skill_hit,3,1,0.4,1,0,4
-300015,사자후,,,Buddy,Common,SkillSingle,VFX_buddy_leon_skill,VFX_buddy_common_skill_hit,4,1,0.4,1,0,4
-300016,창던지기,,,Buddy,Common,NormalRange,VFX_buddy_lui_skill,VFX_buddy_common_skill_hit,2,2,0.4,1,0,4
-300017,팬던트 휘두르기,,,Buddy,Common,NormalRange,VFX_buddy_vanessa_skill,VFX_buddy_common_skill_hit,2,2,0.4,1,0,4
-300018,얼음 브레스 ,,,Buddy,Common,NormalRange,VFX_buddy_veti_skill,VFX_buddy_veti_skill_hit,3,2,0.4,1,0,4
-300019,불꽃 블레스 ,,,Buddy,Common,NormalRange,VFX_buddy_ballack_skill,VFX_buddy_ballack_skill_hit,3,2,0.4,1,0,4
-300020,화염검 발사 ,,,Buddy,Common,NormalRange,VFX_buddy_owen_skill,VFX_buddy_owen_skill_hit,2,2,0.4,1,0,4
-300021,폭탄 투하 ,,,Buddy,Common,NormalRange,VFX_buddy_coon_skill,VFX_buddy_coon_skill_hit,2,2,0.4,1,0,4
-300022,돌진,,,Buddy,Common,SkillSingle,VFX_buddy_walt_skill,VFX_buddy_common_skill_hit,2,2,0.4,1,0,4
-300023,도끼로 대지강타,,,Buddy,Common,SkillSingle,VFX_buddy_Aren_skill,VFX_buddy_common_skill_hit,3,2,0.4,1,0,4
-300024,나무소환,,,Buddy,Common,SkillSingle,VFX_buddy_hadi_skill,VFX_buddy_common_skill_hit,3,2,0.4,1,0,4
-300025,난도질,,,Buddy,Common,SkillSingle,VFX_buddy_lucy_skill,VFX_buddy_common_skill_hit,3,2,0.4,1,0,4
-300026,빙결의 검을 휘두른다.,,,Buddy,Common,SkillSingle,VFX_buddy_kyle_skill,VFX_buddy_kyle_skill_hit,1,3,0.4,1,0,4
-300027,채찍질,,,Buddy,Common,SkillSingle,VFX_buddy_bella_skill,VFX_buddy_common_skill_hit,2,3,0.4,1,0,4
-300028,낫을 휘두른다,,,Buddy,Common,SkillSingle,VFX_buddy_zion_skill,VFX_buddy_common_skill_hit,1,3,0.4,1,0,4
-300029,망치를 들어올려 번개소환,,,Buddy,Common,SkillSingle,VFX_buddy_alex_skill,VFX_buddy_alex_skill_hit,2,3,0.4,1,0,4
-300030,정령소환,,,Buddy,Common,None,VFX_buddy_sylvia_skill,VFX_buddy_common_heal,2,3,0.4,1,0,4
+TemplateID,Remark,Namekey,IconKey,SkillCaster,SkillGrade,SkillType,SkillEffectPrefabKey,HitEffectPrefabKey,NeedTurnCount,AttackValue,HitStartTime,HitCount,HitDelay,LifeTime,IncreaseValue,LevelUpPiece,StartSoundKey,HitSoundKey
+100001,영웅 일반 공격,,sp_ui_ic_common_skill,Hero,Common,NormalMelee,VFX_hero_skill_common_attack,VFX_hero_skill_common_attack_hit,0,1,0,1,0,4,1,30,SFX_melee,SFX_hit
+100002,영웅 스킬 강타,,sp_ui_ic_common_skill,Hero,Common,NormalMelee,VFX_hero_skill_critical_attack,VFX_hero_skill_critical_attack_hit,0,1.8,0,1,0,4,1,30,SFX_critical,SFX_hit
+100003,총알 발사,,sp_ui_ic_skill_common_bullet,Hero,Common,SkillSingle,VFX_hero_common_skill_bullet,VFX_hero_common_skill_bullet_hit,1,0.25,0.23,1,0,1,1,30,SFX_skill_casting,SFX_skill_bang
+100004,별 폭발,,sp_ui_ic_skill_common_star,Hero,Common,SkillSingle,VFX_hero_common_skill_star,VFX_hero_common_skill_star_hit,1,0.25,0.23,1,0,3,1,30,SFX_skill_casting,SFX_skill_twinkle
+100005,홀리 오브 폭발,,sp_ui_ic_skill_common_holly,Hero,Common,SkillSingle,VFX_hero_common_skill_holy_orb,VFX_hero_common_skill_holy_orb_hit,1,0.25,0.3,1,0,1,1,30,SFX_skill_casting,SFX_skill_twinkle
+100006,파이어 볼,,sp_ui_ic_skill_rare_fireboll,Hero,Advanced,SkillSingle,VFX_hero_advanced_skill_fire,VFX_hero_advanced_skill_fire_hit,1,0.5,0.23,1,0,3,1,30,SFX_skill_casting,SFX_skill_fireball
+100007,꽃 폭발,,sp_ui_ic_skill_rare_flower,Hero,Advanced,SkillSingle,VFX_hero_advanced_skill_flower,VFX_hero_advanced_skill_flower_hit,1,0.5,0.23,1,0,3,1,30,SFX_skill_casting,SFX_skill_bang
+100008,검 투척,,sp_ui_ic_skill_rare_sword,Hero,Advanced,SkillSingle,VFX_hero_advanced_skill_sword,VFX_hero_advanced_skill_sword_hit,1,0.5,0.23,1,0,3,1,30,SFX_skill_casting,SFX_skill_stickinsword
+100009,폭탄 투척,,sp_ui_ic_skill_rare_bomb,Hero,Advanced,SkillSingle,VFX_hero_advanced_skill_bomb,VFX_hero_advanced_skill_bomb_hit,1,0.5,0.23,1,0,3,1,30,SFX_skill_casting,SFX_skill_bomb
+100010,라이트닝 폭발,,sp_ui_ic_skill_rare_thunder,Hero,Advanced,SkillSingle,VFX_hero_advanced_skill_lightning,VFX_hero_advanced_skill_lightning_hit,1,0.5,0,1,0,3,1,30,SFX_skill_casting,SFX_skill_lightbomb
+100011,바주카포,,sp_ui_ic_skill_unique_bazuka,Hero,Rare,SkillSingle,VFX_hero_rare_skill_bazooka,VFX_hero_rare_skill_bazooka_hit,2,0.75,0.23,1,0,1,1,30,SFX_skill_casting,SFX_skill_bang
+100012,창 투척,,sp_ui_ic_skill_unique_spear,Hero,Rare,SkillSingle,VFX_hero_rare_skill_spear,VFX_hero_rare_skill_spear_hit,2,0.75,0.23,1,0,3,1,30,SFX_skill_casting,SFX_skill_stickinsword
+100013,썬더 라이트닝,,sp_ui_ic_skill_unique_lighting,Hero,Rare,SkillSingle,VFX_hero_rare_skill_lightning,VFX_hero_rare_skill_lightning_hit,2,0.75,0,1,0,1,1,30,SFX_skill_casting,SFX_skill_lighting
+100014,아이스 어택,,sp_ui_ic_skill_unique_iceattaeck,Hero,Rare,SkillSingle,VFX_hero_rare_skill_ice,VFX_hero_rare_skill_ice_hit,2,0.75,0,1,0,1,1,30,SFX_skill_casting,SFX_skill_ice
+100015,어둠 폭발,,sp_ui_ic_skill_unique_darkexpoison,Hero,Rare,SkillMulti,VFX_hero_rare_skill_dark,VFX_hero_rare_skill_dark_hit,2,0.75,0,2,0.2,1,1,30,SFX_skill_casting,SFX_skill_darkbomb
+100016,포이즌 오브,,sp_ui_ic_skill_unique_posion,Hero,Rare,SkillMulti,VFX_hero_rare_skill_poison,VFX_hero_rare_skill_poison_hit,2,0.75,0,1,0,1,1,30,SFX_skill_casting,SFX_skill_poison
+100017,플레임 익스플로전,,sp_ui_ic_skill_unique_flameexposion,Hero,Rare,SkillMulti,VFX_hero_rare_skill_fire,VFX_hero_rare_skill_fire_hit,2,0.75,0,2,0.2,1,1,30,SFX_skill_casting,SFX_skill_flamebomb
+100018,헤비 에로우,,sp_ui_ic_skill_unique_arrow,Hero,Rare,SkillSingle,VFX_hero_rare_skill_archer,VFX_hero_rare_skill_archer_hit,2,0.75,0.5,1,0,1,1,30,SFX_skill_casting,SFX_skill_arrow
+100019,매시드 파이어,,sp_ui_ic_skill_unique_mashfire,Hero,Rare,SkillSingle,VFX_hero_rare_skill_meshfire,VFX_hero_rare_skill_meshfire_hit,2,0.75,0,2,0.2,1,1,30,SFX_skill_casting,SFX_skill_bang
+100020,윈드 슈리켄,,sp_ui_ic_skill_unique_wind,Hero,Rare,SkillMulti,VFX_hero_rare_skill_windshuriken,VFX_hero_rare_skill_windshuriken_hit,2,0.75,0,3,0.2,3,1,30,SFX_skill_casting,SFX_skill_windblade
+100021,플레임 스트라이크,,sp_ui_ic_skill_epic_flamestrike,Hero,Epic,SkillMulti,VFX_hero_epic_skill_fire,VFX_hero_epic_skill_fire_hit,3,1,0,2,0.2,3,1,30,SFX_skill_casting,SFX_skill_flamestrike
+100022,벽력,,sp_ui_ic_skill_epic_thunderlighting,Hero,Epic,SkillMulti,VFX_hero_epic_skill_lightning,VFX_hero_epic_skill_lightning_hit,3,1,0,1,0,3,1,30,SFX_skill_casting,SFX_skill_thunderbolt
+100023,다크 소서리스,,sp_ui_ic_skill_epic_dark,Hero,Epic,SkillMulti,VFX_hero_epic_skill_dark,VFX_hero_epic_skill_dark_hit,3,1,0,2,0.2,3,1,30,SFX_skill_casting,SFX_skill_darkattack
+100024,아이스 리전,,sp_ui_ic_skill_epic_iceregion,Hero,Epic,SkillMulti,VFX_hero_epic_skill_ice,VFX_hero_epic_skill_ice_hit,3,1,0,2,0.2,3,1,30,SFX_skill_casting,SFX_skill_ice
+100025,포이즌 그레네이드,,sp_ui_ic_skill_epic_posiongranade,Hero,Epic,SkillMulti,VFX_hero_epic_skill_poison,VFX_hero_epic_skill_poison_hit,3,1,0.23,1,0,3,1,30,SFX_skill_casting,SFX_skill_poison
+100026,홀리 에로우,,sp_ui_ic_skill_epic_hollyarrow,Hero,Epic,SkillMulti,VFX_hero_epic_skill_holyarrow,VFX_hero_epic_skill_holyarrow_hit,3,1,0.23,2,0.2,3,1,30,SFX_skill_casting,SFX_skill_holyarrow
+100027,사운드 쇼크 웨이브,,sp_ui_ic_skill_epic_sound,Hero,Epic,SkillMulti,VFX_hero_skill_epic_sound,VFX_hero_skill_epic_sound_hit,3,1,0.25,1,0.2,1,1,30,SFX_skill_casting,SFX_skill_sound
+100028,버스터 콜,,sp_ui_ic_skill_epic_burstcall,Hero,Epic,SkillMulti,VFX_hero_epic_skill_missile,VFX_hero_epic_skill_missile_hit,3,1,0.23,1,0,3,1,30,SFX_skill_casting,SFX_skill_bomb
+100029,메테오,,sp_ui_ic_skill_legend_meteo,Hero,Legend,SkillMulti,VFX_hero_legend_skill_fire,VFX_hero_legend_skill_fire_hit,4,1.25,0.5,3,0.2,3,1,30,SFX_skill_casting,SFX_skill_flamestrike
+100030,블리자드,,sp_ui_ic_skill_legend_brizzard,Hero,Legend,SkillMulti,VFX_hero_legend_skill_ice,VFX_hero_legend_skill_ice_hit,4,1.25,0.5,3,0.2,3,1,30,SFX_skill_casting,SFX_skill_blizzard
+100031,라이트닝 익스플로전,,sp_ui_ic_skill_legend_lightingexporsion,Hero,Legend,SkillMulti,VFX_hero_legend_skill_lightning,VFX_hero_legend_skill_lightning_hit,4,1.25,0,3,0.2,3,1,30,SFX_skill_casting,SFX_skill_lightexplo
+100032,블랙홀,,sp_ui_ic_skill_legend_blackholl,Hero,Legend,SkillMulti,VFX_hero_legencd_skill_dark,VFX_hero_legend_skill_dark_hit,4,1.25,0,3,0.2,3,1,30,SFX_skill_casting,SFX_skill_blackhole
+100033,빛과 어둠의 검,,sp_ui_ic_skill_legend_hollysword,Hero,Legend,SkillMulti,VFX_hero_legend_skill_holy_dark,VFX_hero_legend_skill_holy_dark_hit,4,1.25,0.23,3,0.2,3,1,30,SFX_skill_casting,SFX_skill_holysword
+200001,일반 몬스터 공격,,,Monster,Common,NormalMelee,VFX_monster_common_attack,VFX_monster_common_attack_hit,0,1,0,1,0,4,0,0,,
+200002,고대 사제 일반공격,,,Monster,Common,NormalRange,VFX_boss_pirest_skeleton_attack,VFX_boss_attack_hit,0,1,0.3,1,0,4,0,0,,
+200003,대주술사 일반공격,,,Monster,Common,NormalRange,VFX_boss_shaman_attack,VFX_boss_attack_hit,0,1,0.3,1,0,4,0,0,,
+200004,미치광이 산타 일반공격,,,Monster,Common,NormalRange,VFX_boss_crazy_santa_attack,VFX_boss_attack_hit,0,1,0.3,1,0,4,0,0,,
+200005,드래곤 일반공격,,,Monster,Common,NormalRange,VFX_boss_dragon_attack,VFX_boss_attack_hit,0,1,0.3,1,0,4,0,0,,
+200006,레드 슬라임,,,Monster,Common,NormalRange,VFX_mosnter_slime_rare_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200007,벌,,,Monster,Common,NormalRange,VFX_monster_bee_common_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200008,거미,,,Monster,Common,NormalRange,VFX_monster_spider_rare_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200009,해골 궁수,,,Monster,Common,NormalRange,VFX_monster_skeleton_rare_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200010,귀신들린 낫,,,Monster,Common,NormalRange,VFX_monster_farm_ghost_rare_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200011,낙타,,,Monster,Common,NormalRange,VFX_monster_camel_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200012,새끼 걷게,,,Monster,Common,NormalRange,VFX_monster_walking_crab_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200013,바나나 원숭이,,,Monster,Common,NormalRange,VFX_monster_snowmonkey_common_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200014,발사 조개,,,Monster,Common,NormalRange,VFX_monster_shell_shooter_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200015,귀신들린 대포,,,Monster,Common,NormalRange,VFX_monster_ghost_canon_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200016,리빙아머 창병,,,Monster,Common,NormalRange,VFX_monster_living_armor_rare_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200017,농작요정,,,Monster,Common,NormalRange,VFX_monster_farm_jinn_common_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200018,저주받은 정령사,,,Monster,Common,NormalRange,VFX_monster_curse_wood_w_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200019,주술사,,,Monster,Common,NormalRange,VFX_monster_shaman_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200020,두건요정,,,Monster,Common,NormalRange,VFX_monster_oasis_jinn_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200021,벌집,,,Monster,Common,NormalRange,VFX_monster_bee_house_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200022,작살 잠수부,,,Monster,Common,NormalRange,VFX_monster_diver_shooter_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200023,포병 인어,,,Monster,Common,NormalRange,VFX_monster_mermaid_shooter_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200024,아이스웜,,,Monster,Common,NormalRange,VFX_monster_ice_worm_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200025,새끼 예티,,,Monster,Common,NormalRange,VFX_monster_yeti_common_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200026,망자 대포 골렘,,,Monster,Common,NormalRange,VFX_monster_golem_shooter_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200027,새끼 드래곤,,,Monster,Common,NormalRange,VFX_monster_dragon_baby_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200028,궁수 해적,,,Monster,Common,NormalRange,VFX_monster_pirate_shooter_attack,VFX_monster_common_attack_hit,0,1,0.3,1,0,4,0,0,,
+200029,초원의 수호자,,,Monster,Common,SkillSingle,VFX_boss_veld_guardian_skill,VFX_boss_veld_guardian_skill_hit,0,1,0.4,1,0,4,0,0,,
+200030,거대 좀비,,,Monster,Common,NormalRange,VFX_boss_zombie_skill,VFX_boss_zombie_skill_hit,0,1,0.4,1,0,4,0,0,,
+200031,고대 사제,,,Monster,Common,SkillSingle,VFX_boss_pirest_skeleton_skill,VFX_boss_pirest_skeleton_skill_hit,0,1,0.4,1,0,4,0,0,,
+200032,워킹웨일,,,Monster,Common,SkillSingle,VFX_boss_whale_skill,VFX_boss_whale_skill_hit,0,1,0.4,1,0,4,0,0,,
+200033,대주술사,,,Monster,Common,SkillSingle,VFX_boss_shaman_skill,VFX_boss_shaman_skill_hit,0,1,0.4,1,0,4,0,0,,
+200034,정원의 주인,,,Monster,Common,SkillSingle,VFX_boss_jungle_king_skill,VFX_boss_jungle_king_skill_hit,0,1,0.4,1,0,4,0,0,,
+200035,인어왕,,,Monster,Common,SkillSingle,VFX_boss_mermaid_king_skill,VFX_boss_mermaid_king_skill_hit,0,1,0.4,1,0,4,0,0,,
+200036,미치광이 산타,,,Monster,Common,SkillSingle,VFX_boss_crazy_santa_skill,VFX_boss_crazy_santa_skill_hit,0,1,0.4,1,0,4,0,0,,
+200037,드래곤,,,Monster,Common,SkillSingle,VFX_boss_dragon_skill,VFX_boss_dragon_skill_hit,0,1,0.4,1,0,4,0,0,,
+200038,관리자 리빙아머,,,Monster,Common,NormalRange,VFX_boss_living_armor_skill,VFX_boss_living_armor_skill_hit,0,1,0.4,1,0,4,0,0,,
+200039,펀처 큐브,,,Monster,Common,NormalMelee,VFX_cube_dungeon_puncher_skill,VFX_cube_dungeon_common_attack_hit,0,1,0,1,0,4,0,0,,
+200040,워리어 큐브,,,Monster,Common,NormalMelee,VFX_cube_dungeon_warrior_skill,VFX_cube_dungeon_common_attack_hit,0,1,0,1,0,4,0,0,,
+200041,썬더 큐브,,,Monster,Common,NormalRange,VFX_cube_dungeon_thunder_skill,VFX_cube_dungeon_thunder_skill_hit,0,1,0.3,1,0,4,0,0,,
+200042,파이어 큐브,,,Monster,Common,NormalRange,VFX_cube_dungeon_fire_skill,VFX_cube_dungeon_fire_skill_hit,0,1,0.3,1,0,4,0,0,,
+200043,큐브 던전 보스 일반 평타,,,Monster,Common,NormalMelee,VFX_boss_cube_dungeon_attack,VFX_cube_dungeon_common_attack_hit,0,0,0,1,0,4,0,0,,
+200044,큐브 던전 보스,,,Monster,Common,SkillSingle,VFX_boss_cube_dungeon_skill,VFX_boss_cube_dungeon_skill_hit,0,1,0,3,0.2,4,0,0,,
+300001,강타,,,Buddy,Common,SkillSingle,VFX_buddy_duck_skill,VFX_buddy_common_skill_hit,4,1,0,1,0,4,0,0,SFX_melee,SFX_hit
+300002,단도날리기 ,,,Buddy,Common,NormalRange,VFX_buddy_tom_skill,VFX_buddy_common_skill_hit,3,1,0.3,1,0,4,0,0,SFX_melee,SFX_hit
+300003,지팡이 올린다,,,Buddy,Common,None,VFX_buddy_mari_skill,VFX_buddy_common_heal,3,1,0,1,0,4,0,0,,SFX_heal
+300004,강타,,,Buddy,Common,SkillSingle,VFX_buddy_rooki_skill,VFX_buddy_common_skill_hit,4,1,0,1,0,4,0,0,SFX_melee,SFX_hit
+300005,석궁 발사,,,Buddy,Common,NormalRange,VFX_buddy_luke_skill,VFX_buddy_common_skill_hit,4,1,0.3,1,0,4,0,0,SFX_arrow,SFX_hit
+300006,책을 들어올린다,,,Buddy,Common,None,VFX_buddy_lala_skill,VFX_buddy_common_heal,3,1,0,1,0,4,0,0,,SFX_heal
+300007,에너지샷발사,,,Buddy,Common,NormalRange,VFX_buddy_ellie_skill,VFX_buddy_common_skill_hit,4,1,0.3,1,0,4,0,0,SFX_arrow,SFX_hit
+300008,두번찌르기,,,Buddy,Common,SkillSingle,VFX_buddy_sam_skill,VFX_buddy_common_skill_hit,5,1,0,1,0,4,0,0,SFX_melee_twice,SFX_hit
+300009,대지강타,,,Buddy,Common,SkillSingle,VFX_buddy_michelle_skill,VFX_buddy_common_skill_hit,3,1,0,1,0,4,0,0,SFX_skill_sword_swoosh,SFX_hit
+300010,하프를켠다,,,Buddy,Common,None,VFX_buddy_yuli_skill,VFX_buddy_common_heal,4,1,0,1,0,4,0,0,,SFX_heal
+300011,독찌르기,,,Buddy,Common,SkillSingle,VFX_buddy_storm_skill,VFX_buddy_common_skill_hit,3,1,0,1,0,4,0,0,SFX_melee,SFX_hit
+300012,화이어볼 발사,,,Buddy,Common,NormalRange,VFX_buddy_chloe_skill,VFX_buddy_chloe_skill_hit,3,1,0.3,1,0,4,0,0,SFX_fireball,SFX_skill_fireball
+300013,빙결포션 던지기,,,Buddy,Common,NormalRange,VFX_buddy_laurel_skill,VFX_buddy_laurel_skill_hit,3,1,0.3,1,0,4,0,0,SFX_melee,SFX_skill_ice
+300014,연속찌르기,,,Buddy,Common,SkillSingle,VFX_buddy_andre_skill,VFX_buddy_common_skill_hit,3,1,0,1,0,4,0,0,SFX_melee,SFX_hit
+300015,사자후,,,Buddy,Common,SkillSingle,VFX_buddy_leon_skill,VFX_buddy_common_skill_hit,4,1,0,1,0,4,0,0,,
+300016,창던지기,,,Buddy,Common,NormalRange,VFX_buddy_lui_skill,VFX_buddy_common_skill_hit,2,2,0.3,1,0,4,0,0,SFX_melee,SFX_hit
+300017,팬던트 휘두르기,,,Buddy,Common,NormalRange,VFX_buddy_vanessa_skill,VFX_buddy_common_skill_hit,2,2,0.3,1,0,4,0,0,SFX_melee,SFX_hit
+300018,얼음 브레스 ,,,Buddy,Common,NormalRange,VFX_buddy_veti_skill,VFX_buddy_veti_skill_hit,3,2,0.3,1,0,4,0,0,SFX_melee,SFX_skill_ice
+300019,불꽃 블레스 ,,,Buddy,Common,NormalRange,VFX_buddy_ballack_skill,VFX_buddy_ballack_skill_hit,3,2,0.3,1,0,4,0,0,SFX_fireball,SFX_skill_fireball
+300020,화염검 발사 ,,,Buddy,Common,NormalRange,VFX_buddy_owen_skill,VFX_buddy_owen_skill_hit,2,2,0.3,1,0,4,0,0,SFX_melee,SFX_skill_fireball
+300021,폭탄 투하 ,,,Buddy,Common,NormalRange,VFX_buddy_coon_skill,VFX_buddy_coon_skill_hit,2,2,0.3,1,0,4,0,0,SFX_melee,SFX_skill_bomb
+300022,돌진,,,Buddy,Common,SkillSingle,VFX_buddy_walt_skill,VFX_buddy_common_skill_hit,2,2,0,1,0,4,0,0,SFX_skill_sword_swoosh,SFX_hit
+300023,도끼로 대지강타,,,Buddy,Common,SkillSingle,VFX_buddy_Aren_skill,VFX_buddy_common_skill_hit,3,2,0,1,0,4,0,0,SFX_skill_sword_swoosh,SFX_hit
+300024,나무소환,,,Buddy,Common,SkillSingle,VFX_buddy_hadi_skill,VFX_buddy_common_skill_hit,3,2,0,1,0,4,0,0,SFX_skill_sword_swoosh,SFX_hit
+300025,난도질,,,Buddy,Common,SkillSingle,VFX_buddy_lucy_skill,VFX_buddy_common_skill_hit,3,2,0,3,0.2,4,0,0,SFX_skill_slicedice,SFX_hit
+300026,빙결의 검을 휘두른다,,,Buddy,Common,SkillSingle,VFX_buddy_kyle_skill,VFX_buddy_kyle_skill_hit,1,3,0,1,0,4,0,0,SFX_skill_sword_swoosh,SFX_hit
+300027,채찍질,,,Buddy,Common,SkillSingle,VFX_buddy_bella_skill,VFX_buddy_common_skill_hit,2,3,0,1,0,4,0,0,SFX_melee,SFX_hit
+300028,낫을 휘두른다,,,Buddy,Common,SkillSingle,VFX_buddy_zion_skill,VFX_buddy_common_skill_hit,1,3,0,1,0,4,0,0,SFX_skill_sword_swoosh,SFX_hit
+300029,망치를 들어올려 번개소환,,,Buddy,Common,SkillSingle,VFX_buddy_alex_skill,VFX_buddy_alex_skill_hit,2,3,0,1,0,4,0,0,SFX_melee,SFX_skill_lighting
+300030,정령소환,,,Buddy,Common,None,VFX_buddy_sylvia_skill,VFX_buddy_common_heal,2,3,0,1,0,4,0,0,,SFX_heal
+,,,,,,,,,,,,,,,,,,

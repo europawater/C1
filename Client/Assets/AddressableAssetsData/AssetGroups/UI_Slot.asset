@@ -27,8 +27,44 @@ MonoBehaviour:
     m_SerializedLabels:
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 481d2948fab2bc34895a9c11db5ceb6a
+    m_Address: UI_BuddySlot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ae1bfd0208bf3043afb8449aa9c6fe1
+    m_Address: UI_CollectionItemSlot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cf778e097cccfe459bf88185572c4a4
+    m_Address: UI_CollectionBuddySlot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75474cfd8fa56bf419e23a91edbc7446
+    m_Address: UI_DungeonSlot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5b69ee6e3ce81c429ebda01bc8af092
+    m_Address: UI_NormalMissionSlot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b891379be38ede6418576160aa1b5131
     m_Address: UI_RewardSlot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e44f5bc7df46b46488d1dc625d453b5d
+    m_Address: UI_CollectionSkillSlot
     m_ReadOnly: 0
     m_SerializedLabels:
     - Preload

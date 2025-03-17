@@ -20,7 +20,11 @@ public class SkillData
 	public int HitCount { get; private set; }
 	public float HitDelay { get; private set; }
 	public float LifeTime { get; private set; }
-
+	public float IncreaseValue { get; private set; }
+	public int LevelUpPiece { get; private set; }
+	public string StartSoundKey { get; private set; }
+	public string HitSoundKey { get; private set; }
+	
 	public SkillData(JsonData json)
 	{
 		TemplateID = int.Parse(json["TemplateID"].ToString());
@@ -38,5 +42,9 @@ public class SkillData
 		HitCount = int.Parse(json["HitCount"].ToString());
 		HitDelay = float.Parse(json["HitDelay"].ToString());
 		LifeTime = float.Parse(json["LifeTime"].ToString());
+		IncreaseValue = float.Parse(json["IncreaseValue"].ToString());
+		LevelUpPiece = int.Parse(json["LevelUpPiece"].ToString());
+		StartSoundKey = json["StartSoundKey"].ToString();
+		HitSoundKey = json["HitSoundKey"].ToString();
 	}
 }

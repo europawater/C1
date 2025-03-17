@@ -14,6 +14,7 @@ public class Managers : MonoBehaviour
     private PostManager _post = new PostManager();
     private RankManager _rank = new RankManager();
 	private TurnManager _turn = new TurnManager();
+    private AdsManager _ads = new AdsManager();
 
 	public static EventManager Event { get { return Instance?._event; } }
 	public static GameManager Game { get { return Instance?._game; } }
@@ -21,6 +22,7 @@ public class Managers : MonoBehaviour
 	public static PostManager Post { get { return Instance?._post; } }
     public static RankManager Rank { get { return Instance?._rank; } }
 	public static TurnManager Turn { get { return Instance?._turn; } }
+    public static AdsManager Ads { get { return Instance?._ads; } }
 
 	#endregion
 
@@ -62,5 +64,6 @@ public class Managers : MonoBehaviour
 
     public static void Clear()
     {
+        s_instance._object.Clear();
     }
 }

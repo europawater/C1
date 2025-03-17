@@ -9244,6 +9244,7 @@ GameObject:
   - component: {fileID: 23963552364854194}
   - component: {fileID: 6400268599622742206}
   - component: {fileID: 3634415475572046473}
+  - component: {fileID: 1100338861079082985}
   m_Layer: 5
   m_Name: UI_DiceLevelPopup
   m_TagString: Untagged
@@ -9335,6 +9336,23 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!111 &1100338861079082985
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8081488916926758172}
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Animation: {fileID: 7400000, guid: 4e5bdb9f30334a14f8c61cd5ef15c30e, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: 4e5bdb9f30334a14f8c61cd5ef15c30e, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_UpdateMode: 0
+  m_CullingType: 0
 --- !u!1 &8251349840810554280
 GameObject:
   m_ObjectHideFlags: 0

@@ -45,12 +45,12 @@ public abstract class BaseMonsterObject : BaseAIObject
 
 		Status.SetInfo(this, Attack, Defense, MaxHP, CriticalValue, CriticalRate, SkillDamageValue, SkillCriticalValue, DogeRate, ComboAttackRate, CounterAttackRate);
 
-		SkillInfo defaultSkillInfo = new SkillInfo(monsterData.DefaultSkill, EOwningState.Owned, 1, true);
+		SkillInfo defaultSkillInfo = new SkillInfo(monsterData.DefaultSkill, EOwningState.Owned, 1, true, 0);
 		DefaultSkill = new Skill(this, defaultSkillInfo);
 		List<SkillInfo> skillInfoList = new List<SkillInfo>();
 		foreach (int skillID in monsterData.SkillList)
 		{
-			SkillInfo skillInfo = new SkillInfo(skillID, EOwningState.Owned, 1, true);
+			SkillInfo skillInfo = new SkillInfo(skillID, EOwningState.Owned, 1, true, 0);
 			skillInfoList.Add(skillInfo);
 		}
 		foreach(SkillInfo skillInfo in skillInfoList)
@@ -66,17 +66,32 @@ public abstract class BaseMonsterObject : BaseAIObject
 
 	public override void OnDead()
 	{
-		GameScene gameScene = Managers.Scene.CurrentScene as GameScene;
-		int goldReward = Util.GetRandomInt(gameScene.StageData.MinGoldReward, gameScene.StageData.MaxGoldReward);
-		Managers.Backend.GameData.Currency.AddAmount(ECurrency.Gold, goldReward);
+		int goldReward = 0;
+        DungeonScene dungeonScene = Managers.Scene.CurrentScene as DungeonScene;
+        GameScene gameScene = Managers.Scene.CurrentScene as GameScene;
+		if (dungeonScene != null)
+        {
+			goldReward = Util.GetRandomInt(dungeonScene.DungeonData.MinGoldReward, dungeonScene.DungeonData.MaxGoldReward);
+			Managers.Backend.GameData.Currency.AddAmount(ECurrency.Gold, goldReward);
+		}
+		else
+		{
+            goldReward = Util.GetRandomInt(gameScene.StageData.MinGoldReward, gameScene.StageData.MaxGoldReward);
+            Managers.Backend.GameData.Currency.AddAmount(ECurrency.Gold, goldReward);
+        }
 
+		UI_GameScene gameSceneUI = Managers.UI.GetSceneUI<UI_GameScene>();
+		gameSceneUI.PlayGoldAnimation();
 		UI_GoldRewardText goldRewardText = Managers.UI.MakeSubItem<UI_GoldRewardText>(transform, "UI_GoldRewardText");
 		goldRewardText.SetInfo(goldReward);
 
 		// Bakcend Kill Count 증가
 		Managers.Backend.GameData.Player.AddMonsterKillCount(1);
 
-		base.OnDead();
+        // Backend Mission Point 증가
+        Managers.Backend.GameData.Mission.AddNormalMissionPoint(EMissionGoal.MonsterKill, 1);
+
+        base.OnDead();
 	}
 
 	#endregion

@@ -499,7 +499,7 @@ ParticleSystem:
     startRotationY:
       serializedVersion: 2
       minMaxState: 0
-      scalar: -3.1415925
+      scalar: 0
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -607,7 +607,7 @@ ParticleSystem:
     maxNumParticles: 1
     customEmitterVelocity: {x: 0, y: 0, z: 0}
     size3D: 0
-    rotation3D: 0
+    rotation3D: 1
     gravityModifier:
       serializedVersion: 2
       minMaxState: 0
@@ -670,7 +670,7 @@ ParticleSystem:
     boxThickness: {x: 0, y: 0, z: 0}
     radiusThickness: 0
     donutRadius: 0.2
-    m_Position: {x: 1.5, y: 0, z: 0}
+    m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
     m_Scale: {x: 1, y: 1, z: 1}
     placementMode: 0
@@ -1306,7 +1306,7 @@ ParticleSystem:
     curve:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 17.453293
+      scalar: -17.453293
       minScalar: 0.7853982
       maxCurve:
         serializedVersion: 2
@@ -3556,7 +3556,7 @@ ParticleSystem:
     curve:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 17.453293
+      scalar: -17.453293
       minScalar: 0.7853982
       maxCurve:
         serializedVersion: 2
@@ -5391,7 +5391,7 @@ ParticleSystem:
     startRotationY:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0
+      scalar: -3.1415925
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -5444,7 +5444,7 @@ ParticleSystem:
     startRotation:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0
+      scalar: -3.1415925
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -5562,7 +5562,7 @@ ParticleSystem:
     boxThickness: {x: 0, y: 0, z: 0}
     radiusThickness: 0
     donutRadius: 0.2
-    m_Position: {x: 1.5, y: 0, z: 0}
+    m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
     m_Scale: {x: 1, y: 1, z: 1}
     placementMode: 0

@@ -133,7 +133,9 @@ public class MasteryGameData : BaseGameData
 			return;
 		}
 
-		MasteryLevelDict[masteryType]++;
+		Managers.Backend.GameData.Currency.RemoveAmount(ECurrency.Gold, GetNeedToGold(masteryType));
+
+        MasteryLevelDict[masteryType]++;
 		CurrentMasteryCountByGrade++;
 
 		int increaseValue = 0;
@@ -153,7 +155,12 @@ public class MasteryGameData : BaseGameData
 		MasteryValueDict[masteryType] += increaseValue;
 
 		UpdateData();
-	}
+
+        if (Managers.Object.Hero != null)
+        {
+            Managers.Object.Hero.GetComponent<HeroStatus>().UpdateMasteryStat();
+        }
+    }
 
 	public bool GetCanMasterytUpgrade()
 	{

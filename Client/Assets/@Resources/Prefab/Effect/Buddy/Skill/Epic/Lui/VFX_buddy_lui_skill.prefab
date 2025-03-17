@@ -17,7 +17,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &3561625230049023806
 Transform:
   m_ObjectHideFlags: 0
@@ -41,14 +41,14 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5958000891428493590}
   serializedVersion: 8
-  lengthInSec: 1
+  lengthInSec: 3
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
   emitterVelocityMode: 1
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -287,8 +287,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 2.5
-      minScalar: 1
+      scalar: 1.2
+      minScalar: 0.8
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -670,7 +670,7 @@ ParticleSystem:
     boxThickness: {x: 0, y: 0, z: 0}
     radiusThickness: 1
     donutRadius: 0.2
-    m_Position: {x: 0, y: 0, z: 0}
+    m_Position: {x: 0, y: 0, z: 1.88}
     m_Rotation: {x: 0, y: -90, z: 0}
     m_Scale: {x: 1, y: 1, z: 1}
     placementMode: 0
@@ -4809,7 +4809,7 @@ ParticleSystemRenderer:
   m_CameraVelocityScale: 0
   m_VelocityScale: 0
   m_LengthScale: 2
-  m_SortingFudge: -20
+  m_SortingFudge: -100
   m_NormalDirection: 1
   m_ShadowBias: 0
   m_RenderAlignment: 1
@@ -4876,7 +4876,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8434089449484271175}
   serializedVersion: 8
-  lengthInSec: 1
+  lengthInSec: 3
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 3
@@ -4951,7 +4951,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1
+      scalar: 3
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -6193,7 +6193,7 @@ ParticleSystem:
         m_RotationOrder: 4
     separateAxes: 0
   ColorModule:
-    enabled: 1
+    enabled: 0
     gradient:
       serializedVersion: 2
       minMaxState: 1
@@ -6388,7 +6388,7 @@ ParticleSystem:
     x:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 30
+      scalar: 15
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -9702,7 +9702,7 @@ ParticleSystemRenderer:
   m_CameraVelocityScale: 0
   m_VelocityScale: 0
   m_LengthScale: 2
-  m_SortingFudge: -100
+  m_SortingFudge: -90
   m_NormalDirection: 1
   m_ShadowBias: 0
   m_RenderAlignment: 2
@@ -9767,7 +9767,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8924267356711343060}
   serializedVersion: 8
-  lengthInSec: 1
+  lengthInSec: 3
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -9842,7 +9842,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1
+      scalar: 3
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -10013,7 +10013,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 7
+      scalar: 5
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -10066,7 +10066,7 @@ ParticleSystem:
     startSizeY:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1.5
+      scalar: 0.96
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -11084,7 +11084,7 @@ ParticleSystem:
         m_RotationOrder: 4
     separateAxes: 0
   ColorModule:
-    enabled: 1
+    enabled: 0
     gradient:
       serializedVersion: 2
       minMaxState: 1
@@ -11279,7 +11279,7 @@ ParticleSystem:
     x:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 30
+      scalar: 15
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -14597,7 +14597,7 @@ ParticleSystemRenderer:
   m_NormalDirection: 1
   m_ShadowBias: 0
   m_RenderAlignment: 2
-  m_Pivot: {x: -0.22, y: 0, z: 0}
+  m_Pivot: {x: -0.48, y: 0, z: 0}
   m_Flip: {x: 0, y: 0, z: 0}
   m_EnableGPUInstancing: 1
   m_ApplyActiveColorSpace: 1

@@ -5,7 +5,6 @@ public class HeroData
 	public int TemplateID { get; private set; }
 	public string Remark { get; private set; }
 	public string NameKey { get; private set; }
-	public string SkeletondataKey { get; private set; }
 	public int DefaultSkill { get; private set; }
 	public int Attack { get; private set; }
 	public int Defense { get; private set; }
@@ -24,7 +23,6 @@ public class HeroData
 		TemplateID = int.Parse(json["TemplateID"].ToString());
 		Remark = json["Remark"].ToString();
 		NameKey = json["NameKey"].ToString();
-		SkeletondataKey = json["SkeletondataKey"].ToString();
 		DefaultSkill = int.Parse(json["DefaultSkill"].ToString());
 		Attack = int.Parse(json["Attack"].ToString());
 		Defense = int.Parse(json["Defense"].ToString());

@@ -117,6 +117,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 455e62c3c71b807489d8965ee6ae0cbd
+    m_Address: VFX_monster_pirate_shooter_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 464e80cf329576e489de28b592a9b90b
     m_Address: VFX_monster_canon_attack
     m_ReadOnly: 0
@@ -137,6 +143,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4d94de388abd85f488fbfdc6a8c43398
     m_Address: VFX_boss_jungle_king_skill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51701cc8bc43e644e88bc16d280a1555
+    m_Address: VFX_monster_common_attack
     m_ReadOnly: 0
     m_SerializedLabels:
     - Preload
